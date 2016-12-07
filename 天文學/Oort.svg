@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1086px"
+	 height="605px" viewBox="0 0 1086 605" enable-background="new 0 0 1086 605" xml:space="preserve">
+<g id="Layer_1">
+	<rect width="1086" height="605"/>
+</g>
+<g id="Layer_2">
+	
+		<radialGradient id="SVGID_1_" cx="27" cy="471.5" r="884.0002" gradientTransform="matrix(1 0 0 0.9327 0 -137.2645)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#33331E"/>
+		<stop  offset="0.4491" style="stop-color:#33331E"/>
+		<stop  offset="0.4729" style="stop-color:#4A3E31"/>
+		<stop  offset="0.5011" style="stop-color:#5A452B"/>
+		<stop  offset="0.5373" style="stop-color:#000000"/>
+		<stop  offset="0.6459" style="stop-color:#000000"/>
+		<stop  offset="0.8009" style="stop-color:#545554"/>
+		<stop  offset="0.9891" style="stop-color:#000000"/>
+	</radialGradient>
+	<rect fill="url(#SVGID_1_)" width="1086" height="605"/>
+	<rect x="-335" y="8" fill="#33341E" width="278" height="160"/>
+	<rect x="-263" y="217" fill="#4A3E30" width="22" height="160"/>
+	<rect x="-200" y="222.5" fill="#5A452A" width="29" height="160"/>
+	<rect x="-300" y="433" fill="#545554" width="129" height="160"/>
+</g>
+<g id="Layer_3">
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="26" y1="302.5" x2="1086" y2="302.5"/>
+	<circle fill="#F3EB2E" cx="26.75" cy="302.5" r="12.75"/>
+	<circle fill="#CACACA" cx="82.75" cy="302.5" r="4.25"/>
+	<circle fill="#D9D290" cx="120.667" cy="302.5" r="7"/>
+	<circle fill="#006C92" cx="163.167" cy="302.5" r="7.5"/>
+	<circle fill="#F89C48" cx="186.667" cy="302.5" r="5.333"/>
+	<circle fill="#8B6824" cx="262.167" cy="302.5" r="11.5"/>
+	<g>
+		
+			<ellipse transform="matrix(0.6672 0.7449 -0.7449 0.6672 327.1194 -127.1169)" fill="#767572" cx="305.808" cy="302.5" rx="15.334" ry="3.447"/>
+		<circle fill="#CFA276" cx="305.807" cy="302.5" r="7.333"/>
+	</g>
+	<circle fill="#A4DBE1" cx="344.835" cy="302.499" r="6.165"/>
+	<circle fill="#4067A1" cx="372.836" cy="302.5" r="6.5"/>
+	<g>
+		<path fill="#030202" d="M473.211,303.003c0,2.255-1.828,4.083-4.083,4.083h-1.834c-2.255,0-4.083-1.828-4.083-4.083l0,0
+			c0-2.255,1.828-4.083,4.083-4.083h1.834C471.383,298.92,473.211,300.748,473.211,303.003L473.211,303.003z"/>
+		<radialGradient id="SVGID_2_" cx="462.5449" cy="303.002" r="5.2706" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0109" style="stop-color:#BCBEC0"/>
+			<stop  offset="0.2968" style="stop-color:#EAEAEB"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<ellipse fill="url(#SVGID_2_)" cx="462.545" cy="303.002" rx="3.333" ry="6.667"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="467.294" y1="298.92" x2="469.545" y2="291.668"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="467.294" y1="298.92" x2="479.545" y2="287.334"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="459.211" y1="298.92" x2="438.211" y2="287.334"/>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="467.294" y1="307.086" x2="467.294" y2="309.669"/>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="467.294" y1="309.132" x2="471.211" y2="305.539"/>
+		<path d="M470.211,309.668c0,0.553-0.448,1-1,1h-1.918c-0.552,0-1-0.447-1-1l0,0c0-0.552,0.448-0.999,1-0.999h1.918
+			C469.764,308.669,470.211,309.116,470.211,309.668L470.211,309.668z"/>
+	</g>
+</g>
+<g id="Layer_5">
+	<text transform="matrix(1 0 0 1 157 334)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21">1</text>
+	<text transform="matrix(1 0 0 1 698.3965 334)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21">10,000</text>
+	<text transform="matrix(1 0 0 1 292.1904 334)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21">10</text>
+	<text transform="matrix(1 0 0 1 839.0234 334)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21">100,000</text>
+	<text transform="matrix(1 0 0 1 431.1538 334)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21">100</text>
+	<text transform="matrix(1 0 0 1 981.4248 334)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21">1,000,000</text>
+	<text transform="matrix(1 0 0 1 566.8896 333.916)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21">1</tspan><tspan x="10.772" y="0" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="21">,</tspan><tspan x="15.771" y="0" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21">000</tspan></text>
+	<g>
+		
+			<line opacity="0.6" fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="961.64" y1="288.397" x2="971.86" y2="316.603"/>
+		
+			<line opacity="0.6" fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="952.647" y1="307.61" x2="980.853" y2="297.39"/>
+		
+			<radialGradient id="SVGID_3_" cx="966.3311" cy="304.8828" r="14.75" gradientTransform="matrix(0.9402 -0.3407 0.3407 0.9402 -45.6436 345.0449)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1481" style="stop-color:#E9E8E7;stop-opacity:0.9737"/>
+			<stop  offset="0.7089" style="stop-color:#5B5A5A;stop-opacity:0.5"/>
+			<stop  offset="1" style="stop-color:#545554;stop-opacity:0"/>
+		</radialGradient>
+		<circle fill="url(#SVGID_3_)" cx="966.75" cy="302.5" r="14.75"/>
+	</g>
+	<g>
+		
+			<line opacity="0.6" fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="1021.64" y1="288.397" x2="1031.86" y2="316.603"/>
+		
+			<line opacity="0.6" fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" x1="1012.647" y1="307.61" x2="1040.853" y2="297.39"/>
+		
+			<radialGradient id="SVGID_4_" cx="1022.7422" cy="325.3232" r="14.75" gradientTransform="matrix(0.9402 -0.3407 0.3407 0.9402 -45.6436 345.0449)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1481" style="stop-color:#E9E8E7;stop-opacity:0.9737"/>
+			<stop  offset="0.7089" style="stop-color:#5B5A5A;stop-opacity:0.5"/>
+			<stop  offset="1" style="stop-color:#545554;stop-opacity:0"/>
+		</radialGradient>
+		<circle fill="url(#SVGID_4_)" cx="1026.75" cy="302.5" r="14.75"/>
+	</g>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 34.2256 278.2749)" fill="#FFFFFF" font-family="Arial" font-size="21">太阳</text>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 91.2256 278.2749)" fill="#FFFFFF" font-family="Arial" font-size="21">水星</text>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 128.2256 278.2749)" fill="#FFFFFF" font-family="Arial" font-size="21">金星</text>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 170 278.2749)" fill="#FFFFFF" font-family="Arial" font-size="21">地球</text>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 195.7256 278.2749)" fill="#FFFFFF" font-family="Arial" font-size="21">火星</text>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 269.7256 278.2749)" fill="#FFFFFF" font-family="Arial" font-size="21">木星</text>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 313.2256 278.2749)" fill="#FFFFFF" font-family="Arial" font-size="21">土星</text>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 351.9995 278.2749)" fill="#FFFFFF" font-family="Arial" font-size="21">天王星</text>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 381.3364 278.2749)" fill="#FFFFFF" font-family="Arial" font-size="21">海王星</text>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 440.3652 221.7749)" fill="#FFFFFF" font-family="Arial" font-size="21">终端震波</text>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 474.2114 221.7749)" fill="#FFFFFF" font-family="Arial" font-size="21">日球层顶</text>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 974.8604 278.2749)" fill="#FFFFFF" font-family="Arial" font-size="21">南门二</text>
+	
+		<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 1034.8604 278.2749)" fill="#FFFFFF" font-family="Arial" font-size="21">AC +79 3888</text>
+	<text transform="matrix(1 0 0 1 690.5 159)" fill="#FFFFFF" font-family="Arial" font-size="21">奥尔特云</text>
+	<polygon fill="#FFFFFF" points="429.154,232.674 438.365,232.674 438.365,281.334 	"/>
+	<polygon fill="#FFFFFF" points="469.923,232.674 460.711,232.674 460.711,281.334 	"/>
+	<text transform="matrix(1 0 0 1 170 539)" fill="#FFFFFF" font-family="Arial" font-size="21">太阳圈</text>
+	<text transform="matrix(1 0 0 1 498 539)" fill="#FFFFFF" font-family="Arial" font-size="21">星际空间</text>
+	<g>
+		
+			<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 474.2114 503.7754)" fill="#FFFFFF" font-family="Arial" font-size="21">旅行者1号</text>
+	</g>
+	<polygon fill="#FFFFFF" points="469.923,393.334 460.711,393.334 460.711,344.674 	"/>
+</g>
+</svg>

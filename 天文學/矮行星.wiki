@@ -1,0 +1,621 @@
+{{TA
+|G1=物理學
+|G2=天文學
+}}
+{{distinguish|小行星}}
+{{Current related||新視野號|date=2015年7月}}
+
+{| class="infobox" style="width: 300px;"
+|-
+| style="white-space:nowrap;" |
+{| style="background-color: #000;"
+|-
+| [[File:PIA19562-Ceres-DwarfPlanet-Dawn-RC3-image19-20150506.jpg|140px|穀神星，小行星帶中唯一一個矮行星。圖片由曙光號拍攝|link=穀神星]] [[File:Pluto by LORRI and Ralph, 13 July 2015.jpg|140px|新視野號於2015年7月13日所拍攝之冥王星|link=冥王星|top]]
+|-
+| style="text-align: center;" | [[File:Makemake hubble.png|x120px|哈勃太空望遠鏡於2006年拍攝之鳥神星|link=鳥神星]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[File:Eris and dysnomia2.jpg|x120px|鬩神星及其衛星。圖片由哈勃太空望遠鏡拍攝|link=鬩神星]]
+|-
+| style="text-align: center;" | <!--[[:File:2003 EL61 Haumea, with moons.jpg|x140px|妊神星和它的兩顆衛星。圖片由凱克天文台拍攝|link=妊神星]]-->
+|}
+|-
+|最早確認的五顆矮行星，從左至右分別為：
+* [[穀神星]]，由[[曙光號]]拍攝。它是[[小行星帶]]中唯一一個矮行星
+* [[冥王星]]，由[[新視野號]]於2015年7月13日拍攝
+* [[鳥神星]]，由[[哈勃太空望遠鏡]]拍攝
+* [[鬩神星]]和[[鬩衛一]]，由哈勃太空望遠鏡拍攝
+* [[妊神星]]與[[妊衛一]]和[[妊衛二]]，由[[凱克天文台]]拍攝
+（詳見[[矮行星候選者列表]]）
+|}
+
+'''矮行星'''，又稱'''侏儒行星'''，是具有行星級質量，但又不屬於[[行星]]或[[自然衛星]]的一類[[太陽系]]天體。矮行星直接圍繞太陽公轉，其自身重力足以使它達致[[流體靜力學平衡]]，但又未能[[清除鄰近的小天體|清除軌道鄰近小天體]]。<ref name="finalresolution" /><ref>{{Cite web|url = https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf|title = IAU pdf|date = |accessdate = |website = |publisher = |last = |first = }}</ref>
+
+越來越多[[海王星外天體]]陸續被發現，不少的大小與[[冥王星]]相當。在質量比冥王星更高的[[鬩神星]]被發現之後，[[國際天文聯會]]（IAU）於2006年決定把圍繞太陽公轉的天體[[IAU的行星定義|分為三類]]，「矮行星」一詞也就此誕生。<ref name="finalresolution"/><ref name="Brown Schaller 2007">{{cite doi | 10.1126/science.1139415 }}</ref>IAU把矮行星剔除大行星之列，各界對此褒貶不一。發現鬩神星等矮行星的天文學家[[米高·E·布朗]]稱之為「正確的決定」，<ref>{{cite news|author=Koski, Olivia|date=2010-12-27|title=Q&A: Astronomer Mike Brown on How He Killed Pluto|url=http://www.wired.com/magazine/2010/12/pl_print_mikebrown/|publisher=Wired|accessdate=2012-02-12}}</ref><ref>{{cite news|url=http://astro.berkeley.edu/~basri/defineplanet/Chron06.htm|title=Pluto demoted – from 9th planet to just a dwarf|author=Perlman, David|date=2006-08-25|work=San Francisco Chronicle|accessdate=2012-02-12}}</ref><ref>{{cite news|url=http://www.abc.net.au/am/content/2006/s1724061.htm|title=Pluto stripped of planet status|work="AM", ABC Local Radio|date=2006-08-25|author=Kennedy, Stephanie|accessdate=2012-02-12}}</ref>但在1990年創造「矮行星」一詞的[[阿蘭·斯特恩]]卻持相反意見。<ref name="Stern">{{cite web|url=http://news.bbc.co.uk/2/hi/science/nature/5283956.stm|title=Pluto vote 'hijacked' in revolt|publisher=BBC News|first=Paul|last=Rincon|date=2006-08-25|accessdate=2008-01-26}}</ref><ref name="Stern2009">{{cite web|date=2009-11-30|title=Alan Stern: 'A Chihuahua is still a dog, and Pluto is still a planet'|publisher=EarthSky (Earthsky Interviews)|author=Jorge Salazar|url=http://www.earthsky.org/interviewpost/space/alan-stern-%E2%80%98a-chihuahua-is-still-a-dog-and-pluto-is-still-a-planet|accessdate=2009-12-08}}</ref><ref>S. Alan Stern, "On the number of planets in the outer solar system: Evidence of a substantial population of 1000-km bodies", ''Icarus'' 90:2, April 1991</ref>
+
+目前經IAU確認的矮行星共有五個：[[穀神星]]、[[冥王星]]、[[妊神星]]、[[鳥神星]]和[[鬩神星]]。<ref name="WGPSN"/>布朗曾批評這一官方列表，認為人們可能以為太陽系中只有五個符合IAU矮行星定義的已知天體，但這是大錯特錯的。<ref name=free/>
+
+太陽系中可能還有[[矮行星候選者列表|近百個已知天體]]可被歸為矮行星。<ref name="BrownList"/>根據估計，如果完全探索[[凱伯帶]]區域，有可能發現高達200個矮行星；如果加上分散在凱伯帶以外的所有天體，這一數字甚至可超過1萬。<ref name="Stern2012"/>個別天文學家已確認一些額外的矮行星，<ref name="BrownList"/>其中布朗就在2011年8月發表過一份包含390個天體的列表，包括「幾乎肯定」到「有可能」的矮行星。<ref name=free>{{cite web|title=Free the Dwarf Planets!|url=http://www.mikebrownsplanets.com/2011/08/free-dwarf-planets.html|publisher=Michael Brown|date=2011-08-24|accessdate=2011-08-24}}</ref>布朗目前把11個天體列為「幾乎肯定」的矮行星，除IAU承認的五個以外，還有{{mpl-|225088|2007 OR|10}}、[[創神星]]、[[塞德娜]]、[[亡神星]]、{{mpl|2002 MS|4}}和[[潫神星]]；另有12個「可能性極高」的矮行星。<ref name="BrownList">Mike Brown, [http://www.gps.caltech.edu/~mbrown/dps.html 'How many dwarf planets are there in the outer solar system?'] Accessed 2013-11-15</ref>斯特恩則聲稱符合矮行星定義的天體超過十幾個。<ref name=Stern2012>Alan Stern, [http://pluto.jhuapl.edu/overview/piPerspective.php?page=piPerspective_08_24_2012 The PI's Perspective], August 24, 2012</ref>
+
+不過，有足夠詳細的觀測確認符合IAU矮行星定義的天體，就只有穀神星和冥王星兩個。IAU之所以把鬩神星也歸為矮行星，是因為它的質量比冥王星高。他們之後又決定，所有[[絕對星等#行星的絕對星等H|絕對星等]]超過+1（對應於直徑大於838公里、幾何反照率小於1）、尚未得名的海王星外天體，<ref name="bruton">{{cite web|title=Conversion of Absolute Magnitude to Diameter for Minor Planets|publisher=Department of Physics & Astronomy (Stephen F. Austin State University)|author=Dan Bruton|url=http://www.physics.sfasu.edu/astro/asteroids/sizemagnitude.html|accessdate=2008-06-13}}</ref>都可以假設符合矮行星的定義並予以命名。<ref name=IAU2008/>當時只有鳥神星和妊神星符合這一標準，它們也因此得名，成為矮行星。
+
+有關如何處理其他[[行星系]]中具有矮行星特性的天體，科學界尚無定論。<ref name="Draft Resolution 5"/>
+
+== 歷史 ==
+{{main|IAU的行星定義}}
+自從1801年天文學家發現[[穀神星]]開始，位於[[火星]]和[[木星]]之間不少其他天體也陸續被發現，並被稱為行星。1851年，太陽系的行星數目達到了23，天文學家們也不再把較小的天體稱為行星，而是歸為[[小行星]]。<ref>{{cite journal | url = http://philsci-archive.pitt.edu/3418/ | author = Mauro Murzi | title = Changes in a scientific concept: what is a planet? | date = 2007 | accessdate = 2013-04-06}} [Preprint]</ref>
+
+在1930年[[冥王星]]被發現之後，大部份天文學家認為太陽系有九大行星，以及幾千個小天體，如小行星和[[彗星]]。其後的幾乎50年內，天文學家都以為冥王星比[[水星]]還要大，<ref>{{cite web|title=Pluto Revealed|url=http://www.discoveryofpluto.com/pluto06.html|first=Brad|last=Mager|accessdate=2008-01-26|publisher=discoveryofpluto.com}}</ref><ref>{{cite web|title=Is Pluto a planet?|url=http://curious.astro.cornell.edu/question.php?number=624|date=2007-09-14|author=Cuk, Matija; Masters, Karen |publisher=Cornell University, Astronomy Department|accessdate=2008-01-26}}</ref>直到1978年發現[[冥衛一]]之後，才有可能準確測定冥王星的質量。<ref>{{cite journal|url=http://www.iop.org/EJ/abstract/1538-3881/132/1/290|title=Orbits and Photometry of Pluto's Satellites: Charon, S/2005 P1, and S/2005 P2|journal=The Astronomical Journal|date=2006|issue=132|pages=290–98|doi= 10.1086/504422 |first=Marc W.|last=Buie|author2=Grundy, William M.|author3=Young, Eliot F.|author4=Young, Leslie A.|author5=Stern, S. Alan |accessdate=2008-02-10|volume=132|bibcode=2006AJ....132..290B|arxiv = astro-ph/0512491 }}</ref>冥王星的質量只有水星的二十分之一左右，它也因此成為當時最小的行星。雖然它是[[小行星帶]]最大天體穀神星的十倍之大，但它只有[[月球]]的五分之一大。<ref>{{cite book|first=David |last=Jewitt|author2=Delsanti, Audrey|title=The Solar System Beyond The Planets in Solar System Update : Topical and Timely Reviews in Solar System Sciences (PDF)|publisher=Springer|doi=10.1007/3-540-37683-6|isbn=978-3-540-37683-5 |date=2006|url= http://www.ifa.hawaii.edu/faculty/jewitt/papers/2006/DJ06.pdf|accessdate=2008-02-10|format=PDF}}</ref>此外，冥王星擁有一些奇特的屬性，例如高[[軌道離心率]]、高[[軌道傾角]]等。人們開始意識到它是與其他八個行星截然不同的一種天體。<ref>{{cite book|title=Is Pluto a Planet? A Historical Journey through the Solar System|first=David A.|last=Weintraub|date=2006|pages=1–272|isbn=978-0-691-12348-6|publisher=Princeton Univ. Press|location=Princeton, N.J.}}</ref>
+
+1990年代，天文學家開始在冥王星軌道附近（[[凱伯帶]]）以及更遠的區域發現其他的天體，其中不少的關鍵軌道屬性與冥王星有相似之處。<ref>{{cite web|title=Much Ado about Pluto|publisher=PlutoPetition.com|first=Tony|last=Phillips|author2=Phillips, Amelia|date=2006-09-04|url=http://www.plutopetition.com/unplanet.php |accessdate=2008-01-26}}</ref>人們開始把冥王星視為一個新類別天體──冥族小天體──中最大的一員，一些天文學家也因此不再把冥王星稱為行星。當時使用的名詞包括「次行星」（subplanet）、「類行星」（planetoid）等，今天這些天體則稱矮行星。<ref>{{cite web|title=Planetoids Beyond Pluto|url=http://www.astrobio.net/news/modules.php?op=modload&name=News&file=article&sid=1366|publisher=Astrobiology Magazine|date=2004-12-30|accessdate=2008-01-26}}</ref><ref>{{cite news|url=http://hubblesite.org/newscenter/archive/releases/2004/14/|date=2004-04-14|title=Hubble Observes Planetoid Sedna, Mystery Deepens|publisher=NASA's Hubble Space Telescope home site|accessdate=2008-01-26}}</ref>在2005年大小與冥王星相當的已知海王星外天體共有三個：[[創神星]]、[[塞德娜]]和[[鬩神星]]。<ref>{{cite web|url=http://www.gps.caltech.edu/~mbrown/planetlila/|title=The Discovery of Eris, the Largest Known Dwarf Planet|first=Michael E.|last=Brown|publisher=California Institute of Technology, Department of Geological Sciences|accessdate=2008-01-26}}</ref>要麼這些天體都要歸為行星，要麼冥王星就要重新歸類。<ref>{{cite web|title=What is the definition of a planet?|date=2004|url=http://web.gps.caltech.edu/~mbrown/sedna/index.html#planets|first=Michael E.|last=Brown|publisher=California Institute of Technology, Department of Geological Sciences|accessdate=2008-01-26}}</ref>天文學家相信將會發現更多和冥王星大小相近的天體，如果冥王星要繼續成為行星的話，行星的總數目就會快速增長。<ref>{{cite news|title=War of the Worlds|publisher=New York Times|author=Brown, Mike|date=2006-08-16|url=http://www.nytimes.com/2006/08/16/opinion/16brown.html|accessdate=2008-02-20}}</ref>
+
+2005年[[鬩神星]]（當時編號為{{mp|2003 UB|313}}）發現之時，<ref>[http://web.gps.caltech.edu/~mbrown/planetlila/ California Institute of Technology, Retrieved 4-12-2015]</ref>天文學家估計它比冥王星稍大，一些報導非正式地稱其為[[假設的海王星外行星|第十行星]]。<ref>{{cite news|title=Astronomers Measure Mass of Largest Dwarf Planet|publisher=NASA's Hubble Space Telescope home site|url= http://hubblesite.org/newscenter/archive/releases/2007/24/full/|date=2007-06-14|accessdate=2008-01-26}}</ref>因此，在2006年8月舉行的[[國際天文聯會]]第二十六屆全體會議上，科學家對行星的定義進行了激烈的辯論。<ref>{{cite web|title=What makes a planet?|url=http://www.gps.caltech.edu/~mbrown/whatsaplanet/|first=Michael E.|last=Brown|publisher=California Institute of Technology, Department of Geological Sciences|accessdate=2008-01-26}}</ref>IAU的最初提議草案將[[冥衛一]]、鬩神星和穀神星也歸入行星之列，但受到了許多天文學家的反對。烏拉圭天文學家[[胡利奧·昂海爾·費爾南德斯]]（Julio Ángel Fernández）提議建立一種居中的類別：足夠形成橢球體形、但又未能清除其軌道內[[微行星]]的較大天體。冥王星、冥衛一、穀神星及鬩神星都因此未能躋身行星的行列，因為它們都沒有清除軌道內的小天體。<ref name="19aug">{{cite web| date=2006-08-19 | first=Robert Roy|last=Britt| title= Details Emerge on Plan to Demote Pluto |publisher = Space.com| accessdate= 2006-08-18 | url= http://www.space.com/scienceastronomy/060819_new_proposal.html}}</ref>
+
+IAU在最後的5A決議案中採用了這種劃分為三的分類法。詳文如下：
+
+{{quote|IAU……決定把太陽系中的行星及其他天體，除衛星外，分為以下三類：<br>
+（1）行星<sup>1</sup>是符合以下條件的天體：（a）它圍繞太陽公轉；（b）有足夠質量以自身的重力克服固體應力，達到[[流體靜力學平衡]]（近乎球體）的形狀；（c）它能[[清除鄰近的小天體|清除軌道附近的小天體]]。<br>
+（2）「矮行星」是符合以下條件的天體：（a）它圍繞太陽公轉；（b）有足夠質量以自身的重力克服固體應力，達到[[流體靜力學平衡]]（近乎球體）的形狀<sup>2</sup>；（c）它未能清除軌道附近的小天體；（d）不是[[自然衛星|衛星]]。<br>
+（3）圍繞太陽公轉的所有其他天體<sup>3</sup>，除衛星以外，都統稱為「[[太陽系小天體]]」。<br>
+:<small>腳註：
+:<sup>1</sup>八大行星共包括：[[水星]]、[[金星]]、[[地球]]、[[火星]]、[[木星]]、[[土星]]、[[天王星]]及[[海王星]]。
+:<sup>2</sup>IAU會設立程序，決定臨界天體屬於矮行星還是某個其他類別。
+:<sup>3</sup>目前包括太陽系大部份小行星、大部份海王星外天體（TNOs）、彗星以及其他小天體。</small>}}
+
+太陽系以外的行星應如何分類這一議題，<ref name="Draft Resolution 5" />至今尚未得到解決。IAU建議擱置討論，等到這類天體被觀測到後，才進一步修訂定義。<ref name=19aug/>
+
+在矮行星的探測方面，截至2015年7月，共有兩艘飛船近距離觀察研究矮行星。2015年3月6日，[[曙光號]]探測器進入了環繞[[穀神星]]的軌道，成為第一艘環繞矮行星的航天器。<ref name="NASA-20150306">{{cite web |last1=Landau |first1=Elizabeth |last2=Brown |first2=Dwayne |title=NASA Spacecraft Becomes First to Orbit a Dwarf Planet |url=http://www.jpl.nasa.gov/news/news.php?feature=4503 |date=6 March 2015 |work=[[NASA]] |accessdate=6 March 2015 }}</ref>2015年7月14日，[[新視野號]]探測器略過了[[冥王星]]系統。
+
+== 名詞 ==
+
+「矮行星」（{{lang-en|dwarf planet}}）一詞本身也具有爭議性。它似乎意味著這些天體都屬於行星，就像[[矮星]]都屬於恒星一樣。（當然，[[小行星]]也不屬於行星。）斯特恩創造這一名詞的時候，就是這樣意想太陽系天體的分類方法的。更早使用的「類行星」（planetoid，即「類似於但不同於行星」的意思）在英文當中就沒有這種含義，天文學家也用類行星來描述符合IAU定義的這些天體。<ref>{{cite book|editor=Karttunen|display-editors=etal|title=[[Fundamental Astronomy (book)|Fundamental Astronomy]]|publisher=Springer|date=2007|edition=5}}</ref>布朗認為類行星是一個沿用已久的很好的名詞，而且把不屬於行星的天體稱作矮行星是愚蠢的做法。選用矮行星一詞，是為IAU第三組全體會議中以第二決議案使冥王星重新歸為行星而鋪墊的。<ref name=killed>{{cite book|first=Mike|last=Brown|title=[[How I Killed Pluto and Why It Had It Coming]]|page=223|publisher=Spiegel & Grau|date=2010}}</ref>5A決議案的確把這些中等大小天體稱為類行星，<ref>{{cite web|title=Comments & discussions on Resolution 5: The definition of a planet – Planets Galore|first=Mark E.|last=Bailey|url=http://astro.cas.cz/nuncius/appendix.html|work=Dissertatio cum Nuncio Sidereo, Series Tertia – official newspaper of the IAU General Assembly 2006|publisher=Astronomical Institute Prague|accessdate=2008-02-09}}</ref><ref>{{cite web|title=Dos uruguayos, Julio Fernández y Gonzalo Tancredi en la historia de la astronomía:reducen la cantidad de planetas de 9 a 8 ...&Anotaciones de Tancredi|language=Spanish|publisher=Science and Research Institute, Mercedes, Uruguay|url=http://www.ici.edu.uy/perfilASTRO.htm|accessdate=2008-02-11| archiveurl = http://web.archive.org/web/20071220063342/http://www.ici.edu.uy/perfilASTRO.htm| archivedate = December 20, 2007}}</ref>但在全體會議中，矮行星這一稱呼經投票全體通過。<ref name="finalresolution">{{cite news|url=http://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf|format=PDF|title=Definition of a Planet in the Solar System: Resolutions 5 and 6|date=2006-08-24|work=IAU 2006 General Assembly|publisher=International Astronomical Union|accessdate=2008-01-26}}</ref>接著的5B決議案將矮行星歸為附屬於行星的次分類，與其餘八大行星（又稱「古典行星」，classical planet）區分開來。這符合斯特恩的初衷。被否決的提案中所列入的共12顆行星，就會如此分為8顆古典行星和4顆矮行星。然而，在5A決議案投票通過的同一會議上，5B決議案被否決了。<ref name=killed/>基於「矮行星非行星」在英文語境中的字面矛盾，IAU又提出了「納行星」（nanoplanet）和「次行星」（subplanet）等名詞，但小天體名詞委員會沒有對更名達成共識。<ref>IAU (2009). [http://journals.cambridge.org/article_S1743921308025398 Reports on Astronomy 2006–2009]. ''Transactions of the IAU'', vol. XXVII-A</ref>
+
+英文{{lang|en|[[wikt:dwarf|dwarf]] planet}}中的「dwarf」可理解為矮人、侏儒。大部份語言取字面意思直接翻譯，如：法文{{lang|fr|planète [[wikt:nain#French|naine]]}}、西班牙文{{lang|es|planeta enano}}、德文{{lang|de|[[wikt:Zwerg|Zwergplanet]]}}、俄文{{lang|ru|[[wikt:Карлик|карликовая]] планета}}（羅馬化：karlikovaya planeta）、阿拉伯文{{lang|ar|كوكب [[wikt:قزم|قزم]]}}（羅馬化：kaukab qazm）、中文{{lang|cmn|[[wikt:矮|矮]]行星}}、韓文왜소행성（矮小行星）等等。例外的則有日文的{{lang|ja|準惑星}}和拉丁文的{{lang|la|planetula}}（或取希臘文詞尾的{{lang|la|planetion}}），後者是{{lang|la|planeta}}（行星）的[[小稱]]。
+
+IAU在2006年會議上的6A決議案中<ref name="Resolution Result">{{cite web | title=IAU 2006 General Assembly: Result of the IAU Resolution votes| url= http://www.iau.org/news/pressreleases/detail/iau0603/}}</ref>把冥王星視為一個新的海王星天體類別中的標誌性成員，但這一新類別的確切定義及名稱要待IAU日後再決定。在決議前的辯論之中，人們提出了各種名詞，包括「pluton」和「類冥王星天體」等，但都沒有被保留下來。這可能是因為「pluton」會和英文拼寫相同的[[深成岩]]相混淆。<ref name="finalresolution" />2008年6月11日，IAU執行委員會公佈了名詞「plutoid」（中文現稱[[類冥矮行星]]），指所有海王星外矮行星。<ref name=IAU2008>{{cite press release|url=http://www.iau.org/news/pressreleases/detail/iau0804/|title=Plutoid chosen as name for Solar System objects like Pluto}}</ref>但「某程度上由於電郵上的溝通問題，行星系名詞工作小組（WG-PSN）並沒有參與選定plutoid一詞。……實際上，在執行委員會會議以後，WG-PSN已投票反對使用此詞。」<ref>IAU (2009). [http://journals.cambridge.org/article_S1743921308025398 Division III (Planetary Systems Sciences): Triennial Report 2006–2009]. ''Transactions IAU, Volume XXVIIA''</ref>天文學家也並未廣泛沿用這一名詞。
+
+== 特性 ==
+
+{| class="wikitable sortable floatright" style="text-align:center; width: 330px;"
+|+ 行星判別係數<ref name="soter" />
+|-
+! 天體
+! style="font-weight: normal;" | '''[[地球質量|<i>M</i><sub>⊕</sub>]]'''&nbsp;<sup>(1)</sup>
+! style="font-weight: normal;" | '''''Λ'''''&nbsp;<sup>(2)</sup>
+! style="font-weight: normal;" | '''''µ'''''&nbsp;<sup>(3)</sup>
+|-
+| align=left | [[水星]]
+| {{sort|000.055|0.055}}
+| {{sort|00000001950|1.95{{esp|3}}}}
+| {{sort|009100|9.1{{esp|4}}}}
+|-
+| align=left | [[金星]]
+| {{sort|000.815|0.815}}
+| {{sort|00000166000|1.66{{esp|5}}}}
+| {{sort|135000|1.35{{esp|6}}}}
+|-
+| align=left | [[地球]]
+| {{sort|001|1}}
+| {{sort|00000153000|1.53{{esp|5}}}}
+| {{sort|170000|1.7{{esp|6}}}}
+|-
+| align=left | [[火星]]
+| {{sort|000.107|0.107}}
+| {{sort|00000000942|9.42{{esp|2}}}}
+| {{sort|018000|1.8{{esp|5}}}}
+|- style="background: #EEF;"
+| align=left | [[穀神星]]
+| {{sort|000.00015|0.000&nbsp;15}}
+| {{sort|0000000000.000832|8.32{{esp|−4}}}}
+| {{sort|000000.33|0.33}}
+|-
+| align=left | [[木星]]
+| {{sort|317.7|317.7}}
+| {{sort|1300000000|1.30{{esp|9}}}}
+| {{sort|062500|6.25{{esp|5}}}}
+|-
+| align=left | [[土星]]
+| {{sort|095.2|95.2}}
+| {{sort|0046800000|4.68{{esp|7}}}}
+| {{sort|019000|1.9{{esp|5}}}}
+|-
+| align=left | [[天王星]]
+| {{sort|014.5|14.5}}
+| {{sort|0000384000|3.85{{esp|5}}}}
+| {{sort|002900|2.9{{esp|4}}}}
+|-
+| align=left | [[海王星]]
+| {{sort|017.1|17.1}}
+| {{sort|0000273000|2.73{{esp|5}}}}
+| {{sort|002400|2.4{{esp|4}}}}
+|- style="background: #EEF;"
+| align=left | [[冥王星]]
+| {{sort|000.0022|0.002&nbsp;2}}
+| {{sort|0000000000.00295|2.95{{esp|−3}}}}
+| {{sort|000000.077|0.077}}
+<!--
+|- style="background: #EEF;"
+| align=left | [[Haumea (dwarf planet)|Haumea]]
+| {{sort|000.00067|0.000&nbsp;67}}
+| {{sort|0000000000.000268|2.68{{esp|–4}}}}
+| {{sort|000000.02|0.02}}
+|- style="background: #EEF;"
+| align=left | [[Makemake (dwarf planet)|Makemake]]
+| {{sort|000.00067|0.000&nbsp;67}}
+| {{sort|0000000000.000222|2.22{{esp|–4}}}}
+| {{sort|000000.02|0.02<ref>Calculated using the estimate for the mass of the Kuiper belt found in [http://adsabs.harvard.edu/abs/2007MNRAS.tmp...24I Iorio, 2007] of 0.033 Earth masses</ref>}}
+-->
+|- style="background: #EEF;"
+| align=left | [[鬩神星]]
+| {{sort|000.0028|0.002&nbsp;8}}
+| {{sort|0000000000.00215|2.13{{esp|−3}}}}
+| {{sort|000000.1|0.10}}
+|- style="background: #EEF;"
+| align=left | [[塞德娜]]
+| {{sort|000.00022|0.000&nbsp;22}}
+| {{sort|0000000000.000000364|3.64{{esp|−7}}}}
+| {{sort|000000.07|<0.07<ref>利用了至少15個與塞德娜質量相當的同一區域天體估算而得。詳見：Schwamb, Megan E.; Brown, Michael E.; Rabinowitz, David L. (2009). "A Search for Distant Solar System Bodies in the Region of Sedna". The Astrophysical Journal Letters 694 (1): L45–L48.</ref>}}
+|-
+! colspan=4 style="font-size: 0.8em; font-weight: normal; text-align: center; padding: 4px;" |<!-- note -->
+上表列出所有行星及最大的矮行星（紫色）。這些矮行星的軌道範圍包括了所有可能的矮行星，而這些候選矮行星的判別係數都比表中對應區域矮行星的係數低。
+|-
+! colspan=4 |<!-- legend -->
+ {| style="font-size: 0.9em; font-weight: normal; text-align: left; padding: 4px"
+ |-
+ | valign=top | <sup>(1)</sup> || <i>M</i><sub>⊕</sub>為[[地球質量]]（5.97 × 10<sup>24</sup> kg），在此作為單位質量。
+ |-
+ | valign=top | <sup>(2)</sup>|| ''Λ''是[[清除鄰近的小天體|清除鄰近小天體]]的能力值（行星均高於1）：{{math|Λ {{=}} ''k'' ''M''<sup>2</sup> ''a''<sup>−3/2</sup>}}，其中''k'' = 0.0043，假設''M''和''a''的單位分別為[[堯它|堯它克]]和[[天文單位|AU]]。<ref name="Stern 2002" />
+ |-
+ | valign=top | <sup>(3)</sup> || ''µ''是''索特行星判別係數''（行星均高於100）：''µ'' = ''M''/''m''，其中''M''為天體質量，''m''等於共享同一軌道的所有其他天體質量之和。
+ |}
+|}
+
+=== 軌道支配地位 ===
+{{Main|清除鄰近的小天體}}
+
+[[阿蘭·斯特恩]]和[[哈羅德·利維森]]（Harold F. Levison）引入了參數Λ，用於表示天體在給定的軌道偏移下，與臨近天體碰撞的機率。<ref name="Stern 2002">{{cite journal | last=Stern | first=S. Alan | author2=Levison, Harold F. | date=2002 | title=Regarding the criteria for planethood and proposed planetary classification schemes | url=http://www.boulder.swri.edu/~hal/PDF/planet_def.pdf | format=[[PDF]] | journal=Highlights of Astronomy| volume=12 | pages=205–213, as presented at the XXIVth General Assembly of the IAU–2000 [Manchester, UK, 7–18 August 2000]|bibcode = 2002HiA....12..205S}}</ref>在斯特恩的模型當中，Λ和質量的平方成正比、和公轉週期成反比。利用該參數可以估計某一天體[[清除鄰近的小天體|清除軌道鄰近小天體]]的能力。若Λ &gt; 1天體就能最終清除其軌道附近的小天體。在最小的[[類地行星]]和最大的小行星及凱伯帶天體之間，Λ的數值有著五個數量級的差距。<ref name="soter"/>
+
+[[史蒂芬·索特]]（Steven Soter）等天文學家主張行星和矮行星的區分標準應為：行星能夠通過碰撞、捕獲或重力擾動（或形成[[軌道共振]]避免碰撞）來清除臨近的小天體，而矮行星則因質量太小而不能。<ref name="Stern 2002"/>索特又提出了所謂的行星判別係數，以µ表示，定義為天體質量除以共享同一軌道區域的其他天體質量之和，並以µ > 100作為已清除軌道的臨界值。<ref name="soter">{{cite journal|arxiv=astro-ph/0608359|title=What is a Planet?|journal=The Astronomical Journal|first=Steven|last=Soter|date=2006-08-16|volume=132|issue=6|pages=2513–19|doi=10.1086/508861|bibcode=2006AJ....132.2513S}}</ref>用於區分行星和矮行星的還有其他若干個標準，<ref name="Stern"/>但2006年的定義中選用了索特的標準。<ref name="finalresolution"/>
+
+=== 大小與質量 ===
+{{Main|流體靜力學平衡}}
+
+當天體重力足夠強的時候，其內部壓力會使它[[塑性變形]]。較高的可塑性可以使凸出處下沉，使凹陷處升起，這種過程稱為重力弛緩。小於幾公里的天體由重力以外的力主導，通常擁有不規則形狀；重力更強但未達到主導地位的較大天體，通常呈「土豆形」。隨著天體質量的上升，其壓力最終足以克服內部[[抗壓強度]]，使形狀達致[[流體靜力學平衡]]。此時的天體為類球體形，是在其自轉及潮汐效應下所能達到的「最圓」形狀。這也是矮行星的判定界線之一。<ref>Lineweaver & Marc Norman, 2010, "The Potato Radius: a Lower Minimum Size for Dwarf Planets"</ref>
+
+當天體達到流體靜力學平衡之後，覆蓋其表面的一層液體就會形成與天體形狀相同的液體層，除了一些小範圍的表面特徵以外（如撞擊坑和裂痕等）。不自轉的天體會呈球體，但天體的自轉速率越高，它就約趨於[[扁球體]]，甚至[[橢球體]]。不過，這種自轉中的大天體就算被熔化成液體，其形狀也不會改變。[[妊神星]]就是處於流體靜力學平衡、擁有非球體形狀的一個極端例子──其長軸是短軸的兩倍之長。如果天體擁有較大的伴星，它還會受到[[潮汐力]]的影響，使其形成[[長球體]]形狀，例如受到木星強大潮汐力影響的[[木衛一]]。潮汐力還會導致天體的自轉逐漸進入[[潮汐鎖定]]，也就是永遠以同一面面向其伴星。例子有：冥王星﹣冥衛一系統的雙重潮汐鎖定、[[月球]]對著地球的潮汐鎖定以及不少衛星對著[[氣態巨行星]]的潮汐鎖定等。
+
+[[File:Dwarf planet masses relative to Moon zh-hant.svg|thumb|300px|left|IAU確認的矮行星與月球的質量比較。鳥神星的質量為粗略估值。]]
+
+IAU沒有制定矮行星大小和質量的上限及下限。上限並不存在：就算天體比水星還要大，只要它不能清除鄰近的小天體，就會被歸為矮行星。<ref>布朗的確有嘗試尋找這樣的天體。詳見：{{cite web|title= Julia Sweeney and Michael E. Brown|work= Hammer Conversations: KCET podcast|url=http://www.pluggd.tv/audio/channels/kcet_podcast__hammer_conversations/episodes/2h10l|date=2007|accessdate=2008-06-28|archiveurl=http://web.archive.org/web/20080626220548/http://www.pluggd.tv/audio/channels/kcet_podcast__hammer_conversations/episodes/2h10l <!--Added by H3llBot-->|archivedate=2008-06-26}}</ref>下限則由是否達到流體靜力學平衡的條件來決定，但具體的大小和質量卻取決於成份和熱歷史。2006年的IAU決議案初稿把流體靜力學平衡重新定義，限制「適用於質量高於5{{e|20}}&nbsp;kg且直徑大於800&nbsp;km的天體」，<ref name="Draft Resolution 5">{{cite web|title=The IAU draft definition of "planet" and "plutons"|url=http://www.iau.org/news/pressreleases/detail/iau0601/|publisher=International Astronomical Union|date=2006-08-16|accessdate=2008-05-17}}</ref>但定稿中沒有保留此句。<ref name="finalresolution"/>
+
+觀察指出，大小及質量下限取決於天體的成份和熱歷史。對於硬性矽酸鹽天體，如石質小行星，轉變至流體靜力學平衡時的直徑大約在600&nbsp;km，質量大約在3.4{{e|20}}&nbsp;kg。對於硬性較低的水冰天體，這兩個數值大約分別為320&nbsp;km和10<sup>19</sup>&nbsp;kg。
+<ref name="Cole2000">G.H.A. Cole, 2000, [http://web.archive.org/web/20110606080126/http://www.hull.ac.uk/php/dmsghc/planets/html/v_minimum_radius_and_mass_for_a_planetary_body.htm Minimum Radius And Mass For A Planetary Body], archived from [http://www.hull.ac.uk/php/dmsghc/planets/html/v_minimum_radius_and_mass_for_a_planetary_body.htm the original] on June 6, 2011
+</ref>在小行星帶中，穀神星是唯一一個明確超過矽酸鹽天體大小及質量下限的天體（但它其實由石、冰混合組成），其形狀也符合處於平衡狀態的球體。[[智神星]]和[[灶神星]]為石質小行星，僅在下限以下。智神星的直徑和質量分別為525–560&nbsp;km和1.85–2.4{{e|20}}&nbsp;kg，雖然幾乎呈球體狀，但不規則度仍較大。灶神星的直徑和質量分別為530&nbsp;km和2.6{{e|20}}&nbsp;kg，其南極地區一個因撞擊產生的大型盆地使它的形狀偏離了類球體。
+
+在對矮行星這一概念進行辯論時，被認為達到流體靜力學平衡的最小冰質天體是[[土衛一]]（直徑396&nbsp;km，質量3.75{{e|19}}&nbsp;kg）。位於外太陽系的最大不規則天體為[[海衛八]]（直徑405–435&nbsp;km，假設的質量約為4.4{{e|19}}&nbsp;kg）。土衛一比海衛八形狀更為規則，可能是因為它有著更高溫的熱歷史，或者是一次撞擊事件使它的形狀變得更規則的。<ref>{{cite book|author=McKinnon, William B.|display-authors=etal|date=2008|url=http://www.lpi.usra.edu/books/ssbn2008/7035.pdf|chapter=Structure and Evolution of Kuiper Belt Objects and Dwarf Planets|page=220|title=The Solar System Beyond Neptune|editor=Barucci, M. A.|display-editors=etal|publisher=University of Arizona Press|location=Tucson|bibcode=2008ssbn.book..213M|isbn=978-0-8165-2755-7}}</ref>這兩個天體都不是由純冰組成，所以布朗認為冰質矮行星的實際直徑下限可能在400&nbsp;km以下。<ref name="Brown"/>目前位於這一數值以上的海王星外天體共有一百個左右。然而，後來科學家發現土衛一並不處於流體靜力學平衡，其橢球形是演變歷史所致，這和更極端的[[土衛九]]相似。經過確認，在[[土星的衛星]]當中，達到流體靜力學平衡的最小者為[[土衛五]]，直徑為1,530&nbsp;km，而不處於流體靜力學平衡的最大者為[[土衛八]]，直徑為1,470&nbsp;km。<ref>[http://www.planetary.org/blogs/emily-lakdawalla/2012/3389.html]</ref><ref>[http://www.ciclops.org/media/sp/2011/6794_16344_0.pdf]</ref>土衛八比鳥神星（1,415–1,445&nbsp;km）稍大，又比妊神星（1,180–1,310&nbsp;km）大得多，但這些研究結果並沒有被納入針對矮行星定義的討論當中。
+
+== 矮行星及可能的矮行星 ==
+[[File:TheTransneptunians Size Albedo Color.svg|thumb|449px|最大海王星外天體的相對大小、[[反照率]]及顏色示意圖]]
+{{main|候選矮行星列表}}
+
+科學家認為[[海王星外天體]]的核由冰組成，所以直徑只要大於400&nbsp;km左右（約地球的3%），就能經重力弛緩達致平衡。<ref name="Brown" />截至2015年1月，可能為矮行星的海王星外天體共有約150個，但這些天體的直徑數值大部份都只是粗略的估值。<ref name="BrownList" />布朗的團隊正在研究其中的三十幾個，並相信凱伯帶的矮行星數目最終會達到200左右，凱伯帶以外則還有成千上萬個。<ref name="Brown">{{cite web|authorlink=Michael E. Brown|title=The Dwarf Planets|first=Michael E.|last=Brown |publisher=California Institute of Technology, Department of Geological Sciences|url=http://web.gps.caltech.edu/~mbrown/dwarfplanets/|accessdate=2008-01-26}}</ref>
+
+IAU自從2008年起只確認了五顆矮行星：穀神星、冥王星、鬩神星、妊神星和鳥神星。<ref name="IAU-DP5">{{cite web|url=http://www.iau.org/news/pressreleases/detail/iau0807/|title=IAU names fifth dwarf planet Haumea|date=2008-09-17|publisher=International Astronomical Union|accessdate=16 September 2011|location=Paris}}</ref>穀神星和冥王星已通過直接觀測確認為矮行星。<ref name=Tancredi2008>{{cite doi|10.1016/j.icarus.2007.12.020}}</ref>鬩神星由於質量比冥王星高而被列為矮行星（但新視野號的測量數據顯示，冥王星的直徑比鬩神星稍大），妊神星和鳥神星則是因絕對星等高而被納入。<ref name="WGPSN">{{cite web |date= 2008-07-11 <!--11:42:58 -->|title=Dwarf Planets and their Systems |publisher= Working Group for Planetary System Nomenclature (WGPSN) |url=http://planetarynames.wr.usgs.gov/append7.html#DwarfPlanets |accessdate=2008-07-13}}</ref><ref name="Resolution Result">{{cite web|title=IAU 2006 General Assembly: Result of the IAU Resolution votes|url=http://www.iau2006.org/mirror/www.iau.org/iau0603/index.html|publisher=International Astronomical Union|date=2006-08-26|accessdate=2008-01-26| archiveurl = http://web.archive.org/web/20071025051134/http://www.iau2006.org/mirror/www.iau.org/iau0603/index.html| archivedate = October 25, 2007}}</ref>以離太陽的相對距離排列，它們分別為：
+
+# [[穀神星]][[File:Ceres symbol.svg|15px|穀神星]]：1801年1月1日發現，比[[海王星]]的發現早45年。近半個世紀都被視為行星之一，直到最後被重新歸為小行星。自2006年9月13日起由IAU確認為矮行星。
+# [[冥王星]][[File:Pluto symbol.svg|15px|冥王星]]：1930年2月18日發現。其後76年被視為行星，直到2006年8月24日由IAU重新歸為矮行星。
+# [[妊神星]]：2004年12月28日發現。2008年9月17日由IAU確認為矮行星。
+# [[鳥神星]]：2005年3月31日發現。2008年7月11日由IAU確認為矮行星。
+# [[鬩神星]]：2005年1月5日發現。當時的媒體曾稱之為「[[第十行星]]」。2006年9月13日由IAU確認為矮行星。
+
+布朗又列出六顆「幾乎肯定」為矮行星的海王星外天體，直徑均大於900公里。它們分別是：
+
+# [[亡神星]]：2004年2月17日發現。
+# {{mpl|2002 MS|4}}：2002年6月18日發現。
+# [[潫神星]]：2004年9月22日發現。
+# [[創神星]]：2002年6月5日發現。
+# {{mpl|2007 OR|10}}：2007年7月17日發現。
+# [[塞德娜]]：2003年11月14日發現。
+
+Gonzalo Tancredi等人已建議IAU接受亡神星、塞德娜和創神星為矮行星。另外，Gonzalo Tancredi還把[[小行星20000]]伐羅那、[[小行星28978]]伊克西翁、{{mpl-|208996|2003 AZ|84}}、{{mpl-|90568|2004 GV|9}}及{{mpl-|55565|2002 AW|197}}歸為矮行星。<ref name=Tancredi2008/>布朗也列入了這些天體，並判斷為「非常可能」。<!--An extensive table [[List of possible dwarf planets#Likeliest possible dwarf planets|compares the dwarf planet candidates]] of the two planetary astronomers in detail.-->
+
+<!-- start wrapper: IAU-dwarf planets -->
+{| style="background-color: #D6D6FF; margin: 18px auto; border: 1px solid #BDBDFF; padding: 6px;"
+|-
+|+ style="font-size: 1.2em;" |'''經IAU確認的矮行星'''
+|
+<!-- table #1 -->
+{| class="wikitable" style="width: 100%; margin: 0;"
+|-
+|+ 軌道屬性<ref name="asteroidorbit">{{cite web|url=ftp://ftp.lowell.edu/pub/elgb/astorb.html| title=The Asteroid Orbital Elements Database|first=Ted|last=Bowell|publisher=[[Lowell Observatory]]|accessdate=2008-02-12}}</ref>
+|- style="font-size: smaller;"
+! width=54 |名稱
+! 所在區域
+! 軌道半徑<br>（[[天文單位|AU]]）
+! [[公轉週期]]<br>（年）
+! 平均公轉速率（km/s）
+! [[軌道傾角]]
+! [[軌道離心率]]
+! [[清除鄰近的小天體|行星判別係數]]
+|- align="center"
+! align="left" | [[穀神星]]
+| [[小行星帶]]
+| 2.77
+| 4.60
+| 17.882
+| 10.59°
+| 0.079
+| 0.33
+|- align="center"
+! align="left"| [[冥王星]]
+| [[凱伯帶]]（[[冥族小天體]]）
+| 39.48
+| 248.09
+| 4.666
+| 17.14°
+| 0.249
+| 0.077
+|- align="center"
+! align="left" | [[妊神星]]
+| 凱伯帶（與海王星呈12:7共振）
+| 43.13
+| 283.28
+|
+| 28.22°
+| 0.195
+| 0.020
+|- align="center"
+! align="left" | [[鳥神星]]
+| 凱伯帶（[[傳統凱伯帶天體]]）
+| 45.79
+| 309.9
+| 4.419
+| 28.96°
+| 0.159
+| 0.02
+|- align="center"
+! align="left" | [[鬩神星]]
+| [[離散盤]]
+| 67.67
+| 557
+| 3.436
+| 44.19°
+| 0.442
+| 0.10
+|}
+
+|-
+|
+
+<!-- table #2 -->
+{| class="wikitable" style="width: 100%; margin: 10px 0;"
+|-
+|+ 物理屬性
+|- style="font-size: smaller;"
+! width=54 |名稱
+! 直徑<br>（相對[[月球]]）
+! 直徑<br>（km）
+! 質量<br>（相對月球）
+! 質量<br>（{{e|21}} kg）
+! [[密度]]<br>（g/cm<sup>3</sup>）
+! 表面重力<br>（[[加速度|m/s<sup>2</sup>]]）
+! [[逃逸速度]]<br>（km/s）
+! [[轉軸傾角]]
+! [[自轉週期]]<br>（天）
+! [[天然衛星|衛星]]
+! 表面溫度<br>（[[開爾文|K]]）
+! [[大氣層]]
+! [[絕對星等|H]]
+|- align="center"
+! align="left" | [[穀神星]]
+| 27%
+| 938
+| 1.3%
+| 0.94
+| 2.17
+| 0.29
+| 0.51
+| ≈ 3°
+| 0.38
+| 0
+| 167
+| 無
+| 3.3
+|- align="center"
+! align="left"| [[冥王星]]
+| 68%
+| {{val|2370|20}}
+| 17.8%
+| 13.05
+| 1.87
+| 0.58
+| 1.2
+| 119.59°
+| −6.39
+| [[冥王星的衛星|5]]
+| 44
+| 季節性存在
+| −0.8
+|- align="center"
+! align="left"| [[妊神星]]
+| ≈ 36%
+| {{val|1240|+69|-58}}
+| 5.5%
+| {{val|4.01|0.04}}
+| 2.6–3.3 (?)
+| 0.44
+| 0.84
+|
+| 0.16
+| [[妊神星的衛星|2]]
+| {{val|32|3}}
+| ?
+| 0.1
+|- align="center"
+! align="left"| [[鳥神星]]
+| 41%
+| {{val|1430|14}}
+| ?
+| ?
+| >&nbsp;1.4<ref name=Brown2013>M.E. Brown, 2013, [http://arxiv.org/abs/1304.1041v1 "On the size, shape, and density of dwarf planet Makemake"]</ref>
+|
+|
+| ?
+| 0.32
+| 0
+| ≈ 30
+| 無<ref name="European Southern Observatory">{{cite web|last=European Southern Observatory|title=Dwarf Planet Makemake Lacks Atmosphere: Distant Frigid World Reveals Its Secrets for First Time|url=http://www.sciencedaily.com/releases/2012/11/121121145516.htm|publisher=ScienceDaily|accessdate=19 November 2012}}</ref>
+| −0.3
+|- align="center"
+! align="left" | [[鬩神星]]
+| 67%
+| {{val|2326|12}}
+| 22.7%
+| 16.7
+| 2.5
+| ≈ 0.8
+| 1.3
+|
+| ≈ 1 (0.75–1.4)
+| [[鬩衛一|1]]
+| ≈ 42
+| 季節性存在?
+| −1.2
+|}
+<!-- end wrapper: IAU-dwarf planets-->
+|}
+
+<!-- start wrapper: additional objects-->
+{|  style="background-color: #D4E2FC; margin: 24px auto 8px auto; border: 1px solid #8EB2F6; padding: 6px;"
+|-
+|+ style="font-size: 1.2em;" |'''其他由布朗和Tancredi列出的矮行星'''
+|
+<!-- table #3 -->
+{| class="wikitable" style="width: 100%; margin: 0;"
+|-
+|+ Orbital attributes<ref name="asteroidorbit"/>
+|- style="font-size: smaller;"
+!  width=54 |名稱
+! 所在區域
+! 軌道半徑（[[天文單位|AU]]）
+! [[公轉週期]]<br>（年）
+! 平均軌道速度<br>（km/s）
+! [[軌道傾角]]
+! [[軌道離心率]]
+! [[清除鄰近的小天體|行星判別係數]]
+|- align="center"
+! align="left"| [[亡神星]]
+| [[凱伯帶]]（[[冥族小天體]]）
+| 39.17
+| 245.18
+|
+| 20.57°
+| 0.227
+| 0.003
+|- align="center"
+! align="left"| {{mpl|2002 MS|4}}
+| 凱伯帶（[[傳統凱伯帶天體]]）?
+| 41.931
+| 271.53
+|
+| 17.693°
+| 0.14135
+|
+|- align="center"
+! align="left"| [[潫神星]]
+| 凱伯帶（[[傳統凱伯帶天體]]）?
+| 42.1889
+| 274.03
+|
+| 23.9396°
+| 0.10312
+|
+|- align="center"
+! align="left"| [[創神星]]
+| 凱伯帶（[[傳統凱伯帶天體]]）
+| 43.405
+| 285.97
+|
+| 8.00°
+| 0.039
+| 0.007–0.010
+|- align="center"
+! align="left"| {{mpl|2007 OR|10}}
+| [[離散盤]]（與海王星呈10:3共振?）
+| 67.21
+| 550.98
+|
+| 30.70°
+| 0.500
+| ?
+|- align="center"
+! align="left"| [[塞德娜]]
+| [[獨立天體]]
+| 518.57
+| ≈ 11,400
+|
+| 11.93°
+| 0.853
+| < 0.07
+|}
+
+|-
+|
+<!-- table #4 -->
+{| class="wikitable" style="width: 100%; margin: 10px 0;"
+|- bgcolor=#ccccff
+|+ 物理屬性
+|- style="font-size: smaller;"
+! width=54 |名稱
+! 直徑<br>（相對[[月球]]）
+! 直徑<br>（km）
+! 質量<br>（相對月球）
+! 質量<br>（{{e|21}} kg）
+! [[密度]]<br>（g/cm<sup>3</sup>）
+! 表面重力<br>（[[加速度|m/s<sup>2</sup>]]）
+! [[逃逸速度]]<br>（km/s）
+! [[轉軸傾角]]
+! [[自轉週期]]<br>（天）
+! [[天然衛星|衛星]]
+! 表面溫度<br>（[[開爾文|K]]）
+! [[大氣層]]
+! [[絕對星等|H]]
+|- align="center"
+! align="left" | [[亡神星]]
+| 26%
+| {{val|917|25}}
+| 0.9%
+| 0.63
+|
+|
+|
+|
+| 0.55
+| [[亡衛一|1]]
+| < 44
+|
+| 2.2
+|- align="center"
+! align="left"| {{mpl|2002 MS|4}}
+| ≈ 27%
+| {{val|934|47}}
+|
+| ?
+|
+|
+|
+|
+| ?
+| 0
+| ≈ 43
+|
+| 3.7
+|- align="center"
+! align="left"| [[潫神星]]
+| ≈ 25%
+| {{val|854|45}}
+| 0.6%
+| 0.45
+| {{val|1.16|+0.59|-0.36}}
+|
+|
+|
+| 0.25
+| 1
+|
+|
+| 4.0
+|- align="center"
+! align="left" | [[創神星]]
+| 32%
+| {{val|1110|5}}
+| 1.8–2.0%
+| {{val|1.4|0.1}}
+|
+|
+|
+|
+| 0.74
+| [[創衛一|1]]
+| ≈ 43
+|
+| 2.4
+|- align="center"
+! align="left" | {{mpl|2007 OR|10}}
+| ≈ 37%
+| {{val|1280|210}}
+|
+| ?
+|
+|
+|
+|
+| ?
+| 0
+|
+|
+| 2.0
+|- align="center"
+! align="left" | [[塞德娜]]
+| ≈ 30%
+| {{val|995|80}}
+| ≈ 1.4%
+| ≈ 1
+|
+|
+|
+|
+| 0.42
+| 0
+| ≈ 12
+|
+| 1.5
+|}
+<!-- end wrapper: additional objects -->
+|}
+
+[[灶神星]]是在小行星帶中繼穀神星後最大的天體，其形狀接近球體。在灶神星冷卻固化後經撞擊產生的[[雷亞希爾維亞盆地]]和[[維納尼亞盆地]]是它最大的不規則處，<ref>{{cite journal|first=Peter C.|last=Thomas|author2=Binzelb, Richard P. |author3=Gaffeyc, Michael J. |author4=Zellnerd, Benjamin H. |author5=Storrse, Alex D. |author6= Wells, Eddie |title=Vesta: Spin Pole, Size, and Shape from HST Images|journal=Icarus|volume=128|pages=88–94|date=1997|issue=1|doi=10.1006/icar.1997.5736|bibcode=1997Icar..128...88T}}</ref>沿著其三條軸線上的直徑也不符合流體靜力學平衡。<ref name="Asmar 2012">{{cite journal|last=Asmar|first=S. W.|author2=Konopliv, A. S.|author3=Park, R. S.|author4=Bills, B. G.|author5=Gaskell, R.|author6=Raymond, C. A.|author7=Russell, C. T.|author8=Smith, D. E.|author9=Toplis, M. J.|author10=Zuber, M. T.|title=The Gravity Field of Vesta and Implications for Interior Structure|journal=43rd Lunar and Planetary Science Conference|date=2012|page=2600|url=http://www.lpi.usra.edu/meetings/lpsc2012/pdf/2600.pdf}}</ref><ref name="Russel 2012">{{cite journal|last=Russel|first=C. T.|title=Dawn at Vesta: Testing the Protoplanetary Paradigm|journal=SCIENCE|date=2012|volume=336|issue=6082|pages=684–686|doi=10.1126/science.1219381|url=http://www.phyast.pitt.edu/~wmwv/Classes/A1122/Literature/Science-2012-Russell-684-6.pdf|bibcode= 2012Sci...336..684R |display-authors=etal}}</ref>科學界認為[[海衛一]]在被海王星捕獲之前，曾經是一顆矮行星。<ref name="Agnor06">{{cite doi |10.1038/nature04792}}</ref>[[土衛九]]也是一顆被捕獲的天體，雖然目前不處於流體靜力學平衡，但在其發展早期可能曾經處於平衡狀態。<ref>JPL/NASA, 2012 Apr 26. [http://saturn.jpl.nasa.gov/news/newsreleases/newsrelease20120426/ Cassini Finds Saturn Moon Has Planet-Like Qualities]</ref>
+
+== 擁有行星級質量的衛星 ==
+{{see also|太陽系自然衛星列表}}
+
+太陽系中共有19顆[[天然衛星|衛星]]有足夠的質量能自身弛緩成類球體形，其中7顆的質量比鬩神星和冥王星都要大。雖然它們在物理屬性上與矮行星無異，但因為它們不直接環繞太陽公轉而不能被列為矮行星。<!--The seven that are more massive than Eris 鬩神星 are the [[Moon]], the four [[Galilean moons]] of Jupiter ([[Io (moon)|Io]], [[Europa (moon)|Europa]], [[Ganymede (moon)|Ganymede]], and [[Callisto (moon)|Callisto]]), one moon of Saturn ([[Titan (moon)|Titan]]), and one moon of Neptune ([[Triton (moon)|Triton]]). The others are six moons of Saturn ([[Mimas (moon)|Mimas]], [[Enceladus (moon)|Enceladus]], [[Tethys (moon)|Tethys]], [[Dione (moon)|Dione]], [[Rhea (moon)|Rhea]], and [[Iapetus (moon)|Iapetus]]), five moons of Uranus ([[Miranda (moon)|Miranda]], [[Ariel (moon)|Ariel]], [[Umbriel (moon)|Umbriel]], [[Titania (moon)|Titania]], and [[Oberon (moon)|Oberon]]), and one moon of Pluto ([[Charon (moon)|Charon]]).-->英文名詞planemo（擁有行星級質量的天體）囊括了這些大衛星、所有矮行星和行星。<ref>{{cite journal | last1 = Basri | first1 = G. | last2 = Brown | first2 = M.E. | date = 2006 | title = Planetesimals to Brown Dwarfs: What is a Planet? | url = http://siba.unipv.it/fisica/articoli/A/Annual%20Review%20Earth%20Planetary%20Sciences_vol.34_2006_pp.193-216.pdf | format = PDF | journal = Annual Review of Earth and Planetary Sciences | volume = 34 | issue = | pages = 193–216 | doi = 10.1146/annurev.earth.34.031405.125058 |arxiv = astro-ph/0608417 |bibcode = 2006AREPS..34..193B }}</ref>斯特恩把它們稱作「衛星行星」。<ref name="News.discovery.com">{{cite web|url=http://news.discovery.com/space/should-large-moons-be-called-satellite-planets.html |title=Should Large Moons Be Called 'Satellite Planets'? |publisher=News.discovery.com |date=2010-05-14 |accessdate=2011-11-04}}</ref>
+
+在[[IAU的行星定義|IAU行星定義]]的一份決議案草案中，冥王星和冥衛一被視為組成雙行星系統的兩顆矮行星，因為兩者都符合矮行星的質量和形狀標準，而且它們繞著一個位於冥王星表面以外的共同[[質心]]公轉。<ref group=注>原文腳註為：「若有兩個或以上天體組成多星系統，……只要系統的質心位於主星以外，其符合以上條件（質量、形狀等）的伴星就同樣屬於行星；不符合以上條件的伴星則屬於衛星。在此定義下，冥王星的伴星冥衛一就是一顆行星，冥王星﹣冥衛一系統就是一個雙行星系統。」</ref><ref name="Draft Resolution 5"/>IAU目前表示，冥衛一不算做矮行星，而只是冥王星的衛星之一。冥衛一是否符合矮行星標準的問題，會留待日後考慮。<ref>{{cite web|url=http://www.iau.org/public/themes/pluto/ |title=Pluto and the Solar System |publisher=IAU |accessdate=2013-07-10}}</ref>質心的位置不但取決於公轉天體的相對質量，還要看兩者的距離。例如，太陽﹣木星的質心就位於太陽的表面以外。
+
+== 爭議 ==
+
+IAU在定義矮行星之後，一些科學家發聲對此決議案表示反對。<ref name="Stern"/>表示方法包括汽車保險杠貼紙和T恤等。<ref>{{cite news|url= http://www.usatoday.com/tech/science/space/2006-08-25-pluto-memorabilia_x.htm|title=Online merchants see green in Pluto news|first=Alicia|last=Chang|work=Associated Press|publisher=USA Today|date=2006-08-25|accessdate=2008-01-25}}</ref>鬩神星的發現者[[米高·E·布朗]]認同把行星數目降至八的做法。<ref>{{cite web|title=The Eight Planets|first=Michael E.|last=Brown|url=http://web.gps.caltech.edu/~mbrown/eightplanets/|publisher=California Institute of Technology, Department of Geological Sciences|accessdate=2008-01-26}}</ref>
+
+[[美國太空總署]]宣佈將會採用IAU所設下的新指引。<ref>{{cite web|title= {{Sic|hide=y|Hotly|-}}Debated Solar System Object Gets a Name|publisher=NASA press release|url= http://www.nasa.gov/vision/universe/solarsystem/Erisf-20060914.html |date= 2006-09-14|accessdate= 2008-01-26}}</ref>不過，冥王星探測飛船[[新視野號]]的任務總監[[阿蘭·斯特恩]]卻反對IAU對行星的新定義。他認為，不應該把非行星天體稱為矮行星，也不應該用軌道屬性（而非內在屬性）來定義一種天體。<ref>{{cite web|title=Unabashedly Onward to the Ninth Planet|first=Alan|last=Stern|date=2006-09-06|publisher=New Horizons Web Site|url=http://pluto.jhuapl.edu/overview/piPerspectives/piPerspective_09_06_2006.php|accessdate=2008-01-26}}</ref>所以，時至2011年，他仍然把冥王星稱作行星，<ref>{{cite web|url =http://www.space.com/12710-pluto-defender-alan-stern-dwarf-planet-interview.html|first=Mike|last=Wall |publisher=SPACE.com |title=Pluto's Planet Title Defender: Q & A With Planetary Scientist Alan Stern|date=2011-08-24|accessdate=2012-12-03}}</ref>並把穀神星、鬩神星等矮行星以及較大的衛星都當做額外的行星。<ref name="News.discovery.com"/>在IAU重新定義行星的幾年前，他曾用軌道屬性區分「高等行星」（überplanet，即八大行星）和「低等行星」（unterplanet，即矮行星），並把兩者都視為行星。<ref name="Stern 2002"/>
+
+== 參見 ==
+<!--
+{{Wikipedia books
+| 1 = Dwarf Planets Of The Solar System & Their Satellites
+| 3 = Solar System
+}}-->
+{{Portal|太陽系}}
+{{cmn|2|
+* [[半人馬小行星]]
+* [[太陽系流體靜力平衡天體列表]]
+* [[矮行星候選者列表]]
+* [[最亮柯伊伯带天体列表]]
+* [[太陽系小天體]]
+* [[海王星外側天体列表]]
+* [[太陽系天體列表]]
+}}
+
+== 備註 ==
+
+{{reflist|group=注}}
+
+== 參考資料 ==
+
+{{reflist|30em}}
+
+== 外部鏈接 ==
+* NPR：[http://www.npr.org/templates/story/story.php?storyId=5631291 矮行星或許是最後的尊榮]
+* SPACE.com：[http://www.space.com/scienceastronomy/060816_planet_qanda.html 問與答：國際天文聯合會提出的行星定義]，2006年8月16日
+* BBC新聞：[http://news.bbc.co.uk/1/hi/sci/tech/4798205.stm 問與答：新行星提案]，2006年8月16日
+
+{{太陽系}}
+
+[[Category:矮行星|*]]

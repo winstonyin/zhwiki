@@ -1,0 +1,254 @@
+{{NoteTA
+| zh-hans: 布什维尔德; zh-hant: 布什維爾德
+}}
+{{Elementbox
+|number=78
+|symbol=Pt
+|name=鉑
+|enname=Platinum
+|left=[[銥]]
+|right=[[金]]
+|above=[[钯]]
+|below=[[鐽|-{zh-cn:𫟼; zh-tw:鐽; zh-hk:鐽;}-]]
+|series=过渡金属
+|group=10
+|period=6
+|block=d
+|image name= Platinum crystals.jpg
+|appearance= 灰白色
+|atomic mass= 195.084
+|electron configuration= &#91;[[氙|Xe]]&#93; 4f<sup>14</sup> 5d<sup>9</sup> 6s<sup>1</sup>
+|electrons per shell= 2, 8, 18, 32, 17, 1
+|phase=固體
+|density gpcm3nrt= 21.45
+|density gpcm3mp= 19.77
+|melting point K=2041.4
+|melting point C=1768.3
+|melting point F=3214.9
+|boiling point K=4098
+|boiling point C=3825
+|boiling point F=6917
+|heat fusion= 22.17
+|heat vaporization= 469
+|heat capacity= 25.86
+|vapor pressure 1= 2330
+|vapor pressure 10= (2550)
+|vapor pressure 100= 2815
+|vapor pressure 1 k= 3143
+|vapor pressure 10 k= 3556
+|vapor pressure 100 k= 4094
+|vapor pressure comment= 
+|crystal structure=面心立方
+| oxidation states = 6, 5, '''4''', 3, 2, 1, −1, −2, −3<br />（微[[鹼性]]氧化物）
+|electronegativity= 2.28
+|number of ionization energies=2
+|1st ionization energy= 870
+|2nd ionization energy= 1791
+|atomic radius= 139
+|covalent radius= 136±5
+|Van der Waals radius= 175
+|magnetic ordering= [[順磁性]]
+|electrical resistivity at 20= 105 n
+|thermal conductivity= 71.6
+|thermal expansion at 25= 8.8
+|speed of sound rod at r.t.= 2800
+|Tensile strength= 125-240
+|Young's modulus= 168
+|Shear modulus= 61
+|Bulk modulus= 230
+|Poisson ratio= 0.38
+|Mohs hardness= 4–4.5
+|Vickers hardness= 549
+|Brinell hardness= 392
+|CAS number= 7440-06-4
+|Work function= 5.12-5.93
+|isotopes=
+{{Elementbox_isotopes_decay | mn=190 | sym=Pt
+ | na=0.014% | hl=6.5&times;10<sup>11</sup>年
+ | dm=[[α衰變|α]] | de=3.18 | pn=186 | ps=[[鋨|Os]]}}
+{{Elementbox_isotopes_stable | mn=192 | sym=Pt | na=0.782% | n=114}}
+{{Elementbox_isotopes_decay | mn=193 | sym=Pt
+ | na=[[放射性同位素|人造]] | hl=50年
+ | dm=[[電子捕獲|ε]] | de=- | pn=193 | ps=[[銥|Ir]]}}
+{{Elementbox_isotopes_stable | mn=194 | sym=Pt | na=32.967% | n=116}}
+{{Elementbox_isotopes_stable | mn=195 | sym=Pt | na=33.832% | n=117}}
+{{Elementbox_isotopes_stable | mn=196 | sym=Pt | na=25.242% | n=118}}
+{{Elementbox_isotopes_decay2 | mn=198 | sym=Pt | na=7.163% | hl=>3.2×10<sup>14</sup>年 | dm1=α |de1=0.0870 | pn1=194 | ps1=Os
+| dm2=[[雙β衰變|β<sup>−</sup>β<sup>−</sup>]] | de2=1.0472 | pn2=198 | ps2=[[汞|Hg]]}}
+|isotopes comment=
+|discovered by=[[安東尼奧·烏略亞]]
+|discovery date=1735
+|first isolation by=安東尼奧·烏略亞
+|first isolation date=1735
+}}
+
+'''鉑'''（'''Platinum'''）是一種[[化學元素]]，俗稱白金。其[[化學符號]]為'''Pt'''，[[原子序]]為78。鉑是一種[[密度]]高、[[延展性]]高、反應性低的灰白色貴金屬，屬於[[過渡金屬]]。
+
+鉑同屬於[[鉑系元素]]和[[10族元素]]。它共有六種自然產生的[[同位素]]。鉑是地球地殼中最罕見的元素之一，平均豐度大約為5&nbsp;μg/kg。它一般出現在某些[[鎳]]和[[銅]]礦石中，位於原生元素礦藏，主要分佈在[[南非]]，因此當地的鉑產量佔全球的80%。鉑的年產量只有幾百[[噸]]，應用亦十分重要，因此鉑是一種非常貴重的物質和主要的貴金屬貿易商品。
+
+鉑是反應性最低的金屬之一。即便在高溫下，它也有極強的抗腐蝕性，因此屬於[[抗腐蝕金屬]]。在自然中，鉑有時以純金屬狀態出現，不與其他元素結合。鉑自然出現在河流的沖積層中，所以[[前哥倫布時期]]的南美原住民最早用鉑製造工藝品。歐洲早在16世紀就有記載鉑的使用；1748年，[[安東尼奧·烏略亞]]發表了一篇報告，描述來自[[哥倫比亞]]的一種新金屬，這時科學家才開始研究鉑元素。
+
+鉑的應用包括：[[催化轉換器]]、實驗室器材、電觸頭和[[電極]]、[[電阻溫度計]]、[[牙科]]器材及首飾等。由於鉑是一種重金屬，它的鹽會對健康造成危害；但鉑的抗腐蝕性強，所以其毒性比一些其他金屬較低。<ref>{{cite web |url= http://www.euro.who.int/__data/assets/pdf_file/0015/123081/AQG2ndEd_6_11Platinum.PDF|title=Air Quality Guidelines – Second Edition|chapter=Chapter 6.11 Platinum|publisher=WHO Regional Office for Europe, Copenhagen, Denmark|year= 2000 }}</ref>一些含鉑化合物，特別是[[順鉑]]，可用於[[化學療法]]以治療某些癌症。<ref>{{cite journal |  pmid = 20593091 |  year = 2010 |  last1 = Wheate |  first1 = NJ |  last2 = Walker |  first2 = S |  last3 = Craig |  first3 = GE |  last4 = Oun |  first4 = R |  title = The status of platinum anticancer drugs in the clinic and in clinical trials |  volume = 39 |  issue = 35 |  pages = 8113–27 |  doi = 10.1039/C0DT00292E |  journal = Dalton transactions (Cambridge, England : 2003)}}</ref>
+
+==性質==
+
+===物理性質===
+純鉑為帶光澤、具可延展性的銀白色金屬。<ref name="lagowski">{{cite book |title = Chemistry Foundations and Applications|volume = 3 |editor = Lagowski, J. J.|pages=267–268|year = 2004|isbn = 0-02-865724-1|publisher = Thomson Gale}}</ref>它的可延展性比金、銀和銅都要高，因此是所有純金屬中延展性最高的，但其可鍛鑄性卻比金低。<ref>CRC press encyclopedia of materials and finishes, 2nd edition, Mel Schwartz , 2002</ref><ref>Materials handbook, fifteenth edition, McGraw-Hill, by John Vaccari, 2002</ref>鉑金屬的抗腐蝕性極強，在高溫下非常穩定，電性能亦很穩定。它在任何溫度下都不會氧化，但可被各種[[鹵素]]、[[氰化物]]、[[硫]]和苛性鹼侵蝕。鉑不可溶於[[氫氯酸]]和[[硝酸]]，但會在熱[[王水]]中溶解，形成[[氯鉑酸]]（H<sub>2</sub>PtCl<sub>6</sub>）。<ref name="CRC">{{Cite book| author = CRC contributors| editor = Lide, David R.| chapter = Platinum| year = 2007–2008| title = CRC Handbook of Chemistry and Physics| volume = 4| page= 26| location = New York| publisher = CRC Press| isbn = 978-0-8493-0488-0}}</ref>
+
+這些物理性質都使鉑成為了工業上應用廣泛的金屬。<ref>{{cite book|url = http://books.google.com/books?id=KXwgAZJBWb0C&pg=RA1-PT8|chapter = Platinum|pages = 8–9|isbn = 978-0-87170-518-1|title = Handbook of corrosion data|author1 = Craig, Bruce D|author2 = Anderson, David S|author3 = International, A.S.M.|date = January 1995}}</ref>由於能夠抵抗侵蝕和保留光澤，所以鉑還可以用於製造[[首飾]]。
+
+===化學性質===
+{{see also|鉑系元素}}
+[[File:Platin loest sich in heissem Koenigswasser.JPG|left|thumb|熱[[王水]]能夠溶解鉑。]]
+鉑的最常見[[氧化態]]為+2和+4。鉑的+1和+3較少見，雙金屬（或多金屬）化合物中的金屬鍵可以提高其穩定性。四配位鉑(II)化合物通常具有由16個電子形成的平面四邊形結構。單質鉑金屬的反應性很低，但它會在熱王水中溶解，產生[[氯鉑酸]]（H<sub>2</sub>PtCl<sub>6</sub>）：<ref name="Kauuf"/>
+:Pt + 4 HNO<sub>3</sub> + 6 HCl → H<sub>2</sub>PtCl<sub>6</sub> + 4 NO<sub>2</sub> + 4 H<sub>2</sub>O
+
+鉑屬於[[軟硬酸鹼理論|軟酸]]，所以鉑和硫有化學親和性，例如和[[二甲基亞碸]]（DMSO）；科學家已發現多種DMSO配合物。<ref name = han>{{cite journal|doi = 10.1021/om700543p|title = Mono- vs Bis(carbene) Complexes: A Detailed Study on Platinum(II)−Benzimidazolin-2-ylidenes|year = 2007|first1 = Y. |last1 = Han |first2= H. V. |last2=Huynh |first3= G. K. |last3 = Tan|journal = Organometallics|volume = 26|page = 4612|issue = 18}}</ref>
+
+===同位素===
+{{main|鉑的同位素}}
+鉑有六種自然[[同位素]]：<sup>190</sup>Pt、<sup>192</sup>Pt、<sup>194</sup>Pt、<sup>195</sup>Pt、<sup>196</sup>Pt和<sup>198</sup>Pt。其中[[豐度]]最高的是<sup>195</sup>Pt，它佔了所有自然鉑元素的33.83%。它是唯一一種[[自旋]]不為零的穩定同位素；其自旋為<sup>1</sup>/<sub>2</sub>，所以在<sup>1</sup>H和<sup>31</sup>P的[[核磁共振波譜法|核磁共振波譜]]中（例如鉑-烷基配合物及鉑-膦配合物）常會出現<sup>195</sup>Pt的衛星波峰。同位素<sup>190</sup>Pt的豐度最低，只有0.01%。<sup>190</sup>Pt是唯一一種不穩定的自然同位素，但其半衰期有6.5{{e|11}}年。<sup>198</sup>Pt可以進行[[α衰變]]，但人們從未觀測到它的衰變（半衰期已知要大於3.2{{e|14}}年），所以可當做穩定同位素。人工合成的鉑同位素共有31種，原子量在166和202間，因此已知的鉑同位素總共有37種。在人造同位素之中，穩定性最低的是<sup>166</sup>Pt，其半衰期只有300&nbsp;µs；而最穩定的則是<sup>193</sup>Pt，其半衰期為50年。大部份鉑同位素都會混合進行[[β衰變]]和α衰變。<sup>188</sup>Pt、<sup>191</sup>Pt和<sup>193</sup>Pt主要以[[電子捕獲]]的方式衰變。<sup>190</sup>Pt和<sup>198</sup>Pt進行[[雙β衰變]]。<ref name="nubase">{{cite journal| last = Audi| first = G.|title = The NUBASE Evaluation of Nuclear and Decay Properties| journal = Nuclear Physics A| volume = 729| pages = 3–128| publisher = Atomic Mass Data Center| year = 2003| doi=10.1016/j.nuclphysa.2003.11.001| bibcode=2003NuPhA.729....3A| last2 = Bersillon| first2 = O.| last3 = Blachot| first3 = J.| last4 = Wapstra| first4 = A.H.}}</ref>
+
+===存量===
+[[File:Platinum-nugget.jpg|thumb|left|自然鉑礦塊，俄羅斯[[哈巴羅夫斯克邊疆區]][[昆丟爾山丘]]（Kondyor Massif）礦場]]
+[[File:2005platinum (mined).PNG|thumb|right|2005年世界各地的鉑產量]]
+鉑是一種非常罕見的金屬，<ref>[http://www.newscientist.com/article/mg19426051.200-earths-natural-wealth-an-audit.html?page=1 Earth's natural wealth: an audit]. New Scientist. May 23, 2007.</ref>在地球[[地殼]]中的濃度只有百萬分之0.005。<ref>{{cite book|url=http://books.google.com/books?id=nDhpLa1rl44C&pg=PT141|page=141|title=Encyclopaedia of Occupational Health and Safety: Chemical, industries and occupations|author=Stellman, Jeanne Mager|publisher=International Labour Organization|year=1998|isbn=92-2-109816-8}}</ref><ref>{{cite book|url=http://books.google.com/books?id=5IC6--3zhXMC&pg=PA71|page=71|title=in Symposium on Spectrocemical Analysis for Trace Elements|author=Murata, K. J. |publisher=ASTM International|year=1958}}</ref>鉑金屬常被誤認為是[[銀]]。自然界中的鉑常以未經化合的單質出現，或與其他鉑系元素或[[鐵]]形成合金。單質鉑元素通常出現在[[沖積層]]次生礦床。[[前哥倫布時期]][[哥倫比亞]][[喬科省]]的居民曾經開採過的沖積層礦床至今仍然仍出產鉑系金屬。另一大沖積層礦藏位於俄羅斯[[烏拉爾山脈]]。<ref name="CRC"/>
+
+在[[鎳]]和[[銅]]礦中，鉑系金屬會以[[硫化物]]（如(Pt,Pd)S）、[[碲化物]]（如PtBiTe）、[[銻化物]]（PdSb）和[[砷化物]]（如PtAs<sub>2</sub>）的形態出現，並且也會與鎳或銅形成合金。砷化鉑（PtAs<sub>2</sub>）是鉑的主要礦源之一，它出現在鎳礦當中，主要分佈在加拿大[[安大略]]的[[索德柏立盆地]]。1927至1975年間，美國[[阿拉斯加州]][[普拉蒂納姆 (阿拉斯加州)|普拉蒂納姆]]（Platinum，即「鉑」之意）共產出17噸鉑元素。礦場於1990年停止作業。<ref>{{cite web
+|url=http://explorenorth.com/library/communities/alaska/bl-Platinum.htm
+|title= The History of Platinum
+|accessdate= April 12, 2011
+|work= Alaska Community Database Online
+|publisher= ExploreNorth
+|quote= Platinum is located on the Bering Sea coast, below Red Mountain on the south spit of Goodnews Bay.
+}}</ref>較罕見的[[硫砷鉑礦]]（(Pt,Pd,Ni)S）中含有鉑、[[鈀]]和鎳元素。硫砷鉑礦出現在南非[[豪登省]][[-{布什}-維爾德雜岩體]]中的美蘭斯基礦層中。<ref>{{cite journal|doi = 10.1016/j.mineng.2004.04.001|journal = Minerals Engineering|volume = 17|year = 2004|pages = 961–979|title =Characterizing and recovering the platinum group minerals—a review|first1 = Z.|last1 = Xiao|last2= Laplante |first2= A. R.|issue = 9–10}}</ref>
+
+1865年，人們在南非布希維爾德地區發現了[[鉻鐵礦]]，其後於1906年又發現了鉑礦。<ref>Dan Oancea [http://www.infomine.com/publications/docs/Mining.com/Sep2008e.pdf Platinum In South Africa]. MINING.com. September 2008</ref>其最大原生礦床位於布什維爾德雜岩體。<ref name="kirk-pt" />其餘兩大礦床位於俄羅斯[[諾里爾斯克]]的大型銅鎳礦藏，以及加拿大的索德柏立盆地。索德柏立盆地的鎳礦開採量巨大，因為其中的鉑元素只佔百萬分之0.5。美國則有較小的礦藏，<ref name="kirk-pt">{{cite book |title=Kirk Othmer Encyclopedia of Chemical Technology |first =R. J.|last = Seymour|author2=O'Farrelly, J. I. |chapter=Platinum-group metals |doi=10.1002/0471238961.1612012019052513.a01.pub2 |year=2001 |publisher=Wiley}}</ref>例如[[蒙大拿州]]的[[阿布薩洛卡山脈]]。<ref name="NewYorkTimes">{{cite news |url=http://query.nytimes.com/gst/fullpage.html?res=9802E3D6153AF930A2575BC0A96E958260 |title = Mining Platinum in Montana |accessdate=2008-09-09| publisher = New York Times|date = 1998-08-13}}</ref>2010年，南非為鉑的最大產國，其佔總產量的77%，其次為佔13%的俄羅斯。2010年鉑的全球總產量為192噸。<ref name="usgs2012-summary">{{cite web  |url = http://minerals.usgs.gov/minerals/pubs/commodity/platinum/mcs-2012-plati.pdf |author=Loferski, P. J. |title=Platinum–Group Metals| publisher=USGS Mineral Resources Program|date=July 2012 |accessdate=2012-07-17}}</ref>印度[[塔米爾納杜邦]]亦有鉑礦藏，<ref>{{cite news| url=http://www.thehindu.com/news/cities/Chennai/article495603.ece | location=Chennai, India | work=The Hindu | title=Evidence of huge deposits of platinum in State | date=2010-07-02}}</ref>為此[[印度地質調查局]]已與塔米爾納度礦物有限公司（TAMIN）簽署協議。<ref>[http://www.thaindian.com/newsportal/siness/mou-for-platinum-exploration-in-tamil-nadu-signed_100389223.html MOU for platinum exploration in Tamil Nadu signed]. thaindian.com. July 1, 2010</ref>
+
+[[月球]]和[[隕石]]中的鉑含量更高，因此在地球上經[[火流星]]撞擊後造成火山噴發的區域會有較高的鉑豐度。這種礦藏具有商業開採價值，索德柏立盆地就是一個例子。<ref>{{cite book|url = http://books.google.com/books?id=N-CLZhAXQzEC&pg=PA133|chapter = Identification of meteoritic components in imactites|first = Christian| last = Koeberl|isbn = 978-1-86239-017-1|pages = 133–155|title = Meteorites: flux with time and impact effects|year = 1998}}</ref>
+
+==化合物==
+
+===鹵化物===
+氯鉑酸是最重要的鉑化合物之一，它可以用來生產許多其他的鉑化合物。氯鉑酸本身的應用廣泛，包括攝影、鋅蝕刻、不褪色墨水、電鍍、鏡子、瓷器上色以及催化劑等。<ref name="krebs">{{cite book|title = The History and Use of our Earth's Chemical Elements|author = Krebs, Robert E.|chapter = Platinum|pages = 124–127|publisher = Greenwood Press|year = 1998|isbn = 0-313-30123-9}}</ref>
+
+氯鉑酸經銨鹽（如[[氯化銨]]）處理後，會產生[[氯鉑酸銨]]。<ref name=Kauuf>{{cite journal|title = Ammonium Hexachloroplatinate(IV)|first = George B.|last = Kauffman|year = 1967|journal = Inorganic Syntheses|volume = 9 |pages = 182–185|doi = 10.1002/9780470132401.ch51|last2 = Thurner|first2 = Joseph J.|last3 = Zatko|first3 = David A.|series = Inorganic Syntheses|isbn = 978-0-470-13240-1}}</ref>氯鉑酸銨在氨溶液中的可溶性較低。在氫氣中經加熱後，氯鉑酸銨會還原成鉑金屬。[[氯鉑酸鉀]]的可溶性同樣較低；在[[重力測量]]實驗中，氯鉑酸可用於探測鉀離子。<ref>{{cite journal|first1 = G. F.|last1 =Smith |first2= J. L.|last2 = Gring|title = The Separation and Determination of the Alkali Metals Using Perchloric Acid. V. Perchloric Acid and Chloroplatinic Acid in the Determination of Small Amounts of Potassium in the Presence of Large Amounts of Sodium|journal = [[Journal of the American Chemical Society]]|year = 1933|volume = 55|issue = 10|pages = 3957–3961|doi = 10.1021/ja01337a007}}</ref>
+
+氯鉑酸在被加熱時，會經過[[四氯化鉑]]和[[二氯化鉑]]，再分解成單質鉑元素。這一反應並不分步驟發生：<ref>{{cite journal|first1 = A. E.|last1 =Schweizer|first2 = G. T.|last2 =Kerr|title = Thermal Decomposition of Hexachloroplatinic Acid|journal = [[無機化學 (期刊)|Inorganic Chemistry]]|year = 1978|volume = 17|issue = 8|pages = 2326–2327|doi = 10.1021/ic50186a067}}</ref>
+
+: (H<sub>3</sub>O)<sub>2</sub>PtCl<sub>6</sub>·''n''H<sub>2</sub>O {{eqm}} PtCl<sub>4</sub> + 2 HCl + (''n'' + 2) H<sub>2</sub>O
+: PtCl<sub>4</sub> {{eqm}} PtCl<sub>2</sub> + Cl<sub>2</sub>
+: PtCl<sub>2</sub> {{eqm}} Pt + Cl<sub>2</sub>
+
+以上三項反應皆可逆。已知的鉑鹵化物還包括[[二溴化鉑]]和[[四溴化鉑]]。[[六氟化鉑]]是一種強氧化劑，能夠對氧進行氧化（見[[二氧基鹽#製備|二氧基鹽]]）。
+
+===氧化物===
+[[二氧化鉑]]（PtO<sub>2</sub>）亦稱亞當斯催化劑，呈黑色粉末狀，可溶於[[氫氧化鉀]]溶液及濃酸中。<ref name="perry">{{cite book |title = Handbook of Inorganic Compounds |last=Perry|first= D. L. |pages = 296–298|year = 1995|isbn = 0-8493-8671-3|publisher = CRC Press}}</ref>二氧化鉑以及較為罕見的一氧化鉑在加熱後都會分解。<ref name="lagowski"/>氧化鉑(II,IV)（Pt<sub>3</sub>O<sub>4</sub>）可經以下反應生成：
+
+:2 Pt<sup>2+</sup> + Pt<sup>4+</sup> + 4 O<sup>2−</sup> → Pt<sub>3</sub>O<sub>4</sub>
+
+===其他化合物===
+<!-- 不明白句子含義： Unlike [[palladium acetate]], [[platinum(II) acetate]] is not commercially available. Where a base is desired, the halides have been used in conjunction with [[sodium acetate]].<ref name = han/> -->在合成鉑的N-雜環卡賓配合物時，可以使用乙酰丙酮酸鉑(II)作為初始反應物，以減少合成步驟，使反應更容易進行。<ref>{{cite journal|first1 = Sebastian |last1= Ahrens |first2= Thomas|last2= Strassner|doi = 10.1016/j.ica.2006.05.042|title = Detour-free synthesis of platinum-bis-NHC chloride complexes, their structure and catalytic activity in the CH activation of methane|year = 2006|journal = Inorganica Chimica Acta|volume = 359|page = 4789|issue = 15}}</ref>
+
+在各種鉑化鋇化合物中，鉑擁有低於零的氧化態：−1至−2。這些化合物包括BaPt、{{chem|Ba|3|Pt|2}}和{{chem|Ba|2|Pt}}。<ref>{{cite journal| doi = 10.1039/b514631c |title = An experimental proof for negative oxidation states of platinum: ESCA-measurements on barium platinides|first1=Andrey |last1= Karpov| first2=Mitsuharu| pmid = 16479284 |last2=Konuma|first3=Martin |last3=Jansen|journal = Chemical Communications|year = 2006| issue = 8|pages = 838–840}}</ref>鉑化銫（{{chem|Cs|2|Pt}}）是一種深紅色透明晶體，<ref>{{cite journal|doi=10.1002/anie.200352314|title=Cs2Pt: A Platinide(-II) Exhibiting Complete Charge Separation|year=2003|last1=Karpov|first1=Andrey|last2=Nuss|first2=Jürgen|last3=Wedig|first3=Ulrich|last4=Jansen|first4=Martin|journal=Angewandte Chemie International Edition|volume=42|issue=39|page=4818}}</ref>它含有Pt{{su|p=2−}}離子。<ref name="Jansen">{{cite journal|doi=10.1016/j.solidstatesciences.2005.06.015|title=Effects of relativistic motion of electrons on the chemistry of gold and platinum|year=2005|last1=Jansen|first1=Martin|journal=Solid State Sciences|volume=7|page=1464|bibcode=2005SSSci...7.1464J|issue=12}}</ref>在經過電化學還原的表面上，鉑也可以有低於零的氧化態。<ref>{{cite journal|doi=10.1021/jp068879d|title=Spectroscopic Evidence of Platinum Negative Oxidation States at Electrochemically Reduced Surfaces|year=2007|last1=Ghilane|first1=J.|last2=Lagrost|first2=C.|last3=Guilloux-Viry|first3=M.|last4=Simonet|first4=J.|last5=Delamar|first5=M.|last6=Mangeney|first6=C.|last7=Hapiot|first7=P.|journal=Journal of Physical Chemistry C|volume=111|page=5701|issue=15}}</ref>負的氧化態數值對於金屬元素來說十分特殊，這一現象與6s[[電子軌域]]的[[相對論]]性穩定作用有關。<ref name="Jansen" />
+
+[[蔡斯盐]]含有一個[[乙烯]]配位體，是最早被發現的[[有機金屬化合物]]之一。[[(1,5-环辛二烯)二氯化铂(II)]]是一種[[烯烴]]配合物，它含有能夠輕易置換的[[1,5-环辛二烯]]配位體。1,5-环辛二烯配合物以及鉑的各種鹵化物都可以作為鉑化學研究的初始反應物。<ref name=han/>
+
+[[順鉑]]，又稱順式-二氯二氨合鉑(II)，是一種含鉑(II)、呈平面正方形結構的化療藥物。同類藥物還包括[[卡鉑]]（Carboplatin）和[[奧沙利鉑]]。這些化合物能夠[[交叉鏈接]][[DNA]]，並通過相似的反應路徑產生烷化劑，從而殺死細胞。<ref name="Richards">{{cite journal|last1 = Richards|first1 = A.D.|last2= Rodger|first2= A.|year = 2007|url = http://www.rsc.org/publishing/journals/CS/article.asp?doi=b609495c|title = Synthetic metallomolecules as agents for the control of DNA structure|journal =Chemical Society Reviews |volume = 36|pages = 471–483|doi = 10.1039/b609495c|pmid = 17325786|issue = 3}}</ref>
+
+<gallery widths=160px heights=140px>
+File:Hexachloridoplatinat-Ion.svg|六氯鉑酸離子
+File:Zeise's-salt-anion-3D-balls.png|蔡斯鹽陰離子
+File:Dichloro(cycloocta-1,5-diene)platinum(II)-from-xtal-3D-balls-E.png|(1,5-环辛二烯)二氯化铂(II)
+File:Cisplatin-3D-balls.png|順鉑
+</gallery>
+
+==歷史==
+美洲原住民（今[[厄瓜多爾]][[埃斯梅拉達斯 (厄瓜多爾)|埃斯梅拉達斯]]附近）在[[前哥倫布時期]]就開始使用鉑金屬來製造各種金鉑合金製品。1557年，[[意大利]][[文藝復興人文主義|人文主義者]][[朱利斯·凱撒·斯卡利傑]]對鉑金屬作出描述，稱這種在[[達連省|達連]]和[[墨西哥]]之間所發現的未知貴金屬「用火焰或任何西班牙技術都無法將其熔化」。<ref name="weeks">{{cite book| title = Discovery of the Elements|pages = 385–407|author = Weeks, M. E.|year= 1968|edition = 7|publisher = Journal of Chemical Education| isbn = 0-8486-8579-2| oclc = 23991202}}</ref>
+
+[[File:platinum-symbol 2.svg|thumb|left|75px|鉑的[[鍊金術|鍊金]]符號由金和銀的符號結合組成。]]
+[[File:Almirante Antonio de Ulloa.jpg|thumb|安東尼奧·烏略亞為鉑元素的發現做出了重要貢獻。]]
+
+1741年，英國[[冶金學]]家查爾斯·伍德（Charles Wood）<ref>{{cite book |url = http://books.google.de/books?id=525bAAAAQAAJ&pg=PP7 | page = 52 |title = The literary life of William Brownrigg. To which are added an account of the coal mines near Whitehaven: And Observations on the means of preventing epidemic fevers |author1 = Dixon |first1 = Joshua |last2 = Brownrigg |first2 = William |year = 1801}}</ref><!--http://books.google.de/books?id=S1lFAAAAcAAJ&pg=PA672-->在[[牙買加]]發現了各種來自哥倫比亞的鉑樣本，並將樣本寄往[[威廉·布朗里格]]（William Brownrigg）作進一步分析。[[安東尼奧·烏略亞]]也被認為是鉑的發現者之一。他在[[法國測地線遠征]]（French Geodesic Mission）8年以後，於1746年回到了西班牙。他把鉑描述為一種不可分離且不可[[煅燒]]的金屬。烏略亞同時預測人們將會發現鉑礦藏。1748年，他發表了相關報告之後，就沒有再繼續探究此金屬。<ref name="weeks"/>
+
+1750年，布朗里格在研究過伍德所寄來的鉑樣本之後，向[[皇家學會]]呈交了一份有關鉑的詳細報告，表示在過去有關已知礦物的文獻中，從未提及此金屬。<ref>{{cite journal |pages = 584–596|doi = 10.1098/rstl.1749.0110 |title = Several Papers concerning a New Semi-Metal, Called Platina; Communicated to the Royal Society by Mr. Wm. Watson F. R. S |year = 1749 |last1 = Watson |first1 = Wm |last2 = Brownrigg |first2 = William |journal = Philosophical Transactions |volume = 46|url = http://rstl.royalsocietypublishing.org/content/46/491-496/584.full.pdf |issue = 491–496}}</ref>布朗里格也提到了鉑的熔點之高，且對[[硼砂]]有著極高的耐火度。歐洲各地的化學家相繼對鉑進行研究，如：[[安德烈亞斯·西吉斯蒙德·馬格拉夫]]、<ref>{{cite book | url = http://books.google.de/books?id=GWNQAAAAcAAJ | title = Versuche mit dem neuen mineralischen Körper Platina del pinto genannt | author1 = Marggraf | first1 = Andreas Sigismund | year = 1760}}</ref>[[托爾貝恩·奧洛夫·貝爾曼]]（Torbern Olof Bergman）、[[永斯·雅各布·貝采利烏斯]]、<!--http://www.google.de/url?sa=t&rct=j&q=pmr-v23-i4-155-156&source=web&cd=4&ved=0CFoQFjAD&url=http%3A%2F%2Fwww.platinummetalsreview.com%2Fpdf%2Fpmr-v23-i4-155-156.pdf&ei=FxWTT_6YOoOLswaKy7XeBA&usg=AFQjCNFn8__okV3fK4xcNSg1bQ-Nm_NZHg-->[[威廉·李維斯]]（William Lewis）<!--http://www.google.de/url?sa=t&rct=j&q=platina+William+Lewis&source=web&cd=1&ved=0CC4QFjAA&url=http%3A%2F%2Fwww.platinummetalsreview.com%2Fpdf%2Fpmr-v7-i2-066-069.pdf&ei=hhWTT4-YNozLsgb14LGLBA&usg=AFQjCNHCECiLbEjXypnkLTujKyMs47FANQ-->和[[皮埃爾-約瑟夫·馬蓋]]（Pierre-Joseph Macquer）等。1752年，[[亨利克·特奧菲盧斯·謝佛爾]]（Henrik Teofilus Scheffer）發表了一份有關鉑的詳細科學描述。他將其稱為「白金」，並詳述了如何利用[[砷]]來熔融鉑礦物。報告還指出，鉑比金更易彎曲，但耐腐蝕性則相近。<ref name="weeks"/>
+
+卡爾·馮·西金根（Carl von Sickingen）於1772年對鉑進行了大量的研究。他用以下步驟製成了具可塑性的鉑：先將鉑與金製成合金，溶於熱[[王水]]之中，用[[氯化銨]]把鉑沉澱出來，再將產生的氯鉑酸銨點燃，最後把鬆散的鉑敲打成塊。[[弗朗茲·卡爾·阿哈爾德]]（Franz Karl Achard）於1784年製造了第一個鉑製[[坩堝]]。他將鉑與砷結合，經過處理工序後再把砷揮發出來。<ref name="weeks"/>
+
+由於鉑是第一個被發現的鉑系元素，所以謝佛爾和西金根錯誤地認為，鉑的硬度（比鐵稍高）會使它較難彎曲，甚至有脆性；然而事實上鉑的可塑性很高，與金相近。當時他們的鉑樣本混雜了不少別的鉑系元素，如[[鋨]]和[[銥]]等，這大大增加了鉑樣本的脆性。要製成可塑的鉑化合物，他們只能摻入金。今天，人們能夠製造高純度的鉑金屬。由於鉑的晶體結構和許多軟金屬相似，所以很容易製成很長的鉑金屬絲。<ref>[http://mysite.du.edu/~jcalvert/phys/platinum.htm Platinum]. mysite.du.edu</ref>
+
+1786年，西班牙的[[卡洛斯三世]]賜給[[皮埃爾-弗朗索瓦·沙巴諾]]（Pierre-François Chabaneau）書庫和實驗室，以助他對鉑的研究。沙巴諾成功地從鉑礦物中去除各種雜質，包括金、銀、鉛、銅和鐵，這使他認為手中的樣本是單一金屬。不過，樣本還含有尚未被發現的鉑系元素。因此沙巴諾得出了矛盾的實驗結果：有時鉑顯得可塑，但在摻入銥後，合金卻變得易碎；有時鉑完全不可燃，但在摻入鋨後，合金卻會揮發。幾個月之後，沙巴諾對白熱化的海綿狀含鉑物質進行錘打和擠壓，製備出23公斤具可塑性的純鉑金屬。他意識到，由於熔點極高，鉑的價值也會很高，所以他與華金·卡貝薩斯（Joaquín Cabezas）開始合作製造並售賣鉑錠和鉑製器具。西班牙的「鉑金時代」自此開始。<ref name="weeks"/>
+
+[[一氧化碳]]經過[[催化轉換器]]中的鉑時會被氧化成[[二氧化碳]]。[[格哈德·埃特爾]]因發現該反應的具體分子機制而於2007年獲得了[[諾貝爾化學獎]]。<ref>{{cite journal |pages = 385–407|doi = 10.1002/anie.200800480 |title = Reactions at Surfaces: From Atoms to Complexity (Nobel Lecture) |pmid = 18357601 |issue = 19 |year = 2008 |last1 = Ertl |first1 = Gerhard |journal = Angewandte Chemie International Edition |volume = 47}}</ref>
+
+==生產==
+[[File:One litre of Platinum.jpg|thumb|right|共一千立方厘米的99.9%純鉑，2012年7月14日市值970,600美元<ref name=WolframAlpha>{{cite web|title=21.09kg Pt|url=http://www.wolframalpha.com/input/?i=21.09kg+Pt|publisher=WolframAlpha|accessdate=14 July 2012}}</ref>]]
+[[File:Platinum world production.svg|thumb|鉑產量趨勢圖<ref>Kelly, Thomas D. and Matos, Grecia R. (2013)  [http://minerals.usgs.gov/ds/2005/140 Historical Statistics for Mineral and Material Commodities in the United States], U.S. Geological Survey</ref>]]
+
+和其餘的[[鉑系元素|鉑系金屬]]一樣，鉑是[[鎳]]和[[銅]]的商業開採加工過程的副產品。在銅的電解精煉過程中，銀、金、各種鉑系金屬、[[硒]]和[[碲]]都會下沉至槽的底部，形成「陽極泥」。鉑系金屬的萃取過程便是從這一泥狀物質開始的。<ref name="usgs2010-yearbook">{{cite web | url = http://minerals.usgs.gov/minerals/pubs/commodity/platinum/myb1-2010-plati.pdf |author=Loferski, P. J. |title = 2010 Minerals Yearbook; Platinum-group metals | publisher =USGS Mineral Resources Program|format=PDF|date=October 2011 |accessdate=2012-07-17}}</ref>
+
+如果在[[飄沙沉積]]物或其他礦物中發現純鉑，則可以在移除雜質的過程中將鉑提取出來。鉑的密度高於大部份的雜質，所以較輕的雜質可以用浮力分離的方式輕易地提取出來。鉑具有[[順磁性]]，而鎳和鐵都具有[[鐵磁性]]。混合物經過電磁鐵後，鎳和鐵就會被分離出來。鉑的熔點較高，因此可以利用高溫把不少雜質熔融去除。最後，鉑不受[[氫氯酸]]和[[硫酸]]侵蝕，混合物在任一者中經攪拌後，雜質自然會溶解，剩餘的就是鉑。<ref name="heiserman">{{cite book|title=Exploring Chemical Elements and their Compounds|last = Heiserman |first= David L.|pages = 272–274|publisher = TAB Books|isbn = 0-8306-3018-X|year = 1992}}</ref>
+
+原始鉑中還含有金以及其他鉑系元素。要純化原始鉑，可以用王水處理。鈀、金和鉑會溶解，而鋨、銥、釕和銠則不會反應。加入[[二氯化鐵]]後，金會沉澱出來，並可以過濾出來。加入[[氯化銨]]之後，氯鉑酸銨會沉澱，經加熱後可以轉化為鉑金屬。<ref>{{cite journal|first1 = L. B.|last1 = Hunt|last2 = Lever |first2= F. M.|journal = Platinum Metals Review|volume = 13|issue = 4|year = 1969|pages = 126–138|title = Platinum Metals: A Survey of Productive Resources to industrial Uses|url = http://www.platinummetalsreview.com/pdf/pmr-v13-i4-126-138.pdf}}</ref>未沉澱的六氯鉑酸(IV)可以經[[鋅]]元素還原。在實驗室中，也可以用類似的方法把鉑從少量的殘留物中萃取出來。<ref>{{cite journal | journal = Inorg. Synth. | title = Recovery of Platinum from Laboratory Residues | author1 = Kauffman, George B.; Teter, Larry A. and Rhoda, Richard N.| doi = 10.1002/9780470132388.ch61 | series = Inorganic Syntheses | year = 1963 | isbn = 9780470132388 | volume = 7 | pages = 232}}</ref>
+
+==應用==
+[[File:Aufgeschnittener Metall Katalysator für ein Auto.jpg|thumb|金屬芯[[催化轉換器]]剖視圖]]
+2010年售出的245噸鉑當中，113噸（46%）用於汽車催化轉換器，76噸（31%）用於首飾，其餘35.5噸的應用包括投資、電極、抗癌藥物、[[氧傳感器]]、[[火花塞]]和渦輪引擎等。<ref name="usgs2010-yearbook"/>
+
+===催化劑===
+鉑的最大用途是做化學反應的[[催化劑]]，這種催化劑通常是[[鉑黑]]。19世紀早期，化學家就開始用鉑粉末對氫的點燃反應進行催化。今天，鉑的最大應用在於汽車的[[催化轉換器]]，使廢氣中低濃度未燃燒的[[碳氫化合物]]能夠完全燃燒，產生二氧化碳和水氣。在石油業中，鉑可以用來催化若干個不同的反應，特別是將[[石腦油]][[催化重整]]為更高[[辛烷值]]的[[汽油]]。[[二氧化鉑]]（或稱亞當斯催化劑）是一種氫化反應的催化劑，特別用於生產[[植物油]]。<ref name="krebs"/>鉑金屬可以很好地催化[[過氧化氫]]分解為水和氧氣的反應。<ref>{{cite book|title=General Chemistry: Principles & Modern Applications|author = Petrucci, Ralph H.|edition=9th|page = 606|publisher = Prentice Hall|year = 2007|isbn=0-13-149330-2}}</ref>
+
+===度量衡標準===
+[[File:Platinum-Iridium meter bar.jpg|thumb|right|[[國際米原器]]]]
+在1889至1960年間，[[米 (單位)|米]]的定義以一件特製的鉑銥合金（90比10）棒之長度為標準，這根棒稱為[[國際米原器]]。1799年的原器則是用鉑製造的。[[國際公斤原器]]是用1879年的同一批鉑銥合金製成的一個圓柱體，至今仍然是[[公斤]]的標準砝碼。<ref name="meter">{{cite book|doi = 10.1007/978-3-642-00738-5_4|chapter = Chapter 4. Metre Convention and Evolution of Base Units|year = 2010|last1 = Gupta|first1 = S. V.|page = 47|title=Springer Series in Materials Science, Volume 122}}</ref>
+
+[[標準氫電極]]使用鉑製電極，同樣因為鉑的抗腐蝕性很高。<ref name="HollemanAF">{{cite journal|last1 = Feltham|first1 = A. M.|last2 = Spiro|first2 = Michael|title = Platinized platinum electrodes|journal = Chemical Reviews|volume = 71|page = 177|year = 1971|doi = 10.1021/cr60270a002|issue = 2}}</ref>
+
+===貴金屬===
+[[File:2005 AEPlat Proof Obv.png|thumb|left|100px|鉑鷹（Platinum Eagle）]]
+
+鉑是一種[[貴金屬]]貿易商品。鉑錠的[[ISO 4217|ISO貨幣代碼]]為「XPT」。鉑幣、鉑條和鉑錠可以作交易或收藏。由於鉑不易受侵蝕，且外表閃亮，所以也被用作首飾，通常使用的是90%至95%合金。有關珠寶交易的出版物一般建議珠寶商在鉑的表面刮出一些劃痕。<ref>{{cite web|url = http://www.professionaljeweler.com/archives/articles/2004/aug04/0804fys.html|title=Professional Jeweler's Magazine Archives, issue of August 2004 | accessdate = June 19, 2011}}</ref><ref>{{cite web|url = http://www.diamondcuttersintl.com/a-platinum-primer|title = Platinum primer|publisher = Diamond Cutters International|accessdate=June 18, 2011}}</ref>
+
+在製錶業中，不少公司會用鉑來製造限量版鐘錶系列。鉑既不會失去光澤，又不會刮損（相比金而言），非常適宜作鐘錶材料。<ref>{{cite web|url = http://watches.infoniac.com/index.php?page=post&id=44|title = Unknown Facts about Platinum|publisher = watches.infoniac.com|accessdate = 2008-09-09}}</ref>
+
+[[File:Pt price 92 12.jpg|thumb|right|1992至2012年間鉑的平均價格，以美元每[[金衡盎司]]計（約20美元每克）<ref>{{cite web|url = http://www.lppm.org.uk/statistics.aspx|title = Fixing Statistics|publisher = The London Platinum and Palladium Market|accessdate = 2010-06-13}}</ref>]]
+
+和其他工業用貿易商品一樣，鉑價格的波動比金更高。2008年，鉑價從每金衡盎司2,252美元降至774美元，<ref name="Kitco Pt 2008 prices">{{cite web |title = One Year Platinum |publisher=Kitco |url=http://www.kitco.com/LFgif/pt2008.gif |accessdate=2011-06-28}}</ref>市值降低近三分之二。相比同時期，金價從每盎司1,000美元左右跌至700美元左右，市值降低僅三分之一。
+
+在持續穩定增長的經濟內，鉑的價格往往是金的雙倍；而在不穩定時期，<ref name="TheSpeculativeInvestor">{{cite web|title = Platinum versus Gold|publisher=The Speculative Invertor|url = http://www.speculative-investor.com/new/article150402.html|date=14 April 2002}}</ref>由於工業需求降低，鉑價一般跌至金價的水平以下。在經濟滯緩時，金價更加穩定，因為其需求量並不受工業用途的推動。18世紀，法國的[[路易十五]]鑒於鉑之稀有，宣告鉑是唯一一種配得上國王的金屬。<ref name="mineralszone">{{cite web |title=Platinum |publisher=Minerals Zone |url=http://www.mineralszone.com/minerals/platinum.html |accessdate=2008-09-09}}</ref>
+
+===其他用途===
+在實驗室當中，鉑金屬絲可用作電極。[[熱重分析]]會使用鉑製的盤和支架，因為在高溫下（約1000&nbsp;°C）它必須要嚴格地保持化學惰性。鉑是各種金屬器具的合金添加劑，如金屬細絲、抗腐蝕實驗容器、醫療器材、假牙、電觸頭和熱電偶等。鉑鉻合金大約由三份鉑、一份鉻組成，可以製成強力的[[永久磁體]]。<ref name="krebs"/>船隻、管道和鋼鐵碼頭都有用到含鉑的陽極。<ref name="CRC"/>
+
+===尊貴的象徵===
+[[File:Platinum nuggets.jpg|thumb|原始鉑塊]]
+鉑極為稀有，所以常被認為是尊貴的象徵。「白金卡」（信用卡等）的服務水平一般比「金卡」更高。<ref>{{cite journal|last1 = Gwin|first1 = John|title = Pricing Financial Institution Products|journal = Journal of Professional Services Marketing|volume = 1|page = 91|year = 1986|doi = 10.1300/J090v01n03_07|issue = 3}}</ref>對於唱片來說，「[[音樂唱片銷售認證|白金獎]]」是第二高的榮譽，位於[[鑽石]]以下，金、銀、銅之上。例如在美國，銷售超過一百萬張的唱片會被稱為「白金唱片」，而銷售超過一千萬張的唱片則會被稱為「鑽石唱片」。<ref>{{cite book|page = 126|url = http://books.google.com/books?id=dYFv3ifE0f4C&pg=PA126|title = Big Bang Baby: The Rock Trivia Book|isbn = 978-0-88882-219-2|author1 = Crouse, Richard|date = 2000-05-01}}</ref>其他商品如果表面呈銀白色，也會被稱為「白金」。[[伊麗莎白王后冠]]是為[[喬治六世]]的加冕而特製，其框架就是以鉑作為材料的。它是首個用到鉑金屬的英國皇冠。<ref>{{cite book|url = http://books.google.com/books?id=SImTll3uupIC&pg=PA312|title = The Signs and Symbols Bible: The Definitive Guide to Mysterious Markings|isbn = 978-1-4027-7004-3|author1 = Gauding, Madonna|date = 2009-10-06}}</ref>
+
+==健康安全==
+根據[[美國疾病控制與預防中心]]，短期暴露在鉑鹽中會對眼部和咽喉造成刺激，長期暴露則有可能會導致呼吸道和皮膚的過敏反應。目前在美國的標準暴露量為每立方米空氣2微克鉑，數值取8小時工作時段內的平均值。<ref>{{cite web |url=http://www.cdc.gov/niosh/docs/81-123/pdfs/0520.pdf |format=PDF |title=Occupational Health Guideline for Soluble Platinum Salts (as Platinum) |publisher=Centers for Disease Control and Prevention |accessdate=2008-09-09}}</ref>
+
+鉑基抗腫瘤藥目前用於[[化療]]，其對付某些腫瘤的效果良好。
+
+鉑是某些[[矽橡膠]]和凝膠生產過程中的[[催化劑]]，這些物質是多種醫療植入物的成份，例如乳房植入物、關節修復體、人造腰椎間盤等等。包括[[美國食品藥品監督管理局]]在內的多個機構在進行調查後，並未發現鉑在體內具有毒性的證據。<ref>{{cite web |url=http://www.fda.gov/cdrh/breastimplants/platinum.html |title=FDA Backgrounder on Platinum in Silicone Breast Implants |publisher=U.S. Food and Drug Administration |accessdate=2008-09-09 |archiveurl=http://web.archive.org/web/20080724070851/http://www.fda.gov/cdrh/breastimplants/platinum.html <!--Added by H3llBot--> |archivedate=2008-07-24}}</ref><ref>{{cite journal|first = Michael|last = Brook|title = Platinum in silicone breast implants|journal = Biomaterials|volume = 27|year = 2006|doi = 10.1016/j.biomaterials.2006.01.027|issue = 17|pages = 3274–3286|pmid = 16483647}}</ref>
+
+==參考資料==
+{{Reflist|30em}}
+
+==外部鏈接==
+{{Commons|鉑}}
+{{wiktionary|鉑}}
+* [http://www.periodicvideos.com/videos/078.htm Platinum]，''The Periodic Table of Videos''（諾丁漢大學）
+* ''[http://chartofthenuclides.com/default.html Nuclides and Isotopes] Fourteenth Edition: Chart of the Nuclides'', General Electric Company, 1989.
+* [http://www.cdc.gov/niosh/npg/npgd0519.html NIOSH Pocket Guide to Chemical Hazards – Platinum]（NIOSH化學危害袖珍指南：鉑）美國疾病控制與預防中心
+* {{cite web|url = http://www.pgmdatabase.com/|title = The PGM Database}}
+* {{cite web|url = http://elements.vanderkrogt.net/element.php?sym=Pt|title = A balanced historical account of the sequence of discoveries of platinum; illustrated.}}
+* {{cite web|url = http://www.platinummetalsreview.com/|title = Platinum Metals Review: A free, quarterly journal of research on the science and technology of the platinum group metals and developments in their application in industry}}
+* {{cite web|url = http://minerals.usgs.gov/minerals/pubs/commodity/platinum/|title = Platinum-Group Metals Statistics and Information|publisher = United States Geological Survey}}
+{{元素週期表}}
+{{珠寶材料}}
+
+[[Category:铂| ]]
+[[Category:催化剂]]
+[[Category:化学元素]]
+[[Category:貴金屬]]
+[[Category:过渡金属]]
