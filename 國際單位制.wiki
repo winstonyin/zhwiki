@@ -1,0 +1,1181 @@
+{{noteTA
+|G1=物理學
+|G2=Unit
+|1=zh-cn:英联邦; zh-tw:大英國協; zh-hk:英聯邦; zh-sg:大英国协;
+|2=zh-cn:千克; zh-tw:公斤; zh-hk:公斤;
+|3=zh-cn:米; zh-tw:公尺; zh-hk:米;
+}}
+{{Redirect2|SI|Si的其他含義|Si}}
+[[File:SI base unit.svg|thumb|七個國際單位制基本單位的相互定義關係]]
+
+'''國際單位制'''（{{lang-fr|'''S'''ystème '''I'''nternational d'Unités}}，簡稱{{lang|fr|SI}}），<!--稱萬國公制的時候，國際單位制還未建立。
+舊稱'''萬國公制'''，<ref name="ROClaw">{{Cite act| year=1929| title=度量衡法| article=2| url=https://zh.wikisource.org/zh-hant/度量衡法_(民國18年)| language=zh| accessdate=2017-02-20}}</ref>-->源於[[公制]]（又稱米制），是世界上最普遍採用的標準[[度量衡]]單位系統。國際單位制以七個[[國際單位制基本單位|基本單位]]為基礎，由此建立起一系列相互換算關係明確的「一致單位」。另有二十個基於[[十進制]]的[[國際單位制詞頭|詞頭]]，當加在單位名稱或符號前的時候，可用於表達該單位的倍數或分數。
+
+國際單位制從1948年開始建立，於1960年正式公佈。它建基於[[米-千克-秒制]]（MKS），而非任何形式的[[厘米-克-秒制]]（CGS）。國際單位制的設計意圖是，先定義詞頭和單位名稱，但單位本身的定義則會隨著度量科技的進步、精準度的提高，根據國際協議來演變。例如，分別於2011年、2014年舉辦的第24、25屆[[國際度量衡大會]]討論了有關重新定義[[公斤]]的提案。<ref name="25th CGPM">{{cite web |url=http://www.bipm.org/utils/common/pdf/25th-CGPM-Convocation.pdf#page=32 |title=Convocation of the General Conference on Weights and Measures (25th meeting) |page=32 |publisher=International Bureau of Weights and Measures |accessdate=27 May 2014}}</ref>
+
+隨著科學的發展，厘米-克-秒制中出現了不少新的單位，而各學科之間在單位使用的問題上也沒有良好的協調。因此在1875年，多個國際組織協定《[[米制公約]]》，創立了國際度量衡大會，目的是訂下新度量衡系統的定義，並在國際上建立一套書寫和表達計量的標準。
+
+國際單位制已受大部分[[發達國家]]所採納，但在英語國家當中，國際單位制並沒有受到全面的使用。
+
+==歷史==
+[[File:Alter Grenzstein Pontebba 01.jpg|thumb|upright|前[[奧匈帝國]]與[[意大利]]邊境上（今[[蓬泰巴]]）的石碑以「Myriameter」標示距離。這一單位等於10公里，在19世紀[[中歐]]曾經使用過，但現已被淘汰。<ref name=Europa1842>{{cite web
+|url = http://www.spasslernen.de/geschichte/groessen/mas1.htm
+|title = Amtliche Maßeinheiten in Europa 1842
+|language = German
+|trans_title = Official units of measure in Europe 1842
+|postscript = Text version of Malaisé's book
+|accessdate = 26 March 2011}}</ref><ref>{{cite book
+|url = https://books.google.com/?id=TQgHAAAAcAAJ&printsec=frontcover
+|title = Theoretisch-practischer Unterricht im Rechnen
+|language = German
+|trans_title = Theoretical and practical instruction in arithmetic
+|author = Ferdinand Malaisé
+|place = München
+|year = 1842
+|pages = 307–322
+|accessdate = 7 January 2013}}</ref>]]
+[[公制]]最早在1790年代法國大革命期間採用，當時只有[[長度]]和[[質量]]的原器，分別作[[米]]和[[公斤]]的定義標準。<ref group=Note>直至1901年科學家才正式訂下[[質量對重量|質量與重量的差別]]。</ref>1830年代，[[卡爾·弗里德里希·高斯]]為一套建立在長度、質量和[[時間]]上的「一致單位制」打下了根基。1860年代，在英國科學促進協會（{{lang-en|British Association for the Advancement of Science}}）的主持下，一組科學家制訂了一套包含[[國際單位制基本單位|基本單位]]和[[國際單位制導出單位|導出單位]]的一致系統。但當時人們同時使用著多個與[[電]]有關的單位，因此阻礙了將電單位納入這套單位制之中。直到1900年，{{le|喬瓦尼·吉奧爾吉|Giovanni Giorgi}}才提倡在原來的三個基本單位之外再加一個電單位。
+
+1875年，法國根據《[[米制公約]]》把維護公斤和米定義原器的責任轉交給國際組織。1921年，公約適用範圍擴大至所有[[物理量]]，包括最早於1893年定義的各種電單位。
+
+1948年，學者們開始將公制重新制訂為一套「實用單位制」，經過逾十年的發展後，終於在1960年公佈「國際單位制」。1954年第10屆[[國際度量衡大會]]把[[電流]]、[[溫度]]及[[發光強度]]定為基本物理量，使基本物理量增加至六個。相對應的基本單位有[[米]]、[[公斤]]、[[秒]]、[[安培]]、[[開爾文]]和[[坎德拉]]。1971年，國際單位制再添一個基本物理量──以[[摩爾 (單位)|摩爾]]來表示[[物質的量]]。
+
+===早期發展===
+1791年，[[法國科學院]]的一個委員會受[[國民議會 (法國)|國民議會]]和[[路易十六]]的委派，開始建立一套統一的、基於理性的度量衡系統，這將成為公制。<ref>{{Cite web
+|url=http://www1.bipm.org/en/si/history-si/name_kg.html
+|title=The name "kilogram"
+|publisher = [[International Bureau of Weights and Measures]]
+|accessdate=25 July 2006}}</ref>成員包括「現代化學之父」[[安東萬-羅倫·德·拉瓦節]]及數學家[[皮耶爾-西蒙·拉普拉斯]]和[[阿德里安-馬里·勒壤得]]。<ref name=Alder/>{{rp|89}}委員會在設計長度、體積和質量的相互關係時所遵從的原則，和1668年英國神職人員[[約翰·威爾金斯]]在《論正真的文字和哲學語言》（{{lang-en|''An Essay towards a Real Character and a Philosophical Language''}}）中所提倡的一致。<ref>{{cite book
+|url = http://www.worldcat.org/title/from-artefacts-to-atoms-the-bipm-and-the-search-for-ultimate-measurement-standards/oclc/705716998/viewport
+|title = From artefacts to atoms: the BIPM and the search for ultimate measurement standards
+|publisher = [[Oxford University Press]]
+|year = 2012
+|page = xxvii
+|first1 = Terry
+|last1 = Quinn
+|quote = he [Wilkins] proposed essentially what became ... the French decimal metric system
+|isbn = 978-0-19-530786-3}}</ref><ref>{{cite book
+|author-link= John Wilkins
+|first1 = John
+|last1 = Wilkins
+|year= 1668
+|title= An Essay towards a Real Character and a Philosophical Language
+|chapter = VII
+|pages= 190–194
+|publisher= The Royal Society}}<br />{{cite web
+|url = http://www.metricationmatters.com/docs/WilkinsTranslationLong.pdf 
+|title = Reproduction (33 MB)
+|accessdate= 6 March 2011}}; {{cite web
+|url = http://www.metricationmatters.com/docs/WilkinsTranslationShort.pdf 
+|accessdate = 6 March 2011
+|title = Transcription (126 kB)}}</ref>他們也根據最早於1670年由法國神職人員{{le|加布里埃爾·穆東|Gabriel Mouton}}提出的方法，利用地球的[[子午線]]作為長度的定義基礎。<ref>{{cite web
+|url = http://www.encyclopedia.com/doc/1G2-2830903071.html
+|title = Mouton, Gabriel
+|work = Complete Dictionary of Scientific Biography
+|year = 2008
+|publisher = [[encyclopedia.com]]
+|accessdate = 30 December 2012}}</ref><ref name = Mouton>{{MacTutor|title=Gabriel Mouton|id=Mouton|date=January 2004}}</ref>1791年3月30日，國民議會採納了委員會的新度量衡系統，並批准在[[敦刻爾克]]和[[巴塞羅那]]之間進行勘察，以確立子午線的長度。1792年7月11日，委員會提出將長度、面積、容積和質量的單位名稱分別定為metre（公尺）、are（公畝）、litre（公升）和grave（公斤的舊名），而這些單位的倍數和分數則用以[[十進制]]為基礎的詞頭來表示，如centi表示一百分之一，kilo表示一千倍等等。<ref name=Tavernor>{{cite book
+|title = Smoot's Ear: The Measure of Humanity
+|first1 = Robert 
+|last1 = Tavernor
+|year = 2007
+|publisher = [[Yale University Press]]
+|isbn = 978-0-300-12492-7}}</ref>{{rp|82}}
+
+{{multiple image
+ | width1 = 140
+ | image1 = William Thomson 1st Baron Kelvin.jpg
+ | caption1 = <center>[[威廉·湯姆森]]（開爾文男爵）</center>
+ | width2 = 153
+ | image2 = PSM V78 D529 James Clerk Maxwell.png
+ | caption2 = <center>[[詹姆斯·克拉克·馬克士威]]</center>
+ | footer = 湯姆森和馬克士威在「一致性」原則的發展及許多度量單位的命名上起到了重要的作用。<ref name=SIHistory/><ref name=LordKelvin/><ref name=special/><ref name=BIPMCentenary/><ref name=Maxwell2/>
+ }}
+1795年4月7日法律（[[芽月]]18日法）訂下了gramme（克）和kilogramme（千克），分別取代先前的gravet（準確來說是milligrave）和grave。在[[皮埃爾·梅尚]]和{{le|讓-巴蒂斯特·德朗布爾|Jean-Baptiste Delambre}}的子午線勘察結束後，米和公斤的標準原器於1799年6月22日正式交由法國[[國家檔案館]]（{{lang-fr|Archives nnationales}}）保管。同年12月10日，即[[拿破崙]]的[[霧月政變]]之後的一個月，[[霜月]]19日法正式通過，法國將全面採用公制。<ref>{{cite book | last = Bigourdan | first = Guillaume | authorlink = Guillaume Bigourdan | title = Le Système Métrique Des Poids Et Mesures: Son Établissement Et Sa Propagation Graduelle, Avec L'histoire Des Opérations Qui Ont Servi À Déterminer Le Mètre Et Le Kilogramme (facsimile edition)|language=fr| origyear = 1901 | year = 2012 | publisher = Ulan Press | asin = B009JT8UZU | asin-tld = co.uk | page = 176 }}</ref><ref>{{cite journal
+|url = http://www.platinummetalsreview.com/article/44/3/125-134/
+|accessdate = 18 June 2013
+|title = The Foundation of the Metric System in France in the 1790s: The importance of Etienne Lenoir's platinum measuring instruments
+|first1 = William A.
+|last1 = Smeaton
+|location = Ely
+|journal = Platinum Metals Rev.
+|year = 2000
+|volume = 44
+|pages = 125–134
+|issue = 3}}</ref>
+
+19世紀上半葉，不同基本單位有不同的常用倍數詞頭：法國和德國部分地區常用myriametre（1萬米）量度距離，但在量度質量時卻用kilogram（1千克），而非myriagram（1萬克）。<ref name=Europa1842/>
+
+1832年，德國數學家[[卡爾·弗里德里希·高斯]]在[[威廉·韋伯]]的協助下，得出了[[地球磁場]]的強度，並以毫米、克和秒所組成的單位寫出。秒因此從實際上成為了一個基本單位。<ref name=SIHistory>{{cite web
+|url = http://www.bipm.org/en/si/history-si/
+|title = Brief history of the SI
+|publisher = International Bureau of Weights and Measures
+|accessdate = 12 November 2012}}</ref>此前，科學家只是以相對值來比較各地的地磁場強度，但高斯把磁鐵在磁力底下的[[扭矩]]與物體在[[引力]]底下的扭矩視為等同，所以能夠為磁場強度設下一個建立在質量、長度和時間上[[量綱]]。<ref>{{cite journal
+|url = http://www.21stcenturysciencetech.com/translations/gaussMagnetic.pdf 
+|title = The intensity of the Earth's magnetic force reduced to absolute measurement}}</ref>
+
+1860年代，[[詹姆斯·克拉克·馬克士威]]及[[威廉·湯姆森]]（開爾文男爵）等科學家在英國科學促進協會的主持下，在高斯的基礎上做了進一步的規範，建立起一套由基本單位和導出單位所組成的一致單位制。利用一致性原則，他們成功定義了一組[[厘米-克-秒制]]單位，包括：[[爾格]]表達[[能量]]、[[達因]]表達[[力]]、[[微巴]]表達[[壓力]]、[[泊 (單位)|泊]]表達[[黏度#剪切黏度|剪切黏度]]、斯托克斯表達[[黏度#運動黏度|運動黏度]]等等。<ref name=BIPMCentenary>{{cite book
+|url = https://books.google.com/?id=nOG0SxxEu64C&pg=PA240
+|page = 12
+|title = The International Bureau of Weights and Measures 1875–1975: NBS Special Publication 420
+|date = 20 May 1975
+|editor1-last = Page
+|editor1-first = Chester H
+|editor2-last = Vigoureux
+|editor2-first = Paul
+|publisher = National Bureau of Standards
+|location = Washington, D.C.}}</ref>
+
+===米制公約===
+{{main article|米制公約}}
+法國的度量衡改革啟發了[[計量學]]上的國際合作計劃，多國最終於1875年簽署《[[米制公約]]》。<ref name=Alder/>{{rp|353–354}}公約最初只規定了米和公斤的標準：作為定義標準的共有30件米原器及40件公斤原器，<ref group = Note>《[http://www.bipm.org/utils/common/documents/official/metre-convention.pdf 米制公約]》第6.3條對「標準」和「原器」進行區分，前者是法律所規定的計量大小，後者則是標準所根據的原始物體。</ref>材料均為含90%[[鉑]]和10%[[銥]]的合金，由英國[[莊信萬豐]]公司製造，1889年被國際度量衡大會採用。原器中隨機各選出一件分別做[[國際米原器]]和[[國際公斤原器]]，從此取代早前由法國國家檔案館保管的米和公斤原器。公約的每個簽署國都可擁有一個餘下的原器，做該國的定義標準。<ref name="Nelson">{{Cite journal 
+| first = Robert A. 
+| last = Nelson 
+| title = Foundations of the international system of units (SI) 
+| journal = Phys. Teacher 
+| year = 1981 
+| page = 597 
+| url = http://www.physics.umd.edu/lecdem/services/refs_scanned_WIP/1%20-%20Krishna's%20LECDEM/A101/GetPDFServlet.pdf
+}}</ref>
+
+[[File:US National Length Meter.JPG|thumb|right|屬於美國的第27號國家米原器特寫]]
+根據公約，由三個國際組織來監督國際計量標準：<ref>{{cite web
+|url=http://www.bipm.org/en/convention/
+|title=The Metre Convention
+|publisher=Bureau International des Poids et Mesures
+|date= 
+|accessdate=1 October 2012}}</ref>
+* [[國際度量衡大會]]（{{lang-fr|Conférence générale des poids et mesures}}）：每四至六年舉辦一次，由各成員國代表組成，目的是討論國際度量衡委員會有關國際單位制新發展的報告；
+* [[國際計量委員會|國際度量衡委員會]]（{{lang-fr|Comité international des poids et mesures}}）：委員為八名有威望的科學家，由國際度量衡大會選出，每年在國際度量衡局召開會議，並對國際度量衡大會提出行政上和技術上的建議；
+* [[國際度量衡局]]（{{lang-fr|Bureau international des poids et mesures}}）：位於法國[[塞夫爾]]的一所國際[[計量學]]中心，負責保管國際公斤原器，為國際度量衡大會和國際度量衡委員會提供計量服務，亦是它們的秘書處和會議舉辦的場地。其最初的作用是定期將各國的米和公斤原器與國際公斤原器進行比較。
+
+1921年，米制公約的涵蓋範圍擴展至所有物理單位，包括安培以及其他在1893年美國[[芝加哥]]舉辦的第4屆國際電工大會（{{lang-en|Fourth International Conference of Electricians}}）上所定義的單位。這讓國際度量衡大會能夠解決公制使用上一些不一致的地方。<ref name=LordKelvin>{{cite book
+|title = Lord Kelvin, His Influence on Electrical Measurements and Units
+|first1 = Paul 
+|last1 = Tunbridge
+|url = https://books.google.com/?id=bZUK624LZBMC&pg=PR2
+|pages = 42–46
+|isbn = 0-86341-237-8
+|publisher = Peter Pereginus Ltd
+|year = 1992}}</ref><ref name=SIBrochure/>{{rp|96}}
+
+《米制公約》<ref name=ConventionText>{{cite journal
+|url = http://www.bipm.org/utils/common/documents/official/metre-convention.pdf
+|title = Convention du mètre / The Metre Convention
+|language = French, English
+|others = (Non-authoritative English translation by T.J. Quinn).
+|publisher = CGPM
+|year = 1921
+|accessdate = 18 August 2013}}</ref>以及國際度量衡大會名義下的任何官方文件都是以法語書寫的。<ref name=SIBrochure/>{{rp|94}}
+
+===發展成國際單位制===
+<!--{{Main article|Metrication}}-->
+[[File:SI-metrication-world.png|thumb|400px|right|地圖顯示各國改用公制的情況，改用之年以顏色表示：約1800年（綠）至1980年（紅）。黑色代表該國尚未採用國際單位制，這些國家有：[[緬甸]]、[[利比里亞]]及[[美國]]。[[加拿大]]和[[英國]]也有較廣泛地使用舊單位，如英國的限速標誌和加拿大在量度人的高度時。]]
+19世紀末，共有三個不同的電單位制在同時使用中，分別為：[[厘米-克-秒制#靜電單位制（ESU）|CGS靜電單位制]]，又稱高斯單位制，簡稱ESU；[[厘米-克-秒制#電磁單位制（EMU）|CGS電機械單位]]，簡稱EMU；以及用於配電系統的[[米-千克-秒制]]（國際單位制）。<ref>{{cite book
+|title = Weights, Measures and Units
+|first1 = Donald
+|last1 = Fenna
+|at = International unit
+|isbn = 0-19-860522-6
+|publisher = [[Oxford University Press]]
+|year = 2002}}</ref>在試圖根據[[因次分析]]用長度、質量及時間表達電單位時，科學家遇到了諸多困難──在使用ESU或EMU時，物理量會具有不同的[[因次]]。<ref name=Maxwell2>{{cite book
+|title = A treatise on electricity and magnetism
+|volume = 2
+|author = J C Maxwell
+|year = 1873
+|publisher = Clarendon Press
+|location = Oxford
+|url = https://archive.org/stream/electricandmag02maxwrich
+|pages = 242–245
+|accessdate = 12 May 2011}}</ref>1900年，{{le|喬瓦尼·吉奧爾吉|Giovanni Giorgi}}發表了一篇論文，提倡在當時的三個基本單位以外，再加一個基本單位，電單位不一致的問題迎刃而解。這第四個單位可以是[[電流]]、[[電壓]]和[[電阻]]中的其中一個。<ref name=IECGiorgi>{{cite web
+|url = http://www.iec.ch/about/history/beginning/giovanni_giorgi.htm
+|title = In the beginning... Giovanni Giorgi
+|year = 2011
+|publisher = [[International Electrotechnical Commission]]
+|accessdate = 5 April 2011}}</ref>
+
+19世紀後期至20世紀初期，人們採用了一系列不一致的單位制，在質量上有的用克，有的用公斤；在長度上有的用厘米，有的用米。例如有：表達[[功率]]的「Pferdestärke」（公制[[馬力]]）、<ref>{{cite web
+|url = http://www.ptb.de/cms/fileadmin/internet/Themenrundgaenge/hueterin_der_einheiten/einheiten_d.pdf
+|title = Die gesetzlichen Einheiten in Deutschland
+|language =  German
+|page = 6
+|trans_title = List of units of measure in Germany
+|publisher = Physikalisch-Technische Bundesanstalt (PTB)
+|accessdate = 13 November 2012}}</ref><ref group = Note>在[[德語]]中，Pferd的意思是「馬」，stärke的意思是「強度」或「力量」。Pferdestärke的定義是在地球引力中以每秒一米的速度提升75公斤物質所需的功率（1 Pferdestärke等於0.985馬力）</ref>表達[[滲透性]]的[[達西 (單位)|達西]]<ref>{{cite web
+|url = http://www.cmse.ed.ac.uk/MSE3/Topics/MSE-permeability.pdf
+|publisher = Materials Science and Engineering, Division of Engineering, The [[University of Edinburgh]]
+|title = Porous materials: Permeability
+|page = 3
+|work = Module Descriptor, Material Science, Materials 3
+|year = 2001
+|accessdate = 13 November 2012}}</ref>及表達[[氣壓]]和[[血壓]]的[[毫米汞柱]]。這些廣泛使用的單位之中，有的用到了[[標準重力]]。
+
+到了[[第二次世界大戰]]尾聲，全球各地仍然使用著各種不同的單位制，有的是公制的另類版本，有的則是基於所謂的「習慣單位」，如[[美制單位]]。1948年，在[[國際純粹與應用物理學聯合會]]及法國政府代表的參與下，第9屆國際度量衡大會委派國際度量衡委員會對科學界、技術界和教育界的計量需求進行一項調查，並為一種單一整合、能供遵守《米制公約》的世界各國使用的單位制提出建議。<ref>[http://www.bipm.org/en/CGPM/db/9/6/ 9th CGPM (1948): Resolution 6]</ref>
+
+根據此項調查的結論，1954年第10屆國際度量衡大會決定，這個國際性的單位制應以六個基本單位為基礎，能夠用於測量溫度、可見光輻射、機械及電磁物理量。建議中的六個基本單位分別為：米、公斤、秒、安培、開爾文和坎德拉。1960年第11屆國際度量衡大會正式將這一單位制命名為「國際單位制」（{{lang-fr|Le Système International d'Unités}}），簡稱SI。<ref name=SIBrochure/>{{rp|110}}<ref>[http://www.bipm.org/en/CGPM/db/11/12/ 11th CGPM (1960): Resolution 12]</ref>國際度量衡局也曾把國際單位制稱為「現代公制」。<ref name=SIBrochure/>{{rp|95}}1971年第14屆國際度量衡大會將摩爾納入為第七個基本單位。<ref>[http://www.bipm.org/en/CGPM/db/14/3/ 14th CGPM (1971):Resolution 3]</ref>
+
+===國際物理量系統===
+國際物理量系統（{{lang-en|International System of Quantities}}）是以以下七個基本[[物理量]]為基礎的系統：[[長度]]、[[質量]]、[[時間]]、[[電流]]、[[熱力學溫度]]、[[物質的量]]和[[發光強度]]。其他物理量，如[[面積]]、[[壓力]]及[[電阻]]，都可以根據明確、不相互矛盾的公式從這些基本物理量推導得出。國際物理量系統所定義的，是國際單位制單位所量度的物理量。<ref>{{cite book|title=International vocabulary of metrology – Basic and general concepts and associated terms (VIM)|date=2012|publisher=International Bureau of Weights and Measures (BIPM):Joint Committee for Guides in Metrology| edition=3rd|url=http://www.bipm.org/utils/common/documents/jcgm/JCGM_200_2012.pdf|accessdate=28 March 2015|chapter=1.16}}</ref>[[ISO/IEC 80000]]國際標準對國際物理量系統做了定義，定義於2009年經[[ISO 80000-1]]進一步完善。<ref>S. V. Gupta, ''Units of Measurement: Past, Present and Future. International System of Units'', p. 16, Springer, 2009. ISBN 3642007384.</ref>
+
+==國際單位制小冊子==
+[[File:tobereplaced.jpg|thumb|right]]
+<!--[[File:SI Brochure Cover.jpg|thumb|right|Cover of brochure ''[http://www.bipm.org/en/publications/si-brochure/ The International System of Units]'']]-->
+國際度量衡大會定期頒布小冊子，闡述國際單位制的定義。<ref name="SIBrochure">{{SIBrochure8th}}</ref>其官方版本為法語，與《[[米制公約]]》相符。<ref name="SIBrochure" />{{rp|102}}因此，世界各國在對名詞進行不同語言的翻譯時，有一定的自由度，如美國[[國家標準技術研究所]]所發佈的針對[[美式英語]]的國際度量衡大會文件本地版本（NIST SP 330）。<ref name="NIST330">{{Cite book
+|first1 = Ambler
+|last1 = Thompson
+|first2 = Barry N.
+|last2 = Taylor
+| title=The International System of Units (SI) (Special publication 330)
+| url=http://physics.nist.gov/Pubs/SP330/sp330.pdf
+| accessdate=18 June 2008
+| publisher=National Institute of Standards and Technology
+| location=Gaithersburg, MD
+| year=2008}}</ref>
+
+小冊子是由國際度量衡委員會屬下的單位顧問委員會所編寫。單位顧問委員會的主席由國際度量衡委員會提名，但成員來自於國際度量衡大會及委員會以外的國際組織。<ref>{{cite web
+|url = http://www.bipm.org/en/committees/cc/ccu/ccu_criteria.html
+|title = Criteria for membership of the CCU
+|accessdate = 25 September 2012
+|publisher = [[Bureau International des Poids et Mesures]]}}</ref><ref group = Note>這些組織包括：
+*[[國際標準化組織]]（ISO）
+*美國[[國家標準技術研究所]]（NIST）
+*[[英國國家物理實驗室]]（NPL）
+*[[國際天文聯會]]（IAU）
+*[[國際純化學和應用化學聯合會]]（IUPAC）
+*[[國際純粹與應用物理學聯合會]]（IUPAP）
+*[[國際照明委員會]]（CIE）
+*[[科學技術數據委員會]]（CODATA）──[[國際科學理事會]]屬下的跨學科委員會
+*[[國際輻射單位與度量委員會]]（ICRU）
+*[[國際臨床化學與實驗室醫學聯盟]]（IFCC）
+*[[國際電工委員會]]（IEC）
+*[[國際法定計量組織]]（OIML）
+*日本[[產業技術綜合研究所]]（AIST）
+*德國[[聯邦物理技術研究院]]（PTB）
+*俄羅斯[[聯邦計量和技術管理局]]（GOST）
+</ref>
+
+國際單位制小冊子所用的「物理量」、「單位」、「因次」等名詞，都出自由[[計量學聯合導則委員會]]（JCGM）出版的《[[國際計量詞彙]]》。該委員會是一個由八個國際標準組織組成的工作小組，由國際度量衡局局長擔任會長。<ref>{{Cite web|url=http://www.bipm.org/en/publications/guides/vim.html|title=The International Vocabulary of Metrology (VIM)}}</ref>用於定義國際單位制的物理量和公式，統稱為「國際物理量系統」，列於[[ISO/IEC 80000]]物理量與單位國際標準。
+
+==單位與詞頭==
+國際單位制的組成部分為：一組[[國際單位制基本單位|基本單位]]、一組有特殊名稱的[[國際單位制導出單位|導出單位]]以及一組十進制倍數[[國際單位制詞頭|詞頭]]。根據國際單位制小冊子，「SI單位」囊括以上三個部分，而「一致SI單位」則只包含基本和導出單位。<ref name=SIBrochure/>{{rp|103–106}}
+
+===基本單位===
+{{main article|國際單位制基本單位}}
+國際單位制以一組基本單位為基礎，所有其他單位都是用基本單位建立起來的。馬克士威最初提出一致單位制的概念時，列出了三個可用的基本單位：質量、長度及時間單位。之後，吉奧爾吉提倡加入電的基本單位。理論上，[[電流]]、[[電勢]]、[[電阻]]、[[電荷]]等物理量的單位都可以做基本單位，當選定其中一個做基本單位後，其餘的電單位都可以通過物理定律從基本單位推導得出；國際單位制最終選擇了使用電流。後期又加入了三個分別量度物質的量、溫度及發光強度的基本單位。
+
+{| class="wikitable" style="margin:1em auto 1em auto"
+|+ 國際單位制基本單位<ref name=NIST330/>{{rp|23}}<ref name=BIPM1975>
+[http://old.iupac.org/publications/books/author/mills.html Quantities Units and Symbols in Physical Chemistry], IUPAC</ref><ref>{{cite book
+|url = https://books.google.com/?id=nOG0SxxEu64C&pg=PA240
+|pages = 238–244
+|title = The International Bureau of Weights and Measures 1875–1975: NBS Special Publication 420
+|date = 20 May 1975
+|editor1-last = Page
+|editor1-first = Chester H
+|editor2-last = Vigoureux
+|editor2-first = Paul
+|publisher = National Bureau of Standards
+|location = [[Washington, D.C.]]}}</ref>
+|-
+!單位名稱
+!單位符號
+![[物理量]]
+!定義（部分）<ref group=n>此處只列出差異較大的過渡性定義</ref> 
+![[因次分析|因次符號]]
+|-
+![[米]]
+|style="text-align:center" |m
+|[[長度]]
+|
+*'''最初'''（1793年）：從[[北極]]至[[赤道]]經過[[巴黎]]的[[子午線]]長度的一千萬分之一。<sup>法</sup>
+*'''過渡'''（1960年）：[[氪的同位素|氪-86]][[原子]]在2p{{sup|10}}和5d{{sup|5}}量子[[能級]]之間躍遷所發出的[[電磁波]]在[[真空]]中的[[波長]]的{{val|1650763.73}}倍。
+*'''目前'''（1983年）：光在{{sfrac|{{val|299792458}}}}秒內在真空中行進的距離。
+|style="text-align:center" |L
+|-
+![[公斤]]<ref group=n>雖然從-{千克}-（kilogram）的詞頭kilo看起來，克比較像是基本單位，但國際單位制中質量的基本單位並不是克，而是公斤。所有導出單位也都是以公斤為基礎，而非克。</ref>
+|style="text-align:center" |kg
+|[[質量]]
+|
+*'''最初'''（1793年）：最初法文名為grave，定義為在[[冰點]]下體積為一立方[[分米]]的純[[水]]的重量（質量）。<sup>法</sup>
+*'''目前'''（1889年）：[[國際公斤原器]]的質量。
+|style="text-align:center" |M
+|-
+![[秒]]
+|style="text-align:center" |s
+|[[時間]]
+|
+*'''最初'''（中世紀）：一天時長的{{val|86400}}分之一。
+*'''過渡'''（1956年）：1900年1月0日[[曆書時]]12時算起的[[回歸年]]時長的{{sfrac|{{val|31556925.9747}}}}。
+*'''目前'''（1967年）：[[銫的同位素|銫-133]]原子[[基態]]的兩個[[超精細結構|超精細能級]]之間躍遷所對應的輻射週期時長的{{val|9192631770}}倍。
+|style="text-align:center" |T
+|-
+![[安培]]
+|style="text-align:center" |A
+|[[電流]]
+|
+*'''最初'''（1881年）：CGS電磁單位制中電流單位的十分之一。CGS電流單位的定義是，在半徑為1厘米、長度為1厘米的圓弧上流通，並在圓心產生1[[奧斯特 (單位)|奧斯特]]電場的電流。<ref>{{cite book
+|url = https://books.google.com/?id=m7c6AAAAIAAJ&pg=PA322
+|page = 322
+|title = Magnetism and Electricity
+|last1 = McKenzie
+|first1 = A.E.E
+|publisher = [[Cambridge University Press]]
+|year = 1961}}</ref><sup>電</sup>
+*'''目前'''（1946年）：在真空中相距1米的兩根橫截面為圓形、粗度可忽略不計的無限長平行直導線，各通上相等的恆定電流，當兩根導線之間每米長度所受[[力]]為{{val|2|e=-7}}[[牛頓 (單位)|牛頓]]時，各導線上的電流定義為1安培。
+|style="text-align:center" |I
+|-
+![[開爾文]]
+|style="text-align:center" |K
+|[[熱力學溫度]]
+|
+*'''最初'''（1743年）：攝氏溫標將0&nbsp;°C和100&nbsp;°C分別定義為水的[[熔點]]和[[沸點]]。
+*'''過渡'''（1954年）：273.16 K定義為水的[[三相點]]（0.01&nbsp;°C）。<ref group=n>熱力學溫度在1954年時的名稱為「開氏度」（符號為°K），後於1967年改名為「開爾文」（符號為K）。</ref>
+*'''目前'''（1967年）：水的三相點熱力學溫度的{{sfrac|273.16}}。
+|style="text-align:center" |Θ
+|-
+![[摩爾 (單位)|摩爾]]
+|style="text-align:center" |mol
+|[[物質的量]]
+|
+*'''最初'''（1900年）：物質的克數等於其[[分子量]]時的數量。<sup>原</sup>
+*'''目前'''（1967年）：1摩爾物質所含的粒子數量相等於0.012公斤[[碳-12]]所含的原子數量。<ref group=n>使用摩爾時，必須指明粒子的種類，可以是[[分子]]、[[原子]]、[[離子]]、[[電子]]或其他粒子，也可以是這些粒子的特定組合體。</ref>
+|style="text-align:center" |N
+|-
+![[坎德拉]]
+|style="text-align:center" |cd
+|[[發光強度]]
+|
+*'''最初'''（1946年）：整個輻射體在[[鉑]]凝固溫度下的亮度，定義為60新燭光每平方厘米。
+*'''目前'''（1979年）：頻率為{{val|5.4|e=14}}[[赫茲]]的單色光源在特定方向輻射強度為{{sfrac|1|683}} [[瓦特|W]]/[[球面度|sr]]時的發光強度。
+|style="text-align:center" |J
+|-
+|colspan=5|
+;備註
+{{reflist|group=n}}
+以上基本單位的最初定義是由以下機構給出：
+:* '''法''' = 法國政府
+:* '''電''' = [[國際電工委員會]]
+:* '''原''' = {{le|國際原子量委員會|International Committee on Atomic Weights}}
+其他定義都來自國際度量衡大會或國際度量衡委員會，列於國際單位制小冊子中。
+|}
+
+===導出單位===
+{{main article|國際單位制導出單位}}
+The derived units in the SI are formed by powers, products or quotients of the base units and are unlimited in number.<ref name=SIBrochure/>{{rp|103}}<ref name=NIST330/>{{rp|3}} Derived units are associated with derived quantities, for example [[velocity]] is a quantity that is derived from the base quantities of time and length, so in SI the derived unit is metres per second (symbol m/s). The dimensions of derived units can be expressed in terms of the dimensions of the base units.
+
+Coherent units are derived units that contain no numerical factor other than 1—quantities such as [[standard gravity]] and [[density of water]] are absent from their definitions. In the example above, ''one'' newton is the force required to [[Acceleration|accelerate]] a mass of ''one'' kilogram by ''one'' [[metre per second squared]]. Since the SI units of mass and acceleration are kg and m·s<sup>−2</sup> respectively and {{math|''F'' ∝ ''m'' × ''a''}}, the units of force (and hence of newtons) is formed by multiplication to give kg·m·s<sup>−2</sup>. Since the newton is part of a coherent set of units, the constant of proportionality is 1.
+
+For the sake of convenience, some derived units have special names and symbols.<ref name=special>{{cite journal
+|journal = Report on the Forty-third Meeting of the British Association for the Advancement of Science held at Bradford in September 1873
+|year = 1874
+|title = First Report of the Committee for the Selection and Nomenclature of Dynamical and Electrical Units
+|editor = Professor Everett
+|publisher = British Association for the Advancement of Science
+|pages= 222–225
+|quote = "Special names, if short and suitable, would ... be better than the provisional designation 'C.G.S. unit of ...'."
+|url = http://www.biodiversitylibrary.org/item/94452
+|accessdate = 28 August 2013}}</ref> Such units may themselves be used in combination with the names and symbols for base units and for other derived units to express the units of other derived quantities. For example, the SI unit of [[force]] is the [[Newton (unit)|newton]] (N), the SI unit of [[pressure]] is the [[Pascal (unit)|pascal]] (Pa)—and the pascal can be defined as "newtons per square metre" (N/m<sup>2</sup>).<ref>{{cite web
+|title =Units & Symbols for Electrical & Electronic Engineers
+|url = http://www.theiet.org/students/resources/units-symbols.cfm
+|publisher = Institution of Engineering and Technology
+|year = 1996
+|pages = 8–11
+|accessdate = 19 August 2013}}</ref>
+{| class="wikitable" style="margin:1em auto 1em auto;line-height:1.4"
+|+ style="font-size:larger;font-weight:bold;"|Named units derived from [[SI]] base units<ref name=NIST330/>{{rp|3}}
+|-
+! Name
+! [[Symbol]]
+! [[Physical quantity|Quantity]]
+! Expressed in<br />terms of<br />other SI units
+! Expressed in<br />terms of<br />[[SI base units]]
+|-
+| '''[[radian]]'''
+|align = "center"| rad
+| [[angle]]
+|align = "center"| 
+|align = "center"| m·m<sup>−1</sup>
+|-
+| '''[[steradian]]'''
+|align = "center"|  sr
+| [[solid angle]]
+|align = "center"| 
+|align = "center"| m<sup>2</sup>·m<sup>−2</sup>
+|-
+| '''[[hertz]]'''
+|align = "center"|  Hz
+| [[frequency]]
+| <!-- intentionally left blank -->
+|align = "center"|  s<sup>−1</sup>
+|-
+| '''[[newton (unit)|newton]]'''
+|align = "center"|  N
+| [[force]], [[weight]]
+| <!-- intentionally left blank -->
+|align = "center"|  kg·m·s<sup>−2</sup>
+|-
+| '''[[pascal (unit)|pascal]]'''
+|align = "center"|  Pa
+| [[pressure]], [[Stress (physics)|stress]]
+|align = "center"|  N/m<sup>2</sup>
+|align = "center"|  kg·m<sup>−1</sup>·s<sup>−2</sup>
+|-
+| '''[[joule]]'''
+|align = "center"|  J
+| [[energy]], [[Mechanical work|work]], [[heat]]
+|align = "center"|  N·m
+|align = "center"|  kg·m<sup>2</sup>·s<sup>−2</sup>
+|-
+| '''[[watt]]'''
+|align = "center"|  W
+| [[Power (physics)|power]], [[radiant flux]]
+|align = "center"|  J/s
+|align = "center"|  kg·m<sup>2</sup>·s<sup>−3</sup>
+|-
+| '''[[coulomb]]'''
+|align = "center"|  C
+| [[electric charge]] or [[quantity of electricity]]
+| <!-- intentionally left blank -->
+|align = "center"|  s·A
+|-
+| '''[[volt]]'''
+|align = "center"|  V
+| [[voltage]] ([[electrical potential difference]]), [[electromotive force]]
+|align = "center"|  W/A
+|align = "center"|  kg·m<sup>2</sup>·s<sup>−3</sup>·A<sup>−1</sup>
+|-
+| '''[[farad]]'''
+|align = "center"|  F
+| [[electric capacitance]]
+|align = "center"|  C/V
+|align = "center"|  kg<sup>−1</sup>·m<sup>−2</sup>·s<sup>4</sup>·A<sup>2</sup>
+|-
+| '''[[ohm (unit)|ohm]]'''
+|align = "center"|  Ω
+| [[electric resistance]], [[electrical impedance|impedance]], [[Reactance (electronics)|reactance]]
+|align = "center"|  V/A
+|align = "center"|  kg·m<sup>2</sup>·s<sup>−3</sup>·A<sup>−2</sup>
+|-
+| '''[[Siemens (unit)|siemens]]'''
+|align = "center"|  S
+| [[electrical conductance]]
+|align = "center"|  A/V
+|align = "center"|  kg<sup>−1</sup>·m<sup>−2</sup>·s<sup>3</sup>·A<sup>2</sup>
+|-
+| '''[[Weber (unit)|weber]]'''
+|align = "center"|  Wb
+| [[magnetic flux]]
+|align = "center"|  V·s
+|align = "center"|  kg·m<sup>2</sup>·s<sup>−2</sup>·A<sup>−1</sup>
+|-
+| '''[[tesla (unit)|tesla]]'''
+|align = "center"|  T
+| [[magnetic flux density]]
+|align = "center"|  Wb/m<sup>2</sup>
+|align = "center"|  kg·s<sup>−2</sup>·A<sup>−1</sup>
+|-
+| '''[[henry (unit)|henry]]'''
+|align = "center"|  H
+| [[inductance]]
+|align = "center"|  Wb/A
+|align = "center"|  kg·m<sup>2</sup>·s<sup>−2</sup>·A<sup>−2</sup>
+|-
+| '''[[degree Celsius]]'''
+|align = "center"|  °C
+| [[temperature]] relative to 273.15 K
+| <!-- intentionally left blank -->
+|align = "center"|  K
+|-
+| '''[[lumen (unit)|lumen]]'''
+|align = "center"|  lm
+| [[luminous flux]]
+|align = "center"|  cd·sr
+|align = "center"|  cd
+|-
+| '''[[lux]]'''
+|align = "center"|  lx
+| [[illuminance]]
+|align = "center"|  lm/m<sup>2</sup>
+|align = "center"|  m<sup>−2</sup>·cd
+|-
+| '''[[becquerel]]'''
+|align = "center"|  Bq
+| [[radioactivity]] (decays per unit time)
+| <!-- intentionally left blank -->
+|align = "center"|  s<sup>−1</sup>
+|-
+| '''[[gray (unit)|gray]]'''
+|align = "center"|  Gy
+| [[absorbed dose]] (of [[ionizing radiation]])
+|align = "center"|  J/kg
+|align = "center"|  m<sup>2</sup>·s<sup>−2</sup>
+|-
+| '''[[sievert]]'''
+|align = "center"|  Sv
+| [[equivalent dose]] (of [[ionizing radiation]])
+|align = "center"|  J/kg
+|align = "center"|  m<sup>2</sup>·s<sup>−2</sup>
+|-
+| '''[[katal]]'''
+|align = "center"|  kat
+| [[catalytic activity]]
+| <!-- intentionally left blank -->
+|align = "center"|  mol·s<sup>−1</sup>
+|-
+|colspan = "5"|'''Notes'''<br />1. The [[radian]] and [[steradian]], once given special status, are now considered dimensionless derived units.<ref name=NIST330/>{{rp|3}}<br />2. The ordering of this table is such that any derived unit is based only on base units or derived units that precede it in the table.
+|}
+
+===Prefixes===
+{{main article|Metric prefix}}
+Prefixes are added to unit names to produce multiple and sub-multiples of the original unit. All multiples are integer powers of ten, and above a hundred or below a hundredth all are integer powers of a thousand. For example, ''kilo-'' denotes a multiple of a thousand and ''milli-'' denotes a multiple of a thousandth, so there are one thousand millimetres to the metre and one thousand metres to the kilometre. The prefixes are never combined, so for example a millionth of a metre is a ''micrometre'', not a millimillimetre. Multiples of the kilogram are named as if the gram were the base unit, so a millionth of a kilogram is a ''milligram'', not a microkilogram.<ref name=SIBrochure/>{{rp|122}}<ref name=NIST811/>{{rp|14}}
+
+{{SI prefixes (inline table)}}
+
+===Non-SI units accepted for use with SI===
+{{Main article|non-SI units accepted for use with SI}}
+The SI is capable of measurement of any physical quantity, but many non-SI units still appear in the scientific, technical, and commercial literature, and will continue to be used for many years. Some units are so deeply embedded in history and many cultures that they will continue to be used for the foreseeable future. The CIPM recognized and acknowledged such traditions by compiling a list of [[non-SI units accepted for use with SI]], which are gouped as follows:<ref name=SIBrochure/>{{rp|123–129}}<ref name=NIST811/>{{rp|7–11}}  <ref group = Note>This grouping and the reference to Tables 6, 7, 8, and 9 reflects the 2014 revision of the 8th Edition of the SI Brochure (2006)</ref>
+
+[[File:CubeLitre.svg|pic|right|thumb|The litre is classed as a non-SI unit accepted for use with the SI.<br />Being one thousandth of a cubic metre, the litre is not a coherent unit of measure with respect to SI.]]
+*'''Non-SI units accepted for use with the SI''' (Table 6):
+:Certain units of time, angle, and legacy non-SI metric units have a long history of consistent use. Most societies have used the solar day and its non-decimal subdivisions as a basis of time and, unlike the [[Foot (unit)|foot]] or the [[Pound (mass)|pound]], these were the same regardless of where they were being measured. The [[radian]], being {{sfrac|2π}} of a revolution, has mathematical advantages but it is cumbersome for navigation, and, as with time, the units used in navigation have a large degree of consistency around the world. The [[tonne]], [[litre]], and [[hectare]] were adopted by the CGPM in 1879 and have been retained as units that may be used alongside SI units, having been given unique symbols. The catalogued units are
+::[[minute]], [[hour]], [[day]], [[Degree (angle)|degree of arc]], [[minute of arc]], [[Minute of arc|second of arc]], [[hectare]], [[litre]], [[tonne]], [[astronomical unit]] and [[Decibel|[deci]bel]]
+
+* '''Non-SI units whose values in SI units must be obtained experimentally''' (Table 7).
+:Physicists often use units of measure that are based on natural phenomena, particularly when the quantities associated with these phenomena are many orders of magnitude greater than or less than the equivalent SI unit.  The most common ones have been catalogued in the SI Brochure together with consistent symbols and accepted values, but with the caveat that their values in SI units need to be measured.<ref group = Note>The CGPM have defined the metre in terms of the speed of light, so the speed of light has an exact value.</ref>
+::[[electronvolt]] (symbol eV), and [[Atomic mass unit|dalton/unified atomic mass unit]] (Da or u)
+
+* '''Other non-SI units''' (Table 8):
+:A number of non-SI units that had never been formally sanctioned by the CGPM have continued to be used across the globe in many spheres including [[health care]] and [[navigation]]. As with the units of measure in Tables 6 and 7, these have been catalogued by the CIPM in the SI Brochure to ensure consistent usage, but with the recommendation that authors who use them should define them wherever they are used.
+::[[Bar (unit)|bar]], [[millimetre of mercury]], [[Angstrom|ångström]], [[nautical mile]], [[Barn (unit)|barn]], [[knot (unit)|knot]] and [[neper]]
+
+* '''Non-SI units associated with the CGS and the CGS-Gaussian system of units''' (Table 9)
+:The SI manual also catalogues a number of legacy units of measure that are used in specific fields such as [[geodesy]] and [[geophysics]] or are found in the literature, particularly in [[Mathematical descriptions of the electromagnetic field#Curved spacetime|classical and relativistic electrodynamics]] where they have certain advantages: The units that are catalogued are:
+::[[erg]], [[dyne]], [[poise]], [[Stokes (unit)|stokes]], [[Stilb (unit)|stilb]], [[phot]], [[Gal (unit)|gal]], [[Maxwell (unit)|maxwell]], [[Gauss (unit)|gauss]], and [[oersted|œrsted]].
+
+==Writing unit symbols and the values of quantities {{anchor|SI_writing_style}}==
+Before 1948, the use and representation of metric quantities was inconsistent and ambiguous.{{citation needed|date=January 2017}} In 1879, the CIPM published recommendations for writing the symbols for length, area, volume and mass, but it was outside its domain to publish recommendations for other quantities. Beginning in about 1900, physicists who had been using the symbol "μ" for "micrometre" (or "micron"), "λ" for "microlitre", and "γ" for "microgram" started to use the symbols "μm", "μL" and "μg", but it was only in 1935, a decade after the revision of the [[Metre Convention]] that the CIPM formally adopted this proposal and recommended that the symbol "μ" be used universally as a prefix for {{val|e=-6}}.<ref>{{cite book
+|first1 = Thomas
+|last1 = McGreevy
+|editor1-first = Peter
+|editor1-last = Cunningham
+|title = The Basis of Measurement: Volume 2 – Metrication and Current Practice
+|pages = 222–224
+|isbn = 0 948251 84 0
+|year = 1997
+|publisher = Pitcon Publishing (Chippenham) Ltd}}</ref>
+
+In 1948, the ninth CGPM approved the first formal recommendation for the writing of symbols in the metric system when the basis of the rules as they are now known was laid down.<ref>{{cite web
+|url = http://www.bipm.org/en/CGPM/db/9/7/
+|title = Resolution 7 of the 9th meeting of the CGPM (1948): Writing and printing of unit symbols and of numbers
+|accessdate = 6 November 2012
+|publisher = [[International Bureau of Weights and Measures]]}}</ref> These rules were subsequently extended by [[International Organization for Standardization]] (ISO) and the [[International Electrotechnical Commission]] (IEC) and now cover unit symbols and names, prefix symbols and names, how quantity symbols should be written and used and how the values of quantities should be expressed.<ref name=SIBrochure/>{{rp|104,130}} Both ISO and the IEC have published rules for the presentation of SI units that are generally compatible with those published in the SI Brochure.<ref>{{cite web
+|url = http://www.nist.gov/pml/pubs/sp811/
+|at = Appendix C. Comments on the References of Appendix D – Bibliography
+|title = The NIST Guide for the use of the International System of Units
+|first1 = A 
+|last1 = Thompson
+|first2 = B N 
+|last2 = Taylor
+|date = 5 October 2010
+|accessdate = 22 August 2013}}</ref> {{As of|2013|08}} ISO and IEC were in the process of merging their standards for quantities and units into a single set of compatible documents identified as the [[ISO/IEC 80000]] Standard. The rules covering printing of quantities and units are part of ISO 80000-1:2009.<ref>{{cite web
+|url = https://www.iso.org/obp/ui/#iso:std:iso:80000:-1:ed-1:v1:en
+|title = ISO 80000-1:2009(en) Quantities and Units—Past 1:General
+|publisher = [[International Organization for Standardization]]
+|year = 2009
+|accessdate = 22 August 2013}}</ref>
+  
+===Unit names===
+Names of [[units of measurement|units]] follow the grammatical rules associated with [[common noun]]s: in English and in French they start with a lowercase letter (e.g., newton, hertz, pascal), even when the symbol for the unit begins with a capital letter. This also applies to "degrees Celsius", since "degree" is the unit.<ref>{{cite web
+ | url = http://www.unc.edu/~rowlett/units/symbol.html
+ | title = Using Abbreviations or Symbols
+ | date = 14 July 2004 | accessdate = 11 December 2013
+ | author = Russ Rowlett | publisher = University of North Carolina
+}}</ref><ref>{{cite web
+ | url = http://www.npl.co.uk/reference/measurement-units/si-conventions/
+ | title = SI Conventions
+ | accessdate = 11 December 2013
+ | publisher = National Physical Laboratory
+}}</ref> In German, however, the names of units, as with all German nouns, start with capital letters.<ref>{{cite book
+| title=Wörterbuch Englisch Dictionary German
+| publisher=Eurobuch/Eurobooks
+| year=1988
+| location=[[Limassol]]}}</ref> The spelling of unit names is a matter for the guardians<ref group = Note>For example, the [[Académie française]] in the case of [[French language|French]] or [[Council for German Orthography]] ({{lang-de|Rat für deutsche Rechtschreibung}}) in the case of German</ref> of the language concerned – the official British and American spellings for certain SI units differ – [[British English]], as well as Australian, Canadian and New Zealand English, uses the spelling ''deca-'', ''metre'', and ''litre'' whereas [[American English]] uses the spelling ''deka-'', ''meter'', and ''liter'', respectively.<ref name='deka'>{{Cite web|url=http://physics.nist.gov/Pubs/SP330/sp330.pdf |title=The International System of Units | pages=iii |accessdate=27 May 2008}}</ref>
+
+Likewise, the plural forms of units follow the [[grammar]] of the language concerned: in English, the normal rules of [[English grammar]] are used, e.g. "henries" is the plural of "[[Henry (unit)|henry]]".<ref name=NISTInterprepation>{{Cite journal 
+|date=9 May 2008 
+|url=http://edocket.access.gpo.gov/2008/pdf/E8-11058.pdf
+|title=Interpretation of the International System of Units (the Metric System of Measurement) for the United States 
+|publisher=National Archives and Records Administration |journal=Federal Register |volume=73 |issue=96 
+|pages=28432–3 
+|id=FR Doc number E8-11058 
+|accessdate=28 October 2009}}
+</ref><ref name=NIST811/>{{rp|31}} However, the units [[lux]], [[hertz]], and [[Siemens (unit)|siemens]] have [[English plural|irregular plurals]] in that they remain the same in both their singular and plural form. Plural forms can be even more complicated in other languages. For example, in Polish the plural form depends on the actual quantity: 0 metrów, 1 metr, 2 metry, 3 metry, 4 metry, 5 metrów, 6 metrów, 7 metrów, 8 metrów, etc. For fractions it is metrów, e.g., 0,67 metrów, 2,45 metrów.
+
+In English, when unit names are combined to denote multiplication of the units concerned, they are separated with a [[hyphen]] or a space (e.g. newton-metre or newton metre).  The plural is formed by converting the last unit name to the plural form (e.g. ten newton-metres).
+
+===Unit names as adjectives===
+In English, a space is recommended between the number and the unit symbol when used as an adjective, e.g. "a 25&nbsp;kg sphere".
+
+The normal rules of English apply to unit names, where a hyphen is incorporated into the adjectival sense, e.g. "a 25-kilogram sphere".<ref>{{cite web|url=http://www.us-metric.org/faq-frequently-asked-questions-about-the-metric-system/#spacing|title=U.S. Metric Association FAQ: Frequently Asked Questions about the metric system|accessdate=4 May 2016}}</ref>
+
+===Chinese and Japanese===
+[[Image:PRC Expressway RoadSign Distances.jpg|thumb|[[China|Chinese]] expressway distances [[Expressways of Beijing|road]] sign in eastern [[Beijing]]. Although the primary text is in [[Chinese language|Chinese]], the distances use the internationally recognised [[numerical digit|numerals]] and [[symbol (formal)|symbols]].]]
+[[Chinese language|Chinese]] uses traditional [[logogram]]s for writing the unit names, while in [[Japanese language|Japanese]] unit names are written in the phonetic katakana script; in both cases, [[symbol]]s are also written using the internationally recognised [[Latin characters|Latin]] and [[Greek alphabet|Greek characters]].
+
+;Chinese
+The basic Chinese units are metre ({{lang|zh|米}} ''mǐ''), litre ({{lang|zh|升}} ''shēng''), gram ({{lang|zh|克}} ''kè''), and second ({{lang|zh|秒}} ''miǎo''), while others include watt ({{lang|zh|瓦}} ''wǎ''). Prefixes include ''deci-'' ({{lang|zh|分}} ''fēn''), ''centi-'' ({{lang|zh|厘}} ''lí''), ''milli-'' ({{lang|zh|毫}} ''háo''), ''micro-'' ({{lang|zh|微}} ''wēi''), ''kilo-'' ({{lang|zh|千}} ''qiān''), and ''mega-'' ({{lang|zh|兆}} ''zhào''). These are combined to form disyllabic characters, such as {{lang|zh|厘米}} ''límǐ'' "centimetre" or {{lang|zh|千瓦}} ''qiānwǎ'' "kilowatt".<ref>{{cite web
+|url = http://www.metricmethods.com/SI_chinese.html
+|title = SI Unit and Prefix Names in Chinese
+|publisher = Metric Methods
+|year = 2010
+|first1 = James R.
+|last1 = Frysinger
+|first2 = Pin
+|last2 = Yin
+|first3 =Justin
+|last3 = Jih
+|first4 =Yeeming
+|last4 = Jih
+|accessdate = 1 November 2012}}</ref> In the 19th century, various compound characters were also used, similar to Japanese, either imported or formed on the same principles, such as {{lang|zh|瓩}} for {{lang|zh|千瓦}} ''qiānwǎ'' (kilowatt) or {{lang|zh|糎}} for {{lang|zh|厘米}}. These are generally not used today, but are occasionally found in older or technical writing.<ref name=vmair>Victor Mair, [http://languagelog.ldc.upenn.edu/nll/?p=3330 "Polysyllabic characters in Chinese writing"], ''Language Log'', 2011 August 2</ref>
+
+Some units have different names in [[Taiwan]]. Meter (公尺), centimeter (公分), liter (公升), kilogram (公斤), gram (公克) and hectare (公頃) have the prefix "公", which means "universal". The prefixes "兆", "分" and "厘" are not commonly used, and the use of "千" is limited to kilowatt (千瓦).
+
+;Japanese
+A set of [[Kanji|characters]] representing various metric units was [[kokuji|created in Japan]] in the [[Meiji period|late 19th century]]. Characters, same as the Chinese, exist for three base units: the metre ({{lang|ja|米}}), litre ({{lang|ja|升}}) and gram ({{lang|ja|瓦}}). These were combined with a set of six prefix characters – ''kilo-'' ({{lang|ja|千}}), ''hecto-'' ({{lang|ja|百}}), ''deca-'' ({{lang|ja|十}}), ''deci-'' ({{lang|ja|分}}), ''centi-'' ({{lang|ja|厘}}) and ''milli-'' ({{lang|ja|毛}}) – to form an additional 18 single-character units. The seven length units (kilometre to millimetre), for example, are {{lang|ja|粁, 粨, 籵, 米, 粉, 糎}} and {{lang|ja|粍}}. These characters, however, are not in common use today; instead, units are written in [[katakana]], the Japanese [[syllabary]] used for foreign borrowings, such as {{nihongo4|キロメートル|kiromētoru}} for kilometre, but are also written in standard prefixes such as "km" for kilometre. A few Sino-Japanese words for these units remain in use in Japanese, most significantly "{{lang|ja|平米}}" (''heibei'') for "square metre", but otherwise borrowed pronunciations are used.
+
+These characters are examples of the rare phenomenon of [[Ateji#Single-character loan words|single-character loan words]] – a foreign word represented by a single Japanese character – and form the plurality of such words. Similar characters were also coined for other units, such as British units, though these also have fallen out of use; see [[wikt:Appendix:Single character gairaigo#Metric units|Single character gairaigo: Metric units]] and [[wikt:Appendix:Single character gairaigo#Other units|Single character gairaigo: Other units]] for a full list.
+
+===Unit symbols and the values of quantities {{anchor|SI_writing_style}}===
+Although the writing of unit names is language-specific, the writing of unit symbols and the values of quantities is consistent across all languages and therefore the SI Brochure has specific rules in respect of writing them.<ref name=SIBrochure/>{{rp|130–135}} The guideline produced by the [[National Institute of Standards and Technology]] (NIST)<ref name='nist style'>
+{{Cite web|url=http://physics.nist.gov/Pubs/SP811/sec07.html |title=NIST Guide to SI Units&nbsp;– Rules and Style Conventions |accessdate=29 December 2009|last1=Thompson|first1=A.|date=July 2008 |last2=Taylor |first2=B. N. |publisher=National Institute of Standards and Technology }}</ref> clarifies language-specific areas in respect of American English that were left open by the SI Brochure, but is otherwise identical to the SI Brochure.<ref name=NISTInterprepation/>
+
+====General rules====
+General rules<ref name=generalrules group=Note>Except where specifically noted, these rules are common to both the SI Brochure and the NIST brochure.</ref> for writing SI units and quantities apply to text that is either handwritten or produced using an automated process:
+* The value of a quantity is written as a number followed by a space (representing a multiplication sign) and a unit symbol; e.g., 2.21&nbsp;kg, {{val|7.3|e=2|u=m<sup>2</sup>}}, 22&nbsp;K. This rule explicitly includes the percent sign (%)<ref name=SIBrochure/>{{rp |134}} and the symbol for degrees of temperature (°C).<ref name=SIBrochure/>{{rp| 133}} Exceptions are the symbols for plane angular degrees, minutes, and seconds (°,&nbsp;&prime;, and&nbsp;&Prime;), which are placed immediately after the number with no intervening space.
+* Symbols are mathematical entities, not abbreviations, and as such do not have an appended period/full stop (.), unless the rules of grammar demand one for another reason, such as denoting the end of a sentence.
+* A prefix is part of the unit, and its symbol is prepended to the unit symbol without a separator (e.g., k in km, M in MPa, G in GHz). Compound prefixes are not allowed.
+* Symbols for derived units formed by multiplication are joined with a [[dot operator|centre dot]] (·) or a non-breaking space; e.g., N·m or N&nbsp;m.
+* Symbols for derived units formed by division are joined with a [[solidus (punctuation)|solidus]] (/), or given as a negative [[exponent]]. E.g., the "metre per second" can be written m/s, m&nbsp;s<sup>−1</sup>, m·s<sup>−1</sup>, or {{sfrac|m|s}}. Only one solidus should be used; e.g., kg/(m·s<sup>2</sup>) and kg·m<sup>−1</sup>·s<sup>−2</sup> are acceptable, but kg/m/s<sup>2</sup> is ambiguous and unacceptable.
+[[File:981ms2.png|thumb|Acceleration due to gravity.<br />The lowercase letters (neither "metres" nor "seconds" were named after people), the space between the value and the units, and the superscript "2" to denote "squared".]]
+* The first letter of symbols for units derived from the name of a person is written in [[upper case]]; otherwise, they are written in [[lower case]]. E.g., the unit of [[pressure]] is named after [[Blaise Pascal]], so its symbol is written "Pa", but the symbol for mole is written "mol". Thus, "T" is the symbol for [[tesla (unit)|tesla]], a measure of [[magnetic field strength]], and "t" the symbol for [[tonne]], a measure of [[mass]]. Since 1979, the [[litre]] may exceptionally be written using either an uppercase "L" or a lowercase "l", a decision prompted by the similarity of the lowercase letter "l" to the numeral "1", especially with certain typefaces or English-style handwriting. The American NIST recommends that within the United States "L" be used rather than "l".
+* Symbols of units do not have a plural form; e.g., 25&nbsp;kg, not 25&nbsp;{{Not a typo|kgs}}.
+* Uppercase and lowercase prefixes are not interchangeable. E.g., the quantities 1&nbsp;mW and 1&nbsp;MW represent two different quantities; the former is the typical power requirement of a hearing aid (1&nbsp;milliwatt or 0.001&nbsp;watts), and the latter the typical power requirement of a suburban train (1&nbsp;megawatt or {{val|1000000}}&nbsp;watts).
+* The 10th resolution of [[CGPM]] in 2003 declared that "the symbol for the [[Decimal separator|decimal marker]] shall be either the [[full stop|point]] on the line or the [[comma]] on the line." In practice, the decimal point is used in English-speaking countries and most of Asia, and the comma in most of [[Latin America]] and in continental [[List of sovereign states and dependent territories in Europe|European countries]].<ref>{{cite journal|last=|first=|date=March–April 2008|title=Period or Comma? Decimal Styles over Time and Place|url=http://www.councilscienceeditors.org/files/scienceeditor/v31n2p042-043.pdf|journal=Science Editor|publisher=Council of Science Editors|volume=31|issue=2|page=42|doi=|pmid=|archive-url=https://web.archive.org/web/20130228062258/http://www.councilscienceeditors.org/files/scienceeditor/v31n2p042-043.pdf|archive-date=28 February 2013|access-date=|via=|first1=Amelia A|last1=Williamson|accessdate=19 May 2012}}</ref>
+* Spaces should be used as a [[thousands separator]] ({{val|1000000}}) in contrast to commas or periods (1,000,000 or 1.000.000) to reduce confusion resulting from the variation between these forms in different countries.
+* Any line-break inside a number, inside a compound unit, or between number and unit should be avoided.  Where this is not possible, line breaks should coincide with thousands separators.
+* Since the value of "billion" and "trillion" can [[Long and short scales|vary from language to language]], the dimensionless terms "ppb" (parts per [[Billion (word)|billion]]) and "ppt" (parts per [[long and short scales|trillion]]) should be avoided.  No alternative is suggested in the SI Brochure.
+
+====Printing SI symbols====
+Further rules<ref name=generalrules group=Note/> are specified in respect of production of text using [[printing press]]es, [[word processor]]s, [[typewriter]]s and the like.
+* Symbols are written in upright ([[Roman type|Roman]]) type (m for metres, s for seconds), so as to differentiate from the [[italic type]] used for quantities (''m'' for mass, ''s'' for displacement). By consensus of international standards bodies, this rule is applied independent of the font used for surrounding text.
+* In [[Chinese language|Chinese]], [[Japanese language|Japanese]], and [[Korean language]] computing ([[CJK characters|CJK]]), some of the commonly used units, prefix–unit combinations, or unit–exponent combinations have been allocated predefined single characters taking up a full square. [[Unicode]] includes these in its [http://www.unicode.org/charts/PDF/U3300.pdf CJK Compatibility] and [http://www.unicode.org/charts/PDF/U2100.pdf letter-like symbols] sub-ranges for back compatibility, without necessarily recommending future usage. These are summarised in [[Unicode symbols]]. The cursive ℓ, a letter-like symbol, has been used in a number of countries in addition to China and Japan as a symbol for the litre, but this is not currently recommended by any [[Standards organization|standards body]].<!--there are lots of standards organisations and I'm pretty sure at least some of them did recommend this in the past; I think South Africa was also big on this-->
+*[[Space (punctuation)|In print]], the space used as a thousands separator (commonly called a [[thin space]]) is typically narrower than that used between words.
+
+==Realisation of units==
+[[File:Silicon sphere for Avogadro project.jpg|thumb|upright|Silicon sphere for the [[Avogadro project]] used for measuring the Avogadro constant to a relative standard uncertainty of {{val|2|e=−8}} or less, held by [[Achim Leistner]].<ref>{{cite web| title = Avogadro Project | url = http://www.npl.co.uk/science-technology/mass-and-force/research/avogadro-project | publisher = National Physical Laboratory | accessdate = 19 August 2010}}</ref>]]
+Metrologists carefully distinguish between the definition of a unit and its realisation. The definition of each base unit of the SI is drawn up so that it is unique and provides a sound theoretical basis on which the most accurate and reproducible measurements can be made. The realisation of the definition of a unit is the procedure by which the definition may be used to establish the value and associated uncertainty of a quantity of the same kind as the unit. A description of the ''mise en pratique''<ref group = Note name=Translation>This term is a [[#Metre Convention|translation]] of the official [French] text of the SI Brochure</ref> of the base units is given in an electronic appendix to the SI Brochure.<ref>{{cite web
+|url = http://www.bipm.org/en/si/new_si/mise-en-pratique.html
+|title = What is a mise en pratique?
+|publisher = [[International Bureau of Weights and Measures]]
+|accessdate = 10 November 2012}}</ref><ref name=SIBrochure/>{{rp|168–169}}
+
+The published ''mise en pratique'' is not the only way in which a base unit can be determined: the SI Brochure states that "any method consistent with the laws of physics could be used to realise any SI unit."<ref name=SIBrochure/>{{rp|111}} In the current (2016
+) exercise to [[New SI definitions|overhaul the definitions of the base units]], various consultative committees of the CIPM have required that more than one ''mise en pratique'' shall be developed for determining the value of each unit.{{citation needed|date=April 2016}}  In particular:
+* At least three separate experiments be carried out yielding values having a relative standard uncertainty in the determination of the [[kilogram]] of no more than {{val|5|e=-8}} and at least one of these values should be better than {{val|2|e=-8}}.  Both the [[Watt balance]] and the [[Avogadro project]] should be included in the experiments and any differences between these be reconciled.<ref>{{cite web
+|url = http://www.bipm.org/utils/common/pdf/CCM12.pdf#page=23
+|title =Recommendations of the Consultative Committee for Mass and Related Quantities to the International Committee for Weights and Measures.
+|work = 12th Meeting of the CCM
+|date = 26 March 2010
+|publisher =  Bureau International des Poids et Mesures
+|location = Sèvres
+|accessdate = 27 June 2012}}</ref><ref>{{cite web
+|url = http://www.bipm.org/utils/common/pdf/CCQM16.pdf#page=40
+|title = Recommendations of the Consultative Committee for Amount of Substance – Metrology in Chemistry to the International Committee for Weights and Measures.
+|work = 16th Meeting of the CCQM
+|date = 15–16 April 2010
+|publisher =  Bureau International des Poids et Mesures
+|location = Sèvres
+|accessdate = 27 June 2012}}</ref>
+*When the [[kelvin]] is being determined, the relative uncertainty of the [[Boltzmann constant]] derived from two fundamentally different methods such as acoustic gas [[thermometry]] and dielectric constant gas thermometry be better than one part in {{val|e=-6}} and that these values be corroborated by other measurements.<ref>{{cite web
+|url = http://www.bipm.org/utils/common/pdf/CCT25.pdf#page=53
+|title = Recommendations of the Consultative Committee for Thermometry to the International Committee for Weights and Measures.
+|work = 25th Meeting of the CCT
+|date = 6–7 May 2010
+|publisher =  Bureau International des Poids et Mesures
+|location = Sèvres
+|accessdate = 27 June 2012}}</ref>
+
+==Post-1960 changes==
+The preamble to the [[Metre Convention]] read "''Desiring the international uniformity and precision in standards of weight and measure, have resolved to conclude a convention ..."''.<ref name=ConventionText/> Changing technology has led to an evolution of the definitions and standards that has followed two principal strands – changes to SI itself and clarification of how to use units of measure that are not part of SI, but are still nevertheless used on a worldwide basis.
+
+===Changes to the SI===
+Since 1960 the CGPM has made a number of changes to SI.  These include:
+*The 13th CGPM (1967) renamed the "degree Kelvin" (symbol °K) to the "kelvin" (symbol K)<ref name=SIBrochure/>{{rp|156}}
+*The 14th CGPM (1971) added the [[Mole (unit)|mole]] (symbol mol) to the list of base units.<ref>pg 221 – McGreevy</ref>
+*The 14th GCPM (1971) added the [[Pascal (unit)|pascal]] (symbol Pa) for [[pressure]] and the [[Siemens (unit)|siemens]] (symbol S) for electrical conductance to the list of named derived units.<ref name=SIBrochure/>{{rp|156}}
+*The 15th CGPM (1975) added the [[becquerel]] (symbol Bq) for "[[Radioactive decay|activity]] referred to a [[radionuclide]]" and the [[Gray (unit)|gray]] (symbol Gy) for ionizing radiation to the list of named derived units<ref name=SIBrochure/>{{rp|156}}
+*In order to distinguish between "[[absorbed dose]]" and "[[dose equivalent]]", the 16th CGPM (1979) added the [[sievert]] (symbol Sv) to the list of named derived units as the unit of dose equivalent.<ref name=SIBrochure/>{{rp|158}}
+*The 16th CGPM (1979) clarified that in a break with convention either the letter "L" or the letter "l" may be used as a symbol for the [[litre]].<ref name=SIBrochure/>{{rp|159}}
+[[File:Clinical Mercury Manometer.jpg|thumb|[[Sphygmomanometer]] – the traditional device that measures blood pressure using [[Mercury (element)|mercury]] in a manometer.  Pressures are recorded in "[[Pressure measurement#Liquid column|millimetres of mercury]]" – a non-SI unit]]
+*The 21st CGPM (1999) added the [[katal]] (symbol kat) for [[catalytic activity]] to the list of named derived units.<ref name=SIBrochure/>{{rp|165}} 
+*In its original form (1960), the SI defined prefixes for values ranging from pico- (symbol p) having a value of 10<sup>−12</sup> to tera- (symbol T) having a value of 10<sup>12</sup>. The list was extended at the 12th CGPM (1964),<ref name=SIBrochure/>{{rp|152}} at the 15th CGPM (1975)<ref name=SIBrochure/>{{rp|158}} and at the 19th CGPM (1991)<ref name=SIBrochure/>{{rp|164}} to give the current range of prefixes.
+
+In addition, advantage was taken of developments in technology to redefine many of the base units enabling the use of higher precision techniques.
+
+===Retention of non-SI units===
+Although, in theory, SI can be used for any physical measurement, it is recognised that some non-SI units still appear in the scientific, technical and commercial literature, and will continue to be used for many years to come.  In addition, certain other units are so deeply embedded in the history and culture of the human race that they will continue to be used for the foreseeable future.<ref>For instance, [[Tire code|tyre sizes]] on motor vehicles and bicycles tend to have the wheel diameter in inches, and the remaining dimensions in metric.</ref> The CIPM has catalogued such units and included them in the SI Brochure so that they can be used consistently.
+
+The first such group comprises the units of time and of angles and certain legacy non-SI metric units.  Most of mankind has used the day and its subdivisions as a basis of time with the result that the second, minute, hour and day, unlike the [[Foot (unit)|foot]] or the [[Pound (mass)|pound]], were the same regardless of where it was being measured. The second has been catalogued as an SI unit, its multiples as units of measure that may be used alongside the SI.  The measurement of angles has likewise had a long history of consistent use – the [[radian]], being {{sfrac|2π}} of a revolution, has mathematical niceties, but it is cumbersome for navigation, hence the retention of the degree, minute and second of arc. The [[tonne]], [[litre]] and [[hectare]] were adopted by the CGPM in 1879 and have been retained as units that may be used alongside SI units, having been given unique symbols.
+
+Physicists often use units of measure that are based on natural phenomena such as the speed of light, the mass of a proton (approximately one [[Dalton (unit)|dalton]]), the charge of an electron and the like.  These too have been catalogued in the SI Brochure with consistent symbols, but with the caveat that their physical values need to be measured.<ref group = Note>The CGPM has defined the metre in terms of the speed of light, so the speed of light has an exact value.</ref>
+
+In the interests of standardising health-related units of measure used in the nuclear industry, the 12th CGPM (1964) accepted the continued use of the [[curie]] (symbol Ci) as a non-SI unit of activity for radionuclides;<ref name=SIBrochure/>{{rp| 152}} the becquerel, sievert and gray were adopted in later years.  Similarly, the millimetre of mercury (symbol mmHg) was retained for measuring blood pressure.<ref name=SIBrochure/>{{rp| 127}}
+
+==Global adoption==
+
+{{multiple image
+ | width = 120
+ | footer = A commercial-quality hexagonal 2 kg weight with a lead plug and assayer's mark and year of manufacture ("79" representing "1979") that is similar to, but which predates [[International Organization of Legal Metrology|OIML]] recommendation R52.<ref name="oiml.org">{{cite journal
+|url = http://www.oiml.org/en/files/pdf_r/r052-e04.pdf
+|title = International Recommendation R 52 – Hexagonal weights – Metrological and technical requirements
+|year = 2004
+|publisher = [[International Organization of Legal Metrology]]
+|accessdate = 28 December 2012}}</ref>
+ | image1 = 2kg with creditcard.JPG
+ | alt1 = A hexagonal 2kg weight – top view showing inscription
+ | caption1 = Top view of the 2&nbsp;kg weight (with a [[credit card]] to show the weight's size)
+ | image2 = 2kg auditmark.JPG
+ | alt2 = A hexagonal 2kg weight – bottom view showing lead plug and assayer's stamp
+ | caption2 = Bottom view of the 2&nbsp;kg showing the lead plug and assayer's stamp.
+ }}
+SI has become the world's most widely used [[Systems of measurement|system of measurement]], used in both everyday [[commerce]] and [[science]].<ref>{{cite web | url=http://www.bipm.org/en/measurement-units/base-units.html | title=Official BIPM definitions | accessdate=26 November 2012}}
+</ref><ref>
+{{cite web | url=http://www.physics.nist.gov/cuu/Units/introduction.html | title=Essentials of the SI: Introduction |publisher = [[National Institute of Standards and Technology]] | accessdate=26 November 2012}}
+</ref><!--English units are still used in some scientific applications (which?), but note also that parsecs in astronomy, calories and mmHg in the medical sciences, and electron volts in physics are not part of the specific system of units known as SI, to mention only a few exceptions--> The change to SI had little effect on everyday life in countries that used the metric system – the metre, kilogram, litre and second remained unchanged as did the way in which they were used – most of the changes only affected measurements in the workplace.<ref>{{Cite journal
+|url = http://ukma.org.uk/sites/default/files/met1972.pdf
+|title = White Paper on Metrication (1972) – Summary and Conclusions
+|publisher = Department of Trade and Industry Consumer and Competition Policy Directorate
+|location = London
+|at = para 22–23}}</ref> The [[General Conference on Weights and Measures|CGPM]] has a role of recommending changes, but no formal role in the enforcement of such changes—another inter-governmental organisation, the [[International Organization of Legal Metrology|International Organization of Legal Metrology (OIML)]] provides a forum for harmonisation of national standards and legislation in respect of metrology.
+
+Both the degree and rate of adoption of SI varied from country to country—countries that had not adopted the metric system by 1960 and subsequently adopted SI did so directly as part of their metrication programs while others migrated from the [[Centimetre–gram–second system of units|CGS system of units]] to SI.  In 1960, the world's largest economy was that of the United States, followed by the United Kingdom, West Germany, France, Japan, China and India.<ref>{{cite web
+|at = Table 3.1
+|url = http://econweb.rutgers.edu/dutta/AE&AM%20Chapter%203.pdf
+|title = Chapter 3: Optimum Currency Areas: U.S. Dollar, Euro and Asian Money
+|first1 = M. 
+|last1 = Dutta
+|publisher = [[Rutgers University]]
+|year = 2008
+|accessdate = 2 December 2012}}</ref> The United States and the United Kingdom were non-metric, France and Germany had been using the metric system for about a century, and China had been using the metric system for 35 years, while India and Japan had adopted the metric system within the preceding five years.  Other non-metric countries were those where the United Kingdom or the United States had considerable influence.<ref group=Note>These countries included the [[Commonwealth of Nations|Commonwealth countries]] (excluding [[India]]), Ireland, Burma, Liberia, Iraq, Kuwait, Saudi Arabia, Nepal and Ethiopia</ref><ref>{{cite book
+|url = https://books.google.com/?id=nOG0SxxEu64C&pg=PA240
+|page = 244
+|title = The International Bureau of Weights and Measures 1875–1975: NBS Special Publication 420
+|date = 20 May 1975
+|editor1-last = Page
+|editor1-first = Chester H
+|editor2-last = Vigoureux
+|editor2-first = Paul
+|publisher = National Bureau of Standards
+|location = [[Washington, D.C.]]}}</ref>  These differences are brought out in the examples below:
+
+===United Kingdom and the former British Empire===
+{{See also|Metrication in the United Kingdom|Metrication in Australia|Metrication in New Zealand|Metrication in Canada}}
+Even though the use of metric units was legalised for trade in the UK in 1864, the UK had signed the [[Metre Convention]] in 1884 and the [[Parliament of the United Kingdom|UK Parliament]] had defined the yard and the pound in terms of the metre and the kilogram in 1897, the UK continued to use the [[Imperial units|imperial system of measure]]<ref name="The Law journal reports">{{Cite journal
+|url = http://ukma.org.uk/sites/default/files/met1972.pdf
+|title = White Paper on Metrication (1972) – Summary and Conclusions
+|publisher = Department of Trade and Industry Consumer and Competition Policy Directorate
+|location = London
+|at = para 19}}</ref>  
+and to export the imperial system of units to the [[British Empire|Empire]].<ref group = Note>In the context of this article, the word "Empire" excludes the United States.</ref>  In 1932, the system of [[Imperial Preference]] was set up at the [[British Empire Economic Conference|Ottawa Conference]].  Although [[Republic of Ireland|Ireland]] left the [[Commonwealth of Nations|Commonwealth]] in 1948 and South Africa in 1961,<ref>{{cite web
+|url = http://memory.loc.gov/frd/cs/belize/bz_appnb.html
+|work = Country studies
+|first1 = Deborah 
+|last1 = Cinchon
+|title = APPENDIX B – Guyana and Belize: The Commonwealth of Nations
+|publisher = [[Library of Congress]]
+|year = 1996
+|accessdate = 16 February 2013}}</ref> both continued their close economic ties with the Commonwealth.<ref>{{cite thesis
+|url = http://www.stanford.edu/group/siepr/cgi-bin/pubpol/?q=system/files/shared/documents/Fram_Nicholas.pdf
+|title = Decolonization, the Commonwealth, and British Trade, 1945–2004
+|first1 = Nicholas
+|last1 = Fram
+|date = 17 May 2006 
+|publisher = [[Stanford University]]
+|degree = BA (Hons)}}</ref>
+ 
+[[File:Metrication-uk-logo.png|left|thumb|Metrication logo of the Board of Trade]]
+When the SI standard was published in 1960, the only major Commonwealth country to have adopted the metric system was India. In 1863, the first reading of a bill that would have made the metric system compulsory passed its first reading in the [[House of Commons of the United Kingdom|House of Commons]] by 110 votes to 75. The bill, however, failed to make the statute book because of lack of parliamentary time.<ref name=Tavernor/>{{rp|136}} In 1965, after [[Metrication in the United Kingdom|this and similar false starts]] the then [[Federation of British Industry]] informed the British Government that its members favoured the adoption of the metric system. The rationale behind the request was that 80% of British exports were to countries that used the metric system or that were considering changing to the metric system. The [[Board of Trade]], on behalf of the Government, agreed to support a ten-year metrication programme. The government agreed to a voluntary policy requiring minimal legislation and costs to be borne where they fell. SI would be used from the outset.<ref>{{Cite journal
+|url = http://ukma.org.uk/sites/default/files/met1972.pdf
+|title = White Paper on Metrication (1972) – Summary and Conclusions
+|publisher = Department of Trade and Industry Consumer and Competition Policy Directorate
+|location = London
+|at = para 42–45}}</ref> The rest of the Commonwealth, South Africa and Ireland followed within a few years; in some countries such as South Africa and Australia metrication was mandatory rather than voluntary.<ref>{{cite web
+|url = http://lamar.colostate.edu/~hillger/international.html#south_africa
+|title = South Africa Metrication
+|date = 15 September 1977
+|publisher = South African Government
+|accessdate = 3 December 2012}}</ref><ref>{{cite web
+|url = http://ukma.org.uk/australian-experience
+|title = Final Annual Report (1980–1981) of the (Australian) Metric Conversion Board (MCB)
+|accessdate = 3 December 2012}}</ref>
+
+By 1980 all apart from the United Kingdom, Canada and Ireland had effectively completed their programs. In the United Kingdom the breakdown of voluntary metrication in the mid-1970s<ref name=MetricBoardFinal/>{{rp|§1.8}} coincided with the United Kingdom's obligations as part of the [[European Economic Community|EEC]] to adopt the metric system, resulting in legislation to force metrication in certain areas and the [[Eurosceptic]] movement adopting an [[anti-metrication]] stance and the United Kingdom seeking a number of derogations from the relevant EEC directives.  Once the metrication of most consumer goods was completed in 2000, aspects of British life, especially in government, commerce and industry used SI.<ref name=MetricBoardFinal>{{Cite journal
+|url=http://ukma.org.uk/sites/default/files/met1980.pdf
+|title = Final Report of the Metrication Board (1980) 
+|publisher = Department of Trade and Industry Consumer and Competition Policy Directorate
+|location = London}}</ref>{{rp|§1.6 & §1.10}}  Although imperial units are widely encountered in unregulated areas such as the press and everyday speech, SI or units approved for use alongside SI are used in most areas where units of measure are regulated. High-profile exceptions include the sale of draught beer, the sale of milk in returnable containers, and United Kingdom road signs. Irish road signs (road distances and speeds) were converted to metric units during the first decade of the 21st century;<ref>{{cite web
+|url = http://www.rte.ie/news/2005/0120/58956-metric/
+|title = Roads go metric across country today
+|date = 20 January 2005
+|publisher = [[RTÉ News and Current Affairs|RTÉ News]]
+|page = 9
+|accessdate = 16 February 2013}}</ref> otherwise, the situation in Ireland is similar to that in the United Kingdom.<ref>{{cite web
+|url = http://www.education.ie/en/Schools-Colleges/Information/Literacy-and-Numeracy/Literacy-and-Numeracy-Submissions/lit_sub_abgd_ibec.pdf
+|title = National Plan to Improve Literacy and Numeracy in Schools: Submission to the Department of Education and Skills
+|date = February 2011
+|publisher = Irish Business and Employers Confederation
+|page = 9
+|accessdate = 16 February 2013
+|quote=Other specific numeracy requirements include ... awareness of the different measures and the ability to convert them. Despite all the moves towards metrication, imperial and metric measures remain in use.}}</ref>
+
+[[Metrication in Canada|Canada]] has adopted it for most purposes, but [[imperial units]] are still legally permitted and remain in common use throughout a few sectors of Canadian society, particularly in the buildings, trades and railways sectors.<ref>{{cite web | url=http://laws-lois.justice.gc.ca/eng/acts/W-6/page-14.html | title=Weights and Measures Act | accessdate=26 November 2012}}
+</ref><ref>[http://laws-lois.justice.gc.ca/eng/acts/W-6/page-2.html#h-4 Weights and Measures Act], Retrieved 2012-09-18, Act current to 18 September 2012. "Canadian units (5) The Canadian units of measurement are as set out and defined in Schedule II, and the symbols and abbreviations therefor<!-- "therefor" IS a word, IS in source, and IS correctly used here.---> are as added pursuant to subparagraph 6(1)(b)(ii)."</ref>
+
+===European Union===
+{{main article|European units of measurement directives}}
+In 1960, all the largest industrialised nations that had an established history of using the metric system were members of the [[European Economic Community]] (EEC).
+
+In 1972, in order to harmonise units of measure as part of a programme to facilitate trade between member states, the EEC issued [[European units of measurement directives|directive 71/354/EEC]].<ref>{{cite web 
+|url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:I:1971_III:31971L0354:EN:PDF 
+|title=Council Directive 71/354/EEC: On the approximation of the laws of the Member States relating to units of measurement |publisher=The Council of the European Communities 
+|date=18 October 1971 
+|accessdate=3 March 2012}}</ref>  This directive catalogued units of measure that could be used for "economic, public health, public safety and administrative purposes" and also provided instructions for a transition from the existing units of measure that were in use.  The directive replicated the CGPM SI recommendations and in addition pre-empted some of the additions whose use had been recommended by the CIPM in 1969, but had not been ratified by the CGPM.<ref group = Note>Angular units: degree, minute and second, Units of time:day, minute</ref> The directive also catalogued units of measure whose status would be reviewed by the end of 1977 (mainly coherent CGS units of measure) and also catalogued units of measure that were to be phased out by the end of 1977, including the use of obsolete names for the sale of timber such as the [[stere]], the use of units of force and pressure that made use of the acceleration due to gravity,<ref group = Note>The units that made use of the acceleration due to gravity in their definitions included the [[kilogram-force]]/[[Kilogram-force|kilopond]], [[torr]], [[technical atmosphere]], [[Torr#Manometric units of pressure|manometric units of pressure]] such as metres of water and millimetres of mercury</ref> the use of non-coherent units of power such as the [[Pferdestärke|Pferdestärke (PS)]], the use of the [[calorie]] as a measure of energy and the [[Stilb (unit)|stilb]] as a measure of [[luminance]]. The directive was silent in respect of units that were specific to one or two countries including the ''pond'', ''pfund'', ''livre'' (Dutch, German and French synonyms for 500&nbsp;g), thereby effectively prohibiting their use as well.
+
+When the directive was revisited during 1977, some of the older units that were being reviewed (such as millimetre of mercury for [[blood pressure]])<ref group=Note>The millimetre of mercury for blood pressure is one catalogued in [[#Non-SI units accepted for use with SI|Table 8 of SI Brochure]].</ref> were retained but others were phased out, thereby broadly aligning the allowable units with SI.  The directive was however overhauled to accommodate British and Irish interests in retaining the imperial system in certain circumstances.<ref>{{cite web 
+| url = http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31980L0181:EN:NOT 
+| author = The Council of the European Communities 
+| title = Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws of the Member States relating to Unit of measurement and on the repeal of Directive 71/354/EEC 
+| date=21 December 1979 
+| accessdate=7 February 2009}}</ref> It was reissued as [[European units of measurement directives|directive 80/181/EEC]]. During subsequent revisions, the directive has reflected changes in the definition of SI. The directive also formalised the use of ''supplementary units'', which in 1979 were permitted for a period of ten years.  The cut-off date for the use of supplementary units was extended a number of times and in 2009 was extended indefinitely.<ref>{{cite web | url = http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:1980L0181:20090527:EN:PDF | author = The Council of the European Communities | title = Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws of the Member States relating to Unit of measurement and on the repeal of Directive 71/354/EEC | date=27 May 2009 | accessdate=14 September 2009}}</ref>
+
+===India===
+{{Main article|Metrication in India}}
+India was one of the last countries to start a metrication programme before the advent of SI. When it became independent in 1947, both imperial and native units of measure were in use. Its metrication programme started in 1956 with the passing of the Standards of Weights and Measures Act.  Part of the act fixed the value of the [[Seer (unit)|seer]] (a legacy unit of mass) to 0.9331&nbsp;kg exactly; elsewhere the Act declared that from 1960 all non-metric units of measure were to be illegal.<ref>{{cite web
+|first1 =  Sujay Rao 
+|last1 = Mandavilli 
+|url = http://lamar.colostate.edu/~hillger/international.html#india
+|title = Metrication in India
+|work = Metric usage and metrication in other countries 
+|publisher = US Metric Association
+|accessdate = 3 December 2012}}</ref>
+
+Four years after the [[Government of India|Indian Government]] announced its metrication programme, SI was published. The result was that the initial metrication programme was a conversion to the CGS system of units and the subsequent adoption of SI has been haphazard.  Fifty years later, many of the country's [[Textbook|schoolbooks]] still use CGS or imperial units.<ref>{{cite journal
+|url = http://www.iisc.ernet.in/currsci/feb102007/390.pdf
+|journal = [[Current Science]]
+|volume = 92
+|date = 10 February 2007
+|publisher = Current Science Association
+|location = Bangalore
+|title = Fifty years of the metric system in India and its adoption in our daily life
+|first1 = Bhupati 
+|last1 = Chakrabarti
+|accessdate = 20 November 2012
+|issue = 3}}</ref> Originally the Indian Government had planned to replace all units of measure with metric units by 1960. In 1976 a new Weights and Measures Act replaced the 1956 Act which, amongst other things,  required that all [[Weighing scale|weighing devices]] be approved before being released onto the market place. However, in 2012, it was reported that traditional units were still encountered in small manufacturing establishments and in the marketplace alongside CGS, SI and imperial measures, particularly in the poorer areas.<ref>{{cite conference
+| url = http://nime.hbcse.tifr.res.in/indian-participants-at-icme-2012/K.SubramaniamArindamB_TSG811Measurementsunitsmodes.pdf
+| title = Measurement Units and Modes: The Indian Context
+| first1 = K
+| last1 = Subramaniam
+| first2 = Arindam
+| last2 = Bose
+| date  = 14 July 2012
+| conference = 12th International Congress on Mathematical Education
+| conferenceurl = http://www.icme12.org/UPFILE/CONTENTS_FILE/ICME_12_Final_Programme2.pdf
+| pages = 1973–1983
+| accessdate = 20 November 2012}}</ref>
+
+[[File:Half Bananas for Sale at Market - Trivandrum - Kerala - India.jpg|thumb|upright|Banana market stall in [[Kerala]], India – the trader is using hexagonal weights – a shape that is consistent with metric weights, both in India<ref>{{cite journal
+|url = http://www.oiml.org/en/files/pdf_e/e003-e04.pdf
+|title = Verification of commercial weights
+|first1 = S.V. 
+|last1 = Gupta
+|publisher = [[International Organisation of Legal Metrology]]
+|id = Expert Report – OIML E 3 (2004)
+|year = 2004
+|page = 6
+|location = Paris
+|accessdate = 16 August 2013}}</ref> and internationally<ref name="oiml.org"/>]]
+The use of the [[Indian numbering system]] of [[crore]]s ({{val|10000000}}) and [[lakh]]s ({{val|100000}}), which do not map onto the SI system of prefixes, is widespread and is often found alongside or in place of the [[Western world|western]] numbering system.<ref>{{cite web
+|title = Style Sheet
+|url = http://www.epw.in/terms-policy/style-sheet.html
+|publisher = [[Economic and Political Weekly]]
+|location = Mumbai
+|accessdate = 31 January 2013}}</ref>
+
+===United States===
+{{main article|Metrication in the United States}}
+[[Image:Metricanmc.png|thumb|right|Logo of the American National Metrication Council, an organisation set up by [[American National Standards Institute|American National Standards Institute (ANSI)]] to coordinate the country's transition to the metric system.]]
+Even though [[United States Congress|Congress]] set up a framework for the use of the metric system in the nineteenth century,<ref>{{cite web
+|url = http://www.nist.gov/pml/pubs/sp447/index.cfm
+|publisher = [[National Institute of Standards and Technology|National Bureau of Standards]]
+|title = Weights and Measures Standards of the United States – A brief history, Special Publication 447
+|first1 = Louis E. 
+|last1 = Barbrow
+|first2 = Lewis V. 
+|last2 = Judson
+|pages = 10–20
+|date = March 1976
+|origyear = First published October 1963
+|lccn = 76-600055
+ }}</ref><ref group = Note>Use of the metric system was legalised in 1866, the [[Metre Convention]] was signed in 1875 and in 1893 the [[Mendenhall Order]] defined the pound and the yard in terms of the kilogram and metre respectively</ref> the United States continues to use [[United States customary units|US customary units]], based on English measure passed by parliament under the reign of Queen Anne in 1706, for most purposes apart from [[science]] and medicine.<ref name=CIA>{{cite web
+| url=https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-g.html
+| title=Appendix G : Weights and Measures
+| work=[[The World Factbook]]
+| publisher=[[Central Intelligence Agency]]
+| accessdate=3 September 2011}}
+</ref> In [[Puerto Rico]], metric units are widely used due to the vast majority of the population having Spanish heritage.<ref>{{cite book 
+|title = Frommer's Puerto Rico
+|first1 = Darwin 
+|last1 = Porter
+|first2 = Danforth 
+|last2 = Prince
+|page = 58
+|publisher = Wiley Publishing
+|edition = 8th
+|isbn = 978-0-471-78740-2
+|year = 2006}}</ref>
+
+On 10 February 1964, the National Bureau of Standards (now the [[National Institute of Standards and Technology]]) issued a statement that it was to use SI except where this would have an obvious detrimental effect.  In 1968 [[United States Congress|Congress]] authorised the [[U.S. Metric Study]] the emphasis of which was to examine the feasibility of adopting SI.<ref>{{cite web
+|title = The United States and the Metric System
+|date = October 1997
+|publisher = Office of Weights and Measures/Metric Program
+|url = http://www.nist.gov/pml/wmd/metric/upload/1136a.pdf
+|accessdate = 23 August 2013
+|id = NIST LC1136}}</ref> The first volume was delivered in 1970.<ref>{{cite book
+|title = U.S. Metric Study Report – International Standards
+|first1 = Daniel V
+|last1 = Simone
+|publisher = National Bureau of Standards
+|id = Special Publication 345-1
+|date = December 1970}}</ref> The study recommended that the United States adopt the International System of units,<ref>{{cite web
+|url = http://www.unc.edu/~rowlett/units/usmetric.html
+|work = How Many? A Dictionary of Units of Measurement
+|first1 = Russ 
+|last1 = Rowlett
+|publisher = [[University of North Carolina]]
+|location = [[University of North Carolina at Chapel Hill|Chapel Hill]]
+|date = 8 August 2000
+|quote = Henceforth it shall be the policy of the National Bureau of Standards to use the units of the International System (SI), as adopted by the 11th General Conference of Weights and Measures (October 1960), except when the use of these units would obviously impair communication or reduce the usefulness of a report.
+|title = The Metric System in the United States
+|accessdate = 21 January 2013}}</ref> and in 1975 Congress passed the [[Metric Conversion Act|Metric Conversion Act of 1975]], which established a national policy of coordinating and planning for the increased use of the metric measurement system in the United States.<ref name=GeraldFord>{{cite web
+|title = Statement on Signing the Metric Conversion Act of 1975.
+|date = 23 December 1975
+|first1 = Gerald R
+|last1 = Ford
+|editor1-first = John
+|editor1-last = Wooley
+|editor2-first = Gerhard
+|editor2-last = Peters
+|url = http://www.presidency.ucsb.edu/ws/?pid=5454
+|work = The American Presidency Project
+|accessdate = 21 August 2013}}</ref> Metrication was voluntary and to be coordinated by the [[United States Metric Board]] (USMB).<ref>{{cite web
+|url = http://www.ebsinstitute.com/OtherActivities/EBS.qs2df2.html
+|title = The Metric System in the U.S.
+|accessdate = 21 August 2013
+|year = 2003
+|publisher = Event-Based Science Project}}</ref>
+
+Efforts during the [[Gerald Ford|Ford]] and [[Jimmy Carter|Carter]] administrations to force metrication were seized on by many newspaper editorialists as being dictatorial.<ref name=Alder>{{cite book
+|title = The Measure of all Things—The Seven-Year-Odyssey that Transformed the World
+|last= Alder
+|first= Ken
+|year= 2002
+|publisher= Abacus
+|location= London
+|isbn= 0-349-11507-9}}</ref>{{rp|365}} Public response included resistance, apathy, and sometimes ridicule.<ref>{{cite encyclopedia
+|url = http://encarta.msn.com/column_metricsystem_marthahome/Whatever_Happened_to_the_Metric_System.html
+|author = Martha Brockenbrough 
+|accessdate = 21 January 2013 
+|title = Whatever Happened to the Metric System? 
+|work = MSN Encarta column 
+|archiveurl=http://www.webcitation.org/5kx5LuUyn
+|archivedate=1 November 2009}}</ref>  The underlying reasons for this response include a relative uniformity of weights and measures (though, notably, US liquid measure differed by about 20% from British Imperial measure, which was adopted throughout the British Empire in 1824) [[United States Declaration of Independence|inherited from the United Kingdom in 1776]], a homogeneous economy and the influence of [[Business|business groups]] and [[Populism|populists]] in Congress caused the country to look at the short-term costs associated with the change-over, particularly those that would be borne by the consumer rather than long-term benefits of efficiency and international trade. The Metrication Board was disbanded under President Ronald Reagan's direction in 1982.<ref name=Alder/>{{rp|362–365}}
+
+The 1988 [[Omnibus Foreign Trade and Competitiveness Act]] removed international trade barriers and amended the Metric Conversion Act of 1975, designating the metric system as "the Preferred system of weights and measures for United States trade and commerce". The legislation stated that the federal government has a responsibility to assist industry, especially small business, as it voluntarily converts to the metric system of measurement.<ref>{{cite journal
+|url = http://www.cato.org/pubs/regulation/regv14n1/v14n1-5.pdf 
+|last1 = Cass
+|first1 = Ronald A.
+|title = Velvet Fist in an Iron Glove: The Omnibus Trade and Competitiveness Act of 1988 
+|journal = [[Regulation (magazine)|Regulation]]
+|publisher = [[Cato Institute]]
+|location = Washington DC 
+|pages= 50–56
+|date = Winter 1991
+|accessdate = 21 January 2013}}</ref> Exceptions were made for the highway and construction industries; the Department of Transportation planned to require metric units by 2000, but this plan was cancelled by the [[Transportation Equity Act for the 21st Century|1998 highway bill TEA21]].<ref>{{cite web
+|url=http://lamar.colostate.edu/~hillger/dykt.htm#highway 
+|title=DYKT: Did You Know That 
+|publisher=Lamar.colostate.edu 
+|date=5 June 2008 
+|accessdate=21 January 2013}}</ref> However, the US military uses the metric system widely, partly because of the need to work with armed services from other nations.<ref>{{cite journal
+|title = Guide for Identification and Development of Metric Standards
+|date = December 2003
+|id = SD-10
+|page = 3
+|publisher = Office of the Under Secretary of Defense Acquisition, Technology & Logistics
+|url = http://www.nist.gov/pml/wmd/metric/upload/sd10final.pdf
+|accessdate = 22 January 2013}}</ref>
+Although overall responsibility for [[Packaging and labeling|labelling requirements]] of consumer goods lies with Congress and is therefore covered by [[Law of the United States#Federal law|federal law]], details of labelling requirements for certain commodities are controlled by [[State law (United States)|state law]] or by other authorities such as the [[Food and Drug Administration]], [[Environmental Protection Agency]] and [[Alcohol and Tobacco Tax and Trade Bureau]].<ref name=Gentry2009>{{cite web
+|last=Gentry
+|first=Elizabeth J.
+|title=Voluntary Metric Labeling
+|pages = 3–6
+|url=http://www.nist.gov/pml/wmd/metric/upload/Voluntary-Metric-Labeling-Dec2009.pdf
+|publisher=National Institute of Standards and Technology
+|accessdate=28 January 2013}}</ref>
+The federal [[Fair Packaging and Labeling Act]] (FPLA), originally passed in 1964, was amended in 1992 to require [[consumer goods]] directly under its jurisdiction to be labelled in both customary and metric units. Some industries are engaged in efforts to amend this law to allow manufacturers to use only metric labelling.<ref>{{cite web|url=http://ts.nist.gov/WeightsAndMeasures/Metric/forumdir.cfm |title=Forum on Permissible Metric-Only Labeling |publisher=NIST |date=4 October 2006 |accessdate=22 January 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20061010053802/http://ts.nist.gov/WeightsAndMeasures/Metric/forumdir.cfm |archivedate=10 October 2006 }}</ref>  The [[National Conference on Weights and Measures]] has developed the [[Uniform Packaging and Labeling Regulations]] (UPLR) which provides a standard approach to those sections of packaging law that are under state control. Acceptance of the UPLR varies from state to state – fourteen states accept it by merely citing it in their legislation.<ref>{{cite web
+|url = http://www.metricmethods.com/UPLR.php
+|title = The Uniform Packaging and Labeling Regulation (UPLR)
+|publisher = Metric Methods
+|first1 = James R. 
+|last1 = Frysinger
+|year = 2010
+|accessdate = 28 January 2013}}</ref> 
+[[File:2010 Cadillac SRX - Flickr - Stradablog.jpg|thumb|A 2010 Cadillac SRX. All [[General Motors]] products are designed using metric units.]]
+During the first decade of the 21st century, the [[European Community|EU]] directive [[European units of measurement directives|80/181/EEC]] had required that dual unit labelling of goods sold within the EU cease by the end of 2009. This was backed up by requests from other nations including Japan and New Zealand to permit metric-only labelling as an aid to trade with those countries.<ref name=Gentry2009/> Opinion in the United States was split – a bill to permit metric-only labelling at the federal level was to have been introduced in 2005 but significant opposition from the [[Food Marketing Institute]], representing US grocers, has delayed the introduction of the bill. During a routine decennial review of the directive in 2008, the EU postponed the sunset clause for dual units indefinitely.
+
+Meanwhile, in 1999 the UPLR was amended to permit metric-only labelling and automatically became law in those states that accept UPLR "as is".  By 1 January 2009, 48 out of 50 states permit metric-only labelling, either through UPLR or through their own legislation.<ref name=Gentry2009/> {{As of|2013|February}} the use of metric (and therefore SI) units in the United States does not follow any pattern. Dual-unit labelling on consumer goods is mandatory. Some consumer goods such as soft drinks are sold in metric quantities, but milk is sold in customary units.  The engineering industry is equally split. The [[automotive industry]] is largely metric,<ref>{{cite journal
+|journal = American Fastener Journal
+|title = Why Specify ISO Standards For Metric Fasteners? 
+|first1 = Joe 
+|last1 = Greenslade
+|url = http://www.bluetoad.com/publication/?i=120069&p=50
+|pages = 48–55
+|quote = "The decision by General Motors, FORD, and Chrysler to adopt the metric system of measurement in design impacted all industrialized countries in the world. The car manufacturers wanted to be able to source products anywhere in the world and have the components be compatible regardless of where the parts were made, purchased or assembled."
+|accessdate = 16 August 2013
+|date = <!-- July- -->August 2012
+|issn = 1064-3834
+|location = Scotsdale, Arizona}}</ref> but aircraft such as the [[Boeing 787 Dreamliner]] were designed using customary units.<ref>{{cite web
+|title = Not So Fast, Comac: C919 is DOA, But Boeing and Airbus Duopoly Dead Anyway
+|url = http://agmetalminer.com/2011/08/16/not-so-fast-comac-c919-is-doa-but-boeing-and-airbus-duopoly-dead-anyway/
+|first1 = Lisa 
+|last1 = Reisman 
+|date = 16 August 2011
+|accessdate = 16 August 2013
+|work = MetalMiner
+|publisher = Azul Partners}}</ref>
+
+==Redefinition of units==
+[[File:Relations between New SI units definitions.svg|thumb |right |Dependencies of proposed SI unit definitions (in colour) and seven [[physical constant]]s (in grey) with fixed numerical values. Unlike the current (2014) definition, the base units are derived from one or more constants of nature.]]
+{{main article|New SI definitions}}
+After the [[History of the metre|metre was redefined]] in 1960, the kilogram remained the only SI base unit that relied on a specific physical artefact, the [[international prototype of the kilogram]] (IPK), for its definition and thus the only unit that was still subject to periodic comparisons of national standard kilograms with the IPK.<ref name="NPL kg">{{cite web|title=Redefining the kilogram|url=http://www.npl.co.uk/educate-explore/redefining-the-kilogram/|publisher=UK National Physical Laboratory|accessdate=30 November 2014}}</ref> After the 1996–1998 recalibration, a clear divergence between the various prototype kilograms was observed.{{citation needed|date=November 2014}}
+
+At its 23rd meeting, held in 2007, the CGPM recommended that the CIPM should continue to investigate methods to provide exact fixed values for physical constants of nature that could then be used in the definitions of units of measure in place of the IPK, thus enabling the transition from explicit unit definitions to explicit constant definitions.<ref name="PT Newell">{{cite web|last1=Newell|first1=David B.|title=A more fundamental International System of Units|url=http://www.physics.usu.edu/dennison/3870-3880/Class_Notes/Lectures/Newell%202014%20PhysToday-SI%20Units.pdf|publisher=Physics Today|accessdate=30 November 2014}}</ref><ref name=Explicit>{{cite journal|url = http://www.iupac.org/publications/ci/2011/3305/4_mills.html|journal = Chemistry International|volume = 33|date=September–October 2011|title = Part II—Explicit-Constant Definitions for the Kilogram and for the Mole|first1 = Ian|last1 = Mills|issn = 0193-6484|pages = 12–15|issue = 5}}</ref>
+
+At a meeting of the CCU held in [[Reading, Berkshire|Reading, United Kingdom]], in September 2010, a resolution and draft changes to the SI Brochure that were to be presented to the next meeting of the CIPM in October 2010 were agreed to in principle.<ref>{{cite web
+| url=http://www.bipm.org/utils/en/pdf/24_CGPM_Convocation_Draft_Resolution_A.pdf|title=On the possible future revision of the International System of Units, the SI|last=Mills|first=Ian|publisher=CCU|date=29 September 2010|accessdate=1 January 2011}}</ref><ref name="draft">{{cite web
+| url=http://www.bipm.org/utils/en/pdf/si_brochure_draft_ch2.pdf
+| title=Draft Chapter 2 for SI Brochure, following redefinitions of the base units
+| last=Mills |first=Ian
+| publisher=CCU
+| date=29 September 2010
+| accessdate=1 January 2011}}
+</ref> The proposals that the CCU put forward were:
+*In addition to the speed of light, four constants of nature – the [[Planck constant]], an [[elementary charge]], the [[Boltzmann constant]] and the [[Avogadro number]] – be defined to have exact values.
+*The International prototype kilogram be retired
+*The current definitions of the kilogram, [[ampere]], [[kelvin]] and [[Mole (unit)|mole]] be revised.
+*The wording of the definitions of all the base units be both tightened up and changed to reflect the change in emphasis from explicit unit to explicit constant definitions.
+
+The CIPM meeting of October 2010 reviewed progress towards establishing fixed values for the constants but found that "the conditions set by the General Conference at its 23rd meeting have not yet been fully met. For this reason the CIPM does not propose a revision of the SI at the present time".<ref>{{cite web|url=http://www.bipm.org/en/si/new_si/|title=Towards the "new SI"|publisher=[[International Bureau of Weights and Measures]] (BIPM)|accessdate=20 February 2011}}</ref>
+
+At the 24th CGPM meeting, held in October 2011, the CIPM sponsored a resolution in which the requisite definition changes were agreed to in principle and in which the conditions required to be met before the redefinitions could be implemented were restated.<ref>{{cite conference|url=http://www.bipm.org/utils/en/pdf/24_CGPM_Resolution_1.pdf|title=Resolution 1 – On the possible future revision of the International System of Units, the SI|conference=24th meeting of the General Conference on Weights and Measures |location=Sèvres, France |date=17–21 October 2011 |accessdate=25 October 2011}}</ref>
+
+By November 2014 the conditions set out at the 23rd meeting of the CGPM for the unit redefinitions had still not been met, and the 25th meeting of the  CGPM, held in November 2014, adopted a similar resolution encouraging further work towards establishing fixed values for the fundamental constants.<ref>{{Cite conference |url=http://www.bipm.org/en/CGPM/db/25/1/ |title=Resolution 1 of the 25th CGPM (2014) |conference=25th meeting of the General Conference on Weights and Measures |location=Sèvres, France |date=18–20 November 2014}}</ref>
+
+The redefinitions are expected to be adopted at the 26th CGPM in the fall of 2018.<ref>{{Cite web
+ |url=http://www.bipm.org/cc/TGFC/Allowed/Minutes/CODATA_Minutes_14-BIPM-public.pdf
+ |title=Report on the Meeting of the CODATA Task Group on Fundamental Constants
+ |date=3–4 November 2014
+ |place=[[BIPM]]
+ |first=B. |last=Wood
+ |page=7
+ |quote=[BIPM director Martin] Milton responded to a question about what would happen if ... the CIPM or the CGPM voted not to move forward with the redefinition of the SI. He responded that he felt that by that time the decision to move forward should be seen as a foregone conclusion.
+}}</ref>  The [[Committee on Data for Science and Technology#Task Group on Fundamental Constants|CODATA task group on fundamental constants]] has announced special submission deadlines for data to compute the values that will be announced at this event.<ref>{{cite journal
+ |last1=Mohr |first1=Peter J.
+ |last2=Newell |first2=David B.
+ |last3=Taylor |first3=Barry N.
+ |year=2015
+ |title=CODATA recommended values of the fundamental physical constants: 2014 – Summary
+ |url=http://codata.org/blog/2015/08/04/codata-recommended-values-of-the-fundamental-physical-constants-2014/
+ |journal=Zenodo
+ |doi=10.5281/zenodo.22827
+ |quote=Because of the good progress made in both experiment and theory since the 31 December 2010 closing date of the 2010 CODATA adjustment, the uncertainties of the 2014 recommended values of {{mvar|h}}, {{mvar|e}}, {{mvar|k}} and {{math|''N''<sub>A</sub>}} are already at the level required for the adoption of the revised SI by the 26th CGPM in the fall of 2018. The formal road map to redefinition includes a special CODATA adjustment of the fundamental constants with a closing date for new data of 1 July 2017 in order to determine the exact numerical values of {{mvar|h}}, {{mvar|e}}, {{mvar|k}} and {{math|''N''<sub>A</sub>}} that will be used to define the New SI. A second CODATA adjustment with a closing date of 1 July 2018 will be carried out so that a complete set of recommended values consistent with the New SI will be available when it is formally adopted by the 26th CGPM.
+}}</ref>
+{{clear}}
+
+==See also==
+{{cmn|2|
+* [[History of measurement]]
+* [[List of international common standards]]
+* [[List of scientific units named after people]]
+* [[Metre–tonne–second system of units]]  
+* [[Names of large numbers]]
+* [[Names of small numbers]]
+* [[Order of magnitude]]
+'''Organisations'''
+* [[Institute for Reference Materials and Measurements]]
+'''Standards and conventions'''
+* [[Coordinated Universal Time]] (UTC)
+* [[Unified Code for Units of Measure]]
+}}
+
+== Notes ==
+{{Reflist|30em|group=Note}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* {{GreenBookRef}}
+* [http://info.ee.surrey.ac.uk/Workshop/advice/coils/unit_systems/#rms Unit Systems in Electromagnetism]
+* [http://www.nist.gov/customcf/get_pdf.cfm?pub_id=32943 MW Keller ''et al.''] Metrology Triangle Using a Watt Balance, a Calculable Capacitor, and a Single-Electron Tunneling Device
+* [http://nvlpubs.nist.gov/nistpubs/jres/116/6/V116.N06.A01.pdf "The Current SI Seen From the Perspective of the Proposed New SI"]. Barry N. Taylor. Journal of Research of the National Institute of Standards and Technology, Vol. 116, No. 6, Pgs. 797–807, Nov–Dec 2011.
+* B. N. Taylor, Ambler Thompson, ''International System of Units (SI)'', [[National Institute of Standards and Technology]] 2008 edition, ISBN 1437915582.
+
+==External links==
+{{Commons category|International System of Units}}
+;Official
+* [http://www.bipm.org/en/measurement-units/ BIPM Bureau International des Poids et Mesures (SI maintenance agency)] (home page)
+** [http://www.bipm.org/en/si/si_brochure/ BIPM brochure] (SI reference)
+* [http://www.iso.org/iso/iso_catalogue/catalogue_ics/catalogue_detail_ics.htm?csnumber=30669 ISO 80000-1:2009 ''Quantities and units – Part 1: General'']
+* [http://physics.nist.gov/cuu/Units/bibliography.html NIST Official Publications]
+** [http://physics.nist.gov/Pubs/SP330/sp330.pdf NIST Special Publication 330, 2008 Edition: The International System of Units (SI)]
+** [http://www.nist.gov/pml/pubs/sp811/index.cfm NIST Special Publication 811, 2008 Edition: Guide for the Use of the International System of Units]
+** [http://www.nist.gov/pml/wmd/metric/upload/NIST-SP-814-Federal-Metric-Policy-1998.pdf NIST Special Pub 814: Interpretation of the SI for the United States and Federal Government Metric Conversion Policy]
+* [http://www.sae.org/standardsdev/tsb/tsb003.pdf Rules for SAE Use of SI (Metric) Units]
+* {{dmoz|Science/Reference/Units_of_Measurement/}}
+* [http://www.engnetglobal.com/tips/convert.aspx EngNet Metric Conversion Chart] Online Categorised Metric Conversion Calculator
+* [http://lamar.colostate.edu/~hillger/pdf/Practical_Guide_to_the_SI.pdf U.S. Metric Association. 2008. A Practical Guide to the International System of Units]
+
+;History
+* [ftp://www.ctan.org/tex-archive/macros/latex/contrib/SIunits/SIunits.pdf LaTeX SIunits package manual] gives a historical background to the SI system.
+
+;Research
+* [http://www.npl.co.uk/server.php?show=ConWebDoc.1835 ''The metrological triangle'']
+* [http://www.bipm.org/cc/CIPM/Allowed/94/CIPM-Recom1CI-2005-EN.pdf Recommendation of ICWM 1 (CI-2005)]
+;Pro-metric [[advocacy groups]]
+* [http://www.ukma.org.uk/ The UK Metric Association]
+* [http://www.metric.org/ The US Metric Association]
+
+;Pro-customary measures pressure groups
+* {{dmoz|Society/Issues/Government_Operations/Anti-Metrication/|Pro-customary measures groups}}
+
+{{SI units navbox}}
+{{systems of measurement}}
+{{Authority control}}
+{{Portal bar|Physics}}
+
+{{Good article}}
+
+{{DEFAULTSORT:International System Of Units}}
+[[Category:International System of Units| ]]
+[[Category:Systems of units]]
+[[Category:International standards]]
