@@ -361,11 +361,11 @@
 
 ===導出單位===
 {{main article|國際單位制導出單位}}
-The derived units in the SI are formed by powers, products or quotients of the base units and are unlimited in number.<ref name=SIBrochure/>{{rp|103}}<ref name=NIST330/>{{rp|3}} Derived units are associated with derived quantities, for example [[velocity]] is a quantity that is derived from the base quantities of time and length, so in SI the derived unit is metres per second (symbol m/s). The dimensions of derived units can be expressed in terms of the dimensions of the base units.
+[[國際單位制導出單位]]是基本單位在乘冪、乘積或相除後產生的單位，如此形成的導出單位可以有無限多個。<ref name=SIBrochure/>{{rp|103}}<ref name=NIST330/>{{rp|3}}每個導出單位都與一個導出物理量相對應，例如，[[速度]]是建立在時間和長度上的物理量，在國際單位制中所對應的導出單位是「米每秒」（符號為m/s）。導出單位的因次可以用基本單位的因次組合來表達。
 
-Coherent units are derived units that contain no numerical factor other than 1—quantities such as [[standard gravity]] and [[density of water]] are absent from their definitions. In the example above, ''one'' newton is the force required to [[Acceleration|accelerate]] a mass of ''one'' kilogram by ''one'' [[metre per second squared]]. Since the SI units of mass and acceleration are kg and m·s<sup>−2</sup> respectively and {{math|''F'' ∝ ''m'' × ''a''}}, the units of force (and hence of newtons) is formed by multiplication to give kg·m·s<sup>−2</sup>. Since the newton is part of a coherent set of units, the constant of proportionality is 1.
+一致單位是指定義中系數均為1的導出單位，也就是定義中不會出現像[[標準重力]]或是[[水的密度]]之類的常數。例如，[[牛頓 (單位)|牛頓]]的定義是，使1公斤的質量產生1[[米每二次方秒]]的[[加速度]]需要的力。因為國際單位制中質量及加速度的單位分別是kg及m⋅s<sup>−2</sup>，而且力是質量和加速度之積（{{math|''F'' ∝ ''m'' × ''a''}}），所以力的單位牛頓即為kg⋅m⋅s<sup>−2</sup>。除了基本單位的積和冪以外，牛頓的定義不含其他數值，因此屬於一致單位。
 
-For the sake of convenience, some derived units have special names and symbols.<ref name=special>{{cite journal
+為方便使用，一些導出單位也有專用的名稱及符號。<ref name=special>{{cite journal
 |journal = Report on the Forty-third Meeting of the British Association for the Advancement of Science held at Bradford in September 1873
 |year = 1874
 |title = First Report of the Committee for the Selection and Nomenclature of Dynamical and Electrical Units
@@ -374,149 +374,150 @@ For the sake of convenience, some derived units have special names and symbols.<
 |pages= 222–225
 |quote = "Special names, if short and suitable, would ... be better than the provisional designation 'C.G.S. unit of ...'."
 |url = http://www.biodiversitylibrary.org/item/94452
-|accessdate = 28 August 2013}}</ref> Such units may themselves be used in combination with the names and symbols for base units and for other derived units to express the units of other derived quantities. For example, the SI unit of [[force]] is the [[Newton (unit)|newton]] (N), the SI unit of [[pressure]] is the [[Pascal (unit)|pascal]] (Pa)—and the pascal can be defined as "newtons per square metre" (N/m<sup>2</sup>).<ref>{{cite web
+|accessdate = 28 August 2013}}</ref>這些導出單位還可以進一步用來定義更多的導出單位，其專用名也可以用來表達新的導出單位。如上文所述，力的國際單位制導出單位是kg⋅m⋅s<sup>−2</sup>，其專用名為牛頓（N）；[[壓強]]的單位是[[帕斯卡]]（Pa），可定義為「牛頓每平方米」（N/m<sup>2</sup>）。<ref>{{cite web
 |title =Units & Symbols for Electrical & Electronic Engineers
 |url = http://www.theiet.org/students/resources/units-symbols.cfm
 |publisher = Institution of Engineering and Technology
 |year = 1996
 |pages = 8–11
 |accessdate = 19 August 2013}}</ref>
+
 {| class="wikitable" style="margin:1em auto 1em auto;line-height:1.4"
-|+ style="font-size:larger;font-weight:bold;"|Named units derived from [[SI]] base units<ref name=NIST330/>{{rp|3}}
+|+ style="font-size:larger;font-weight:bold;"| 從國際單位制導出的已命名單位<ref name=NIST330/>{{rp|3}}
 |-
-! Name
-! [[Symbol]]
-! [[Physical quantity|Quantity]]
-! Expressed in<br />terms of<br />other SI units
-! Expressed in<br />terms of<br />[[SI base units]]
+! 名稱
+! 符號
+! [[物理量]]
+! 以其他國際單位制單位表達
+! 以基本單位表達
 |-
-| '''[[radian]]'''
+| '''[[弧度]]'''
 |align = "center"| rad
 | [[angle]]
 |align = "center"| 
 |align = "center"| m·m<sup>−1</sup>
 |-
-| '''[[steradian]]'''
+| '''[[球面度]]'''
 |align = "center"|  sr
 | [[solid angle]]
 |align = "center"| 
 |align = "center"| m<sup>2</sup>·m<sup>−2</sup>
 |-
-| '''[[hertz]]'''
+| '''[[赫茲]]'''
 |align = "center"|  Hz
 | [[frequency]]
 | <!-- intentionally left blank -->
 |align = "center"|  s<sup>−1</sup>
 |-
-| '''[[newton (unit)|newton]]'''
+| '''[[牛頓 (單位)|牛頓]]'''
 |align = "center"|  N
 | [[force]], [[weight]]
 | <!-- intentionally left blank -->
 |align = "center"|  kg·m·s<sup>−2</sup>
 |-
-| '''[[pascal (unit)|pascal]]'''
+| '''[[帕斯卡]]'''
 |align = "center"|  Pa
 | [[pressure]], [[Stress (physics)|stress]]
 |align = "center"|  N/m<sup>2</sup>
 |align = "center"|  kg·m<sup>−1</sup>·s<sup>−2</sup>
 |-
-| '''[[joule]]'''
+| '''[[焦耳]]'''
 |align = "center"|  J
 | [[energy]], [[Mechanical work|work]], [[heat]]
 |align = "center"|  N·m
 |align = "center"|  kg·m<sup>2</sup>·s<sup>−2</sup>
 |-
-| '''[[watt]]'''
+| '''[[瓦特]]'''
 |align = "center"|  W
 | [[Power (physics)|power]], [[radiant flux]]
 |align = "center"|  J/s
 |align = "center"|  kg·m<sup>2</sup>·s<sup>−3</sup>
 |-
-| '''[[coulomb]]'''
+| '''[[庫侖]]'''
 |align = "center"|  C
 | [[electric charge]] or [[quantity of electricity]]
 | <!-- intentionally left blank -->
 |align = "center"|  s·A
 |-
-| '''[[volt]]'''
+| '''[[伏特]]'''
 |align = "center"|  V
 | [[voltage]] ([[electrical potential difference]]), [[electromotive force]]
 |align = "center"|  W/A
 |align = "center"|  kg·m<sup>2</sup>·s<sup>−3</sup>·A<sup>−1</sup>
 |-
-| '''[[farad]]'''
+| '''[[法拉]]'''
 |align = "center"|  F
 | [[electric capacitance]]
 |align = "center"|  C/V
 |align = "center"|  kg<sup>−1</sup>·m<sup>−2</sup>·s<sup>4</sup>·A<sup>2</sup>
 |-
-| '''[[ohm (unit)|ohm]]'''
+| '''[[歐姆]]'''
 |align = "center"|  Ω
 | [[electric resistance]], [[electrical impedance|impedance]], [[Reactance (electronics)|reactance]]
 |align = "center"|  V/A
 |align = "center"|  kg·m<sup>2</sup>·s<sup>−3</sup>·A<sup>−2</sup>
 |-
-| '''[[Siemens (unit)|siemens]]'''
+| '''[[西門子 (單位)|西門子]]'''
 |align = "center"|  S
 | [[electrical conductance]]
 |align = "center"|  A/V
 |align = "center"|  kg<sup>−1</sup>·m<sup>−2</sup>·s<sup>3</sup>·A<sup>2</sup>
 |-
-| '''[[Weber (unit)|weber]]'''
+| '''[[韋伯 (單位)|單位]]'''
 |align = "center"|  Wb
 | [[magnetic flux]]
 |align = "center"|  V·s
 |align = "center"|  kg·m<sup>2</sup>·s<sup>−2</sup>·A<sup>−1</sup>
 |-
-| '''[[tesla (unit)|tesla]]'''
+| '''[[特斯拉]]'''
 |align = "center"|  T
 | [[magnetic flux density]]
 |align = "center"|  Wb/m<sup>2</sup>
 |align = "center"|  kg·s<sup>−2</sup>·A<sup>−1</sup>
 |-
-| '''[[henry (unit)|henry]]'''
+| '''[[亨利 (單位)|亨利]]'''
 |align = "center"|  H
 | [[inductance]]
 |align = "center"|  Wb/A
 |align = "center"|  kg·m<sup>2</sup>·s<sup>−2</sup>·A<sup>−2</sup>
 |-
-| '''[[degree Celsius]]'''
+| '''[[攝氏度]]'''
 |align = "center"|  °C
 | [[temperature]] relative to 273.15 K
 | <!-- intentionally left blank -->
 |align = "center"|  K
 |-
-| '''[[lumen (unit)|lumen]]'''
+| '''[[流明]]'''
 |align = "center"|  lm
 | [[luminous flux]]
 |align = "center"|  cd·sr
 |align = "center"|  cd
 |-
-| '''[[lux]]'''
+| '''[[勒克斯]]'''
 |align = "center"|  lx
 | [[illuminance]]
 |align = "center"|  lm/m<sup>2</sup>
 |align = "center"|  m<sup>−2</sup>·cd
 |-
-| '''[[becquerel]]'''
+| '''[[貝克勒爾]]'''
 |align = "center"|  Bq
 | [[radioactivity]] (decays per unit time)
 | <!-- intentionally left blank -->
 |align = "center"|  s<sup>−1</sup>
 |-
-| '''[[gray (unit)|gray]]'''
+| '''[[戈瑞]]'''
 |align = "center"|  Gy
 | [[absorbed dose]] (of [[ionizing radiation]])
 |align = "center"|  J/kg
 |align = "center"|  m<sup>2</sup>·s<sup>−2</sup>
 |-
-| '''[[sievert]]'''
+| '''[[西弗]]'''
 |align = "center"|  Sv
 | [[equivalent dose]] (of [[ionizing radiation]])
 |align = "center"|  J/kg
 |align = "center"|  m<sup>2</sup>·s<sup>−2</sup>
 |-
-| '''[[katal]]'''
+| '''[[開特]]'''
 |align = "center"|  kat
 | [[catalytic activity]]
 | <!-- intentionally left blank -->
