@@ -104,7 +104,7 @@
 |pages = 125–134
 |issue = 3}}</ref>
 
-19世紀上半葉，不同基本單位有不同的常用倍數詞頭：法國和德國部分地區常用myriametre（1萬米）量度距離，但在量度質量時卻用kilogram（1千克），而非myriagram（1萬克）。<ref name=Europa1842/>
+19世紀上半葉，不同基本單位有不同的常用倍數詞頭：法國和德國部分地區常用myriametre（1萬米）量度距離，但在量度質量時卻用kilogramme（1千克），而非myriagramme（1萬克）。<ref name=Europa1842/>
 
 1832年，德國數學家[[卡爾·弗里德里希·高斯]]在[[威廉·韋伯]]的協助下，得出了[[地球磁場]]的強度，並以毫米、克和秒所組成的單位寫出。秒因此從實際上成為了一個基本單位。<ref name=SIHistory>{{cite web
 |url = http://www.bipm.org/en/si/history-si/
@@ -363,7 +363,7 @@
 {{main article|國際單位制導出單位}}
 [[國際單位制導出單位]]是基本單位在乘冪、乘積或相除後產生的單位，如此形成的導出單位可以有無限多個。<ref name=SIBrochure/>{{rp|103}}<ref name=NIST330/>{{rp|3}}每個導出單位都與一個導出物理量相對應，例如，[[速度]]是建立在時間和長度上的物理量，在國際單位制中所對應的導出單位是「米每秒」（符號為m/s）。導出單位的因次可以用基本單位的因次組合來表達。
 
-一致單位是指定義中系數均為1的導出單位，也就是定義中不會出現像[[標準重力]]或是[[水的密度]]之類的常數。例如，[[牛頓 (單位)|牛頓]]的定義是，使1公斤的質量產生1[[米每二次方秒]]的[[加速度]]需要的力。因為國際單位制中質量及加速度的單位分別是kg及m⋅s<sup>−2</sup>，而且力是質量和加速度之積（{{math|''F'' ∝ ''m'' × ''a''}}），所以力的單位牛頓即為kg⋅m⋅s<sup>−2</sup>。除了基本單位的積和冪以外，牛頓的定義不含其他數值，因此屬於一致單位。
+一致單位是指定義中係數均為1的導出單位，也就是定義中不會出現像[[標準重力]]或是[[水的密度]]之類的常數。例如，[[牛頓 (單位)|牛頓]]的定義是，使1公斤的質量產生1[[米每二次方秒]]的[[加速度]]需要的力。因為國際單位制中質量及加速度的單位分別是kg及m⋅s<sup>−2</sup>，而且力是質量和加速度之積（{{math|''F'' ∝ ''m'' × ''a''}}），所以力的單位牛頓即為kg⋅m⋅s<sup>−2</sup>。除了基本單位的積和冪以外，牛頓的定義不含其他數值，因此屬於一致單位。
 
 為方便使用，一些導出單位也有專用的名稱及符號。<ref name=special>{{cite journal
 |journal = Report on the Forty-third Meeting of the British Association for the Advancement of Science held at Bradford in September 1873
@@ -531,9 +531,93 @@
 
 ===詞頭===
 {{main article|國際單位制詞頭}}
-Prefixes are added to unit names to produce multiple and sub-multiples of the original unit. All multiples are integer powers of ten, and above a hundred or below a hundredth all are integer powers of a thousand. For example, ''kilo-'' denotes a multiple of a thousand and ''milli-'' denotes a multiple of a thousandth, so there are one thousand millimetres to the metre and one thousand metres to the kilometre. The prefixes are never combined, so for example a millionth of a metre is a ''micrometre'', not a millimillimetre. Multiples of the kilogram are named as if the gram were the base unit, so a millionth of a kilogram is a ''milligram'', not a microkilogram.<ref name=SIBrochure/>{{rp|122}}<ref name=NIST811/>{{rp|14}}
+在基本和導出單位名稱之前加上詞頭，可表達該單位的倍數和分數。詞頭所代表的倍數都是10的整數冪，在倍數高於100或低於{{sfrac|100}}時則都是1000的整數冪。例如，詞頭kilo（千）表示一千倍，milli（毫）表示千分之一，也就是說，1000毫米（millimetre）為之1-{米}-（metre，又作-{公尺}-），1000米為之1-{千米}-（kilometre，又作-{公里}-），如此類推。這些詞頭不能夠結合使用，即百萬分之一米可寫作微米（micrometre），但不可寫作毫毫米（millimillimetre）。在對公斤（kilogramme）加上詞頭時，以克（gramme）作為「基本」單位，因此百萬分之一公斤寫作毫克（milligramme），而非微公斤（microkilogram）。每個詞頭均有一個區分大小寫的符號，使用時加在單位符號之前。<ref name=SIBrochure/>{{rp|122}}<ref name=NIST811/>{{rp|14}}
 
-{{SI prefixes (inline table)}}
+{|class="wikitable {{{1}}}" style="margin:1em auto 1em auto;line-height:1.4"
+|+ [[國際單位制標準詞頭]]
+|-
+!rowspan="3"| 倍數
+! 詞頭名稱
+!
+! [[deca-|deca]]
+! [[hecto_|hecto]]
+! [[kilo-|kilo]]
+! [[mega-|mega]]
+! [[giga-|giga]]
+! [[tera-|tera]]
+! [[peta-|peta]]
+! [[exa-|exa]]
+! [[zetta-|zetta]]
+! [[yotta-|yotta]]
+|-
+! 詞頭符號
+|
+| da
+| h
+| k
+| M
+| G
+| T
+| P
+| E
+| Z
+| Y
+|-
+! 係數
+| 10<sup>0</sup>
+| 10<sup>1</sup>
+| 10<sup>2</sup>
+| 10<sup>3</sup>
+| 10<sup>6</sup>
+| 10<sup>9</sup>
+| 10<sup>12</sup>
+| 10<sup>15</sup>
+| 10<sup>18</sup>
+| 10<sup>21</sup>
+| 10<sup>24</sup>
+|-style="font-size:2px"
+!colspan="12"| &nbsp;
+|-
+!rowspan="3"| 分數
+! 詞頭名稱
+!
+! [[deci-|deci]]
+! [[centi-|centi]]
+! [[milli-|milli]]
+! [[micro-|micro]]
+! [[nano-|nano]]
+! [[pico-|pico]]
+! [[femto-|femto]]
+! [[atto-|atto]]
+! [[zepto-|zepto]]
+! [[yocto-|yocto]]
+|-
+! 詞頭符號
+|
+| d
+| c
+| m
+| μ
+| n
+| p
+| f
+| a
+| z
+| y
+|-
+! 係數
+| 10<sup>0</sup>
+| 10<sup>−1</sup>
+| 10<sup>−2</sup>
+| 10<sup>−3</sup>
+| 10<sup>−6</sup>
+| 10<sup>−9</sup>
+| 10<sup>−12</sup>
+| 10<sup>−15</sup>
+| 10<sup>−18</sup>
+| 10<sup>−21</sup>
+| 10<sup>−24</sup>
+|}
 
 ===Non-SI units accepted for use with SI===
 {{Main article|non-SI units accepted for use with SI}}
