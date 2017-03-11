@@ -353,9 +353,9 @@
 ;備註
 {{reflist|group=n}}
 以上基本單位的最初定義是由以下機構給出：
-:* '''法''' = 法國政府
-:* '''電''' = [[國際電工委員會]]
-:* '''原''' = {{le|國際原子量委員會|International Committee on Atomic Weights}}
+* '''法''' = 法國政府
+* '''電''' = [[國際電工委員會]]
+* '''原''' = {{le|國際原子量委員會|International Committee on Atomic Weights}}
 其他定義都來自國際度量衡大會或國際度量衡委員會，列於國際單位制小冊子中。
 |}
 
@@ -388,146 +388,149 @@
 ! 名稱
 ! 符號
 ! [[物理量]]
-! 以其他國際單位制單位表達
+! 以其他SI單位表達
 ! 以基本單位表達
 |-
 | '''[[弧度]]'''
 |align = "center"| rad
-| [[angle]]
+| [[角]]
 |align = "center"| 
 |align = "center"| m·m<sup>−1</sup>
 |-
 | '''[[球面度]]'''
 |align = "center"|  sr
-| [[solid angle]]
+| [[立體角]]
 |align = "center"| 
 |align = "center"| m<sup>2</sup>·m<sup>−2</sup>
 |-
 | '''[[赫茲]]'''
 |align = "center"|  Hz
-| [[frequency]]
+| [[頻率]]
 | <!-- intentionally left blank -->
 |align = "center"|  s<sup>−1</sup>
 |-
 | '''[[牛頓 (單位)|牛頓]]'''
 |align = "center"|  N
-| [[force]], [[weight]]
+| [[力]]、[[重量]]
 | <!-- intentionally left blank -->
 |align = "center"|  kg·m·s<sup>−2</sup>
 |-
 | '''[[帕斯卡]]'''
 |align = "center"|  Pa
-| [[pressure]], [[Stress (physics)|stress]]
+| [[壓強]]、[[應力]]
 |align = "center"|  N/m<sup>2</sup>
 |align = "center"|  kg·m<sup>−1</sup>·s<sup>−2</sup>
 |-
 | '''[[焦耳]]'''
 |align = "center"|  J
-| [[energy]], [[Mechanical work|work]], [[heat]]
+| [[能量]]、[[功]]、[[熱量]]
 |align = "center"|  N·m
 |align = "center"|  kg·m<sup>2</sup>·s<sup>−2</sup>
 |-
 | '''[[瓦特]]'''
 |align = "center"|  W
-| [[Power (physics)|power]], [[radiant flux]]
+| [[功率]]、[[輻射通量]]
 |align = "center"|  J/s
 |align = "center"|  kg·m<sup>2</sup>·s<sup>−3</sup>
 |-
 | '''[[庫侖]]'''
 |align = "center"|  C
-| [[electric charge]] or [[quantity of electricity]]
+| [[電荷]]
 | <!-- intentionally left blank -->
 |align = "center"|  s·A
 |-
 | '''[[伏特]]'''
 |align = "center"|  V
-| [[voltage]] ([[electrical potential difference]]), [[electromotive force]]
+| [[電壓]]（[[電勢|電勢差]]）、[[電動勢]]
 |align = "center"|  W/A
 |align = "center"|  kg·m<sup>2</sup>·s<sup>−3</sup>·A<sup>−1</sup>
 |-
 | '''[[法拉]]'''
 |align = "center"|  F
-| [[electric capacitance]]
+| [[電容]]
 |align = "center"|  C/V
 |align = "center"|  kg<sup>−1</sup>·m<sup>−2</sup>·s<sup>4</sup>·A<sup>2</sup>
 |-
 | '''[[歐姆]]'''
 |align = "center"|  Ω
-| [[electric resistance]], [[electrical impedance|impedance]], [[Reactance (electronics)|reactance]]
+| [[電阻]]、[[阻抗]]、[[電抗]]
 |align = "center"|  V/A
 |align = "center"|  kg·m<sup>2</sup>·s<sup>−3</sup>·A<sup>−2</sup>
 |-
 | '''[[西門子 (單位)|西門子]]'''
 |align = "center"|  S
-| [[electrical conductance]]
+| [[電阻]]
 |align = "center"|  A/V
 |align = "center"|  kg<sup>−1</sup>·m<sup>−2</sup>·s<sup>3</sup>·A<sup>2</sup>
 |-
 | '''[[韋伯 (單位)|單位]]'''
 |align = "center"|  Wb
-| [[magnetic flux]]
+| [[磁通量]]
 |align = "center"|  V·s
 |align = "center"|  kg·m<sup>2</sup>·s<sup>−2</sup>·A<sup>−1</sup>
 |-
 | '''[[特斯拉]]'''
 |align = "center"|  T
-| [[magnetic flux density]]
+| [[磁通量密度]]（[[磁場]]）
 |align = "center"|  Wb/m<sup>2</sup>
 |align = "center"|  kg·s<sup>−2</sup>·A<sup>−1</sup>
 |-
 | '''[[亨利 (單位)|亨利]]'''
 |align = "center"|  H
-| [[inductance]]
+| [[電感]]
 |align = "center"|  Wb/A
 |align = "center"|  kg·m<sup>2</sup>·s<sup>−2</sup>·A<sup>−2</sup>
 |-
 | '''[[攝氏度]]'''
 |align = "center"|  °C
-| [[temperature]] relative to 273.15 K
+| [[溫度]]（相對於273.15 K）
 | <!-- intentionally left blank -->
 |align = "center"|  K
 |-
 | '''[[流明]]'''
 |align = "center"|  lm
-| [[luminous flux]]
+| [[光通量]]
 |align = "center"|  cd·sr
 |align = "center"|  cd
 |-
 | '''[[勒克斯]]'''
 |align = "center"|  lx
-| [[illuminance]]
+| [[照度]]
 |align = "center"|  lm/m<sup>2</sup>
 |align = "center"|  m<sup>−2</sup>·cd
 |-
 | '''[[貝克勒爾]]'''
 |align = "center"|  Bq
-| [[radioactivity]] (decays per unit time)
+| [[放射性活度]]
 | <!-- intentionally left blank -->
 |align = "center"|  s<sup>−1</sup>
 |-
 | '''[[戈瑞]]'''
 |align = "center"|  Gy
-| [[absorbed dose]] (of [[ionizing radiation]])
+| [[致電離輻射]]的[[吸收劑量]]
 |align = "center"|  J/kg
 |align = "center"|  m<sup>2</sup>·s<sup>−2</sup>
 |-
 | '''[[西弗]]'''
 |align = "center"|  Sv
-| [[equivalent dose]] (of [[ionizing radiation]])
+| 致電離輻射[[等效劑量]]
 |align = "center"|  J/kg
 |align = "center"|  m<sup>2</sup>·s<sup>−2</sup>
 |-
 | '''[[開特]]'''
 |align = "center"|  kat
-| [[catalytic activity]]
+| [[催化|催化活度]]
 | <!-- intentionally left blank -->
 |align = "center"|  mol·s<sup>−1</sup>
 |-
-|colspan = "5"|'''Notes'''<br />1. The [[radian]] and [[steradian]], once given special status, are now considered dimensionless derived units.<ref name=NIST330/>{{rp|3}}<br />2. The ordering of this table is such that any derived unit is based only on base units or derived units that precede it in the table.
+|colspan = "5"|
+;備註
+* 弧度和球面度曾經是具有特殊地位的單位，但現在只當做[[無因次量|無因次]]導出單位看待。<ref name=NIST330/>{{rp|3}}
+* 上表的排序方法是，表中所有單位都只建立在位置更前的單位以及基本單位上。
 |}
 
-===Prefixes===
-{{main article|Metric prefix}}
+===詞頭===
+{{main article|國際單位制詞頭}}
 Prefixes are added to unit names to produce multiple and sub-multiples of the original unit. All multiples are integer powers of ten, and above a hundred or below a hundredth all are integer powers of a thousand. For example, ''kilo-'' denotes a multiple of a thousand and ''milli-'' denotes a multiple of a thousandth, so there are one thousand millimetres to the metre and one thousand metres to the kilometre. The prefixes are never combined, so for example a millionth of a metre is a ''micrometre'', not a millimillimetre. Multiples of the kilogram are named as if the gram were the base unit, so a millionth of a kilogram is a ''milligram'', not a microkilogram.<ref name=SIBrochure/>{{rp|122}}<ref name=NIST811/>{{rp|14}}
 
 {{SI prefixes (inline table)}}
