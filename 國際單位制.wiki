@@ -91,7 +91,7 @@
  | caption2 = <center>[[詹姆斯·克拉克·馬克士威]]</center>
  | footer = 湯姆森和馬克士威在「一致性」原則的發展及許多度量單位的命名上起到了重要的作用。<ref name=SIHistory/><ref name=LordKelvin/><ref name=special/><ref name=BIPMCentenary/><ref name=Maxwell2/>
  }}
-1795年4月7日法律（[[芽月]]18日法）訂下了gramme（克）和kilogramme（千克），分別取代先前的gravet（準確來說是milligrave）和grave。在[[皮埃爾·梅尚]]和{{le|讓-巴蒂斯特·德朗布爾|Jean-Baptiste Delambre}}的子午線勘察結束後，米和公斤的標準原器於1799年6月22日正式交由法國[[國家檔案館]]（{{lang-fr|Archives nnationales}}）保管。同年12月10日，即[[拿破崙]]的[[霧月政變]]之後的一個月，[[霜月]]19日法正式通過，法國將全面採用公制。<ref>{{cite book | last = Bigourdan | first = Guillaume | authorlink = Guillaume Bigourdan | title = Le Système Métrique Des Poids Et Mesures: Son Établissement Et Sa Propagation Graduelle, Avec L'histoire Des Opérations Qui Ont Servi À Déterminer Le Mètre Et Le Kilogramme (facsimile edition)|language=fr| origyear = 1901 | year = 2012 | publisher = Ulan Press | asin = B009JT8UZU | asin-tld = co.uk | page = 176 }}</ref><ref>{{cite journal
+1795年4月7日法律（[[芽月]]18日法）訂下了gramme（克）和kilogramme（千克），分別取代先前的gravet（準確來說是milligrave）和grave。在[[皮埃爾·梅尚]]和{{le|讓-巴蒂斯特·德朗布爾|Jean-Baptiste Delambre}}的子午線勘察結束後，米和公斤的標準原器於1799年6月22日正式交由法國[[國家檔案館]]（{{lang-fr|Archives Nationales}}）保管。同年12月10日，即[[拿破崙]]的[[霧月政變]]之後的一個月，[[霜月]]19日法正式通過，法國將全面採用公制。<ref>{{cite book | last = Bigourdan | first = Guillaume | authorlink = Guillaume Bigourdan | title = Le Système Métrique Des Poids Et Mesures: Son Établissement Et Sa Propagation Graduelle, Avec L'histoire Des Opérations Qui Ont Servi À Déterminer Le Mètre Et Le Kilogramme (facsimile edition)|language=fr| origyear = 1901 | year = 2012 | publisher = Ulan Press | asin = B009JT8UZU | asin-tld = co.uk | page = 176 }}</ref><ref>{{cite journal
 |url = http://www.platinummetalsreview.com/article/44/3/125-134/
 |accessdate = 18 June 2013
 |title = The Foundation of the Metric System in France in the 1790s: The importance of Etienne Lenoir's platinum measuring instruments
@@ -166,12 +166,12 @@
 |others = (Non-authoritative English translation by T.J. Quinn).
 |publisher = CGPM
 |year = 1921
-|accessdate = 18 August 2013}}</ref>以及國際度量衡大會名義下的任何官方文件都是以法語書寫的。<ref name=SIBrochure/>{{rp|94}}
+|accessdate = 18 August 2013}}</ref>以及國際度量衡大會名義下的所有官方文件都是以法語書寫的。<ref name=SIBrochure/>{{rp|94}}
 
 ===發展成國際單位制===
 <!--{{Main article|Metrication}}-->
 [[File:SI-metrication-world.png|thumb|400px|right|地圖顯示各國改用公制的情況，改用之年以顏色表示：約1800年（綠）至1980年（紅）。黑色代表該國尚未採用國際單位制，這些國家有：[[緬甸]]、[[利比里亞]]及[[美國]]。[[加拿大]]和[[英國]]也有較廣泛地使用舊單位，如英國的限速標誌和加拿大在量度人的高度時。]]
-19世紀末，共有三個不同的電單位制在同時使用中，分別為：[[厘米-克-秒制#靜電單位制（ESU）|CGS靜電單位制]]，又稱高斯單位制，簡稱ESU；[[厘米-克-秒制#電磁單位制（EMU）|CGS電機械單位]]，簡稱EMU；以及用於配電系統的[[米-千克-秒制]]（國際單位制）。<ref>{{cite book
+人們在19世紀末時同時使用著三個不同的電單位制，分別為：[[厘米-克-秒制#靜電單位制（ESU）|CGS靜電單位制]]，又稱高斯單位制，簡稱ESU；[[厘米-克-秒制#電磁單位制（EMU）|CGS電機械單位]]，簡稱EMU；以及用於配電系統的[[米-千克-秒制]]（國際單位制）。<ref>{{cite book
 |title = Weights, Measures and Units
 |first1 = Donald
 |last1 = Fenna
@@ -619,14 +619,14 @@
 | 10<sup>−24</sup>
 |}
 
-===Non-SI units accepted for use with SI===
-{{Main article|non-SI units accepted for use with SI}}
-The SI is capable of measurement of any physical quantity, but many non-SI units still appear in the scientific, technical, and commercial literature, and will continue to be used for many years. Some units are so deeply embedded in history and many cultures that they will continue to be used for the foreseeable future. The CIPM recognized and acknowledged such traditions by compiling a list of [[non-SI units accepted for use with SI]], which are gouped as follows:<ref name=SIBrochure/>{{rp|123–129}}<ref name=NIST811/>{{rp|7–11}}  <ref group = Note>This grouping and the reference to Tables 6, 7, 8, and 9 reflects the 2014 revision of the 8th Edition of the SI Brochure (2006)</ref>
+===SI認可使用的非SI單位===
+{{Main article|可並用單位}}
+雖然國際單位制本身已足以表達任何物理量，但在科技界和商界等的出版物中仍會出現許多非國際單位制單位，而這些單位的使用很可能會持續很長一段時間。也有一些單位由於深深地植根在歷史和個別文化當中，所以將會在可見的未來繼續使用下去。國際度量衡委員會承認亦認可這種做法，並頒佈了一份「[[可並用單位|可以與SI並用的非SI單位]]」清單，如下分類：<ref name=SIBrochure/>{{rp|123–129}}<ref name=NIST811/>{{rp|7–11}}  <ref group = Note>此套分類方式以及對「表6、7、8、9」的參考均參照《國際單位制小冊子第8版》（2006年）於2014年的修訂版。</ref>
 
-[[File:CubeLitre.svg|pic|right|thumb|The litre is classed as a non-SI unit accepted for use with the SI.<br />Being one thousandth of a cubic metre, the litre is not a coherent unit of measure with respect to SI.]]
-*'''Non-SI units accepted for use with the SI''' (Table 6):
-:Certain units of time, angle, and legacy non-SI metric units have a long history of consistent use. Most societies have used the solar day and its non-decimal subdivisions as a basis of time and, unlike the [[Foot (unit)|foot]] or the [[Pound (mass)|pound]], these were the same regardless of where they were being measured. The [[radian]], being {{sfrac|2π}} of a revolution, has mathematical advantages but it is cumbersome for navigation, and, as with time, the units used in navigation have a large degree of consistency around the world. The [[tonne]], [[litre]], and [[hectare]] were adopted by the CGPM in 1879 and have been retained as units that may be used alongside SI units, having been given unique symbols. The catalogued units are
-::[[minute]], [[hour]], [[day]], [[Degree (angle)|degree of arc]], [[minute of arc]], [[Minute of arc|second of arc]], [[hectare]], [[litre]], [[tonne]], [[astronomical unit]] and [[Decibel|[deci]bel]]
+[[File:CubeLitre.svg|pic|right|thumb|公升是其中一個可以與SI並用的非SI單位，其大小等於{{sfrac|1000}}立方米，並不屬於國際單位制中的一致單位。]]
+*'''可以與SI並用的非SI單位'''（表6）：
+:一些時間、角度及非SI的舊公制單位都有較長的使用歷史。大部分社會都利用[[太陽日]]以及從太陽日細分出來的非十進制時間段作為量度時間的基礎；與[[英呎]]和[[磅]]不同的是，這些時間單位無論在哪裡測量都是相同的。[[弧度]]是一個圓周的{{sfrac|2π}}，雖然有數學上的好處，但不便於導航。與時間單位相似，用於導航的角度單位在世界各地的使用有較高的一致性。[[公噸]]、[[公升]]和[[公頃]]是國際度量衡大會在1879年採用的，今天保留為可與SI並用的單位，有各自的專用符號。已收錄的單位有
+::[[分鐘]]、[[小時]]、[[日]]、[[角度]]、[[角分]]、[[角秒]]、[[公頃]]、[[公升]]、[[公噸]]、[[天文單位]]及[[分貝]]。
 
 * '''Non-SI units whose values in SI units must be obtained experimentally''' (Table 7).
 :Physicists often use units of measure that are based on natural phenomena, particularly when the quantities associated with these phenomena are many orders of magnitude greater than or less than the equivalent SI unit.  The most common ones have been catalogued in the SI Brochure together with consistent symbols and accepted values, but with the caveat that their values in SI units need to be measured.<ref group = Note>The CGPM have defined the metre in terms of the speed of light, so the speed of light has an exact value.</ref>
