@@ -621,26 +621,26 @@
 
 ===SI認可使用的非SI單位===
 {{Main article|可並用單位}}
-雖然國際單位制本身已足以表達任何物理量，但在科技界和商界等的出版物中仍會出現許多非國際單位制單位，而這些單位的使用很可能會持續很長一段時間。也有一些單位由於深深地植根在歷史和個別文化當中，所以將會在可見的未來繼續使用下去。國際度量衡委員會承認亦認可這種做法，並頒佈了一份「[[可並用單位|可以與SI並用的非SI單位]]」清單，如下分類：<ref name=SIBrochure/>{{rp|123–129}}<ref name=NIST811/>{{rp|7–11}}  <ref group = Note>此套分類方式以及對「表6、7、8、9」的參考均參照《國際單位制小冊子第8版》（2006年）於2014年的修訂版。</ref>
+雖然國際單位制本身已足以表達任何物理量，但在科技界和商界等的出版物中仍會出現許多非國際單位制單位，而這些單位的使用很可能會持續很長一段時間。也有一些單位由於深深地植根在歷史和個別文化當中，所以將會在可見的未來繼續使用下去。國際度量衡委員會承認亦認可這種做法，並頒佈了一份「[[可並用單位|可以與SI並用的非SI單位]]」清單，其分類如下：<ref name=SIBrochure/>{{rp|123–129}}<ref name=NIST811/>{{rp|7–11}}  <ref group = Note>此套分類方式以及對「表6、7、8、9」的參考均參照《國際單位制小冊子第8版》（2006年）於2014年的修訂版。</ref>
 
 [[File:CubeLitre.svg|pic|right|thumb|公升是其中一個可以與SI並用的非SI單位，其大小等於{{sfrac|1000}}立方米，並不屬於國際單位制中的一致單位。]]
 *'''可以與SI並用的非SI單位'''（表6）：
-:一些時間、角度及非SI的舊公制單位都有較長的使用歷史。大部分社會都利用[[太陽日]]以及從太陽日細分出來的非十進制時間段作為量度時間的基礎；與[[英呎]]和[[磅]]不同的是，這些時間單位無論在哪裡測量都是相同的。[[弧度]]是一個圓周的{{sfrac|2π}}，雖然有數學上的好處，但不便於導航。與時間單位相似，用於導航的角度單位在世界各地的使用有較高的一致性。[[公噸]]、[[公升]]和[[公頃]]是國際度量衡大會在1879年採用的，今天保留為可與SI並用的單位，有各自的專用符號。已收錄的單位有
+:一些時間、角度及非SI的舊公制單位都有較長的使用歷史。大部分社會都利用[[太陽日]]以及從太陽日細分出來的非十進制時間段作為量度時間的基礎；與[[英呎]]和[[磅]]不同的是，這些時間單位無論在哪裡測量都是相同的。[[弧度]]是一個圓周的{{sfrac|2π}}，雖然有數學上的好處，但不便於導航。與時間單位相似，用於導航的角度單位在世界各地的使用比較統一。[[公噸]]、[[公升]]和[[公頃]]是國際度量衡大會在1879年採用的，今天保留為可與SI並用的單位，有各自的專用符號。已收錄的單位有
 ::[[分鐘]]、[[小時]]、[[日]]、[[角度]]、[[角分]]、[[角秒]]、[[公頃]]、[[公升]]、[[公噸]]、[[天文單位]]及[[分貝]]。
 
-* '''Non-SI units whose values in SI units must be obtained experimentally''' (Table 7).
-:Physicists often use units of measure that are based on natural phenomena, particularly when the quantities associated with these phenomena are many orders of magnitude greater than or less than the equivalent SI unit.  The most common ones have been catalogued in the SI Brochure together with consistent symbols and accepted values, but with the caveat that their values in SI units need to be measured.<ref group = Note>The CGPM have defined the metre in terms of the speed of light, so the speed of light has an exact value.</ref>
-::[[electronvolt]] (symbol eV), and [[Atomic mass unit|dalton/unified atomic mass unit]] (Da or u)
+* '''在SI下的數值須經實驗得出的非SI單位'''（表7）：
+:物理學家很多時候會使用和某些自然現象有關的測量單位，這些單位往往和國際單位制單位的大小相差許多個數量級。國際單位制小冊子列出了一些最常用的自然單位以及它們的符號和標準數值，但這些數值（以國際單位制單位表達）須通過實驗得出。<ref group = Note>米是用[[光速]]來定義的，所以光速在國際單位制下的數值是完全精準的。</ref>
+::[[電子伏特]]（eV）及[[原子質量單位|道爾頓/原子質量單位]]（Da或u）。
 
-* '''Other non-SI units''' (Table 8):
-:A number of non-SI units that had never been formally sanctioned by the CGPM have continued to be used across the globe in many spheres including [[health care]] and [[navigation]]. As with the units of measure in Tables 6 and 7, these have been catalogued by the CIPM in the SI Brochure to ensure consistent usage, but with the recommendation that authors who use them should define them wherever they are used.
-::[[Bar (unit)|bar]], [[millimetre of mercury]], [[Angstrom|ångström]], [[nautical mile]], [[Barn (unit)|barn]], [[knot (unit)|knot]] and [[neper]]
+* '''其他非SI單位'''（表8）：
+:一些單位雖然沒有得到國際度量衡大會的正式認可，但仍廣泛應用在醫療和導航等眾多領域中。國際度量衡委員會為確保在國際上的一致性，也在小冊子中列出此類單位，但建議人們在使用時先作定義。
+::[[巴]]、[[毫米汞柱]]、[[埃格斯特朗]]、[[海里]]、[[靶恩]]、[[節 (單位)|節]]及[[奈培]]。
 
-* '''Non-SI units associated with the CGS and the CGS-Gaussian system of units''' (Table 9)
-:The SI manual also catalogues a number of legacy units of measure that are used in specific fields such as [[geodesy]] and [[geophysics]] or are found in the literature, particularly in [[Mathematical descriptions of the electromagnetic field#Curved spacetime|classical and relativistic electrodynamics]] where they have certain advantages: The units that are catalogued are:
-::[[erg]], [[dyne]], [[poise]], [[Stokes (unit)|stokes]], [[Stilb (unit)|stilb]], [[phot]], [[Gal (unit)|gal]], [[Maxwell (unit)|maxwell]], [[Gauss (unit)|gauss]], and [[oersted|œrsted]].
+* '''與CGS和CGS高斯單位制相關的非SI單位'''（表9）
+:一些舊單位在某些領域中有使用上的優點，因此仍會出現在出版物中，如[[大地測量學]]、[[地球物理學]]和[[電磁場的數學表述|電動力學]]等。國際單位制小冊子列出的此類單位有
+::[[爾格]]、[[達因]]、[[泊 (單位)|泊]]、斯托克斯、[[熙提]]、[[輻透]]、[[伽]]、[[麥克斯韋 (單位)|麥克斯韋]]、[[高斯 (單位)|高斯]]及[[奧斯特 (單位)|奧斯特]]。
 
-==Writing unit symbols and the values of quantities {{anchor|SI_writing_style}}==
+==單位符號及數值的書寫格式==
 Before 1948, the use and representation of metric quantities was inconsistent and ambiguous.{{citation needed|date=January 2017}} In 1879, the CIPM published recommendations for writing the symbols for length, area, volume and mass, but it was outside its domain to publish recommendations for other quantities. Beginning in about 1900, physicists who had been using the symbol "μ" for "micrometre" (or "micron"), "λ" for "microlitre", and "γ" for "microgram" started to use the symbols "μm", "μL" and "μg", but it was only in 1935, a decade after the revision of the [[Metre Convention]] that the CIPM formally adopted this proposal and recommended that the symbol "μ" be used universally as a prefix for {{val|e=-6}}.<ref>{{cite book
 |first1 = Thomas
 |last1 = McGreevy
