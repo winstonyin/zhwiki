@@ -201,7 +201,7 @@
 |page = 6
 |trans_title = List of units of measure in Germany
 |publisher = Physikalisch-Technische Bundesanstalt (PTB)
-|accessdate = 13 November 2012}}</ref><ref group = Note>在[[德語]]中，Pferd的意思是「馬」，stärke的意思是「強度」或「力量」。Pferdestärke的定義是在地球引力中以每秒一米的速度提升75公斤物質所需的功率（1 Pferdestärke等於0.985馬力）</ref>表達[[滲透性]]的[[達西 (單位)|達西]]<ref>{{cite web
+|accessdate = 13 November 2012}}</ref><ref group = Note>在[[德語]]中，Pferd的意思是「馬」，Stärke的意思是「強度」或「力量」。Pferdestärke的定義是在地球引力中以每秒一米的速度提升75公斤物質所需的功率（1 Pferdestärke等於0.985馬力）</ref>表達[[滲透性]]的[[達西 (單位)|達西]]<ref>{{cite web
 |url = http://www.cmse.ed.ac.uk/MSE3/Topics/MSE-permeability.pdf
 |publisher = Materials Science and Engineering, Division of Engineering, The [[University of Edinburgh]]
 |title = Porous materials: Permeability
@@ -220,7 +220,7 @@
 ==國際單位制小冊子==
 [[File:tobereplaced.jpg|thumb|right]]
 <!--[[File:SI Brochure Cover.jpg|thumb|right|Cover of brochure ''[http://www.bipm.org/en/publications/si-brochure/ The International System of Units]'']]-->
-國際度量衡大會定期頒布小冊子，闡述國際單位制的定義。<ref name="SIBrochure">{{SIBrochure8th}}</ref>其官方版本為法語，與《[[米制公約]]》相符。<ref name="SIBrochure" />{{rp|102}}因此，世界各國在對名詞進行不同語言的翻譯時，有一定的自由度，如美國[[國家標準技術研究所]]所發佈的針對[[美式英語]]的國際度量衡大會文件本地版本（NIST SP 330）。<ref name="NIST330">{{Cite book
+國際度量衡大會定期頒布一份小冊子，闡述國際單位制的定義。<ref name="SIBrochure">{{SIBrochure8th}}</ref>其官方版本為法語，與《[[米制公約]]》相符。<ref name="SIBrochure" />{{rp|102}}因此，世界各國在對名詞進行不同語言的翻譯時，有一定的自由度，如美國[[國家標準技術研究所]]所發佈的針對[[美式英語]]的國際度量衡大會文件本地版本（NIST SP 330）。<ref name="NIST330">{{Cite book
 |first1 = Ambler
 |last1 = Thompson
 |first2 = Barry N.
@@ -232,7 +232,7 @@
 | location=Gaithersburg, MD
 | year=2008}}</ref>
 
-小冊子是由國際度量衡委員會屬下的單位顧問委員會所編寫。單位顧問委員會的主席由國際度量衡委員會提名，但成員來自於國際度量衡大會及委員會以外的國際組織。<ref>{{cite web
+《小冊子》是由國際度量衡委員會屬下的單位顧問委員會所編寫。單位顧問委員會的主席由國際度量衡委員會提名，但成員來自於國際度量衡大會及委員會以外的國際組織。<ref>{{cite web
 |url = http://www.bipm.org/en/committees/cc/ccu/ccu_criteria.html
 |title = Criteria for membership of the CCU
 |accessdate = 25 September 2012
@@ -254,10 +254,10 @@
 *俄羅斯[[聯邦計量和技術管理局]]（GOST）
 </ref>
 
-國際單位制小冊子所用的「物理量」、「單位」、「因次」等名詞，都出自由[[計量學聯合導則委員會]]（JCGM）出版的《[[國際計量詞彙]]》。該委員會是一個由八個國際標準組織組成的工作小組，由國際度量衡局局長擔任會長。<ref>{{Cite web|url=http://www.bipm.org/en/publications/guides/vim.html|title=The International Vocabulary of Metrology (VIM)}}</ref>用於定義國際單位制的物理量和公式，統稱為「國際物理量系統」，列於[[ISO/IEC 80000]]物理量與單位國際標準。
+《國際單位制小冊子》所用的「物理量」、「單位」、「因次」等名詞，都出自由[[計量學聯合導則委員會]]（JCGM）出版的《[[國際計量詞彙]]》。該委員會是一個由八個國際標準組織組成的工作小組，由國際度量衡局局長擔任會長。<ref>{{Cite web|url=http://www.bipm.org/en/publications/guides/vim.html|title=The International Vocabulary of Metrology (VIM)}}</ref>用於定義國際單位制的物理量和公式，統稱為「國際物理量系統」，列於[[ISO/IEC 80000]]物理量與單位國際標準。
 
 ==單位與詞頭==
-國際單位制的組成部分為：一組[[國際單位制基本單位|基本單位]]、一組有特殊名稱的[[國際單位制導出單位|導出單位]]以及一組十進制倍數[[國際單位制詞頭|詞頭]]。根據國際單位制小冊子，「SI單位」囊括以上三個部分，而「一致SI單位」則只包含基本和導出單位。<ref name=SIBrochure/>{{rp|103–106}}
+國際單位制的組成部分為：一組[[國際單位制基本單位|基本單位]]、一組有特殊名稱的[[國際單位制導出單位|導出單位]]以及一組十進制倍數[[國際單位制詞頭|詞頭]]。根據《國際單位制小冊子》，「SI單位」囊括以上三個部分，而「一致SI單位」則只包含基本和導出單位。<ref name=SIBrochure/>{{rp|103–106}}
 
 ===基本單位===
 {{main article|國際單位制基本單位}}
@@ -356,7 +356,7 @@
 * '''法''' = 法國政府
 * '''電''' = [[國際電工委員會]]
 * '''原''' = {{le|國際原子量委員會|International Committee on Atomic Weights}}
-其他定義都來自國際度量衡大會或國際度量衡委員會，列於國際單位制小冊子中。
+其他定義都來自國際度量衡大會或國際度量衡委員會，列於《國際單位制小冊子》中。
 |}
 
 ===導出單位===
@@ -629,19 +629,19 @@
 ::[[分鐘]]、[[小時]]、[[日]]、[[角度]]、[[角分]]、[[角秒]]、[[公頃]]、[[公升]]、[[公噸]]、[[天文單位]]及[[分貝]]。
 
 * '''在SI下的數值須經實驗得出的非SI單位'''（表7）：
-:物理學家很多時候會使用和某些自然現象有關的測量單位，這些單位往往和國際單位制單位的大小相差許多個數量級。國際單位制小冊子列出了一些最常用的自然單位以及它們的符號和標準數值，但這些數值（以國際單位制單位表達）須通過實驗得出。<ref group = Note>米是用[[光速]]來定義的，所以光速在國際單位制下的數值是完全精準的。</ref>
+:物理學家很多時候會使用和某些自然現象有關的測量單位，這些單位往往和國際單位制單位的大小相差許多個數量級。《國際單位制小冊子》列出了一些最常用的自然單位以及它們的符號和標準數值，但必須通過實驗才能得出這些單位在國際單位制下的數值。<ref group = Note>米是用[[光速]]來定義的，所以光速在國際單位制下的數值是完全精準的。</ref>
 ::[[電子伏特]]（eV）及[[原子質量單位|道爾頓/原子質量單位]]（Da或u）。
 
 * '''其他非SI單位'''（表8）：
-:一些單位雖然沒有得到國際度量衡大會的正式認可，但仍廣泛應用在醫療和導航等眾多領域中。國際度量衡委員會為確保在國際上的一致性，也在小冊子中列出此類單位，但建議人們在使用時先作定義。
+:一些單位雖然沒有得到國際度量衡大會的正式認可，但仍廣泛應用在醫療和導航等眾多領域中。國際度量衡委員會為確保在國際上的一致性，也在《小冊子》中列出此類單位，但建議在使用時先作定義。
 ::[[巴]]、[[毫米汞柱]]、[[埃格斯特朗]]、[[海里]]、[[靶恩]]、[[節 (單位)|節]]及[[奈培]]。
 
 * '''與CGS和CGS高斯單位制相關的非SI單位'''（表9）
-:一些舊單位在某些領域中有使用上的優點，因此仍會出現在出版物中，如[[大地測量學]]、[[地球物理學]]和[[電磁場的數學表述|電動力學]]等。國際單位制小冊子列出的此類單位有
+:一些舊單位在某些領域中有使用上的優點，因此仍會出現在出版物中，如[[大地測量學]]、[[地球物理學]]和[[電磁場的數學表述|電動力學]]等。《國際單位制小冊子》列出的此類單位有
 ::[[爾格]]、[[達因]]、[[泊 (單位)|泊]]、斯托克斯、[[熙提]]、[[輻透]]、[[伽]]、[[麥克斯韋 (單位)|麥克斯韋]]、[[高斯 (單位)|高斯]]及[[奧斯特 (單位)|奧斯特]]。
 
 ==單位符號及數值的書寫格式==
-Before 1948, the use and representation of metric quantities was inconsistent and ambiguous.{{citation needed|date=January 2017}} In 1879, the CIPM published recommendations for writing the symbols for length, area, volume and mass, but it was outside its domain to publish recommendations for other quantities. Beginning in about 1900, physicists who had been using the symbol "μ" for "micrometre" (or "micron"), "λ" for "microlitre", and "γ" for "microgram" started to use the symbols "μm", "μL" and "μg", but it was only in 1935, a decade after the revision of the [[Metre Convention]] that the CIPM formally adopted this proposal and recommended that the symbol "μ" be used universally as a prefix for {{val|e=-6}}.<ref>{{cite book
+1879年，國際度量衡委員會公佈了有關書寫長度、面積、體積和質量之符號的建議書。物理學家曾經以μ表示微米、λ表示微升、γ表示微克，但自從1900年前後，他們開始分別改用μm、μL和μg。1935年，距《米制公約》修訂已有十多年，國際度量衡委員會終於正式採用這項提案，建議在所有單位前加上μ來代表{{val|e=-6}}的倍數。<ref>{{cite book
 |first1 = Thomas
 |last1 = McGreevy
 |editor1-first = Peter
@@ -652,11 +652,11 @@ Before 1948, the use and representation of metric quantities was inconsistent an
 |year = 1997
 |publisher = Pitcon Publishing (Chippenham) Ltd}}</ref>
 
-In 1948, the ninth CGPM approved the first formal recommendation for the writing of symbols in the metric system when the basis of the rules as they are now known was laid down.<ref>{{cite web
+1948年，第9屆國際度量衡大會通過了首份有關米制符號書寫格式的建議書，為今天使用的規則奠定了基礎。<ref>{{cite web
 |url = http://www.bipm.org/en/CGPM/db/9/7/
 |title = Resolution 7 of the 9th meeting of the CGPM (1948): Writing and printing of unit symbols and of numbers
 |accessdate = 6 November 2012
-|publisher = [[International Bureau of Weights and Measures]]}}</ref> These rules were subsequently extended by [[International Organization for Standardization]] (ISO) and the [[International Electrotechnical Commission]] (IEC) and now cover unit symbols and names, prefix symbols and names, how quantity symbols should be written and used and how the values of quantities should be expressed.<ref name=SIBrochure/>{{rp|104,130}} Both ISO and the IEC have published rules for the presentation of SI units that are generally compatible with those published in the SI Brochure.<ref>{{cite web
+|publisher = [[International Bureau of Weights and Measures]]}}</ref>這些規則之後又經過[[國際標準化組織]]（ISO）及[[國際電工委員會]]（IEC）的增訂，現已囊括單位符號和名稱、詞頭符號和名稱、物理量符號的書寫方式以及物理量數值的表達方式。<ref name=SIBrochure/>{{rp|104,130}}ISO和IEC所發佈的有關SI符號表達方式的規則，都與《國際單位制小冊子》中的規則一致。<ref>{{cite web
 |url = http://www.nist.gov/pml/pubs/sp811/
 |at = Appendix C. Comments on the References of Appendix D – Bibliography
 |title = The NIST Guide for the use of the International System of Units
@@ -665,15 +665,15 @@ In 1948, the ninth CGPM approved the first formal recommendation for the writing
 |first2 = B N 
 |last2 = Taylor
 |date = 5 October 2010
-|accessdate = 22 August 2013}}</ref> {{As of|2013|08}} ISO and IEC were in the process of merging their standards for quantities and units into a single set of compatible documents identified as the [[ISO/IEC 80000]] Standard. The rules covering printing of quantities and units are part of ISO 80000-1:2009.<ref>{{cite web
+|accessdate = 22 August 2013}}</ref>{{As of|2013|08}}，ISO和IEC正在將各自有關物理量及單位的標準整合成單一套標準，最終將成為[[ISO/IEC 80000]]標準。有關印刷物理量及單位的標準收錄在ISO 80000-1:2009中。<ref>{{cite web
 |url = https://www.iso.org/obp/ui/#iso:std:iso:80000:-1:ed-1:v1:en
 |title = ISO 80000-1:2009(en) Quantities and Units—Past 1:General
 |publisher = [[International Organization for Standardization]]
 |year = 2009
 |accessdate = 22 August 2013}}</ref>
   
-===Unit names===
-Names of [[units of measurement|units]] follow the grammatical rules associated with [[common noun]]s: in English and in French they start with a lowercase letter (e.g., newton, hertz, pascal), even when the symbol for the unit begins with a capital letter. This also applies to "degrees Celsius", since "degree" is the unit.<ref>{{cite web
+===歐洲語言===
+在一些歐洲語言中，國際單位制單位名稱可視為普通名詞：如在英文和法文中，單位名稱都以小寫字母開頭（牛頓「newton」、赫茲「hertz」、帕斯卡「pascal」等等），儘管相應的單位符號可能以大寫字母開頭。<ref>{{cite web
  | url = http://www.unc.edu/~rowlett/units/symbol.html
  | title = Using Abbreviations or Symbols
  | date = 14 July 2004 | accessdate = 11 December 2013
@@ -683,13 +683,13 @@ Names of [[units of measurement|units]] follow the grammatical rules associated 
  | title = SI Conventions
  | accessdate = 11 December 2013
  | publisher = National Physical Laboratory
-}}</ref> In German, however, the names of units, as with all German nouns, start with capital letters.<ref>{{cite book
+}}</ref>由於德文中的普通名詞均以大寫字母開頭，因此單位名稱也不例外。<ref>{{cite book
 | title=Wörterbuch Englisch Dictionary German
 | publisher=Eurobuch/Eurobooks
 | year=1988
-| location=[[Limassol]]}}</ref> The spelling of unit names is a matter for the guardians<ref group = Note>For example, the [[Académie française]] in the case of [[French language|French]] or [[Council for German Orthography]] ({{lang-de|Rat für deutsche Rechtschreibung}}) in the case of German</ref> of the language concerned – the official British and American spellings for certain SI units differ – [[British English]], as well as Australian, Canadian and New Zealand English, uses the spelling ''deca-'', ''metre'', and ''litre'' whereas [[American English]] uses the spelling ''deka-'', ''meter'', and ''liter'', respectively.<ref name='deka'>{{Cite web|url=http://physics.nist.gov/Pubs/SP330/sp330.pdf |title=The International System of Units | pages=iii |accessdate=27 May 2008}}</ref>
+| location=[[Limassol]]}}</ref>單位名稱的拼寫則由各語言的官方組織決定（[[法文]]有[[法蘭西學術院]]，[[德文]]有[[德語正寫法協會]]等等）。國際單位制單位在[[英式英文|英式]]和[[美式英文]]中的拼寫並不相同：英式英文（亦包括澳洲、加拿大、紐西蘭等）使用「deca-」（10倍數詞頭）、「metre」（米）和「litre」（升），美式英文則分別用「deka-」、「meter」和「liter」。<ref name='deka'>{{Cite web|url=http://physics.nist.gov/Pubs/SP330/sp330.pdf |title=The International System of Units | pages=iii |accessdate=27 May 2008}}</ref>
 
-Likewise, the plural forms of units follow the [[grammar]] of the language concerned: in English, the normal rules of [[English grammar]] are used, e.g. "henries" is the plural of "[[Henry (unit)|henry]]".<ref name=NISTInterprepation>{{Cite journal 
+同樣，在形成單位名稱的[[眾數 (語言學)|眾數]]時，也須遵守該語言自身的[[語法]]。以英文為例，[[亨利 (單位)|亨利]]「henry」會變成「henries」。<ref name=NISTInterprepation>{{Cite journal 
 |date=9 May 2008 
 |url=http://edocket.access.gpo.gov/2008/pdf/E8-11058.pdf
 |title=Interpretation of the International System of Units (the Metric System of Measurement) for the United States 
@@ -697,18 +697,13 @@ Likewise, the plural forms of units follow the [[grammar]] of the language conce
 |pages=28432–3 
 |id=FR Doc number E8-11058 
 |accessdate=28 October 2009}}
-</ref><ref name=NIST811/>{{rp|31}} However, the units [[lux]], [[hertz]], and [[Siemens (unit)|siemens]] have [[English plural|irregular plurals]] in that they remain the same in both their singular and plural form. Plural forms can be even more complicated in other languages. For example, in Polish the plural form depends on the actual quantity: 0 metrów, 1 metr, 2 metry, 3 metry, 4 metry, 5 metrów, 6 metrów, 7 metrów, 8 metrów, etc. For fractions it is metrów, e.g., 0,67 metrów, 2,45 metrów.
+</ref><ref name=NIST811/>{{rp|31}}不過，[[勒克斯]]「lux」、[[赫茲]]「hertz」和[[西門子 (單位)|西門子]]「siemens」都有不規則眾數──它們在單數和眾數下都有相同的拼法。[[波蘭文]]的眾數規則更為複雜，當數量為1時寫「metr」，數量為2、3、4時寫「metry」，數量為0或4以上的整數時寫「metrów」，數量為分數（如0,67、2,45等）時也寫「metrów」。
 
-In English, when unit names are combined to denote multiplication of the units concerned, they are separated with a [[hyphen]] or a space (e.g. newton-metre or newton metre).  The plural is formed by converting the last unit name to the plural form (e.g. ten newton-metres).
+在英文中，若須表達單位之間相乘，可用[[連字號]]或空格（牛頓米寫作「newton-metre」或「newton metre」），並通過改變最後者來形成整個複合單位的眾數（10 newton-metres）。數字與單位符號之間建議加入一個空格（一個25公斤的球體「a 25&nbsp;kg sphere」）。把單位名稱用作形容詞時，同樣根據英文語法加入一個連字號（一個25公斤的球體「a 25-kilogram sphere」）。<ref>{{cite web|url=http://www.us-metric.org/faq-frequently-asked-questions-about-the-metric-system/#spacing|title=U.S. Metric Association FAQ: Frequently Asked Questions about the metric system|accessdate=4 May 2016}}</ref>
 
-===Unit names as adjectives===
-In English, a space is recommended between the number and the unit symbol when used as an adjective, e.g. "a 25&nbsp;kg sphere".
-
-The normal rules of English apply to unit names, where a hyphen is incorporated into the adjectival sense, e.g. "a 25-kilogram sphere".<ref>{{cite web|url=http://www.us-metric.org/faq-frequently-asked-questions-about-the-metric-system/#spacing|title=U.S. Metric Association FAQ: Frequently Asked Questions about the metric system|accessdate=4 May 2016}}</ref>
-
-===Chinese and Japanese===
-[[Image:PRC Expressway RoadSign Distances.jpg|thumb|[[China|Chinese]] expressway distances [[Expressways of Beijing|road]] sign in eastern [[Beijing]]. Although the primary text is in [[Chinese language|Chinese]], the distances use the internationally recognised [[numerical digit|numerals]] and [[symbol (formal)|symbols]].]]
-[[Chinese language|Chinese]] uses traditional [[logogram]]s for writing the unit names, while in [[Japanese language|Japanese]] unit names are written in the phonetic katakana script; in both cases, [[symbol]]s are also written using the internationally recognised [[Latin characters|Latin]] and [[Greek alphabet|Greek characters]].
+===中文及日文===
+[[Image:PRC Expressway RoadSign Distances.jpg|thumb|[[北京]]一面公路路牌，其中的距離都以國際通用的數字與符號書寫]]
+單位名稱在[[中文]]以[[漢字]]書寫，在[[日文]]則以表音的[[片假名]]書寫。無論是中文還是日文，單位符號都用國際通用的[[拉丁字母|拉丁]]或[[希臘字母]]書寫。
 
 ;Chinese
 The basic Chinese units are metre ({{lang|zh|米}} ''mǐ''), litre ({{lang|zh|升}} ''shēng''), gram ({{lang|zh|克}} ''kè''), and second ({{lang|zh|秒}} ''miǎo''), while others include watt ({{lang|zh|瓦}} ''wǎ''). Prefixes include ''deci-'' ({{lang|zh|分}} ''fēn''), ''centi-'' ({{lang|zh|厘}} ''lí''), ''milli-'' ({{lang|zh|毫}} ''háo''), ''micro-'' ({{lang|zh|微}} ''wēi''), ''kilo-'' ({{lang|zh|千}} ''qiān''), and ''mega-'' ({{lang|zh|兆}} ''zhào''). These are combined to form disyllabic characters, such as {{lang|zh|厘米}} ''límǐ'' "centimetre" or {{lang|zh|千瓦}} ''qiānwǎ'' "kilowatt".<ref>{{cite web
