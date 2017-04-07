@@ -4,6 +4,7 @@
 |1=zh-cn:英联邦; zh-tw:大英國協; zh-hk:英聯邦; zh-sg:大英国协;
 |2=zh-cn:千克; zh-tw:公斤; zh-hk:公斤;
 |3=zh-cn:米; zh-tw:公尺; zh-hk:米;
+|4=zh-cn:坎德拉; zh-tw:燭光; zh-hk:燭光; zh-sg:坎德拉;
 }}
 {{Redirect2|SI|Si的其他含義|Si}}
 [[File:SI base unit.svg|thumb|七個國際單位制基本單位的相互定義關係]]
@@ -34,7 +35,7 @@
 |year = 1842
 |pages = 307–322
 |accessdate = 7 January 2013}}</ref>]]
-[[公制]]最早在1790年代法國大革命期間採用，當時只有[[長度]]和[[質量]]的原器，分別作[[米]]和[[公斤]]的定義標準。<ref group=Note>直至1901年科學家才正式訂下[[質量對重量|質量與重量的差別]]。</ref>1830年代，[[卡爾·弗里德里希·高斯]]為一套建立在長度、質量和[[時間]]上的「一致單位制」打下了根基。1860年代，在英國科學促進協會（{{lang-en|British Association for the Advancement of Science}}）的主持下，一組科學家制訂了一套包含[[國際單位制基本單位|基本單位]]和[[國際單位制導出單位|導出單位]]的一致系統。但當時人們同時使用著多個與[[電]]有關的單位，因此阻礙了將電單位納入這套單位制之中。直到1900年，{{le|喬瓦尼·吉奧爾吉|Giovanni Giorgi}}才提倡在原來的三個基本單位之外再加一個電單位。
+[[公制]]最早在1790年代法國大革命期間採用，當時只有[[長度]]和[[質量]]的原器，分別作[[米]]和[[公斤]]的定義標準。{{NoteTag|直至1901年科學家才正式訂下[[質量對重量|質量與重量的差別]]。}}1830年代，[[卡爾·弗里德里希·高斯]]為一套建立在長度、質量和[[時間]]上的「一致單位制」打下了根基。1860年代，在英國科學促進協會（{{lang-en|British Association for the Advancement of Science}}）的主持下，一組科學家制訂了一套包含[[國際單位制基本單位|基本單位]]和[[國際單位制導出單位|導出單位]]的一致系統。但當時人們同時使用著多個與[[電]]有關的單位，因此阻礙了將電單位納入這套單位制之中。直到1900年，{{le|喬瓦尼·吉奧爾吉|Giovanni Giorgi}}才提倡在原來的三個基本單位之外再加一個電單位。
 
 1875年，法國根據《[[米制公約]]》把維護公斤和米定義原器的責任轉交給國際組織。1921年，公約適用範圍擴大至所有[[物理量]]，包括最早於1893年定義的各種電單位。
 
@@ -217,10 +218,10 @@
 ===國際物理量系統===
 國際物理量系統（{{lang-en|International System of Quantities}}）是以以下七個基本[[物理量]]為基礎的系統：[[長度]]、[[質量]]、[[時間]]、[[電流]]、[[熱力學溫度]]、[[物質的量]]和[[發光強度]]。其他物理量，如[[面積]]、[[壓力]]及[[電阻]]，都可以根據明確、不相互矛盾的公式從這些基本物理量推導得出。國際物理量系統所定義的，是國際單位制單位所量度的物理量。<ref>{{cite book|title=International vocabulary of metrology – Basic and general concepts and associated terms (VIM)|date=2012|publisher=International Bureau of Weights and Measures (BIPM):Joint Committee for Guides in Metrology| edition=3rd|url=http://www.bipm.org/utils/common/documents/jcgm/JCGM_200_2012.pdf|accessdate=28 March 2015|chapter=1.16}}</ref>[[ISO/IEC 80000]]國際標準對國際物理量系統做了定義，定義於2009年經[[ISO 80000-1]]進一步完善。<ref>S. V. Gupta, ''Units of Measurement: Past, Present and Future. International System of Units'', p. 16, Springer, 2009. ISBN 3642007384.</ref>
 
-==國際單位制小冊子==
+==國際單位制手冊==
 [[File:tobereplaced.jpg|thumb|right]]
 <!--[[File:SI Brochure Cover.jpg|thumb|right|Cover of brochure ''[http://www.bipm.org/en/publications/si-brochure/ The International System of Units]'']]-->
-國際度量衡大會定期頒布一份小冊子，闡述國際單位制的定義。<ref name="SIBrochure">{{SIBrochure8th}}</ref>其官方版本為法語，與《[[米制公約]]》相符。<ref name="SIBrochure" />{{rp|102}}因此，世界各國在對名詞進行不同語言的翻譯時，有一定的自由度，如美國[[國家標準技術研究所]]所發佈的針對[[美式英語]]的國際度量衡大會文件本地版本（NIST SP 330）。<ref name="NIST330">{{Cite book
+國際度量衡大會定期頒布一份手冊，闡述國際單位制的定義。<ref name="SIBrochure">{{SIBrochure8th}}</ref>其官方版本為法語，與《[[米制公約]]》相符。<ref name="SIBrochure" />{{rp|102}}因此，世界各國在對名詞進行不同語言的翻譯時，有一定的自由度，如美國[[國家標準技術研究所]]所發佈的針對[[美式英語]]的國際度量衡大會文件本地版本（NIST SP 330）。<ref name="NIST330">{{Cite book
 |first1 = Ambler
 |last1 = Thompson
 |first2 = Barry N.
@@ -232,7 +233,7 @@
 | location=Gaithersburg, MD
 | year=2008}}</ref>
 
-《小冊子》是由國際度量衡委員會屬下的單位顧問委員會所編寫。單位顧問委員會的主席由國際度量衡委員會提名，但成員來自於國際度量衡大會及委員會以外的國際組織。<ref>{{cite web
+《手冊》是由國際度量衡委員會屬下的單位顧問委員會所編寫。單位顧問委員會的主席由國際度量衡委員會提名，但成員來自於國際度量衡大會及委員會以外的國際組織。<ref>{{cite web
 |url = http://www.bipm.org/en/committees/cc/ccu/ccu_criteria.html
 |title = Criteria for membership of the CCU
 |accessdate = 25 September 2012
@@ -254,10 +255,10 @@
 *俄羅斯[[聯邦計量和技術管理局]]（GOST）
 </ref>
 
-《國際單位制小冊子》所用的「物理量」、「單位」、「因次」等名詞，都出自由[[計量學聯合導則委員會]]（JCGM）出版的《[[國際計量詞彙]]》。該委員會是一個由八個國際標準組織組成的工作小組，由國際度量衡局局長擔任會長。<ref>{{Cite web|url=http://www.bipm.org/en/publications/guides/vim.html|title=The International Vocabulary of Metrology (VIM)}}</ref>用於定義國際單位制的物理量和公式，統稱為「國際物理量系統」，列於[[ISO/IEC 80000]]物理量與單位國際標準。
+《國際單位制手冊》所用的「物理量」、「單位」、「因次」等名詞，都出自由[[計量學聯合導則委員會]]（JCGM）出版的《[[國際計量詞彙]]》。該委員會是一個由八個國際標準組織組成的工作小組，由國際度量衡局局長擔任會長。<ref>{{Cite web|url=http://www.bipm.org/en/publications/guides/vim.html|title=The International Vocabulary of Metrology (VIM)}}</ref>用於定義國際單位制的物理量和公式，統稱為「國際物理量系統」，列於[[ISO/IEC 80000]]物理量與單位國際標準。
 
 ==單位與詞頭==
-國際單位制的組成部分為：一組[[國際單位制基本單位|基本單位]]、一組有特殊名稱的[[國際單位制導出單位|導出單位]]以及一組十進制倍數[[國際單位制詞頭|詞頭]]。根據《國際單位制小冊子》，「SI單位」囊括以上三個部分，而「一致SI單位」則只包含基本和導出單位。<ref name=SIBrochure/>{{rp|103–106}}
+國際單位制的組成部分為：一組[[國際單位制基本單位|基本單位]]、一組有特殊名稱的[[國際單位制導出單位|導出單位]]以及一組十進制倍數[[國際單位制詞頭|詞頭]]。根據《國際單位制手冊》，「SI單位」囊括以上三個部分，而「一致SI單位」則只包含基本和導出單位。<ref name=SIBrochure/>{{rp|103–106}}
 
 ===基本單位===
 {{main article|國際單位制基本單位}}
@@ -356,7 +357,7 @@
 * '''法''' = 法國政府
 * '''電''' = [[國際電工委員會]]
 * '''原''' = {{le|國際原子量委員會|International Committee on Atomic Weights}}
-其他定義都來自國際度量衡大會或國際度量衡委員會，列於《國際單位制小冊子》中。
+其他定義都來自國際度量衡大會或國際度量衡委員會，列於《國際單位制手冊》中。
 |}
 
 ===導出單位===
@@ -621,7 +622,7 @@
 
 ===SI認可使用的非SI單位===
 {{Main article|可並用單位}}
-雖然國際單位制本身已足以表達任何物理量，但在科技界和商界等的出版物中仍會出現許多非國際單位制單位，而這些單位的使用很可能會持續很長一段時間。也有一些單位由於深深地植根在歷史和個別文化當中，所以將會在可見的未來繼續使用下去。國際度量衡委員會承認亦認可這種做法，並頒佈了一份「[[可並用單位|可以與SI並用的非SI單位]]」清單，其分類如下：<ref name=SIBrochure/>{{rp|123–129}}<ref name=NIST811/>{{rp|7–11}}  <ref group = Note>此套分類方式以及對「表6、7、8、9」的參考均參照《國際單位制小冊子第8版》（2006年）於2014年的修訂版。</ref>
+雖然國際單位制本身已足以表達任何物理量，但在科技界和商界等的出版物中仍會出現許多非國際單位制單位，而這些單位的使用很可能會持續很長一段時間。也有一些單位由於深深地植根在歷史和個別文化當中，所以將會在可見的未來繼續使用下去。國際度量衡委員會承認亦認可這種做法，並頒佈了一份「[[可並用單位|可以與SI並用的非SI單位]]」清單，其分類如下：<ref name=SIBrochure/>{{rp|123–129}}<ref name=NIST811/>{{rp|7–11}}  <ref group = Note>此套分類方式以及對「表6、7、8、9」的參考均參照《國際單位制手冊第8版》（2006年）於2014年的修訂版。</ref>
 
 [[File:CubeLitre.svg|pic|right|thumb|公升是其中一個可以與SI並用的非SI單位，其大小等於{{sfrac|1000}}立方米，並不屬於國際單位制中的一致單位。]]
 *'''可以與SI並用的非SI單位'''（表6）：
@@ -629,15 +630,15 @@
 ::[[分鐘]]、[[小時]]、[[日]]、[[角度]]、[[角分]]、[[角秒]]、[[公頃]]、[[公升]]、[[公噸]]、[[天文單位]]及[[分貝]]。
 
 * '''在SI下的數值須經實驗得出的非SI單位'''（表7）：
-:物理學家很多時候會使用和某些自然現象有關的測量單位，這些單位往往和國際單位制單位的大小相差許多個數量級。《國際單位制小冊子》列出了一些最常用的自然單位以及它們的符號和標準數值，但必須通過實驗才能得出這些單位在國際單位制下的數值。<ref group = Note>米是用[[光速]]來定義的，所以光速在國際單位制下的數值是完全精準的。</ref>
+:物理學家很多時候會使用和某些自然現象有關的測量單位，這些單位往往和國際單位制單位的大小相差許多個數量級。《國際單位制手冊》列出了一些最常用的自然單位以及它們的符號和標準數值，但必須通過實驗才能得出這些單位在國際單位制下的數值。<ref group = Note>米是用[[光速]]來定義的，所以光速在國際單位制下的數值是完全精準的。</ref>
 ::[[電子伏特]]（eV）及[[原子質量單位|道爾頓/原子質量單位]]（Da或u）。
 
 * '''其他非SI單位'''（表8）：
-:一些單位雖然沒有得到國際度量衡大會的正式認可，但仍廣泛應用在醫療和導航等眾多領域中。國際度量衡委員會為確保在國際上的一致性，也在《小冊子》中列出此類單位，但建議在使用時先作定義。
+:一些單位雖然沒有得到國際度量衡大會的正式認可，但仍廣泛應用在醫療和導航等眾多領域中。國際度量衡委員會為確保在國際上的一致性，也在《手冊》中列出此類單位，但建議在使用時先作定義。
 ::[[巴]]、[[毫米汞柱]]、[[埃格斯特朗]]、[[海里]]、[[靶恩]]、[[節 (單位)|節]]及[[奈培]]。
 
 * '''與CGS和CGS高斯單位制相關的非SI單位'''（表9）
-:一些舊單位在某些領域中有使用上的優點，因此仍會出現在出版物中，如[[大地測量學]]、[[地球物理學]]和[[電磁場的數學表述|電動力學]]等。《國際單位制小冊子》列出的此類單位有
+:一些舊單位在某些領域中有使用上的優點，因此仍會出現在出版物中，如[[大地測量學]]、[[地球物理學]]和[[電磁場的數學表述|電動力學]]等。《國際單位制手冊》列出的此類單位有
 ::[[爾格]]、[[達因]]、[[泊 (單位)|泊]]、斯托克斯、[[熙提]]、[[輻透]]、[[伽]]、[[麥克斯韋 (單位)|麥克斯韋]]、[[高斯 (單位)|高斯]]及[[奧斯特 (單位)|奧斯特]]。
 
 ==單位符號及數值的書寫格式==
@@ -656,7 +657,7 @@
 |url = http://www.bipm.org/en/CGPM/db/9/7/
 |title = Resolution 7 of the 9th meeting of the CGPM (1948): Writing and printing of unit symbols and of numbers
 |accessdate = 6 November 2012
-|publisher = [[International Bureau of Weights and Measures]]}}</ref>這些規則之後又經過[[國際標準化組織]]（ISO）及[[國際電工委員會]]（IEC）的增訂，現已囊括單位符號和名稱、詞頭符號和名稱、物理量符號的書寫方式以及物理量數值的表達方式。<ref name=SIBrochure/>{{rp|104,130}}ISO和IEC所發佈的有關SI符號表達方式的規則，都與《國際單位制小冊子》中的規則一致。<ref>{{cite web
+|publisher = [[International Bureau of Weights and Measures]]}}</ref>這些規則之後又經過[[國際標準化組織]]（ISO）及[[國際電工委員會]]（IEC）的增訂，現已囊括單位符號和名稱、詞頭符號和名稱、物理量符號的書寫方式以及物理量數值的表達方式。<ref name=SIBrochure/>{{rp|104,130}}ISO和IEC所發佈的有關SI符號表達方式的規則，都與《國際單位制手冊》中的規則一致。<ref>{{cite web
 |url = http://www.nist.gov/pml/pubs/sp811/
 |at = Appendix C. Comments on the References of Appendix D – Bibliography
 |title = The NIST Guide for the use of the International System of Units
@@ -697,43 +698,26 @@
 |pages=28432–3 
 |id=FR Doc number E8-11058 
 |accessdate=28 October 2009}}
-</ref><ref name=NIST811/>{{rp|31}}不過，[[勒克斯]]「lux」、[[赫茲]]「hertz」和[[西門子 (單位)|西門子]]「siemens」都有不規則眾數──它們在單數和眾數下都有相同的拼法。[[波蘭文]]的眾數規則更為複雜，當數量為1時寫「metr」、「kilogram」、「sekunda」，數量個位數為2、3、4且十位數不是1時寫「metry」、「kilogramy」、「sekundy」，數量為其他整數（包括0）時寫「metrów」、「kilogramów」、「sekund」，數量為非整數（如0.67、2.45等）時寫「metra」、「kilograma」、「sekundy」。<ref>{{cite web|url=http://wsjp.pl |title=Wielki słownik języka polskiego |accessdate=2017-04-06 |language=波蘭語}}</ref>
+</ref><ref name=NIST811/>{{rp|31}}不過，[[勒克斯]]「lux」、[[赫茲]]「hertz」和[[西門子 (單位)|西門子]]「siemens」都有不規則眾數──它們在單數和眾數下都有相同的拼法。[[波蘭文]]的眾數規則更為複雜：以米、公斤、秒為例，當數量為1時寫「metr」、「kilogram」、「sekunda」，數量個位數為2、3、4且十位數不是1時寫「metry」、「kilogramy」、「sekundy」，數量為其他整數（包括0）時寫「metrów」、「kilogramów」、「sekund」，數量為非整數（如0.67、2.45等）時寫「metra」、「kilograma」、「sekundy」。<ref>{{cite web|url=http://wsjp.pl |title=Wielki słownik języka polskiego |accessdate=2017-04-06 |language=波蘭語}}</ref>
 
 在英文中，若須表達單位之間相乘，可用[[連字號]]或空格（牛頓米寫作「newton-metre」或「newton metre」），並通過改變最後者來形成整個複合單位的眾數（10 newton-metres）。數字與單位符號之間建議加入一個空格（一個25公斤的球體「a 25&nbsp;kg sphere」）。把單位名稱用作形容詞時，同樣根據英文語法加入一個連字號（一個25公斤的球體「a 25-kilogram sphere」）。<ref>{{cite web|url=http://www.us-metric.org/faq-frequently-asked-questions-about-the-metric-system/#spacing|title=U.S. Metric Association FAQ: Frequently Asked Questions about the metric system|accessdate=4 May 2016}}</ref>
 
-===中文及日文===
+===中文===
 [[Image:PRC Expressway RoadSign Distances.jpg|thumb|[[北京]]一面公路路牌，其中的距離都以國際通用的數字與符號書寫]]
-單位名稱在[[中文]]以[[漢字]]書寫，在[[日文]]則以表音的[[片假名]]書寫。無論是中文還是日文，單位符號都用國際通用的[[拉丁字母|拉丁]]或[[希臘字母]]書寫。
 
-;Chinese
-The basic Chinese units are metre ({{lang|zh|米}} ''mǐ''), litre ({{lang|zh|升}} ''shēng''), gram ({{lang|zh|克}} ''kè''), and second ({{lang|zh|秒}} ''miǎo''), while others include watt ({{lang|zh|瓦}} ''wǎ''). Prefixes include ''deci-'' ({{lang|zh|分}} ''fēn''), ''centi-'' ({{lang|zh|厘}} ''lí''), ''milli-'' ({{lang|zh|毫}} ''háo''), ''micro-'' ({{lang|zh|微}} ''wēi''), ''kilo-'' ({{lang|zh|千}} ''qiān''), and ''mega-'' ({{lang|zh|兆}} ''zhào''). These are combined to form disyllabic characters, such as {{lang|zh|厘米}} ''límǐ'' "centimetre" or {{lang|zh|千瓦}} ''qiānwǎ'' "kilowatt".<ref>{{cite web
-|url = http://www.metricmethods.com/SI_chinese.html
-|title = SI Unit and Prefix Names in Chinese
-|publisher = Metric Methods
-|year = 2010
-|first1 = James R.
-|last1 = Frysinger
-|first2 = Pin
-|last2 = Yin
-|first3 =Justin
-|last3 = Jih
-|first4 =Yeeming
-|last4 = Jih
-|accessdate = 1 November 2012}}</ref> In the 19th century, various compound characters were also used, similar to Japanese, either imported or formed on the same principles, such as {{lang|zh|瓩}} for {{lang|zh|千瓦}} ''qiānwǎ'' (kilowatt) or {{lang|zh|糎}} for {{lang|zh|厘米}}. These are generally not used today, but are occasionally found in older or technical writing.<ref name=vmair>Victor Mair, [http://languagelog.ldc.upenn.edu/nll/?p=3330 "Polysyllabic characters in Chinese writing"], ''Language Log'', 2011 August 2</ref>
+[[中文]]中的國際單位制單位名稱及詞頭都以[[漢字]]書寫，而單位符號則用國際通用的[[拉丁字母|拉丁]]或[[希臘字母]]書寫。在[[中華民國]]（台灣）和[[中華人民共和國]]（香港及澳門除外）的法律管轄範圍內，國際單位制單位及詞頭的譯名分別由《法定度量衡單位及其所用之倍數、分數之名稱、定義及代號》<ref>{{cite web |url=http://www.bsmi.gov.tw/wSite/public/Data/f1478658731255.pdf |title=法定度量衡單位及其所用之倍數、分數之名稱、定義及代號 |publisher=[[中華民國經濟部]] |date=2016-10-19 |access-date=2017-04-06}}</ref>及《中华人民共和国法定计量单位》<ref>{{cite web |url=http://fgcx.bjcourt.gov.cn:4601/law?fn=chl040s162.txt |title=中华人民共和国法定计量单位 |publisher=[[中華人民共和國國務院]] |date=1984-02-27 |access-date=2017-04-06}}</ref>所規定。在基本單位中，兩岸名稱相同的有-{米}-（又稱-{公尺}-）、-{千克}-（又稱-{公斤}-）、秒和安培，在台灣/大陸譯名不同的則有-{克耳文/开尔文}-、-{莫耳/摩尔}-和-{燭光/坎德拉}-；在倍數詞頭中，兩岸相同的有微、毫、厘、分、十、百、千，不同的則有-{奈/纳诺}-、-{百萬/兆}-、-{兆/太拉}-等等，其中「兆」一字在台灣和大陸分別表示10<sup>12</sup>和10<sup>6</sup>。在中國大陸，多於一個漢字的單位名稱或詞頭亦可簡寫成單個漢字，如-{纳诺}-寫作-{纳}-、-{坎德拉}-寫作-{坎}-等。
 
-Some units have different names in [[Taiwan]]. Meter (公尺), centimeter (公分), liter (公升), kilogram (公斤), gram (公克) and hectare (公頃) have the prefix "公", which means "universal". The prefixes "兆", "分" and "厘" are not commonly used, and the use of "千" is limited to kilowatt (千瓦).
+19世紀中國在引進度量衡單位時，沿襲日文，創造出一系列多音節漢字（[[計量用漢字]]），如「瓩」（讀千瓦）、「糎」（讀厘米）、「嗧」（讀加侖）等等。這些漢字今已被淘汰，改用單音節漢字。<ref name=vmair>Victor Mair, [http://languagelog.ldc.upenn.edu/nll/?p=3330 "Polysyllabic characters in Chinese writing"], ''Language Log'', 2011 August 2</ref>
 
-;Japanese
-A set of [[Kanji|characters]] representing various metric units was [[kokuji|created in Japan]] in the [[Meiji period|late 19th century]]. Characters, same as the Chinese, exist for three base units: the metre ({{lang|ja|米}}), litre ({{lang|ja|升}}) and gram ({{lang|ja|瓦}}). These were combined with a set of six prefix characters – ''kilo-'' ({{lang|ja|千}}), ''hecto-'' ({{lang|ja|百}}), ''deca-'' ({{lang|ja|十}}), ''deci-'' ({{lang|ja|分}}), ''centi-'' ({{lang|ja|厘}}) and ''milli-'' ({{lang|ja|毛}}) – to form an additional 18 single-character units. The seven length units (kilometre to millimetre), for example, are {{lang|ja|粁, 粨, 籵, 米, 粉, 糎}} and {{lang|ja|粍}}. These characters, however, are not in common use today; instead, units are written in [[katakana]], the Japanese [[syllabary]] used for foreign borrowings, such as {{nihongo4|キロメートル|kiromētoru}} for kilometre, but are also written in standard prefixes such as "km" for kilometre. A few Sino-Japanese words for these units remain in use in Japanese, most significantly "{{lang|ja|平米}}" (''heibei'') for "square metre", but otherwise borrowed pronunciations are used.
-
-These characters are examples of the rare phenomenon of [[Ateji#Single-character loan words|single-character loan words]] – a foreign word represented by a single Japanese character – and form the plurality of such words. Similar characters were also coined for other units, such as British units, though these also have fallen out of use; see [[wikt:Appendix:Single character gairaigo#Metric units|Single character gairaigo: Metric units]] and [[wikt:Appendix:Single character gairaigo#Other units|Single character gairaigo: Other units]] for a full list.
+===日文===
+日本在[[明治時期]]期間創造了一系列[[日本漢字|國字]]（日製漢字）來表示公制單位。三個基本單位取原有漢字：米、升、瓦（即克），再結合六個詞頭漢字：千、百、十、分、厘、毛，從而組成共18個新的獨立漢字，如七個長度單位：粁、粨、籵、米、粉、糎和粍。這些漢字都是[[借字 (日語)|借字]]，其讀音取自英文，如「粁」取「kilometre」之音，讀「キロメートル」。不過這些漢字在日本已被淘汰，改用直接表音的[[片假名]]，如「キロメートル」。單位及詞頭符號則用拉丁或希臘字母書寫，如「km」。今天仍在通用的漢字單位名稱有「平米」（即平方米）等。
 
 ===Unit symbols and the values of quantities {{anchor|SI_writing_style}}===
 Although the writing of unit names is language-specific, the writing of unit symbols and the values of quantities is consistent across all languages and therefore the SI Brochure has specific rules in respect of writing them.<ref name=SIBrochure/>{{rp|130–135}} The guideline produced by the [[National Institute of Standards and Technology]] (NIST)<ref name='nist style'>
 {{Cite web|url=http://physics.nist.gov/Pubs/SP811/sec07.html |title=NIST Guide to SI Units&nbsp;– Rules and Style Conventions |accessdate=29 December 2009|last1=Thompson|first1=A.|date=July 2008 |last2=Taylor |first2=B. N. |publisher=National Institute of Standards and Technology }}</ref> clarifies language-specific areas in respect of American English that were left open by the SI Brochure, but is otherwise identical to the SI Brochure.<ref name=NISTInterprepation/>
 
 ====General rules====
-General rules<ref name=generalrules group=Note>Except where specifically noted, these rules are common to both the SI Brochure and the NIST brochure.</ref> for writing SI units and quantities apply to text that is either handwritten or produced using an automated process:
+General rules{{NoteTag|name=generalrules|Except where specifically noted, these rules are common to both the SI Brochure and the NIST brochure.}} for writing SI units and quantities apply to text that is either handwritten or produced using an automated process:
 * The value of a quantity is written as a number followed by a space (representing a multiplication sign) and a unit symbol; e.g., 2.21&nbsp;kg, {{val|7.3|e=2|u=m<sup>2</sup>}}, 22&nbsp;K. This rule explicitly includes the percent sign (%)<ref name=SIBrochure/>{{rp |134}} and the symbol for degrees of temperature (°C).<ref name=SIBrochure/>{{rp| 133}} Exceptions are the symbols for plane angular degrees, minutes, and seconds (°,&nbsp;&prime;, and&nbsp;&Prime;), which are placed immediately after the number with no intervening space.
 * Symbols are mathematical entities, not abbreviations, and as such do not have an appended period/full stop (.), unless the rules of grammar demand one for another reason, such as denoting the end of a sentence.
 * A prefix is part of the unit, and its symbol is prepended to the unit symbol without a separator (e.g., k in km, M in MPa, G in GHz). Compound prefixes are not allowed.
@@ -749,7 +733,7 @@ General rules<ref name=generalrules group=Note>Except where specifically noted, 
 * Since the value of "billion" and "trillion" can [[Long and short scales|vary from language to language]], the dimensionless terms "ppb" (parts per [[Billion (word)|billion]]) and "ppt" (parts per [[long and short scales|trillion]]) should be avoided.  No alternative is suggested in the SI Brochure.
 
 ====Printing SI symbols====
-Further rules<ref name=generalrules group=Note/> are specified in respect of production of text using [[printing press]]es, [[word processor]]s, [[typewriter]]s and the like.
+Further rules{{NoteTag|name=generalrules}}are specified in respect of production of text using [[printing press]]es, [[word processor]]s, [[typewriter]]s and the like.
 * Symbols are written in upright ([[Roman type|Roman]]) type (m for metres, s for seconds), so as to differentiate from the [[italic type]] used for quantities (''m'' for mass, ''s'' for displacement). By consensus of international standards bodies, this rule is applied independent of the font used for surrounding text.
 * In [[Chinese language|Chinese]], [[Japanese language|Japanese]], and [[Korean language]] computing ([[CJK characters|CJK]]), some of the commonly used units, prefix–unit combinations, or unit–exponent combinations have been allocated predefined single characters taking up a full square. [[Unicode]] includes these in its [http://www.unicode.org/charts/PDF/U3300.pdf CJK Compatibility] and [http://www.unicode.org/charts/PDF/U2100.pdf letter-like symbols] sub-ranges for back compatibility, without necessarily recommending future usage. These are summarised in [[Unicode symbols]]. The cursive ℓ, a letter-like symbol, has been used in a number of countries in addition to China and Japan as a symbol for the litre, but this is not currently recommended by any [[Standards organization|standards body]].<!--there are lots of standards organisations and I'm pretty sure at least some of them did recommend this in the past; I think South Africa was also big on this-->
 *[[Space (punctuation)|In print]], the space used as a thousands separator (commonly called a [[thin space]]) is typically narrower than that used between words.
@@ -849,7 +833,7 @@ Both the degree and rate of adoption of SI varied from country to country—coun
 |last1 = Dutta
 |publisher = [[Rutgers University]]
 |year = 2008
-|accessdate = 2 December 2012}}</ref> The United States and the United Kingdom were non-metric, France and Germany had been using the metric system for about a century, and China had been using the metric system for 35 years, while India and Japan had adopted the metric system within the preceding five years.  Other non-metric countries were those where the United Kingdom or the United States had considerable influence.<ref group=Note>These countries included the [[Commonwealth of Nations|Commonwealth countries]] (excluding [[India]]), Ireland, Burma, Liberia, Iraq, Kuwait, Saudi Arabia, Nepal and Ethiopia</ref><ref>{{cite book
+|accessdate = 2 December 2012}}</ref> The United States and the United Kingdom were non-metric, France and Germany had been using the metric system for about a century, and China had been using the metric system for 35 years, while India and Japan had adopted the metric system within the preceding five years.  Other non-metric countries were those where the United Kingdom or the United States had considerable influence.{{NoteTag|These countries included the [[Commonwealth of Nations|Commonwealth countries]] (excluding [[India]]), Ireland, Burma, Liberia, Iraq, Kuwait, Saudi Arabia, Nepal and Ethiopia}}<ref>{{cite book
 |url = https://books.google.com/?id=nOG0SxxEu64C&pg=PA240
 |page = 244
 |title = The International Bureau of Weights and Measures 1875–1975: NBS Special Publication 420
@@ -934,7 +918,7 @@ In 1972, in order to harmonise units of measure as part of a programme to facili
 |date=18 October 1971 
 |accessdate=3 March 2012}}</ref>  This directive catalogued units of measure that could be used for "economic, public health, public safety and administrative purposes" and also provided instructions for a transition from the existing units of measure that were in use.  The directive replicated the CGPM SI recommendations and in addition pre-empted some of the additions whose use had been recommended by the CIPM in 1969, but had not been ratified by the CGPM.<ref group = Note>Angular units: degree, minute and second, Units of time:day, minute</ref> The directive also catalogued units of measure whose status would be reviewed by the end of 1977 (mainly coherent CGS units of measure) and also catalogued units of measure that were to be phased out by the end of 1977, including the use of obsolete names for the sale of timber such as the [[stere]], the use of units of force and pressure that made use of the acceleration due to gravity,<ref group = Note>The units that made use of the acceleration due to gravity in their definitions included the [[kilogram-force]]/[[Kilogram-force|kilopond]], [[torr]], [[technical atmosphere]], [[Torr#Manometric units of pressure|manometric units of pressure]] such as metres of water and millimetres of mercury</ref> the use of non-coherent units of power such as the [[Pferdestärke|Pferdestärke (PS)]], the use of the [[calorie]] as a measure of energy and the [[Stilb (unit)|stilb]] as a measure of [[luminance]]. The directive was silent in respect of units that were specific to one or two countries including the ''pond'', ''pfund'', ''livre'' (Dutch, German and French synonyms for 500&nbsp;g), thereby effectively prohibiting their use as well.
 
-When the directive was revisited during 1977, some of the older units that were being reviewed (such as millimetre of mercury for [[blood pressure]])<ref group=Note>The millimetre of mercury for blood pressure is one catalogued in [[#Non-SI units accepted for use with SI|Table 8 of SI Brochure]].</ref> were retained but others were phased out, thereby broadly aligning the allowable units with SI.  The directive was however overhauled to accommodate British and Irish interests in retaining the imperial system in certain circumstances.<ref>{{cite web 
+When the directive was revisited during 1977, some of the older units that were being reviewed (such as millimetre of mercury for [[blood pressure]]){{NoteTag|The millimetre of mercury for blood pressure is one catalogued in [[#Non-SI units accepted for use with SI|Table 8 of SI Brochure]].}} were retained but others were phased out, thereby broadly aligning the allowable units with SI.  The directive was however overhauled to accommodate British and Irish interests in retaining the imperial system in certain circumstances.<ref>{{cite web 
 | url = http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31980L0181:EN:NOT 
 | author = The Council of the European Communities 
 | title = Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws of the Member States relating to Unit of measurement and on the repeal of Directive 71/354/EEC 
@@ -1146,14 +1130,14 @@ Meanwhile, in 1999 the UPLR was amended to permit metric-only labelling and auto
 |work = MetalMiner
 |publisher = Azul Partners}}</ref>
 
-==Redefinition of units==
-[[File:Relations between New SI units definitions.svg|thumb |right |Dependencies of proposed SI unit definitions (in colour) and seven [[physical constant]]s (in grey) with fixed numerical values. Unlike the current (2014) definition, the base units are derived from one or more constants of nature.]]
-{{main article|New SI definitions}}
-After the [[History of the metre|metre was redefined]] in 1960, the kilogram remained the only SI base unit that relied on a specific physical artefact, the [[international prototype of the kilogram]] (IPK), for its definition and thus the only unit that was still subject to periodic comparisons of national standard kilograms with the IPK.<ref name="NPL kg">{{cite web|title=Redefining the kilogram|url=http://www.npl.co.uk/educate-explore/redefining-the-kilogram/|publisher=UK National Physical Laboratory|accessdate=30 November 2014}}</ref> After the 1996–1998 recalibration, a clear divergence between the various prototype kilograms was observed.{{citation needed|date=November 2014}}
+==重新定義單位==
+[[File:Relations between New SI units definitions.svg|thumb |right |在國際單位制重新定義之提案中，每個基本單位（彩色）都建立在一個已固定數值的[[物理常數]]之上。基本單位的實際大小可以通過更準確地測量相應的物理常數而得出。]]
+<!--{{main article|新國際單位制定義}}-->
+自從1960年重新定義米之後，公斤便一直是唯一一個依賴某件人造物體來定義的國際單位制基本單位：全球各地的公斤標準都須定期與位於法國[[塞夫爾]]的[[國際公斤原器]]進行比較。<ref name="NPL kg">{{cite web|title=Redefining the kilogram|url=http://www.npl.co.uk/educate-explore/redefining-the-kilogram/|publisher=UK National Physical Laboratory|accessdate=30 November 2014}}</ref>
 
-At its 23rd meeting, held in 2007, the CGPM recommended that the CIPM should continue to investigate methods to provide exact fixed values for physical constants of nature that could then be used in the definitions of units of measure in place of the IPK, thus enabling the transition from explicit unit definitions to explicit constant definitions.<ref name="PT Newell">{{cite web|last1=Newell|first1=David B.|title=A more fundamental International System of Units|url=http://www.physics.usu.edu/dennison/3870-3880/Class_Notes/Lectures/Newell%202014%20PhysToday-SI%20Units.pdf|publisher=Physics Today|accessdate=30 November 2014}}</ref><ref name=Explicit>{{cite journal|url = http://www.iupac.org/publications/ci/2011/3305/4_mills.html|journal = Chemistry International|volume = 33|date=September–October 2011|title = Part II—Explicit-Constant Definitions for the Kilogram and for the Mole|first1 = Ian|last1 = Mills|issn = 0193-6484|pages = 12–15|issue = 5}}</ref>
+2007年第23屆國際度量衡大會建議國際度量衡委員會進一步研究，如何通過固定物理常數的數值來定義基本單位，從而代替現用的國際公斤原器，並使國際單位制的宗旨從「單位之定義」轉移至「物理常數之定義」。<ref name="PT Newell">{{cite web|last1=Newell|first1=David B.|title=A more fundamental International System of Units|url=http://www.physics.usu.edu/dennison/3870-3880/Class_Notes/Lectures/Newell%202014%20PhysToday-SI%20Units.pdf|publisher=Physics Today|accessdate=30 November 2014}}</ref><ref name=Explicit>{{cite journal|url = http://www.iupac.org/publications/ci/2011/3305/4_mills.html|journal = Chemistry International|volume = 33|date=September–October 2011|title = Part II—Explicit-Constant Definitions for the Kilogram and for the Mole|first1 = Ian|last1 = Mills|issn = 0193-6484|pages = 12–15|issue = 5}}</ref>
 
-At a meeting of the CCU held in [[Reading, Berkshire|Reading, United Kingdom]], in September 2010, a resolution and draft changes to the SI Brochure that were to be presented to the next meeting of the CIPM in October 2010 were agreed to in principle.<ref>{{cite web
+2010年，單位顧問委員會在英國召開的會議通過了《國際單位制手冊》的修訂草案，同年呈交至國際度量衡委員會。<ref>{{cite web
 | url=http://www.bipm.org/utils/en/pdf/24_CGPM_Convocation_Draft_Resolution_A.pdf|title=On the possible future revision of the International System of Units, the SI|last=Mills|first=Ian|publisher=CCU|date=29 September 2010|accessdate=1 January 2011}}</ref><ref name="draft">{{cite web
 | url=http://www.bipm.org/utils/en/pdf/si_brochure_draft_ch2.pdf
 | title=Draft Chapter 2 for SI Brochure, following redefinitions of the base units
@@ -1161,19 +1145,17 @@ At a meeting of the CCU held in [[Reading, Berkshire|Reading, United Kingdom]], 
 | publisher=CCU
 | date=29 September 2010
 | accessdate=1 January 2011}}
-</ref> The proposals that the CCU put forward were:
-*In addition to the speed of light, four constants of nature – the [[Planck constant]], an [[elementary charge]], the [[Boltzmann constant]] and the [[Avogadro number]] – be defined to have exact values.
-*The International prototype kilogram be retired
-*The current definitions of the kilogram, [[ampere]], [[kelvin]] and [[Mole (unit)|mole]] be revised.
-*The wording of the definitions of all the base units be both tightened up and changed to reflect the change in emphasis from explicit unit to explicit constant definitions.
+</ref>此項草案建議：
+*除光速以外，為四個物理常數──[[普朗克常數]]、[[基本電荷]]、[[波茲曼常數]]及[[阿佛加德羅常數]]──定義固定精確數值。
+*淘汰國際公斤原器。
+*修訂公斤、安培、開爾文及摩爾的現用定義。
+*所有基本單位的定義措辭改為更加精簡，並須反映出著重點從「單位之定義」轉移至「物理常數之定義」。
 
-The CIPM meeting of October 2010 reviewed progress towards establishing fixed values for the constants but found that "the conditions set by the General Conference at its 23rd meeting have not yet been fully met. For this reason the CIPM does not propose a revision of the SI at the present time".<ref>{{cite web|url=http://www.bipm.org/en/si/new_si/|title=Towards the "new SI"|publisher=[[International Bureau of Weights and Measures]] (BIPM)|accessdate=20 February 2011}}</ref>
+2010年國際度量衡委員會會議審閱了確立各物理常數固定數值的進度，但認為「第23屆國際度量衡大會所設下的條件仍未完全滿足，因此本會目前不建議修訂國際單位制。」<ref>{{cite web|url=http://www.bipm.org/en/si/new_si/|title=Towards the "new SI"|publisher=[[International Bureau of Weights and Measures]] (BIPM)|accessdate=20 February 2011}}</ref>
 
-At the 24th CGPM meeting, held in October 2011, the CIPM sponsored a resolution in which the requisite definition changes were agreed to in principle and in which the conditions required to be met before the redefinitions could be implemented were restated.<ref>{{cite conference|url=http://www.bipm.org/utils/en/pdf/24_CGPM_Resolution_1.pdf|title=Resolution 1 – On the possible future revision of the International System of Units, the SI|conference=24th meeting of the General Conference on Weights and Measures |location=Sèvres, France |date=17–21 October 2011 |accessdate=25 October 2011}}</ref>
+在2011年第24屆大會上，國際度量衡委員會從原則上贊成對定義進行必要的修訂，並重申修訂前必須達到的各項條件。<ref>{{cite conference|url=http://www.bipm.org/utils/en/pdf/24_CGPM_Resolution_1.pdf|title=Resolution 1 – On the possible future revision of the International System of Units, the SI|conference=24th meeting of the General Conference on Weights and Measures |location=Sèvres, France |date=17–21 October 2011 |accessdate=25 October 2011}}</ref>2014年第25屆大會召開時，第23屆大會所設下的條件仍未滿足，因此大會再次建議在確立物理常數固定值方面做進一步工作。<ref>{{Cite conference |url=http://www.bipm.org/en/CGPM/db/25/1/ |title=Resolution 1 of the 25th CGPM (2014) |conference=25th meeting of the General Conference on Weights and Measures |location=Sèvres, France |date=18–20 November 2014}}</ref>
 
-By November 2014 the conditions set out at the 23rd meeting of the CGPM for the unit redefinitions had still not been met, and the 25th meeting of the  CGPM, held in November 2014, adopted a similar resolution encouraging further work towards establishing fixed values for the fundamental constants.<ref>{{Cite conference |url=http://www.bipm.org/en/CGPM/db/25/1/ |title=Resolution 1 of the 25th CGPM (2014) |conference=25th meeting of the General Conference on Weights and Measures |location=Sèvres, France |date=18–20 November 2014}}</ref>
-
-The redefinitions are expected to be adopted at the 26th CGPM in the fall of 2018.<ref>{{Cite web
+國際單位制重新定義的提案預計將於2018年第26屆大會上通過採納。<ref>{{Cite web
  |url=http://www.bipm.org/cc/TGFC/Allowed/Minutes/CODATA_Minutes_14-BIPM-public.pdf
  |title=Report on the Meeting of the CODATA Task Group on Fundamental Constants
  |date=3–4 November 2014
@@ -1181,7 +1163,7 @@ The redefinitions are expected to be adopted at the 26th CGPM in the fall of 201
  |first=B. |last=Wood
  |page=7
  |quote=[BIPM director Martin] Milton responded to a question about what would happen if ... the CIPM or the CGPM voted not to move forward with the redefinition of the SI. He responded that he felt that by that time the decision to move forward should be seen as a foregone conclusion.
-}}</ref>  The [[Committee on Data for Science and Technology#Task Group on Fundamental Constants|CODATA task group on fundamental constants]] has announced special submission deadlines for data to compute the values that will be announced at this event.<ref>{{cite journal
+}}</ref>[[科學技術數據委員會]]基本常數任務組已宣佈將於該次大會上公佈的數值的提交限期。<ref>{{cite journal
  |last1=Mohr |first1=Peter J.
  |last2=Newell |first2=David B.
  |last3=Taylor |first3=Barry N.
@@ -1194,38 +1176,28 @@ The redefinitions are expected to be adopted at the 26th CGPM in the fall of 201
 }}</ref>
 {{clear}}
 
-==See also==
-{{cmn|2|
-* [[History of measurement]]
-* [[List of international common standards]]
-* [[List of scientific units named after people]]
-* [[Metre–tonne–second system of units]]  
-* [[Names of large numbers]]
-* [[Names of small numbers]]
-* [[Order of magnitude]]
-'''Organisations'''
-* [[Institute for Reference Materials and Measurements]]
-'''Standards and conventions'''
-* [[Coordinated Universal Time]] (UTC)
-* [[Unified Code for Units of Measure]]
-}}
+==參見==
+* [[米-公頓-秒制]]
+* [[數量級]]
+* [[協調時間時]]（UTC）
+* [[計量單位統一代碼]]
 
-== Notes ==
-{{Reflist|30em|group=Note}}
+==備註==
+{{noteFoot}}
 
-==References==
+==參考資料==
 {{Reflist|30em}}
 
-==Further reading==
+==延伸閱讀==
 * {{GreenBookRef}}
 * [http://info.ee.surrey.ac.uk/Workshop/advice/coils/unit_systems/#rms Unit Systems in Electromagnetism]
 * [http://www.nist.gov/customcf/get_pdf.cfm?pub_id=32943 MW Keller ''et al.''] Metrology Triangle Using a Watt Balance, a Calculable Capacitor, and a Single-Electron Tunneling Device
 * [http://nvlpubs.nist.gov/nistpubs/jres/116/6/V116.N06.A01.pdf "The Current SI Seen From the Perspective of the Proposed New SI"]. Barry N. Taylor. Journal of Research of the National Institute of Standards and Technology, Vol. 116, No. 6, Pgs. 797–807, Nov–Dec 2011.
 * B. N. Taylor, Ambler Thompson, ''International System of Units (SI)'', [[National Institute of Standards and Technology]] 2008 edition, ISBN 1437915582.
 
-==External links==
+==外部連結==
 {{Commons category|International System of Units}}
-;Official
+;官方
 * [http://www.bipm.org/en/measurement-units/ BIPM Bureau International des Poids et Mesures (SI maintenance agency)] (home page)
 ** [http://www.bipm.org/en/si/si_brochure/ BIPM brochure] (SI reference)
 * [http://www.iso.org/iso/iso_catalogue/catalogue_ics/catalogue_detail_ics.htm?csnumber=30669 ISO 80000-1:2009 ''Quantities and units – Part 1: General'']
@@ -1238,27 +1210,19 @@ The redefinitions are expected to be adopted at the 26th CGPM in the fall of 201
 * [http://www.engnetglobal.com/tips/convert.aspx EngNet Metric Conversion Chart] Online Categorised Metric Conversion Calculator
 * [http://lamar.colostate.edu/~hillger/pdf/Practical_Guide_to_the_SI.pdf U.S. Metric Association. 2008. A Practical Guide to the International System of Units]
 
-;History
+;歷史
 * [ftp://www.ctan.org/tex-archive/macros/latex/contrib/SIunits/SIunits.pdf LaTeX SIunits package manual] gives a historical background to the SI system.
 
-;Research
+;研究
 * [http://www.npl.co.uk/server.php?show=ConWebDoc.1835 ''The metrological triangle'']
 * [http://www.bipm.org/cc/CIPM/Allowed/94/CIPM-Recom1CI-2005-EN.pdf Recommendation of ICWM 1 (CI-2005)]
 ;Pro-metric [[advocacy groups]]
 * [http://www.ukma.org.uk/ The UK Metric Association]
 * [http://www.metric.org/ The US Metric Association]
 
-;Pro-customary measures pressure groups
-* {{dmoz|Society/Issues/Government_Operations/Anti-Metrication/|Pro-customary measures groups}}
-
-{{SI units navbox}}
-{{systems of measurement}}
+{{SI單位導航框}}
+{{計量制度}}
 {{Authority control}}
-{{Portal bar|Physics}}
 
-{{Good article}}
-
-{{DEFAULTSORT:International System Of Units}}
-[[Category:International System of Units| ]]
-[[Category:Systems of units]]
-[[Category:International standards]]
+[[Category:国际单位制| ]]
+[[Category:单位制]]
