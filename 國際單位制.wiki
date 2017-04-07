@@ -697,7 +697,7 @@
 |pages=28432–3 
 |id=FR Doc number E8-11058 
 |accessdate=28 October 2009}}
-</ref><ref name=NIST811/>{{rp|31}}不過，[[勒克斯]]「lux」、[[赫茲]]「hertz」和[[西門子 (單位)|西門子]]「siemens」都有不規則眾數──它們在單數和眾數下都有相同的拼法。[[波蘭文]]的眾數規則更為複雜，當數量為1時寫「metr」，數量為2、3、4時寫「metry」，數量為0或4以上的整數時寫「metrów」，數量為分數（如0,67、2,45等）時也寫「metrów」。
+</ref><ref name=NIST811/>{{rp|31}}不過，[[勒克斯]]「lux」、[[赫茲]]「hertz」和[[西門子 (單位)|西門子]]「siemens」都有不規則眾數──它們在單數和眾數下都有相同的拼法。[[波蘭文]]的眾數規則更為複雜，當數量為1時寫「metr」、「kilogram」、「sekunda」，數量個位數為2、3、4且十位數不是1時寫「metry」、「kilogramy」、「sekundy」，數量為其他整數（包括0）時寫「metrów」、「kilogramów」、「sekund」，數量為非整數（如0.67、2.45等）時寫「metra」、「kilograma」、「sekundy」。<ref>{{cite web|url=http://wsjp.pl |title=Wielki słownik języka polskiego |accessdate=2017-04-06 |language=波蘭語}}</ref>
 
 在英文中，若須表達單位之間相乘，可用[[連字號]]或空格（牛頓米寫作「newton-metre」或「newton metre」），並通過改變最後者來形成整個複合單位的眾數（10 newton-metres）。數字與單位符號之間建議加入一個空格（一個25公斤的球體「a 25&nbsp;kg sphere」）。把單位名稱用作形容詞時，同樣根據英文語法加入一個連字號（一個25公斤的球體「a 25-kilogram sphere」）。<ref>{{cite web|url=http://www.us-metric.org/faq-frequently-asked-questions-about-the-metric-system/#spacing|title=U.S. Metric Association FAQ: Frequently Asked Questions about the metric system|accessdate=4 May 2016}}</ref>
 
