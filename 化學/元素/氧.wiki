@@ -1,0 +1,530 @@
+{{otheruses}}
+{{infobox element
+|name=氧
+|enname=Oxygen
+|number=8
+|symbol=O
+|abundance=
+|abundance in earth's crust=
+|abundance in oceans=
+|abundance in solar system=
+|left=[[氮]]
+|right=[[氟]]
+|above=–
+|below=[[硫|S]]
+|series=非金屬
+|group=16
+|period=2
+|block=p
+|category color=
+|appearance=無色氣體<br>淡藍色液體
+|image name = Liquid oxygen in a beaker 4.jpg 
+|image alt=
+|image size=
+|image name comment=盛於燒杯之中的液氧在室溫下沸騰
+|image name 2=Oxygen spectre.jpg
+|image name 2 comment=氧的光譜線
+<!--|standard atomic weight=[{{val|15.99903}},&nbsp;{{val|15.99977}}]-->
+<!--|conventional atomic weight=15.999-->
+|atomic mass=15.999
+|standard atomic weight ref={{CIAAW2016}}
+|electron configuration=&#91;[[氦|He]]&#93; 2s<sup>2</sup> 2p<sup>4</sup>
+|electrons per shell=2, 6
+|color=
+|phase=氣體
+|phase comment=
+|density gplstp=1.429
+|density gpcm3nrt 2=
+|density gpcm3mp=
+|density gpcm3bp=1.141
+|melting point K=54.36
+|melting point C=−218.79
+|melting point F=−361.82
+|boiling point K=90.188
+|boiling point C=−182.962
+|boiling point F=−297.332
+|triple point K=54.361
+|triple point kPa=0.1463
+|critical point K=154.581
+|critical point MPa=5.043
+|heat fusion=（O<sub>2</sub>）0.444
+|heat fusion 2=
+|heat vaporization=（O<sub>2</sub>）6.82
+|heat capacity=（O<sub>2</sub>）29.378
+|vapor pressure 1=&nbsp;
+|vapor pressure 10=&nbsp;
+|vapor pressure 100=&nbsp;
+|vapor pressure 1 k=61
+|vapor pressure 10 k=73
+|vapor pressure 100 k=90
+|vapor pressure comment=
+|crystal structure=立方
+|oxidation states=[[二氟化氧|2]], [[二氟化二氧|1]], [[過氧化物|&minus;1]], '''&minus;2'''
+|oxidation states comment=
+|electronegativity=3.44
+|number of ionization energies=4
+|ionization energy 1=1313.9
+|ionization energy 2=3388.3
+|ionization energy 3=5300.5
+|atomic radius=
+|atomic radius calculated=
+|covalent radius=66±2
+|Van der Waals radius=152
+|magnetic ordering=[[順磁性]]
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=
+|thermal conductivity=26.58&times;10<sup>−3</sup>&nbsp;
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=
+|speed of sound=330
+|speed of sound comment=（氣態，27&nbsp;°C）
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|magnetic susceptibility= +3449.0·10<sup>−6</sup>
+|magnetic susceptibility ref= （293&nbsp;K）<ref>{{Cite book|title=CRC, Handbook of Chemistry and Physics|last=Weast|first=Robert|publisher=Chemical Rubber Company Publishing|year=1984|isbn=0-8493-0464-4|location=Boca Raton, Florida|pages=E110|quote=|via=}}</ref>
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=
+|Poisson ratio=
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7782-44-7
+|isotopes=
+{{Infobox element/isotopes stable | mn=16 | sym=O | na=99.76% | n=8 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=17 | sym=O | na=0.04% | n=9 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=18 | sym=O | na=0.20% | n=10 |firstlinks=no}}
+|isotopes comment=
+|predicted by=
+|prediction date=
+|discovered by=[[卡爾·威廉·舍勒]]
+|discovery date=1771
+|first isolation by=
+|first isolation date=
+|named by=[[安東萬-羅倫·德·拉瓦節]]
+|named date=1777
+|history comment label=
+|history comment=
+|QID=Q629
+}}
+
+'''氧'''（'''Oxygen'''）是一種[[化學元素]]，符號為'''O'''，[[原子序]]為8，在[[元素週期表]]中屬於[[氧族元素|氧族]]。氧屬於[[非金屬]]，是具有高[[化學反應|反應性]]的[[氧化劑]]，能夠與大部分元素以及其他化合物形成[[氧化物]]。<ref>{{cite web |title=WebElements: the periodic table on the web – Oxygen: electronegativities |url=http://www.webelements.com/oxygen/electronegativity.html |publisher=WebElements.com |accessdate=November 7, 2011}}</ref>氧在宇宙中的總質量在所有元素中位列第三，僅居[[氫]]和[[氦]]之下。<ref name="NBB297">[[#Reference-idEmsley2001|Emsley 2001]], p.297</ref>在[[標準溫度和壓力]]下，兩個氧原子灰自然[[化學鍵|鍵合]]，形成無色無味的[[氧氣]]，即二氧（{{chem|O|2}}）。氧氣是[[地球大氣層]]的重要成分，在體積上佔20.8%。<ref name="ECE500"/>[[地球地殼]]中近一半的質量都是由氧和氧化物所組成。<ref name="lanl"/>
+
+二氧是細胞[[呼吸作用]]中重要的元素。在[[生物體]]中，主要[[有機分子]]，如[[蛋白質]]、[[核酸]]、[[碳水化合物]]和[[脂肪]]等，還有組成動物外殼、牙齒和骨骼的[[無機化合物]]，都含有氧原子。生物體絕大部分的質量都由含氧原子的水組成。[[光合作用]]利用陽光的能量把水和二氧化碳轉化為氧氣。氧氣的化學反應性強，所以大氣層中的氧氣成分只能通過生物的光合作用持續補充。[[臭氧]]（{{chem|O|3}}）是氧元素的另一種[[同素異構體]]，能夠較好地吸收中[[紫外線]]輻射。位於高海拔的[[臭氧層]]有助阻擋紫外線，從而保護生物圈。不過，在地表上的臭氧屬於污染物，為[[霧霾]]的副產品之一。在[[低地球軌道]]高度的單原子氧足以對航天器造成[[腐蝕]]。<ref>{{cite web|accessdate=August 8, 2009|url=http://www.spenvis.oma.be/spenvis/help/background/atmosphere/erosion.html|title=Atomic oxygen erosion|archiveurl = https://web.archive.org/web/20070613121048/http://www.spenvis.oma.be/spenvis/help/background/atmosphere/erosion.html |archivedate = June 13, 2007|deadurl=yes}}</ref>
+
+[[卡爾·威廉·舍勒]]於1773年或之前在[[烏普薩拉]]最早發現氧元素。[[約瑟夫·普利斯特里]]亦於1774年在[[威爾特郡]]獨立發現氧，因為其成果的發表日期較舍勒早，所以一般被譽為氧的發現者。1777年，[[安東萬-羅倫·德·拉瓦節]]進行了一系列有關氧的實驗，推翻了當時用於解釋[[燃燒]]和[[腐蝕]]的[[燃素說]]。他也提出了氧的現用[[IUPAC]]名稱「oxygen」，<ref name="mellor" />源自[[希臘文]]中的「ὀξύς」（oxys，尖銳，指[[酸]]）和「-γενής」（-genes，產生者）。這是因為命名之時，人們曾以為所有酸都必須含有氧。
+
+氧的應用包括[[暖通空調|暖氣]]、[[內燃機]]、[[鋼鐵]]、[[塑料]]和[[布料]]的生產、金屬[[氣焊和氣割]]、[[火箭推進劑]]、[[氧療]]及[[航空器]]、[[潛艇]]、[[載人航天|載人航天器]]和[[潛水]]所用的[[生命保障系統]]。
+
+==歷史==
+===早期實驗===
+[[File:Philos experiment of the burning candle.PNG|thumb|upright|[[費隆 (拜占庭)|費隆]]所做的實驗啟發了後世對燃燒與空氣間關係的研究。]]
+
+人類最早研究[[燃燒]]和空氣之間關係，可追溯至前2世紀[[古希臘]]學者[[費隆 (拜占庭)|拜占庭的費隆]]所做的實驗。費隆在著作《氣動學》（{{lang-el|πνευματικά}}）中寫道，如果將點燃的蠟燭置於水中，再用一瓶子蓋住蠟燭至水面，水面就會在瓶頸內上升。<ref>{{cite book|title = Story of Human Error|first = Joseph |last = Jastrow|url=https://books.google.com/?id=tRUO45YfCHwC&pg=PA171&lpg=PA171|page= 171 |date = 1936|publisher = Ayer Publishing|isbn = 0-8369-0568-7}}</ref>費隆錯誤地推論，有一部分空氣經燃燒轉換成[[古典元素|火元素]]，因此可以經玻璃中的小孔逃逸出去。很久以後，[[李安納度·達文西]]在費隆的基礎上又觀察到，燃燒和[[呼吸 (生理學)|呼吸]]都會消耗部分空氣。<ref name="ECE499">[[#Reference-idCook1968|Cook & Lauer 1968]], p.499.</ref>
+
+17世紀，[[羅拔·波義耳]]證明空氣是燃燒過程必需的物質。{{le|約翰·梅奧|John Mayow}}進一步證明，燃燒只需要空氣中的一種成分，他將之稱為「銅硝石之靈」（{{lang-la|spiritus nitroaereus}}）。<ref name="EB1911">{{cite book|title=Encyclopædia Britannica|chapter=John Mayow|edition=11th |date=1911|url=http://www.1911encyclopedia.org/John_Mayow|accessdate=December 16, 2007|author=''Britannica'' contributors}}</ref>在其中一個實驗中，他發現點燃的蠟燭和老鼠在蓋著水面的密封容器內都會使水面上升，而且在蠟燭熄滅或老鼠死亡時，容器內空氣的四分之一容量會被水取代。<ref name="WoC">{{cite book|title=World of Chemistry|chapter=John Mayow|date=2005|publisher=Thomson Gale|url=http://www.bookrags.com/John_Mayow|accessdate=December 16, 2007|author=''World of Chemistry'' contributors|isbn=0-669-32727-1}}</ref>他得出的結論是，燃燒和呼吸都會消耗「銅硝石之靈」。
+
+梅奧發現[[銻]]在燃燒之後重量有所提升，由此論證「銅硝石之靈」一定是在燃燒過程中和銻結合了。他也認為，肺臟能將「銅硝石之靈」從空氣中分離出來，運送到血液之中，而動物的熱量和肌肉運動都是「銅硝石之靈」與體內某些其他物質反應的結果。<ref name="EB1911"/>梅奧在1668年《兩篇論文》（{{lang-la|''Tractatus duo''}}）中的〈論呼吸〉（{{lang-la|''De respiratione''}}）一文中發表了這一系列實驗和發現。<ref name="WoC"/>
+
+===燃素說===
+{{Main article|燃素說}}
+[[File:Georg Ernst Stahl.png|thumb|left|upright|[[格奧爾格·恩斯特·斯塔爾]]推動了燃素說的發展和普及]]
+
+[[羅伯特·虎克]]、{{le|奧勒·博克|Ole Borch}}、[[米哈伊爾·瓦西里耶維奇·羅蒙諾索夫]]和{{le|皮埃爾·巴揚|Pierre Bayen}}在17、18世紀都在實驗中產生了氧氣，但無一發現氧是一種[[化學元素]]。<ref name="NBB299">[[#Reference-idEmsley2001|Emsley 2001]], p.299</ref>由於有當時盛行的燃素說來解釋燃燒和腐蝕過程，因此他們都沒有發現氧氣在這些過程中重要的作用。
+
+燃素說在1667年由煉金術士[[約翰·約阿希姆·貝歇爾]]建立，1731年經化學家[[格奧爾格·恩斯特·斯塔爾]]修改。<ref name="morris">{{cite book| title = The last sorcerers: The path from alchemy to the periodic table
+| last = Morris| first = Richard| date = 2003|publisher = Joseph Henry Press|location = Washington, D.C.|isbn = 0-309-08905-0}}</ref>根據燃素說，所有可燃物質都由兩部分組成。一部分為「燃素」，會在物質燃燒過程中釋放出來。不含燃素的部分則是物質的「純態」。<ref name="ECE499"/>木材、煤等可燃性高、燃燒殘留物少的物質都被認為主要是由燃素所組成，鐵等不可燃、會受腐蝕的物質則含有很少的燃素。空氣在燃素說中並無任何作用，此學說最初也未經量化實驗的驗證。燃素說在觀察上的基礎是，大部分常見物質在燃燒過程中都會變輕，所以似乎失去了某種成分。<ref name="ECE499"/>
+{{clear}}
+
+===發現===
+[[File:Carl Wilhelm Scheele from Familj-Journalen1874.png|thumb|upright|舍勒比普利斯特里更早發現氧氣，但研究結果發表得比他遲]]
+瑞典藥劑師[[卡爾·威廉·舍勒]]在1771至1772年間最早發現氧。他對[[氧化汞]]和不同[[硝酸鹽]]一同加熱，產生出氧氣。<ref>{{cite web|url=http://www.rsc.org/periodic-table/element/8/oxygen |title=Oxygen  |publisher=RSC.org |accessdate=2016-12-12}}</ref><ref name="ECE500"/><ref name="ECE499"/>舍勒把這種氣體產物稱為「火之氣」，因為它能支持燃燒過程。他將這一發現記錄在手稿《論空氣與火的化學》（{{lang-de|''Chemische Abhandlung von der Luft und dem Feuer''}}）中，1775年寄往出版商，1777年出版。<ref name="NBB300">[[#Reference-idEmsley2001|Emsley 2001]], p.300</ref>
+
+[[File:PriestleyFuseli.jpg|thumb|upright|left|[[約瑟夫·普利斯特里]]一般被譽為氧的發現者]]
+
+1774年8月1日，英國教士[[約瑟夫·普利斯特里]]把陽光聚焦到裝有[[氧化汞]]的玻璃管中，從而釋放出一種氣體，他將其稱為「無燃素氣」（{{lang-en|dephlogisticated air}}）。<ref name="ECE500">[[#Reference-idCook1968|Cook & Lauer 1968]], p.500</ref>他注意到，蠟燭在這一氣體中燃燒得更加旺盛，老鼠在呼吸此氣時顯得更加活躍，存活的時間也更長。在自己吸入「無燃素氣」後，普利斯特里寫道：「它在肺中的感覺和普通空氣無異，但一段時間內我感到胸腔格外輕盈舒適，頗感良好。」<ref name="NBB299"/>這些發現於1775年發表在論文《對空氣的進一步發現》（{{le|An Account of Further Discoveries in Air}}）中。<ref name="ECE499"/><ref>{{cite journal|title = An Account of Further Discoveries in Air|first = Joseph|last = Priestley|journal = Philosophical Transactions|date = 1775|volume = 65|pages = 384–94|doi = 10.1098/rstl.1775.0039}}</ref>由於普利斯特里比舍勒更早發表論文，因此常被稱為氧氣的最早發現者。
+
+法國化學家[[安東萬-羅倫·德·拉瓦節]]之後也聲稱獨立發現了氧氣。普利斯特里在1774年10月拜訪拉瓦節時向他說過，這項實驗如何釋放出一種新的氣體，又於1774年9月30日致信拉瓦節，講述他所發現的新物質。拉瓦節並未提及收到過此信。舍勒去世之後，人們在他的遺物之中發現了這封信的副本。<ref name="NBB300"/>
+{{clear}}
+
+===拉瓦節的成果===
+雖然拉瓦節並沒有獨自發現氧氣，但他卻是對[[氧化過程]]進行量化實驗並正確解釋燃燒過程的第一人。<ref name="ECE500"/>自1774起，他利用一系列實驗推翻了燃素說，又證明普利斯特里和舍勒所生成的物質是一種[[化學元素]]。
+
+[[File:Antoine lavoisier.jpg|thumb|upright|left|[[安東萬-羅倫·德·拉瓦節]]推翻了燃素說]]
+
+拉瓦節觀察到，在密封容器中對[[錫]]和空氣加熱後，總重量並沒有增加。在打開容器時，空氣會迅速湧入。以此可推論，加熱過程消耗了容器中的部分空氣。他也注意到，錫的重量有所提升，且重量之差和湧入的空氣之重量相同。與此類似的實驗都記錄在拉瓦節的著作《燃燒總論》（{{lang-fr|''Sur la combustion en général''}}）中，1777年出版。他證明空氣是兩種氣體的混合物：燃燒和呼吸過程所必需的「活氣」（{{lang-fr|l'air vital}}），以及無助燃燒和呼吸的「死氣」（{{lang-fr|azote}}，取自希臘文{{lang|grc|ἄζωτον}}，意為「無生命」），也就是[[氮氣]]。法文等某些歐洲語言至今仍稱氮氣為「azote」。<ref name="ECE500"/>
+
+1777年，拉瓦節將「活氣」改名為「oxygène」，結合希臘文詞根「{{lang|grc|ὀξύς}}」（尖銳，指酸味）和「-γενής」（產生者）。之所以詞源提到酸味，是因為他誤以為所有酸都必須含有氧。<ref name="mellor">{{cite book|last=Parks|first=G. D.|last2=Mellor|first2=J. W.|date=1939|title=Mellor's Modern Inorganic Chemistry|edition=6th |publisher=Longmans, Green and Co.|location=London}}</ref>儘管如此，「oxygen」已成為氧的[[IUPAC]]元素名，在國際上通用。
+
+英國的普利斯特里比拉瓦節更早研究氧氣，「oxygen」一詞也受到了英國科學家的反對。1791年，[[伊拉斯謨斯·達爾文]]（查理斯·達爾文的祖父）的科普詩集《植物園》（{{lang-en|''The Botanic Garden''}}）出版，其中一首名為''Oxygen''的詩以歌頌氧氣為主題，使「oxygen」進入英語詞彙之中。<ref name="NBB300"/>
+{{clear}}
+
+===近代歷史===
+[[File:Goddard and Rocket.jpg|thumb|upright|[[Robert H. Goddard]] and a liquid oxygen-gasoline [[rocket]]|alt=A metal frame structure stands on the snow near a tree. A middle-aged man wearing a coat, boots, leather gloves and a cap stands by the structure and holds it with his right hand.]]
+
+[[John Dalton]]'s original [[Atomic theory#Earliest empirical evidence|atomic hypothesis]] presumed that all elements were monatomic and that the atoms in compounds would normally have the simplest atomic ratios with respect to one another. For example, Dalton assumed that water's formula was HO, giving the [[atomic mass]] of oxygen was 8 times that of hydrogen, instead of the modern value of about 16.<ref>{{cite book| title = The Interactive Textbook of PFP96 |chapter= Do We Take Atoms for Granted?|chapterurl=http://www.physics.upenn.edu/courses/gladney/mathphys/subsubsection1_1_3_2.html |url=http://www.physics.upenn.edu/courses/gladney/mathphys/Contents.html |first=Dennis |last=DeTurck |last2=Gladney|first2=Larry|last3=Pietrovito|first3=Anthony| publisher=University of Pennsylvania|date=1997|accessdate=January 28, 2008|archiveurl = https://web.archive.org/web/20080117230939/http://www.physics.upenn.edu/courses/gladney/mathphys/subsubsection1_1_3_2.html |archivedate = January 17, 2008|deadurl=yes}}</ref> In 1805, [[Joseph Louis Gay-Lussac]] and [[Alexander von Humboldt]] showed that water is formed of two volumes of hydrogen and one volume of oxygen; and by 1811 [[Amedeo Avogadro]] had arrived at the correct interpretation of water's composition, based on what is now called [[Avogadro's law]] and the diatomic elemental molecules in those gases.<ref>{{cite book|title=A Treatise on Chemistry|first=Henry Enfield |last=Roscoe |last2=Schorlemmer|first2=Carl|page=38|date=1883|publisher=D. Appleton and Co.}}</ref><ref group=lower-alpha>These results were mostly ignored until 1860. Part of this rejection was due to the belief that atoms of one element would have no [[chemical affinity]] towards atoms of the same element, and part was due to apparent exceptions to Avogadro's law that were not explained until later in terms of dissociating molecules.</ref>
+
+By the late 19th century scientists realized that air could be liquefied and its components isolated by compressing and cooling it. Using a [[Cascade (chemical engineering)|cascade]] method, Swiss chemist and physicist [[Raoul Pictet|Raoul Pierre Pictet]] [[evaporation|evaporated]] liquid [[sulfur dioxide]] in order to liquefy carbon dioxide, which in turn was evaporated to cool oxygen gas enough to liquefy it. He sent a telegram on December 22, 1877 to the [[French Academy of Sciences]] in Paris announcing his discovery of [[liquid oxygen]].<ref name="BES707">{{cite book|title=Biographical Encyclopedia of Scientists|last=Daintith|first=John|date=1994|publisher=CRC Press|isbn=0-7503-0287-9|page=707}}</ref> <!-- NEEDS TO BE CHECKED W/ GOOD CITE The [[Electrical telegraph|telegram]] read "Oxygen liquefied to-day under 320 atmospheres and 140 degrees of cold by combined use of sulfurous and carbonic acid." /NEEDS TO BE CHECKED /W GOOD CITE --> Just two days later, French physicist [[Louis Paul Cailletet]] announced his own method of liquefying molecular oxygen.<ref name="BES707"/> Only a few drops of the liquid were produced in each case and no meaningful analysis could be conducted. Oxygen was liquified in a stable state for the first time on March 29, 1883 by Polish scientists from [[Jagiellonian University]], [[Zygmunt Wróblewski]] and [[Karol Olszewski]].<ref>[http://www.poland.gov.pl/Karol,Olszewski,and,Zygmunt,Wroblewski:,condensation,of,oxygen,and,nitrogen,1987.html Poland&nbsp;– Culture, Science and Media. Condensation of oxygen and nitrogen]. Retrieved on October 4, 2008.</ref>
+
+In 1891 Scottish chemist [[James Dewar]] was able to produce enough liquid oxygen for study.<ref name="NBB303">[[#Reference-idEmsley2001|Emsley 2001]], p.303</ref> The first commercially viable process for producing liquid oxygen was independently developed in 1895 by German engineer [[Carl von Linde]] and British engineer William Hampson. Both men lowered the temperature of air until it liquefied and then [[distillation|distilled]] the component gases by boiling them off one at a time and capturing them.<ref name="HPAM">{{cite book|title=How Products are Made|chapter=Oxygen|publisher=The Gale Group, Inc.|date=2002|url=http://www.answers.com/topic/oxygen|accessdate=December 16, 2007|author=''How Products are Made'' contributors}}</ref> Later, in 1901, oxyacetylene [[welding]] was demonstrated for the first time by burning a mixture of [[acetylene]] and compressed {{chem|O|2}}. This method of welding and cutting metal later became common.<ref name="HPAM"/>
+<!-- NEEDS FOLLOW-UP
+In 1898, physicist [[Lord Kelvin]] calculated that only 400–500 years of oxygen remained on the planet, based on the rate of use of fossil fuels for combustion.<ref>{{cite web|url=http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&d=EP18980730.2.105 |title=Papers Past – Evening Post – 30 July 1898 – A Startling Scientific Prediction |publisher=Paperspast.natlib.govt.nz |date= |accessdate=November 7, 2011}}</ref><ref>https://news.google.com/newspapers?nid=1982&dat=19010716&id=yCYiAAAAIBAJ&sjid=AaQFAAAAIBAJ&pg=5236,534844</ref>
+-->
+
+In 1923, the American scientist [[Robert H. Goddard]] became the first person to develop a [[rocket engine]] that burned liquid fuel; the engine used [[gasoline]] for fuel and liquid oxygen as the [[oxidizer]]. Goddard successfully flew a small liquid-fueled rocket 56&nbsp;m at 97&nbsp;km/h on March 16, 1926 in [[Auburn, Massachusetts]], US.<ref name="HPAM"/><ref>{{cite web|title=Goddard-1926|url=http://grin.hq.nasa.gov/ABSTRACTS/GPN-2002-000132.html|publisher=NASA|accessdate=November 18, 2007}}</ref>
+
+Oxygen levels in the atmosphere are trending slightly downward globally, possibly because of fossil-fuel burning.<ref>{{cite web|url=http://scrippso2.ucsd.edu/|title=Atmospheric Oxygen Research|author=Scripps Institute}}</ref>
+
+==Characteristics==
+===Properties and molecular structure===
+[[File:Oxygen molecule orbitals diagram.JPG|thumb|left|260 px|Orbital diagram, after Barrett (2002),<ref name=Barrett2002/> showing the participating atomic orbitals from each oxygen atom, the molecular orbitals that result from their overlap, and the [[Aufbau principle|Aufbau]] filling of the orbitals with the 12 electrons, 6 from each O atom, beginning from the lowest energy orbitals, and resulting in covalent double bond character from filled orbitals (and cancelation of the contributions of the pairs of σ and σ<sup>*</sup> and {{pi}} and {{pi}}<sup>*</sup> orbital pairs).]]
+At [[standard temperature and pressure]], oxygen is a colorless, odorless, and tasteless gas with the [[molecular formula]] {{chem|O|2}}, referred to as dioxygen.<ref>{{cite web|url=http://www.sciencekids.co.nz/sciencefacts/chemistry/oxygen.html|title=Oxygen Facts|publisher=Science Kids|date=February 6, 2015|accessdate=November 14, 2015}}</ref>
+
+As ''dioxygen'', two oxygen atoms are [[chemical bond|chemically bound]] to each other. The bond can be variously described based on level of theory, but is reasonably and simply described as a covalent [[double bond]] that results from the filling of [[molecular orbitals]] formed from the [[atomic orbital]]s of the individual oxygen atoms, the filling of which results in a [[bond order]] of two. More specifically, the double bond is the result of sequential, low-to-high energy, or [[Aufbau principle|Aufbau]], filling of orbitals, and the resulting cancellation of contributions from the 2s electrons, after sequential filling of the low σ and σ<sup>*</sup> orbitals; σ overlap of the two atomic 2p orbitals that lie along the O-O molecular axis and {{pi}} overlap of two pairs of atomic 2p orbitals perpendicular to the O-O molecular axis, and then cancellation of contributions from the remaining two of the six 2p electrons after their partial filling of the lowest {{pi}} and {{pi}}<sup>*</sup> orbitals.<ref name=Barrett2002>Jack Barrett, 2002, "Atomic Structure and Periodicity, (Basic concepts in chemistry, Vol. 9 of Tutorial chemistry texts), Cambridge, U.K.:Royal Society of Chemistry, p. 153, ISBN 0854046577, see [https://books.google.com/books?isbn=0854046577] accessed January 31, 2015.</ref>
+
+This combination of cancellations and σ and {{pi}} overlaps results in dioxygen's double bond character and reactivity, and a triplet electronic [[ground state]]. An [[electron configuration]] with two unpaired electrons, as is found in dioxygen orbitals (see the filled {{pi}}* orbitals in the diagram) that are of equal energy—i.e., [[degenerate orbitals|degenerate]]—is a configuration termed a [[spin triplet]] state. Hence, the ground state of the {{chem|O|2}} molecule is referred to as [[triplet oxygen]].<ref name="BiochemOnline">{{cite web|work=Biochemistry Online|url=http://employees.csbsju.edu/hjakubowski/classes/ch331/oxphos/oldioxygenchem.html |title=Chapter 8: Oxidation-Phosphorylation, the Chemistry of Di-Oxygen|first=Henry|last=Jakubowski|accessdate=January 28, 2008|publisher=Saint John's University}}</ref><ref group=lower-alpha>An orbital is a concept from [[quantum mechanics]] that models an electron as a [[Wave–particle duality|wave-like particle]] that has a spatial distribution about an atom or molecule.</ref> The highest energy, partially filled orbitals are [[antibonding]], and so their filling weakens the bond order from three to two. Because of its unpaired electrons, triplet oxygen reacts only slowly with most organic molecules, which have paired electron spins; this prevents spontaneous combustion.<ref name="Weiss2008">{{cite journal | last1 = Weiss | first1 = H. M. | year = 2008 | title = Appreciating Oxygen| journal = J. Chem. Educ. | volume = 85 | url=https://www.researchgate.net/publication/231267944_Appreciating_Oxygen | pages = 1218–1219 | doi=10.1021/ed085p1218}}</ref>
+
+[[File:Liquid oxygen in a magnet 2.jpg|thumb|left|upright|Liquid oxygen, temporarily suspended in a magnet owing to its paramagnetism]]
+In the triplet form, {{chem|O|2}} molecules are [[paramagnetism|paramagnetic]]. That is, they impart magnetic character to oxygen when it is in the presence of a magnetic field, because of the [[Spin (physics)|spin]] [[magnetic moment]]s of the unpaired electrons in the molecule, and the negative [[exchange energy]] between neighboring {{chem|O|2}} molecules.<ref name="NBB303"/> Liquid oxygen is so [[magnet]]ic that, in laboratory demonstrations, a bridge of liquid oxygen may be supported against its own weight between the poles of a powerful magnet.<ref>{{cite web|url = http://genchem.chem.wisc.edu/demonstrations/Gen_Chem_Pages/0809bondingpage/liquid_oxygen.htm|title = Demonstration of a bridge of liquid oxygen supported against its own weight between the poles of a powerful magnet|publisher = University of Wisconsin-Madison Chemistry Department Demonstration lab| accessdate = December 15, 2007|archiveurl = https://web.archive.org/web/20071217064218/http://genchem.chem.wisc.edu/demonstrations/Gen_Chem_Pages/0809bondingpage/liquid_oxygen.htm |archivedate = December 17, 2007|deadurl=yes}}</ref>{{refn|Oxygen's paramagnetism can be used analytically in paramagnetic oxygen gas analysers that determine the purity of gaseous oxygen. ({{cite web|url = http://www.servomex.com/oxygen_gas_analyser.html|title = Company literature of Oxygen analyzers (triplet)|publisher = Servomex|accessdate = December 15, 2007}})|group=lower-alpha}}
+
+[[Singlet oxygen]] is a name given to several higher-energy species of molecular {{chem|O|2}} in which all the electron spins are paired. It is much more reactive with common [[organic compound|organic molecules]] than is molecular oxygen per se. In nature, singlet oxygen is commonly formed from water during photosynthesis, using the energy of sunlight.<ref>{{cite journal|first=Anja|last=Krieger-Liszkay |journal=Journal of Experimental Botanics|volume=56|publisher=Oxford Journals|pages=337–46|date=October 13, 2004|title=Singlet oxygen production in photosynthesis|doi=10.1093/jxb/erh237|pmid=15310815|issue=411}}</ref> It is also produced in the [[troposphere]] by the photolysis of ozone by light of short wavelength,<ref name="harrison">{{cite book|last=Harrison |first=Roy M.|date=1990|title=Pollution: Causes, Effects & Control|edition=2nd |location=Cambridge|publisher=[[Royal Society of Chemistry]]|isbn=0-85186-283-7}}</ref> and by the [[immune system]] as a source of active oxygen.<ref name="immune-ozone">{{cite journal|journal=Science|title=Evidence for Antibody-Catalyzed Ozone Formation in Bacterial Killing and Inflammation|date=December 13, 2002|volume=298|pages=2195–219|doi=10.1126/science.1077642|pmid=12434011|last1=Wentworth|first1=Paul |last2=McDunn|first2=J. E.|last3=Wentworth|first3=A. D.|last4=Takeuchi|first4=C.|last5=Nieva|first5=J.|last6=Jones|first6=T.|last7=Bautista|first7=C.|last8=Ruedi|first8=J. M.|last9=Gutierrez|first9=A.|displayauthors=8|issue=5601|bibcode = 2002Sci...298.2195W|last10=Janda|first10=K. D.|last11=Babior|first11=B. M.|last12=Eschenmoser|first12=A.|last13=Lerner|first13=R. A. }}</ref> [[Carotenoid]]s in photosynthetic organisms (and possibly animals) play a major role in absorbing energy from [[singlet oxygen]] and converting it to the unexcited ground state before it can cause harm to tissues.<ref>{{cite journal|title=Singlet oxygen quenching ability of naturally occurring carotenoids|journal=Lipids|first=Osamu|last=Hirayama|last2=Nakamura|first2=Kyoko|last3=Hamada|
+first3=Syoko|last4=Kobayasi|first4=Yoko|publisher=Springer|volume=29|issue=2|date=1994|doi=10.1007/BF02537155|pages=149–50|pmid=8152349}}</ref>
+
+===Allotropes===
+<!-- COPYEDITS and CORRECTIONS ONLY&nbsp;— DIRECT EXPANSION TO [[Allotropes of oxygen]] -->
+{{Main article|Allotropes of oxygen}}
+[[File:Ozone-1,3-dipole.png|thumb|upright|left|Ozone is a rare gas on Earth found mostly in the [[stratosphere]].|alt=Central atom is positively charged and end atoms are negatively charged.]]
+[[File:Oxygen molecule.png|thumb|right|200px|[[Space-filling model]] representation of dioxygen (O<sub>2</sub>) molecule]]
+The common [[Allotropy|allotrope]] of elemental oxygen on Earth is called [[dioxygen]], {{chem|O|2}}, the major part of the Earth's atmospheric oxygen (see [[#Occurrence|Occurrence]]). O<sub>2</sub> has a bond length of 121&nbsp;[[Picometre|pm]] and a bond energy of 498&nbsp;[[joule per mole|kJ·mol<sup>−1</sup>]],<ref>{{cite web|last=Chieh|first=Chung|title=Bond Lengths and Energies|url=http://www.science.uwaterloo.ca/~cchieh/cact/c120/bondel.html|publisher= University of Waterloo|accessdate=December 16, 2007}}</ref> which is smaller than the energy of other double bonds or pairs of single bonds in the biosphere and responsible for the [[exothermic]] reaction of O<sub>2</sub> with any organic molecule.<ref name="Weiss2008" /><ref name="Schmidt-Rohr2015">{{cite journal | last1 = Schmidt-Rohr | first1 = K. | year = 2015 | title = Why Combustions Are Always Exothermic, Yielding About 418 kJ per Mole of O<sub>2</sub> | doi = 10.1021/acs.jchemed.5b00333 | journal = J. Chem. Educ. | volume = 92 | issue = | pages = 2094–2099 }}</ref> Due to its energy content, O<sub>2</sub> is used by complex forms of life, such as animals, in cellular respiration (see [[#Biological role|Biological role]]). Other aspects of {{chem|O|2}} are covered in the remainder of this article.
+
+Trioxygen ({{chem|O|3}}) is usually known as [[ozone]] and is a very reactive allotrope of oxygen that is damaging to lung tissue.<ref name="GuideElem48">{{cite book|title=Guide to the Elements|edition=Revised |first=Albert|last=Stwertka|publisher=Oxford University Press|date=1998|isbn=0-19-508083-1|pages=48–49}}</ref> Ozone is produced in the [[upper atmosphere]] when {{chem|O|2}} combines with atomic oxygen made by the splitting of {{chem|O|2}} by [[ultraviolet]] (UV) radiation.<ref name="mellor" /> Since ozone absorbs strongly in the UV region of the [[Electromagnetic spectrum|spectrum]], the [[ozone layer]] of the upper atmosphere functions as a protective radiation shield for the planet.<ref name="mellor" /> Near the Earth's surface, it is a [[air pollution|pollutant]] formed as a by-product of automobile exhaust.<ref name="GuideElem48"/> The [[Metastability in molecules|metastable]] molecule [[tetraoxygen]] ({{chem|O|4}}) was discovered in 2001,<ref name="o4">{{cite journal|last=Cacace|first=Fulvio|last2=de Petris|first2=Giulia|last3=Troiani|first3=Anna |date=2001|title=Experimental Detection of Tetraoxygen|journal=[[Angewandte Chemie]] International Edition|volume=40|issue=21|pages=4062–65|doi = 10.1002/1521-3773(20011105)40:21<4062::AID-ANIE4062>3.0.CO;2-X|pmid=12404493}}</ref><ref name="newform">{{cite news|first=Phillip|last=Ball|url=http://www.nature.com/news/2001/011122/pf/011122-3_pf.html|title=New form of oxygen found|work = Nature News|date=September 16, 2001|accessdate=January 9, 2008}}</ref> and was assumed to exist in one of the six phases of [[solid oxygen]]. It was proven in 2006 that this phase, created by pressurizing {{chem|O|2}} to 20&nbsp;[[Pascal (unit)|GPa]], is in fact a [[rhombohedral]] {{chem|O|8}} [[Cluster chemistry|cluster]].<ref>{{cite journal|url=http://www.nature.com/nature/journal/v443/n7108/abs/nature05174.html|
+title=Observation of an {{chem|O|8}} molecular lattice in the phase of solid oxygen|journal=Nature|volume=443|issue=7108|pages=201–04|doi=10.1038/nature05174|first=Lars F. |last=Lundegaard|pmid=16971946| display-authors=4| last2=Weck|first2=Gunnar|last3=McMahon|first3=Malcolm I.|last4=Desgreniers|first4=Serge|last5=Loubeyre|first5=Paul|date=2006|bibcode = 2006Natur.443..201L }}</ref> This cluster has the potential to be a much more powerful [[oxidizing agent|oxidizer]] than either {{chem|O|2}} or {{chem|O|3}} and may therefore be used in [[rocket fuel]].<ref name="o4" /><ref name="newform" /> A metallic phase was discovered in 1990 when solid oxygen is subjected to a pressure of above 96 GPa<ref>{{cite journal|last=Desgreniers |first=S. |last2=Vohra|first2=Y. K.|last3=Ruoff|first3=A. L.|title=Optical response of very high density solid oxygen to 132 GPa|journal=J. Phys. Chem.|volume=94|pages=1117–22|date=1990|doi=10.1021/j100366a020|issue=3}}</ref> and it was shown in 1998 that at very low temperatures, this phase becomes [[superconductivity|superconducting]].<ref>{{cite journal|last=Shimizu|first=K.|display-authors=4|last2=Suhara|first2=K.|last3=Ikumo|first3=M.|last4=[[Mikhail Eremets|Eremets]]|first4=M. I.|last5= Amaya|first5=K.|title=Superconductivity in oxygen|journal=Nature|volume=393|pages=767–69|date=1998|doi=10.1038/31656|issue=6687|bibcode = 1998Natur.393..767S }}</ref>
+
+===Physical properties===
+[[File:Oxygen discharge tube.jpg|thumb|Oxygen discharge (spectrum) tube. The green color is similar to the color of an [[Aurora|"aurora borealis"]]]]
+{{see also|Liquid oxygen|solid oxygen}}
+Oxygen [[Solubility|dissolves]] more readily in water than nitrogen, and in freshwater more readily than seawater. Water in equilibrium with air contains approximately 1 molecule of dissolved {{chem|O|2}} for every 2 molecules of {{chem|N|2}} (1:2), compared with an atmospheric ratio of approximately 1:4. The solubility of oxygen in water is temperature-dependent, and about twice as much (14.6&nbsp;mg·L<sup>−1</sup>) dissolves at 0&nbsp;°C than at 20&nbsp;°C (7.6&nbsp;mg·L<sup>−1</sup>).<ref name="NBB299"/><ref>{{cite web|url=http://www.engineeringtoolbox.com/air-solubility-water-d_639.html|title=Air solubility in water|accessdate=December 21, 2007|publisher=The Engineering Toolbox}}</ref> At 25&nbsp;°C and {{convert|1|atm|lk=on|sigfig=4}} of air, freshwater contains about 6.04&nbsp;[[Litre|milliliters]]&nbsp;(mL) of oxygen per [[liter]], and [[seawater]] contains about 4.95&nbsp;mL per liter.<ref>{{cite book|title = The Physiology of Fishes |first=David Hudson |last=Evans |last2=Claiborne|first2=James B.|page=88|date=2005|edition=3rd|publisher=CRC Press|isbn=0-8493-2022-4}}</ref> At 5&nbsp;°C the solubility increases to 9.0&nbsp;mL (50% more than at 25&nbsp;°C) per liter for water and 7.2&nbsp;mL (45% more) per liter for sea water.
+{| class="wikitable" style="float:left; margin-right:25px"
+|+Oxygen gas dissolved in water at sealevel
+!
+!5&nbsp;°C
+!25&nbsp;°C
+|-
+|Freshwater
+|9.0&nbsp;mL
+|6.04&nbsp;mL
+|-
+|Seawater
+|7.2 mL
+|4.95&nbsp;mL
+|}
+Oxygen condenses at 90.20&nbsp;[[kelvin|K]] (−182.95&nbsp;°C, −297.31&nbsp;°F), and freezes at 54.36&nbsp;K (−218.79&nbsp;°C, −361.82&nbsp;°F).<ref>{{cite book|first=David R.|last=Lide |title=CRC Handbook of Chemistry and Physics|edition=84th |publisher=[[CRC Press]] |location=Boca Raton, Florida|date=2003|chapter=Section 4, Properties of the Elements and Inorganic Compounds; Melting, boiling, and critical temperatures of the elements|isbn=0-8493-0595-0}}</ref> Both [[liquid oxygen|liquid]] and [[solid oxygen|solid]] {{chem|O|2}} are clear substances with a light [[diffuse sky radiation|sky-blue]] color caused by absorption in the red (in contrast with the blue color of the sky, which is due to [[Rayleigh scattering]] of blue light). High-purity liquid {{chem|O|2}} is usually obtained by the [[fractional distillation]] of liquefied air.<ref>{{cite web|url = http://www.uigi.com/cryodist.html|title = Overview of Cryogenic Air Separation and Liquefier Systems|publisher = Universal Industrial Gases, Inc.|accessdate = December 15, 2007}}</ref> Liquid oxygen may also be condensed from air using liquid nitrogen as a coolant.<ref name=":0">{{cite web|url = https://www.mathesontrigas.com/pdfs/msds/00225011.pdf |format=PDF| title = Liquid Oxygen Material Safety Data Sheet|publisher = Matheson Tri Gas|accessdate = December 15, 2007}}</ref>
+
+Oxygen is a highly reactive substance and must be segregated from combustible materials.<ref name=":0">{{cite web|url = https://www.mathesontrigas.com/pdfs/msds/00225011.pdf |format=PDF| title = Liquid Oxygen Material Safety Data Sheet|publisher = Matheson Tri Gas|accessdate = December 15, 2007}}</ref>
+
+The spectroscopy of molecular oxygen is associated with the atmospheric processes of [[aurora]], [[airglow]] and [[nightglow]].<ref name="Krupenie1972">{{cite journal|last1=Krupenie|first1=Paul H.|title=The Spectrum of Molecular Oxygen|journal=Journal of Physical and Chemical Reference Data|volume=1|issue=2|year=1972|pages=423 |doi=10.1063/1.3253101}}</ref> The absorption in the [[Herzberg continuum]] and [[Schumann–Runge bands]] in the ultraviolet produces atomic oxygen that is important in the chemistry of the middle atmosphere.<ref name="BrasseurSolomon2006">{{cite book|author1=Guy P. Brasseur|author2=Susan Solomon|title=Aeronomy of the Middle Atmosphere: Chemistry and Physics of the Stratosphere and Mesosphere|url=https://books.google.com/books?id=Z5OtlDjfXkkC&pg=PA220|date=January 15, 2006|publisher=Springer Science & Business Media|isbn=978-1-4020-3824-2|pages=220–}}</ref> Excited state singlet molecular oxygen is responsible for red chemiluminescence in solution.<ref name="Kearns1971">{{cite journal|last1=Kearns|first1=David R.|title=Physical and chemical properties of singlet molecular oxygen|journal=Chemical Reviews|volume=71|issue=4|year=1971|pages=395–427 |doi=10.1021/cr60272a004}}</ref>
+
+===Isotopes and stellar origin===
+<!--COPYEDITS AND CORRECTIONS ONLY: DIRECT EXPANSION OF THIS SUBTOPIC TO [[Isotopes of oxygen]] -->
+{{Main article|Isotopes of oxygen}}
+[[File:Evolved star fusion shells.svg|thumb|Late in a massive star's life, <sup>16</sup>O concentrates in the O-shell, <sup>17</sup>O in the H-shell and <sup>18</sup>O in the He-shell.|alt=A concentric-sphere diagram, showing, from the core to the outer shell, iron, silicon, oxygen, neon, carbon, helium and hydrogen layers.]]
+Naturally occurring oxygen is composed of three stable [[isotope]]s, [[oxygen-16|<sup>16</sup>O]], [[oxygen-17|<sup>17</sup>O]], and [[oxygen-18|<sup>18</sup>O]], with <sup>16</sup>O being the most abundant (99.762% [[natural abundance]]).<ref name="EnvChem-Iso">{{cite web|url=http://environmentalchemistry.com/yogi/periodic/O-pg2.html|title=Oxygen Nuclides / Isotopes|publisher=EnvironmentalChemistry.com|accessdate=December 17, 2007}}</ref>
+
+Most <sup>16</sup>O is [[nucleosynthesis|synthesized]] at the end of the [[helium fusion]] process in massive [[star]]s but some is made in the [[neon burning process]].<ref name="Meyer2005">{{cite conference|first=B. S.|last=Meyer|title=Nucleosynthesis and Galactic Chemical Evolution of the Isotopes of Oxygen|conference=Workgroup on Oxygen in the Earliest Solar System|date=September 19–21, 2005|location=Gatlinburg, Tennessee|url= http://www.lpi.usra.edu/meetings/ess2005/pdf/9022.pdf|format=PDF|accessdate=January 22, 2007|work=Proceedings of the NASA Cosmochemistry Program and the Lunar and Planetary Institute|conferenceurl=http://www.lpi.usra.edu/meetings/ess2005/|id=9022}}</ref> <sup>17</sup>O is primarily made by the burning of hydrogen into [[helium]] during the [[CNO cycle]], making it a common isotope in the hydrogen burning zones of stars.<ref name="Meyer2005"/> Most <sup>18</sup>O is produced when [[Nitrogen-14|<sup>14</sup>N]] (made abundant from CNO burning) captures a [[Helium-4|<sup>4</sup>He]] nucleus, making <sup>18</sup>O common in the helium-rich zones of [[Stellar evolution#Massive stars|evolved, massive stars]].<ref name="Meyer2005"/>
+
+Fourteen [[radioisotope]]s have been characterized. The most stable are <sup>15</sup>O with a [[half-life]] of 122.24&nbsp;seconds and <sup>14</sup>O with a half-life of 70.606&nbsp;seconds.<ref name="EnvChem-Iso"/> All of the remaining [[Radioactive decay|radioactive]] isotopes have half-lives that are less than 27&nbsp;s and the majority of these have half-lives that are less than 83&nbsp;milliseconds.<ref name="EnvChem-Iso"/> The most common [[decay mode]] of the isotopes lighter than <sup>16</sup>O is [[positron emission|β<sup>+</sup> decay]]<ref name="NUDAT-13O">{{cite web|url=http://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=13O&unc=nds|title=NUDAT 13O|accessdate=July 6, 2009}}</ref><ref name="NUDAT-14O">{{cite web|url=http://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=14O&unc=nds|title=NUDAT 14O|accessdate=July 6, 2009}}</ref><ref name="NUDAT-15O">{{cite web|url=http://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=15O&unc=nds|title=NUDAT 15O|accessdate=July 6, 2009}}</ref> to yield nitrogen, and the most common mode for the isotopes heavier than <sup>18</sup>O is [[beta decay]] to yield [[fluorine]].<ref name="EnvChem-Iso"/>
+
+===Occurrence===
+{{see also|Silicate minerals|Category:Oxide minerals|Stellar population|Cosmochemistry|Astrochemistry}}
+{| class="wikitable sortable" style="float:left; margin-right: 20px" 
+|+Ten most common elements in the [[Milky Way Galaxy]] estimated spectroscopically<ref name="croswell">{{cite book | last = Croswell | first = Ken | title = Alchemy of the Heavens | publisher = Anchor |date=February 1996 | url = http://kencroswell.com/alchemy.html| isbn = 0-385-47214-5}}</ref>
+|-
+![[Atomic Number|Z]] !! Element !! colspan="2"|Mass fraction in parts per million
+|-
+| 1 || [[Hydrogen]] || align="right"|739,000 || colspan="2"|71 × mass of oxygen (red bar)
+|-
+| 2 || [[Helium]] || align="right"|240,000 || colspan="2"|23 × mass of oxygen (red bar)
+|-
+| 8 || Oxygen || align="right"|{{bartable|10,400||0.01||background:red;}}
+|-
+| 6 || [[Carbon]] || align="right"|{{bartable| 4,600||0.01}}
+|-
+| 10 || [[Neon]] || align="right"|{{bartable| 1,340||0.01}}
+|-
+| 26 || [[Iron]] || align="right"|{{bartable| 1,090||0.01}}
+|-
+| 7 || [[Nitrogen]] || align="right"|{{bartable| 960||0.01}}
+|-
+| 14 || [[Silicon]] || align="right"|{{bartable| 650||0.01}}
+|-
+| 12 || [[Magnesium]] || align="right"|{{bartable| 580||0.01}}
+|-
+| 16 || [[Sulfur]] || align="right"|{{bartable| 440||0.01}}
+|}
+
+Oxygen is the most abundant chemical element by mass in the Earth's biosphere, air, sea and land. Oxygen is the third most abundant chemical element in the universe, after hydrogen and helium.<ref name="NBB297"/> About 0.9% of the [[Sun]]'s mass is oxygen.<ref name="ECE500"/> Oxygen constitutes 49.2% of the [[Earth's crust]] by mass<ref name="lanl">
+{{cite web|url=http://periodic.lanl.gov/elements/8.html|publisher=Los Alamos National Laboratory|title=Oxygen|accessdate=December 16, 2007|archiveurl=https://web.archive.org/web/20071026034224/http://periodic.lanl.gov/elements/8.html <!--Added by H3llBot-->|archivedate=October 26, 2007}}
+</ref> as part of oxide compounds such as [[silicon dioxide]] and is the most abundant element by mass in the [[crust (geology)#Earth's crust and mantle|Earth's crust]]. It is also the major component of the world's oceans (88.8% by mass).<ref name="ECE500"/> Oxygen gas is the second most common component of the [[Earth's atmosphere]], taking up 20.8% of its volume and 23.1% of its mass (some 10<sup>15</sup> tonnes).<ref name="ECE500"/><ref name="NBB298">[[#Reference-idEmsley2001|Emsley 2001]], p.298</ref><ref group=lower-alpha>Figures given are for values up to {{convert|50|mi|km}} above the surface</ref> Earth is unusual among the planets of the [[Solar System]] in having such a high concentration of oxygen gas in its atmosphere: [[Mars]] (with 0.1% {{chem|O|2}} by volume) and [[Venus]] have much less. The {{chem|O|2}} surrounding those planets is produced solely by ultraviolet radiation on oxygen-containing molecules such as carbon dioxide.
+
+The unusually high concentration of oxygen gas on Earth is the result of the [[oxygen cycle]]. This [[biogeochemical cycle]] describes the movement of oxygen within and between its three main reservoirs on Earth: the atmosphere, the [[biosphere]], and the [[lithosphere]]. The main driving factor of the oxygen cycle is [[photosynthesis]], which is responsible for modern Earth's atmosphere. Photosynthesis releases oxygen into the atmosphere, while [[Cellular respiration|respiration]], [[Decomposition|decay]], and combustion remove it from the atmosphere. In the present equilibrium, production and consumption occur at the same rate of roughly 1/2000th of the entire atmospheric oxygen per year.
+
+[[File:WOA09 sea-surf O2 AYool.png|thumb|right|Cold water holds more dissolved {{chem|O|2}}.|alt=World map showing that the sea-surface oxygen is depleted around the equator and increases towards the poles.]]
+
+Free oxygen also occurs in solution in the world's water bodies. The increased solubility of {{chem|O|2}} at lower temperatures (see [[#Physical properties|Physical properties]]) has important implications for ocean life, as polar oceans support a much higher density of life due to their higher oxygen content.<ref>From The Chemistry and Fertility of Sea Waters by H.W. Harvey, 1955, citing C.J.J. Fox, "On the coefficients of absorption of atmospheric gases in sea water", Publ. Circ. Cons. Explor. Mer, no. 41, 1907. Harvey notes that according to later articles in ''Nature'', the values appear to be about 3% too high.</ref> [[Water pollution|Water polluted]] with plant nutrients such as [[nitrate]]s or [[phosphate]]s may stimulate growth of algae by a process called [[eutrophication]] and the decay of these organisms and other biomaterials may reduce the {{chem|O|2}} content in eutrophic water bodies. Scientists assess this aspect of water quality by measuring the water's [[biochemical oxygen demand]], or the amount of {{chem|O|2}} needed to restore it to a normal concentration.<ref name="NBB301">[[#Reference-idEmsley2001|Emsley 2001]], p.301</ref>
+
+===Analysis===
+[[File:Phanerozoic Climate Change.png|thumb|left|250px|500 million years of [[climate change]] vs <sup>18</sup>O|alt=Time evolution of oxygen-18 concentration on the scale of 500 million years showing many local peaks.]]
+
+[[Paleoclimatology|Paleoclimatologists]] measure the ratio of oxygen-18 and oxygen-16 in the [[Animal shell|shells]] and [[skeleton]]s of marine organisms to determine the climate millions of years ago (see [[oxygen isotope ratio cycle]]). [[Seawater]] molecules that contain the lighter [[isotope]], oxygen-16, evaporate at a slightly faster rate than water molecules containing the 12% heavier oxygen-18, and this disparity increases at lower temperatures.<ref name="NBB304">[[#Reference-idEmsley2001|Emsley 2001]], p.304</ref> During periods of lower global temperatures, snow and rain from that evaporated water tends to be higher in oxygen-16, and the seawater left behind tends to be higher in oxygen-18. Marine organisms then incorporate more oxygen-18 into their skeletons and shells than they would in a warmer climate.<ref name="NBB304"/> Paleoclimatologists also directly measure this ratio in the water molecules of [[ice core]] samples as old as hundreds of thousands of years.
+
+[[Geology of solar terrestrial planets|Planetary geologists]] have measured the relative quantities of oxygen isotopes in samples from the [[Earth]], the [[Moon]], [[Mars]], and [[meteorite]]s, but were long unable to obtain reference values for the isotope ratios in the [[Sun]], believed to be the same as those of the [[Nebular hypothesis|primordial solar nebula]]. Analysis of a [[silicon]] wafer exposed to the [[solar wind]] in space and returned by the crashed [[Genesis (spacecraft)|Genesis spacecraft]] has shown that the Sun has a higher proportion of oxygen-16 than does the Earth. The measurement implies that an unknown process depleted oxygen-16 from the Sun's [[Protoplanetary disk|disk of protoplanetary material]] prior to the coalescence of dust grains that formed the Earth.<ref>{{cite journal|last = Hand|first = Eric|title = The Solar System's first breath|journal = Nature|volume = 452|page = 259|date = March 13, 2008|url = http://www.nature.com/news/2008/080313/full/452259a.html|doi = 10.1038/452259a|accessdate =March 18, 2009|pmid = 18354437|issue = 7185|bibcode = 2008Natur.452..259H }}</ref>
+
+Oxygen presents two spectrophotometric [[absorption band]]s peaking at the wavelengths 687 and 760&nbsp;[[Nanometre|nm]]. Some [[remote sensing]] scientists have proposed using the measurement of the radiance coming from vegetation canopies in those bands to characterize plant health status from a [[Earth observation satellite|satellite]] platform.<ref>{{cite conference|url=http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?tp=&arnumber=1293855&isnumber=28601|title=Progress on the development of an integrated canopy fluorescence model|last1=Miller|first1=J. R.|display-authors=4|author2=Berger, M.|author3=Alonso, L.|author4=Cerovic, Z.|author5=Goulas, Y.|author6=Jacquemoud, S.|author7=Louis, J.|author8=Mohammed, G.|author9=Moya, I.|author10=Pedros, R.|author11=Moreno, J.F.|author12=Verhoef, W.|author13=Zarco-Tejada, P.J.|work=Geoscience and Remote Sensing Symposium, 2003. IGARSS '03. Proceedings. 2003 IEEE International|accessdate=January 22, 2008}}</ref> This approach exploits the fact that in those bands it is possible to discriminate the vegetation's [[reflectance]] from its [[fluorescence]], which is much weaker. The measurement is technically difficult owing to the low [[signal-to-noise ratio]] and the physical structure of vegetation; but it has been proposed as a possible method of monitoring the [[carbon cycle]] from satellites on a global scale.
+{{Clear}}
+
+==Biological role of O<sub>2</sub>==
+{{Main article|Dioxygen in biological reactions}}
+<!-- CopyEdits Only&nbsp;— DIRECT ALL FUTURE EXPANSION to [[dioxygen in biological reactions]] -->
+
+===Photosynthesis and respiration===
+<!-- CopyEdits Only&nbsp;— DIRECT ALL FUTURE EXPANSION to [[dioxygen in biological reactions]] -->
+[[File:Simple photosynthesis overview.svg|thumb|Photosynthesis splits water to liberate {{chem|O|2}} and fixes {{chem|CO|2}} into sugar in what is called a [[Calvin cycle]].|alt=A diagram of photosynthesis processes, including income of water and carbon dioxide, illumination and release of oxygen. Reactions produce ATP and NADPH in a Calvin cycle with a sugar as a by product.]]
+In nature, free oxygen is produced by the [[photolysis|light-driven splitting]] of water during oxygenic [[photosynthesis]]. According to some estimates, [[green algae]] and [[cyanobacteria]] in marine environments provide about 70% of the free oxygen produced on Earth, and the rest is produced by terrestrial plants.<ref>{{cite book|url=https://books.google.com/?id=g6RfkqCUQyQC&pg=PA147|title=Plants: the potentials for extracting protein, medicines, and other useful chemicals (workshop proceedings)|date=September 1983|chapter=Marine Plants: A Unique and Unexplored Resource|last=Fenical|first=William|page=147|isbn=1-4289-2397-7|publisher=DIANE Publishing}}</ref> Other estimates of the oceanic contribution to atmospheric oxygen are higher, while some estimates are lower, suggesting oceans produce ~45% of Earth's atmospheric oxygen each year.<ref>{{cite book|last=Walker|first=J. C. G.|date=1980|title=The oxygen cycle in the natural environment and the biogeochemical cycles|publisher=Springer-Verlag|location=Berlin}}</ref>
+
+A simplified overall formula for photosynthesis is:<ref>{{cite book|last=Brown|first=Theodore L. |last2=LeMay|first2=Burslen|title=Chemistry: The Central Science|isbn=0-13-048450-4|page=958|date=2003|publisher=Prentice Hall/Pearson Education}}</ref>
+
+:: 6 {{CO2}} + 6 {{chem|H|2|O}} + [[photon]]s → {{chem|C|6|H|12|O|6}} + 6 {{chem|O|2}}
+
+or simply
+
+:: [[carbon dioxide]] + water + sunlight → [[glucose]] + dioxygen
+
+Photolytic [[oxygen evolution]] occurs in the [[thylakoid membrane]]s of photosynthetic organisms and requires the energy of four [[photon]]s.<ref group=lower-alpha>Thylakoid membranes are part of [[chloroplast]]s in algae and plants while they simply are one of many membrane structures in cyanobacteria. In fact, chloroplasts are thought to have evolved from [[cyanobacteria]] that were once symbiotic partners with the progenerators of plants and algae.</ref> Many steps are involved, but the result is the formation of a [[proton]] gradient across the thylakoid membrane, which is used to synthesize [[adenosine triphosphate]] (ATP) via [[photophosphorylation]].<ref name="Raven">[[#Reference-idRaven2005|Raven 2005]], 115–27</ref> The {{chem|O|2}} remaining (after production of the water molecule) is released into the atmosphere.<ref group=lower-alpha>Water oxidation is catalyzed by a [[manganese]]-containing [[enzyme]] complex known as the [[oxygen evolving complex]] (OEC) or water-splitting complex found associated with the lumenal side of thylakoid membranes. Manganese is an important [[Cofactor (biochemistry)|cofactor]], and [[calcium]] and [[chloride]] are also required for the reaction to occur. (Raven 2005)</ref>
+
+Oxygen is used in [[Mitochondrion|mitochondria]] to generate ATP during [[oxidative phosphorylation]]. The reaction for aerobic respiration is essentially the reverse of photosynthesis and is simplified as:
+
+:: {{chem|C|6|H|12|O|6}} + 6 {{chem|O|2}} → 6 {{CO2}} + 6 {{chem|H|2|O}} + 2880 kJ·mol<sup>−1</sup>
+
+In [[vertebrate]]s, {{chem|O|2}} [[diffusion|diffuses]] through membranes in the lungs and into [[red blood cell]]s. [[Hemoglobin]] binds {{chem|O|2}}, changing color from bluish red to bright red<ref name="GuideElem48"/> ({{chem|CO|2}} is released from another part of hemoglobin through the [[Bohr effect]]). Other animals use [[hemocyanin]] ([[Mollusca|molluscs]] and some [[arthropod]]s) or [[hemerythrin]] ([[spider]]s and [[lobster]]s).<ref name="NBB298"/> A liter of blood can dissolve 200&nbsp;cm<sup>3</sup> of {{chem|O|2}}.<ref name="NBB298"/>
+
+Until the discovery of [[Anaerobic organism|anaerobic]] [[metazoa]],<ref name="pmid20370908">{{cite journal |display-authors=4 |author=Danovaro R |author2=Dell'anno A |author3=Pusceddu A|author4=Gambi C |author5=Heiner I|author6=Kristensen RM |title=The first metazoa living in permanently anoxic conditions |journal=BMC Biology |volume=8 |issue=1 |pages=30 |date=April 2010 |pmid=20370908 |pmc=2907586 |doi=10.1186/1741-7007-8-30 |url=http://www.biomedcentral.com/1741-7007/8/30}} {{open access}}</ref> oxygen was thought to be a requirement for all complex life.<ref>{{cite book |last1=Ward |first1=Peter D. |last2=Brownlee |first2=Donald |title=Rare Earth: Why Complex Life is Uncommon in the Universe |publisher=Copernicus Books (Springer Verlag) |date=2000 |isbn=0-387-98701-0 |ref=harv |p=217}}</ref>
+
+[[Reactive oxygen species]], such as [[superoxide]] ion ({{chem|O|2|-}}) and [[hydrogen peroxide]] ({{chem|H|2|O|2}}), are reactive by-products of oxygen use in organisms.<ref name="NBB298"/> Parts of the [[immune system]] of higher organisms create peroxide, superoxide, and singlet oxygen to destroy invading microbes. Reactive oxygen species also play an important role in the [[hypersensitive response]] of plants against pathogen attack.<ref name="Raven"/> Oxygen is damaging to [[Obligate anaerobe|obligately anaerobic organisms]], which were the dominant form of [[Evolutionary history of life|early life]] on Earth until {{chem|O|2}} began to accumulate in the [[Atmosphere of Earth|atmosphere]] about 2.5 billion years ago during the [[Great Oxygenation Event]], about a billion years after the first appearance of these organisms.<ref>{{cite press release |title=NASA Research Indicates Oxygen on Earth 2.5 Billion Years ago |url=http://www.nasa.gov/home/hqnews/2007/sep/HQ_07215_Timeline_of_Oxygen_on_Earth.html |publisher=[[NASA]]|date=September 27, 2007 |accessdate=March 13, 2008}}</ref><ref name="NYT-20131003">{{cite news |last=Zimmer |first=Carl |authorlink=Carl Zimmer |title=Earth's Oxygen: A Mystery Easy to Take for Granted |url=https://www.nytimes.com/2013/10/03/science/earths-oxygen-a-mystery-easy-to-take-for-granted.html |date=October 3, 2013 |work=[[New York Times]] |accessdate=October 3, 2013 }}</ref>
+
+An adult human at rest [[breathing|inhales]]<!--simply inhales (most is exhaled again) or takes up and respires?--> 1.8 to 2.4&nbsp;grams of oxygen per minute.<ref>[http://www.patentstorm.us/patents/6224560-description.html "For humans, the normal volume is 6–8 liters per minute."]</ref> This amounts to more than 6 billion tonnes of oxygen inhaled by humanity per year.<ref group=lower-alpha>(1.8 grams/min/person)×(60 min/h)×(24 h/day)×(365 days/year)×(6.6 billion people)/1,000,000 g/t=6.24 billion tonnes</ref>
+
+===Living organisms===
+{{anchor|partial pressure}}
+{|class="wikitable" style="float:right; margin-left:25px"
+|+[[Partial pressure]]s of oxygen in the human body (PO<sub>2</sub>)
+|-
+! Unit !! Alveolar [[pulmonary gas pressures|pulmonary<br /> gas pressures]] !! [[Arterial blood gas#oxygen|Arterial blood oxygen]] !! [[vein|Venous]] blood gas
+|-
+| [[kPa]] || 14.2 || 11<ref name=mmHg>Derived from mmHg values using 0.133322 kPa/mmHg</ref>-13<ref name=mmHg/> || 4.0<ref name=mmHg/>-5.3<ref name=mmHg/>
+|-
+| [[mmHg]] || 107 || 75<ref name=southwest>[http://pathcuric1.swmed.edu/PathDemo/nrrt.htm Normal Reference Range Table] from The University of Texas Southwestern Medical Center at Dallas. Used in Interactive Case Study Companion to Pathologic basis of disease.</ref>-100<ref name=southwest/> || 30<ref name=brookside/>-40<ref name=brookside>[http://www.brooksidepress.org/Products/OperationalMedicine/DATA/operationalmed/Lab/ABG_ArterialBloodGas.htm The Medical Education Division of the Brookside Associates--> ABG (Arterial Blood Gas)] Retrieved on December 6, 2009</ref>
+|-
+|}
+The free oxygen [[partial pressure]] in the body of a living vertebrate organism is highest in the [[respiratory system]], and decreases along any [[arterial system]], peripheral tissues, and [[venous system]], respectively. Partial pressure is the pressure that oxygen would have if it alone occupied the volume.<ref>{{cite book|author=Charles Henrickson|title=Chemistry|publisher=Cliffs Notes|date=2005|isbn=0-7645-7419-1}}</ref>
+
+===Build-up in the atmosphere===
+{{Main article|Geological history of oxygen}}
+<!-- CopyEdits Only&nbsp;— DIRECT ALL FUTURE EXPANSION to [[Geological history of oxygen]] or [[dioxygen in biological reactions]] -->
+
+[[File:Oxygenation-atm.svg|thumb|left|300px|{{chem|O|2}} build-up in Earth's atmosphere: 1) no {{chem|O|2}} produced; 2) {{chem|O|2}} produced, but absorbed in oceans & seabed rock; 3) {{chem|O|2}} starts to gas out of the oceans, but is absorbed by land surfaces and formation of ozone layer; 4–5) {{chem|O|2}} sinks filled and the gas accumulates|alt=A graph showing time evolution of oxygen pressure on Earth; the pressure increases from zero to 0.2 atmospheres.]]
+
+Free oxygen gas was almost nonexistent in [[Earth's atmosphere]] before photosynthetic [[archaea]] and [[bacteria]] evolved, probably about 3.5 billion years ago. Free oxygen first appeared in significant quantities during the [[Paleoproterozoic]] eon (between 3.0 and 2.3 billion years ago).<ref name="Crowe2013">{{Cite journal | last1 = Crowe | first1 = S. A. | last2 = Døssing | first2 = L. N. | last3 = Beukes | first3 = N. J. | last4 = Bau | first4 = M. | last5 = Kruger | first5 = S. J. | last6 = Frei | first6 = R. | last7 = Canfield | first7 = D. E. | title = Atmospheric oxygenation three billion years ago | journal = Nature | volume = 501 | issue = 7468 | pages = 535–538 | year = 2013 | pmid = 24067713 | doi = 10.1038/nature12426 }}</ref> For the first billion years, any free oxygen produced by these organisms combined with dissolved [[iron]] in the oceans to form [[banded iron formation]]s. When such oxygen sinks became saturated, free oxygen began to [[Outgassing|outgas]] from the oceans 3–2.7&nbsp;billion years ago, reaching 10% of its present level around 1.7&nbsp;billion years ago.<ref name="Crowe2013" /><ref name="Campbell">{{cite book|last = Campbell|first = Neil A.|last2=Reece|first2=Jane B.|title = Biology|edition = 7th|publisher = Pearson&nbsp;– Benjamin Cummings |date=2005|location = San Francisco|pages = 522–23|isbn = 0-8053-7171-0}}</ref>
+
+The presence of large amounts of dissolved and free oxygen in the oceans and atmosphere may have driven most of the extant [[anaerobic organism]]s to [[extinction]] during the [[Great Oxygenation Event]] (''oxygen catastrophe'') about 2.4 billion years ago. [[Cellular respiration]] using {{chem|O|2}} enables [[aerobic organism]]s to produce much more [[Adenosine triphosphate|ATP]] than [[anaerobic organism]]s.<ref name="Freeman">{{cite book|last = Freeman| first = Scott|title = Biological Science, 2nd|publisher = Pearson&nbsp;– Prentice Hall |date=2005|location = Upper Saddle River, NJ|pages = 214, 586|isbn = 0-13-140941-7}}</ref> Cellular respiration of {{chem|O|2}} occurs in all [[eukaryote]]s, including all complex multicellular organisms such as plants and animals.
+
+Since the beginning of the [[Cambrian]] period 540 million years ago, atmospheric {{chem|O|2}} levels have fluctuated between 15% and 30% by volume.<ref name="geologic">{{cite journal |url=http://www.pnas.org/cgi/content/full/96/20/10955 |title=Atmospheric oxygen over Phanerozoic time |first=Robert A. |last=Berner |issue=20 |pages=10955–57 |date=1999|journal=Proceedings of the National Academy of Sciences of the USA |pmid=10500106 |doi=10.1073/pnas.96.20.10955 |volume=96 |pmc=34224 |bibcode=1999PNAS...9610955B}}</ref> Towards the end of the [[Carboniferous]] period (about 300&nbsp;million years ago) atmospheric {{chem|O|2}} levels reached a maximum of 35% by volume,<ref name="geologic" /> which may have contributed to the large size of insects and amphibians at this time.<ref name=Butterfield2009>{{Cite journal | last1 = Butterfield | first1 = N. J. | title = Oxygen, animals and oceanic ventilation: An alternative view | doi = 10.1111/j.1472-4669.2009.00188.x | journal = Geobiology | volume = 7 | issue = 1 | pages = 1–7 | year = 2009 | pmid = 19200141 | pmc = }}</ref>
+
+Variations of oxygen shaped the climates of the past. When oxygen declined, atmospheric density dropped and this in turn increased surface evaporation, and led to precipitation increases and warmer temperatures.<ref>{{cite journal|url=http://ns.umich.edu/new/releases/22942-variations-in-atmospheric-oxygen-levels-shaped-earth-s-climate-through-the-ages|doi=10.1126/science.1260670|journal=Science|title=Long-term climate forcing by atmospheric oxygen concentrations|authors=Christopher J. Poulsen, Clay Tabor, Joseph D. White|volume=348|pages=1238–1241}}</ref>
+
+At the current rate of photosynthesis it would take about 2,000&nbsp;years to regenerate the entire {{chem|O|2}} in the present atmosphere.<ref>{{cite journal|title=The Natural History of Oxygen|first=Malcolm|last=Dole |url=http://www.jgp.org/cgi/reprint/49/1/5.pdf|format=PDF|accessdate=December 16, 2007|journal=The Journal of General Physiology|volume=49|pages=5–27|date=1965|doi=10.1085/jgp.49.1.5|pmid=5859927|issue=1|pmc=2195461}}</ref>
+{{clear}}
+
+==Industrial production==
+[[File:Hofmann voltameter fr.svg|thumb|[[Hofmann voltameter|Hofmann electrolysis apparatus]] used in electrolysis of water.|alt=A drawing of three vertical pipes connected at the bottom and filled with oxygen (left pipe), water (middle) and hydrogen (right). Anode and cathode electrodes are inserted into the left and right pipes and externally connected to a battery.]]
+{{see also|Air separation|Oxygen evolution|fractional distillation}}
+
+One hundred&nbsp;million&nbsp;tonnes of {{chem|O|2}} are extracted from air for industrial uses annually by two primary methods.<ref name="NBB300"/> The most common method is [[fractional distillation]] of liquefied air, with {{chem|N|2}} [[distillation|distilling]] as a vapor while {{chem|O|2}} is left as a liquid.<ref name="NBB300"/>
+
+The other primary method of producing {{chem|O|2}} is passing a stream of clean, dry air through one bed of a pair of identical [[zeolite]] molecular sieves, which absorbs the nitrogen and delivers a gas stream that is 90%&nbsp;to&nbsp;93% {{chem|O|2}}.<ref name="NBB300"/> Simultaneously, nitrogen gas is released from the other nitrogen-saturated zeolite bed, by reducing the chamber operating pressure and diverting part of the oxygen gas from the producer bed through it, in the reverse direction of flow. After a set cycle time the operation of the two beds is interchanged, thereby allowing for a continuous supply of gaseous oxygen to be pumped through a pipeline. This is known as [[pressure swing adsorption]]. Oxygen gas is increasingly obtained by these non-[[cryogenics|cryogenic]] technologies (see also the related [[vacuum swing adsorption]]).<ref>{{cite web|url=http://www.uigi.com/noncryo.html|title=Non-Cryogenic Air Separation Processes|date=2003|accessdate=December 16, 2007|publisher=UIG Inc.}}</ref>
+
+Oxygen gas can also be produced through [[electrolysis of water]] into molecular oxygen and hydrogen. DC electricity must be used: if AC is used, the gases in each limb consist of hydrogen and oxygen in the explosive ratio 2:1. Contrary to popular belief, the 2:1 ratio observed in the DC electrolysis of acidified water does not prove that the empirical formula of water is H<sub>2</sub>O unless certain assumptions are made about the molecular formulae of hydrogen and oxygen themselves. A similar method is the electrocatalytic {{chem|O|2}} evolution from oxides and [[oxoacid]]s. Chemical catalysts can be used as well, such as in [[chemical oxygen generator]]s or oxygen candles that are used as part of the life-support equipment on submarines, and are still part of standard equipment on commercial airliners in case of depressurization emergencies. Another air separation method is forcing air to dissolve through [[ceramic]] membranes based on [[zirconium dioxide]] by either high pressure or an electric current, to produce nearly pure {{chem|O|2}} gas.<ref name="NBB301"/>
+
+In large quantities, the price of liquid oxygen in 2001 was approximately $0.21/kg.<ref>{{Cite book|quote=NASAFacts FS-2001-09-015-KSC|title=Space Shuttle Use of Propellants and Fluids|publisher=National Aeronautics and Space Administration|date=September 2001|url=http://www-pao.ksc.nasa.gov/kscpao/nasafact/ps/SSP.ps|accessdate=December 16, 2007}}</ref> Since the primary cost of production is the energy cost of liquefying the air, the production cost will change as energy cost varies.
+
+== Storage ==
+[[Oxygen storage]] methods include high pressure [[oxygen tank]]s, cryogenics and chemical compounds. For reasons of economy, oxygen is often transported in bulk as a liquid in specially insulated tankers, since one [[litre|liter]] of liquefied oxygen is equivalent to 840&nbsp;liters of gaseous oxygen at atmospheric pressure and {{convert|20|C|F}}.<ref name="NBB300"/> Such tankers are used to refill bulk liquid oxygen storage containers, which stand outside hospitals and other institutions that need large volumes of pure oxygen gas. Liquid oxygen is passed through [[heat exchanger]]s, which convert the cryogenic liquid into gas before it enters the building. Oxygen is also stored and shipped in smaller cylinders containing the compressed gas; a form that is useful in certain portable medical applications and [[oxy-fuel welding and cutting]].<ref name="NBB300"/>
+{{clear}}
+
+==Applications==
+{{see also|Breathing gas|Redox|Combustion}}
+
+===Medical===
+[[File:Home oxygen concentrator.jpg|thumb|upright|left|An [[oxygen concentrator]] in an [[emphysema]] patient's house|alt=A gray device with a label DeVILBISS LT4000 and some text on the front panel. A green plastic pipe is running from the device.]]
+
+{{Main article|Oxygen therapy}}
+
+Uptake of {{chem|O|2}} from the air is the essential purpose of [[Respiration (physiology)|respiration]], so oxygen supplementation is used in [[medicine]]. Treatment not only increases oxygen levels in the patient's blood, but has the secondary effect of decreasing resistance to blood flow in many types of diseased lungs, easing work load on the heart. [[Oxygen therapy]] is used to treat [[emphysema]], [[pneumonia]], some heart disorders ([[congestive heart failure]]), some disorders that cause increased [[pulmonary artery pressure]], and any [[disease]] that impairs the body's ability to take up and use gaseous oxygen.<ref name="ECE510">[[#Reference-idCook1968|Cook & Lauer 1968]], p.510</ref>
+
+Treatments are flexible enough to be used in hospitals, the patient's home, or increasingly by portable devices. [[Oxygen tent]]s were once commonly used in oxygen supplementation, but have since been replaced mostly by the use of [[oxygen mask]]s or [[nasal cannula]]s.<ref name="pmid18540928">{{cite journal |author=Sim MA |display-authors=4 |author2=Dean P |author3=Kinsella J |author4= Black R |author5=Carter R|author6=Hughes M |title=Performance of oxygen delivery devices when the breathing pattern of respiratory failure is simulated |journal=Anaesthesia |volume=63 |issue=9 |pages=938–40 |date=2008 |pmid=18540928 |doi=10.1111/j.1365-2044.2008.05536.x}}</ref>
+
+[[Hyperbaric medicine|Hyperbaric]] (high-pressure) medicine uses special [[hyperbaric oxygen chamber|oxygen chambers]] to increase the [[partial pressure]] of {{chem|O|2}} around the patient and, when needed, the medical staff.<ref name="pmid8931286">{{cite journal |author=Stephenson RN |author2=Mackenzie I |author3=Watt SJ|author4= Ross JA |title=Measurement of oxygen concentration in delivery systems used for hyperbaric oxygen therapy |journal=Undersea Hyperb Med |volume=23 |issue=3 |pages=185–8 |date=1996|pmid=8931286 |url=http://archive.rubicon-foundation.org/2245 |accessdate=September 22, 2008}}</ref> [[Carbon monoxide poisoning]], [[gas gangrene]], and [[decompression sickness]] (the 'bends') are sometimes addressed with this therapy.<ref>{{cite web |url=http://www.uhms.org/Default.aspx?tabid=270 |title=Indications for hyperbaric oxygen therapy |author=Undersea and Hyperbaric Medical Society |accessdate=September 22, 2008 |authorlink=Undersea and Hyperbaric Medical Society}}</ref> Increased {{chem|O|2}} concentration in the lungs helps to displace [[carbon monoxide]] from the heme group of [[hemoglobin]].<ref>{{cite web |url=http://www.uhms.org/ResourceLibrary/Indications/CarbonMonoxidePoisoning/tabid/272/Default.aspx |title=Carbon Monoxide |author=Undersea and Hyperbaric Medical Society |accessdate=September 22, 2008 |archiveurl=https://web.archive.org/web/20080725005744/http://www.uhms.org/ResourceLibrary/Indications/CarbonMonoxidePoisoning/tabid/272/Default.aspx <!--Added by H3llBot--> |archivedate=July 25, 2008}}</ref><ref name="pmid15233173">{{cite journal |author=Piantadosi CA |title=Carbon monoxide poisoning |journal=Undersea Hyperb Med |volume=31 |issue=1 |pages=167–77 |date=2004 |pmid=15233173 |url=http://archive.rubicon-foundation.org/4002 |accessdate=September 22, 2008}}</ref> Oxygen gas is poisonous to the [[anaerobic bacteria]] that cause gas gangrene, so increasing its partial pressure helps kill them.<ref>{{cite journal |author=Hart GB |author2=Strauss MB |title=Gas Gangrene&nbsp;– Clostridial Myonecrosis: A Review |journal=J. Hyperbaric Med |volume=5 |issue=2 |pages=125–144 |date=1990 |url=http://archive.rubicon-foundation.org/4428 |accessdate=September 22, 2008}}</ref><ref>{{cite journal |author=Zamboni WA |author2=Riseman JA |author3=Kucan JO |title=Management of Fournier's Gangrene and the role of Hyperbaric Oxygen |journal=J. Hyperbaric Med |volume=5 |issue=3 |pages=177–186 |date=1990 |url=http://archive.rubicon-foundation.org/4431 |accessdate=September 22, 2008}}</ref> Decompression sickness occurs in divers who decompress too quickly after a dive, resulting in bubbles of inert gas, mostly nitrogen and helium, forming in the blood. Increasing the pressure of {{chem|O|2}} as soon as possible helps to redissolve the bubbles back into the blood so that these excess gasses can be exhaled naturally through the lungs.<ref name="ECE510"/><ref>{{cite web |url=http://www.uhms.org/ResourceLibrary/Indications/DecompressionSickness/tabid/275/Default.aspx |title=Decompression Sickness or Illness and Arterial Gas Embolism |author=Undersea and Hyperbaric Medical Society |accessdate=September 22, 2008 |archiveurl=https://web.archive.org/web/20080705210353/http://www.uhms.org/ResourceLibrary/Indications/DecompressionSickness/tabid/275/Default.aspx <!--Added by H3llBot--> |archivedate=July 5, 2008}}</ref><ref>{{cite journal |last=Acott |first=C. |title=A brief history of diving and decompression illness |journal=South Pacific Underwater Medicine Society Journal |volume=29 |issue=2 |date=1999  |url=http://archive.rubicon-foundation.org/6004 |accessdate=September 22, 2008}}</ref>
+
+Oxygen is also used for people who require [[mechanical ventilation]], often at concentrations above the 21% found in ambient air.
+<!-- NEEDS TO BE EXPANDED The isotope <sup>15</sup>O was experimentally used in [[positron emission tomography]].<ref>{{cite journal |title=Positron emission tomography with oxygen-15 of stunned myocardium caused by coronary artery vasospasm after recovery |pmc=483759 |first=D.|last=Agostini|first2=H.|last2=Iida|first3=A.|last3=Takahashi |journal=British Heart Journal |year=1995 |volume=73 |issue=1 |pages=69–72 |doi=10.1136/hrt.73.1.69 |pmid=7888266}}</ref> /NEEDS TO BE EXPANDED -->
+{{clear}}
+
+===Life support and recreational use===
+[[File:Wisoff on the Arm - GPN-2000-001069.jpg|thumb|Low pressure pure {{chem|O|2}} is used in [[space suit]]s.]]
+
+An application of {{chem|O|2}} as a low-pressure [[breathing gas]] is in modern [[space suit]]s, which surround their occupant's body with the breathing gas. These devices use nearly pure oxygen at about one third normal pressure, resulting in a normal blood partial pressure of {{chem|O|2}}.<ref name="pmid11541018">{{cite journal|author=Morgenthaler GW|author2=Fester DA|author3=Cooley CG| title=As assessment of habitat pressure, oxygen fraction, and EVA suit design for space operations|journal=Acta Astronautica |volume= 32|issue=1|pages=39–49|date=1994|pmid=11541018|doi=10.1016/0094-5765(94)90146-5|bibcode = 1994AcAau..32...39M }}</ref><ref name="pmid2730484">{{cite journal|author=Webb JT|author2= Olson RM|author3=Krutz RW|author4=Dixon G|author5=Barnicott PT|title=Human tolerance to 100% oxygen at 9.5 psia during five daily simulated 8-hour EVA exposures|journal=Aviat Space Environ Med|volume=60|issue=5|pages=415–21|date=1989|pmid=2730484|doi=10.4271/881071}}</ref> This trade-off of higher oxygen concentration for lower pressure is needed to maintain suit flexibility.
+
+[[Scuba diving|Scuba]] and [[Surface-supplied diving|surface-supplied]] [[underwater divers]] and [[submarine]]rs also rely on artificially delivered {{chem|O|2}}. Submarines, submersibles and [[atmospheric diving suits]] usually operate at normal atmospheric pressure. Breathing air is scrubbed of carbon dioxide by chemical extraction and oxygen is replaced to maintain a constant partial pressure. [[Ambient pressure]] divers breathe air or gas mixtures with an oxygen fraction suited to the operating depth. Pure or nearly pure {{chem|O|2}} use in diving at pressures higher than atmospheric is usually limited to [[rebreathers]], or [[Decompression (diving)|decompression]] at relatively shallow depths (~6 meters depth, or less),<ref name="Acott">{{cite journal|last=Acott|first=C.|title=Oxygen toxicity: A brief history of oxygen in diving|journal=South Pacific Underwater Medicine Society Journal|volume=29|issue=3|date=1999 |url=http://archive.rubicon-foundation.org/6014|accessdate=September 21, 2008}}</ref><ref name="Longphre">{{cite journal|last=Longphre|first=J. M.|title= First aid normobaric oxygen for the treatment of recreational diving injuries|journal=Undersea Hyperb Med.|volume=34|issue=1|pages =43–49|date=2007 |pmid=17393938|url=http://archive.rubicon-foundation.org/5514|accessdate=September 21, 2008| display-authors=4| last2=Denoble|first2=P. J.|last3=Moon|first3=R. E.|last4=Vann|first4=R. D.|last5=Freiberger|first5=J. J.}}</ref> or [[Hyperbaric treatment schedules|medical treatment in recompression chambers]] at pressures up to 2.8 bar, where acute oxygen toxicity can be managed without the risk of drowning. Deeper diving requires significant dilution of {{chem|O|2}} with other gases, such as nitrogen or helium, to prevent [[oxygen toxicity]].<ref name="Acott"/>
+
+People who climb mountains or fly in non-pressurized [[fixed-wing aircraft]] sometimes have supplemental {{chem|O|2}} supplies.<ref group=lower-alpha>The reason is that increasing the proportion of oxygen in the breathing gas at low pressure acts to augment the inspired {{chem|O|2}} partial pressure nearer to that found at sea-level.</ref> Pressurized commercial airplanes have an emergency supply of {{chem|O|2}} automatically supplied to the passengers in case of cabin depressurization. Sudden cabin pressure loss activates [[chemical oxygen generator]]s above each seat, causing [[oxygen mask]]s to drop. Pulling on the masks "to start the flow of oxygen" as cabin safety instructions dictate, forces iron filings into the [[sodium chlorate]] inside the canister.<ref name="NBB301"/> A steady stream of oxygen gas is then produced by the [[exothermic]] reaction.
+
+Oxygen, as a supposed mild [[euphoria|euphoric]], has a history of recreational use in [[oxygen bar]]s and in [[sport]]s. Oxygen bars are establishments found in Japan, [[California]], and [[Las Vegas Valley|Las Vegas]], [[Nevada]] since the late 1990s that offer higher than normal {{chem|O|2}} exposure for a fee.<ref name="FDA-O2Bars">{{cite web|url=http://www.fda.gov/Fdac/features/2002/602_air.html| title=Oxygen Bars: Is a Breath of Fresh Air Worth It?|last=Bren|first=Linda|work=FDA Consumer magazine|publisher=U.S. Food and Drug Administration|date=November–December 2002|accessdate=December 23, 2007|archiveurl=https://web.archive.org/web/20071018041754/http://www.fda.gov/Fdac/features/2002/602_air.html|archivedate=October 18, 2007|deadurl=yes}}</ref> Professional athletes, especially in [[American football]], sometimes go off-field between plays to don oxygen masks to boost performance. The pharmacological effect is doubted; a [[placebo]] effect is a more likely explanation.<ref name="FDA-O2Bars"/> Available studies support a performance boost from oxygen enriched mixtures only if it is breathed ''during'' aerobic exercise.<ref>{{cite web|url=http://www.pponline.co.uk/encyc/1008.htm|title= Ergogenic Aids|accessdate=January 4, 2008|publisher=Peak Performance Online |archiveurl = https://web.archive.org/web/20070928051412/http://www.pponline.co.uk/encyc/1008.htm <!--Added by H3llBot--> |archivedate = September 28, 2007}}</ref>
+
+Other recreational uses that do not involve breathing include [[pyrotechnic]] applications, such as [[George Goble]]'s five-second ignition of [[barbecue]] grills.<ref>{{cite web|url=http://www.bkinzel.de/misc/ghg/index.html|title=George Goble's extended home page (mirror)}}</ref><!-- - Primary source; many secondary sources exist but they only provide less information and more ads - -->
+
+===Industrial===
+[[File:Clabecq JPG01.jpg|thumb|Most commercially produced {{chem|O|2}} is used to [[smelting|smelt]] [[iron]] into [[steel]].|alt=An elderly worker in a helmet is facing his side to the viewer in an industrial hall. The hall is dark but is illuminated yellow glowing splashes of a melted substance.]]
+
+[[Smelting]] of [[iron ore]] into [[steel]] consumes 55% of commercially produced oxygen.<ref name="NBB301"/> In this process, {{chem|O|2}} is injected through a high-pressure lance into molten iron, which removes [[sulfur]] impurities and excess [[carbon]] as the respective oxides, {{chem|SO|2}} and {{chem|CO|2}}. The reactions are [[exothermic reaction|exothermic]], so the temperature increases to 1,700&nbsp;°[[Celsius|C]].<ref name="NBB301"/>
+
+Another 25% of commercially produced oxygen is used by the chemical industry.<ref name="NBB301"/> [[Ethylene]] is reacted with {{chem|O|2}} to create [[ethylene oxide]], which, in turn, is converted into [[ethylene glycol]]; the primary feeder material used to manufacture a host of products, including [[antifreeze]] and [[polyester]] polymers (the precursors of many [[plastic]]s and [[fabric]]s).<ref name="NBB301"/>
+
+Most of the remaining 20% of commercially produced oxygen is used in medical applications, [[gas welding|metal cutting and welding]], as an oxidizer in [[rocket fuel]], and in [[water treatment]].<ref name="NBB301"/> Oxygen is used in [[oxyacetylene welding]] burning [[acetylene]] with {{chem|O|2}} to produce a very hot flame. In this process, metal up to {{convert|60|cm|abbr=on}} thick is first heated with a small oxy-acetylene flame and then quickly cut by a large stream of {{chem|O|2}}.<ref name="ECE508">[[#Reference-idCook1968|Cook & Lauer 1968]], p.508</ref>
+
+==Compounds==
+{{Main article|Compounds of oxygen}}
+<!-- DIRECT ALL FUTURE EXPANSION to [[Compounds of oxygen]] -->
+[[File:Stilles Mineralwasser.jpg|thumb|upright|[[Water]] ({{chem|H|2|O}}) is the most familiar oxygen compound.|alt=Water flowing from a bottle into a glass.]]
+The [[oxidation state]] of oxygen is −2 in almost all known compounds of oxygen. The oxidation state −1 is found in a few compounds such as [[peroxide]]s.<ref>{{Greenwood&Earnshaw}},p. 28</ref> Compounds containing oxygen in other oxidation states are very uncommon: −1/2 ([[superoxide]]s), −1/3 ([[ozonide]]s), 0 ([[Allotropes of oxygen|elemental]], [[hypofluorous acid]]), +1/2 ([[dioxygenyl]]), +1 ([[dioxygen difluoride]]), and +2 ([[oxygen difluoride]]).
+
+===Oxides and other inorganic compounds===
+<!-- DIRECT ALL FUTURE EXPANSION to [[Compounds of oxygen]]  -->
+[[Water]] ({{chem|H|2|O}}) is an oxide of [[hydrogen]] and the most familiar oxygen compound. Hydrogen atoms are [[covalent bonding|covalently bonded]] to oxygen in a water molecule but also have an additional attraction (about 23.3&nbsp;kJ·mol<sup>−1</sup> per hydrogen atom) to an adjacent oxygen atom in a separate molecule.<ref>{{cite journal|first=P.|last=Maksyutenko|first2=T. R.|last2=Rizzo|first3=O. V.|last3=Boyarkin|date=2006|title=A direct measurement of the dissociation energy of water|pmid=17115729|journal=J. Chem. Phys.|page=181101 |doi=10.1063/1.2387163|issue=18|volume=125|bibcode = 2006JChPh.125r1101M }}</ref> These [[hydrogen bond]]s between water molecules hold them approximately 15% closer than what would be expected in a simple liquid with just [[van der Waals force]]s.<ref>{{cite web|title=Water Hydrogen Bonding|last=Chaplin|first=Martin|url=http://www.lsbu.ac.uk/water/hbond.html|accessdate=January 6, 2008|date=January 4, 2008}}</ref><ref group=lower-alpha>Also, since oxygen has a higher electronegativity than hydrogen, the charge difference makes it a [[polar molecule]]. The interactions between the different [[dipole]]s of each molecule cause a net attraction force.</ref>
+
+[[File:Rust screw.jpg|thumb|left|Oxides, such as [[iron oxide]] or [[rust]], form when oxygen combines with other elements.|alt=A rusty piece of a bolt.]]
+Due to its [[electronegativity]], oxygen forms [[chemical bond]]s with almost all other elements to give corresponding [[oxide]]s. The surface of most metals, such as [[aluminium]] and [[titanium]], are oxidized in the presence of air and become coated with a thin film of oxide that [[Passivation (chemistry)|passivates]] the metal and slows further [[corrosion]]. Many oxides of the [[transition metal]]s are [[non-stoichiometric compound]]s, with slightly less metal than the [[chemical formula]] would show. For example, the mineral [[Iron(II) oxide|FeO]] ([[wüstite]]) is written as {{chem|Fe|1&nbsp;−&nbsp;''x''|O}}, where ''x'' is usually around 0.05.<ref>{{cite book|first=Lesley E.|last=Smart|last2=Moore|first2=Elaine A. |title=Solid State Chemistry: An Introduction|edition=3rd |publisher=CRC Press|date=2005|page=214|isbn=978-0-7487-7516-3}}</ref>
+
+Oxygen is present in the atmosphere in trace quantities in the form of [[carbon dioxide]] ({{chem|CO|2}}). The [[Earth's crust]]al [[Rock (geology)|rock]] is composed in large part of oxides of [[silicon]] ([[Silicon dioxide|silica]] {{chem|SiO|2}}, as found in [[granite]] and [[quartz]]), aluminium ([[aluminium oxide]] {{chem|Al|2|O|3}}, in [[bauxite]] and [[corundum]]), iron ([[iron(III) oxide]] {{chem|Fe|2|O|3}}, in [[hematite]] and [[rust]]), and [[calcium carbonate]] (in [[limestone]]). The rest of the Earth's crust is also made of oxygen compounds, in particular various complex [[silicate]]s (in [[silicate minerals]]). The Earth's mantle, of much larger mass than the crust, is largely composed of silicates of magnesium and iron.
+
+Water-[[solubility|soluble]] silicates in the form of {{chem|Na|4|SiO|4}}, {{chem|Na|2|SiO|3}}, and {{chem|Na|2|Si|2|O|5}} are used as [[detergent]]s and [[adhesive]]s.<ref name="ECE507">[[#Reference-idCook1968|Cook & Lauer 1968]], p.507</ref>
+
+Oxygen also acts as a [[ligand]] for transition metals, forming [[transition metal dioxygen complexes]], which feature metal–{{chem|O|2}}.  This class of compounds includes the [[heme]] proteins [[hemoglobin]] and [[myoglobin]].<ref>{{cite book|last=Crabtree|first=R.|title=The Organometallic Chemistry of the Transition Metals|edition=3rd |publisher=John Wiley & Sons|date=2001|page=152|isbn=978-0-471-18423-2}}</ref> An exotic and unusual reaction occurs with [[platinum hexafluoride|{{chem|PtF|6}}]], which oxidizes oxygen to give O<sub>2</sub><sup>+</sup>PtF<sub>6</sub><sup>−</sup>.<ref name="ECE505">[[#Reference-idCook1968|Cook & Lauer 1968]], p.505</ref>
+
+===Organic compounds and biomolecules===
+<!-- DIRECT ALL FUTURE EXPANSION to [[Compounds of oxygen]] -->
+[[File:Acetone-3D-vdW.png|thumb|[[Acetone]] is an important feeder material in the chemical industry.
+{{legend|red|Oxygen}}
+{{legend|black|Carbon}}
+{{legend|white|Hydrogen|outline=silver}}
+|alt=A ball structure of a molecule. Its backbone is a zig-zag chain of three carbon atoms connected in the center to an oxygen atom and on the end to 6 hydrogens.]]
+[[File:ATP structure.svg|thumb|left|Oxygen represents more than 40% of the [[molecular mass]] of the [[Adenosine triphosphate|ATP]] molecule.|alt=Skeletal chemical structure with a linear chain of O-P-O bonds connected to three different carbon-nitrogen rings.]]
+
+Among the most important classes of organic compounds that contain oxygen are (where "R" is an organic group): [[alcohol]]s (R-OH); [[ether]]s (R-O-R); [[ketone]]s (R-CO-R); [[aldehyde]]s (R-CO-H); [[carboxylic acid]]s (R-COOH); [[ester]]s (R-COO-R); [[acid anhydride]]s (R-CO-O-CO-R); and [[amide]]s ({{chem|R-C(O)-NR|2}}). There are many important organic [[solvent]]s that contain oxygen, including: [[acetone]], [[methanol]], [[ethanol]], [[Isopropyl alcohol|isopropanol]], [[furan]], [[tetrahydrofuran|THF]], [[diethyl ether]], [[1,4-Dioxane|dioxane]], [[ethyl acetate]], [[dimethylformamide|DMF]], [[dimethyl sulfoxide|DMSO]], [[acetic acid]], and [[formic acid]]. Acetone ({{chem|(CH|3|)|2|CO}}) and [[phenol]] ({{chem|C|6|H|5|OH}}) are used as feeder materials in the synthesis of many different substances. Other important organic compounds that contain oxygen are: [[glycerol]], [[formaldehyde]], [[glutaraldehyde]], [[citric acid]], [[acetic anhydride]], and [[acetamide]]. [[Epoxide]]s are ethers in which the oxygen atom is part of a ring of three atoms.
+
+Oxygen reacts spontaneously with many [[organic chemistry|organic]] compounds at or below room temperature in a process called [[autoxidation]].<ref name="ECE506">[[#Reference-idCook1968|Cook & Lauer 1968]], p.506</ref> Most of the [[organic compound]]s that contain oxygen are not made by direct action of {{chem|O|2}}. Organic compounds important in industry and commerce that are made by direct oxidation of a precursor include [[ethylene oxide]] and [[peracetic acid]].<ref name="ECE507"/>
+
+The element is found in almost all [[biomolecule]]s that are important to (or generated by) life. Only a few common complex biomolecules, such as [[squalene]] and the [[carotene]]s, contain no oxygen. Of the organic compounds with biological relevance, [[carbohydrate]]s contain the largest proportion by mass of oxygen. All [[fat]]s, [[fatty acid]]s, [[amino acid]]s, and [[protein]]s contain oxygen (due to the presence of [[carbonyl]] groups in these acids and their ester residues). Oxygen also occurs in [[phosphate]] ({{chem|PO|4|3-}}) groups in the biologically important energy-carrying molecules [[Adenosine triphosphate|ATP]] and [[Adenosine diphosphate|ADP]], in the backbone and the [[purine]]s (except [[adenine]]) and [[pyrimidine]]s of [[RNA]] and [[DNA]], and in bones as [[calcium phosphate]] and [[hydroxylapatite]].
+
+==Safety and precautions==
+The [[NFPA 704]] standard rates compressed oxygen gas as nonhazardous to health, nonflammable and nonreactive, but an oxidizer. Refrigerated liquid oxygen (LOX) is given a health hazard rating of 3 (for increased risk of [[hyperoxia]] from condensed vapors, and for hazards common to cryogenic liquids such as frostbite), and all other ratings are the same as the compressed gas form.
+
+===Toxicity===
+{{Main article|Oxygen toxicity}}
+[[File:Symptoms of oxygen toxicity.png|thumb|left|300px|Main symptoms of oxygen toxicity<ref>{{cite journal |author=Dharmeshkumar N Patel |display-authors=4 |author2=Ashish Goel |author3=SB Agarwal|author4=Praveenkumar Garg |author5=Krishna K Lakhani |title=Oxygen Toxicity |journal=Indian Academy of Clinical Medicine|volume=4 |issue=3 |page=234 |date=2003 |url=http://medind.nic.in/jac/t03/i3/jact03i3p234.pdf}}</ref>|alt=A diagraph showing a man torso and listing symptoms of oxygen toxicity: Eyes&nbsp;– visual field loss, near)sightedness, cataract formation, bleeding, fibrosis; Head&nbsp;– seizures; Muscles&nbsp;– twitching; Respiratory system&nbsp;– jerky breathing, irritation, coughing, pain, shortness of breath, tracheobronchitis, acute respiratory distress syndrome.]]
+[[File:Scuba-diving.jpg|thumb|Oxygen toxicity occurs when the lungs take in {{frac|2|1|2}} higher than normal {{chem|O|2}} partial pressure, which can occur in deep [[scuba diving]].|alt=Four divers, equipped with oxygen cylinders, at the see bottom.]]
+
+Oxygen gas ({{chem|O|2}}) can be [[Oxygen toxicity|toxic]] at elevated [[partial pressure]]s, leading to [[convulsion]]s and other health problems.<ref name="Acott" /><ref group=lower-alpha>Since {{chem|O|2}}'s partial pressure is the fraction of {{chem|O|2}} times the total pressure, elevated partial pressures can occur either from high {{chem|O|2}} fraction in breathing gas or from high breathing gas pressure, or a combination of both.</ref><ref name="ECE511">[[#Reference-idCook1968|Cook & Lauer 1968]], p.511</ref> Oxygen toxicity usually begins to occur at partial pressures more than 50 kilo[[Pascal (unit)|pascals]]&nbsp;(kPa), equal to about 50% oxygen composition at standard pressure or 2.5 times the normal sea-level {{chem|O|2}} partial pressure of about 21&nbsp;kPa. This is not a problem except for patients on [[mechanical ventilator]]s, since gas supplied through [[oxygen mask]]s in medical applications is typically composed of only 30%–50% {{chem|O|2}} by volume (about 30&nbsp;kPa at standard pressure).<ref name="NBB299"/> (although this figure also is subject to wide variation, depending on type of mask).
+
+At one time, [[Premature birth|premature babies]] were placed in incubators containing {{chem|O|2}}-rich air, but this practice was discontinued after some babies were blinded by the oxygen content being too high.<ref name="NBB299"/>
+
+Breathing pure {{chem|O|2}} in space applications, such as in some modern space suits, or in early spacecraft such as [[Apollo spacecraft|Apollo]], causes no damage due to the low total pressures used.<ref name="pmid11541018"/><ref>{{cite web|last = Wade|first = Mark|date = 2007|url = http://www.astronautix.com/craftfam/spasuits.htm|title = Space Suits|publisher = Encyclopedia Astronautica |accessdate=December 16, 2007 |archiveurl = https://web.archive.org/web/20071213122134/http://www.astronautix.com/craftfam/spasuits.htm |archivedate = December 13, 2007}}</ref> In the case of spacesuits, the {{chem|O|2}} partial pressure in the breathing gas is, in general, about 30&nbsp;kPa (1.4 times normal), and the resulting {{chem|O|2}} partial pressure in the astronaut's arterial blood is only marginally more than normal sea-level {{chem|O|2}} partial pressure (for more information on this, see [[space suit]] and [[arterial blood gas]]).
+
+Oxygen toxicity to the lungs and [[central nervous system]] can also occur in deep [[scuba diving]] and [[surface supplied diving]].<ref name="NBB299"/><ref name="Acott"/> Prolonged breathing of an air mixture with an {{chem|O|2}} partial pressure more than 60&nbsp;kPa can eventually lead to permanent [[pulmonary fibrosis]].<ref name="BMJ">{{cite journal |author=Wilmshurst P |title=Diving and oxygen |journal=BMJ |volume=317 |issue=7164 |pages=996–9 |date=1998 |pmid=9765173 |pmc=1114047 |doi=10.1136/bmj.317.7164.996}}</ref> Exposure to a {{chem|O|2}} partial pressures greater than 160&nbsp;kPa (about 1.6 atm) may lead to convulsions (normally fatal for divers). Acute oxygen toxicity (causing seizures, its most feared effect for divers) can occur by breathing an air mixture with 21% {{chem|O|2}} at {{convert|66|m|abbr=on}} or more of depth; the same thing can occur by breathing 100% {{chem|O|2}} at only {{convert|6|m|abbr=on}}.<ref name="BMJ"/><ref name="Donald">{{cite book |last=Donald |first=Kenneth |title=Oxygen and the Diver |isbn = 1-85421-176-5|date=1992 |publisher=SPA in conjunction with K. Donald |location=England}}</ref><ref name="Donald1">{{cite journal |author=Donald K. W. |title=Oxygen Poisoning in Man: Part I |journal=Br Med J |volume=1 |issue=4506 |pages=667–72 |date=1947 |pmc=2053251 |doi=10.1136/bmj.1.4506.667 |pmid=20248086}}</ref><ref name="Donald2">{{cite journal |author=Donald K. W. |title=Oxygen Poisoning in Man: Part II |journal=Br Med J |volume=1 |pages=712–7 |date=1947 |pmc=2053400|issue=4507 |doi=10.1136/bmj.1.4507.712 |pmid=20248096}}</ref>
+
+===Combustion and other hazards===
+[[File:Apollo 1 fire.jpg|thumb|right|The interior of the [[Apollo 1]] Command Module. Pure {{chem|O|2}} at higher than normal pressure and a spark led to a fire and the loss of the [[Apollo 1]] crew.|alt=The inside of a small spaceship, charred and apparently destroyed.]]
+Highly concentrated sources of oxygen promote rapid combustion. [[Fire]] and [[explosion]] hazards exist when concentrated oxidants and [[fuel]]s are brought into close proximity; an ignition event, such as heat or a spark, is needed to trigger combustion.<ref name="Weiss2008" /><ref name="astm-tpt">{{cite conference|editor1-last=Werley|editor1-first=Barry L.|date=1991|work=Fire Hazards in Oxygen Systems|title=ASTM Technical Professional training|publisher=[[ASTM International]] Subcommittee G-4.05|location=Philadelphia}}</ref> Oxygen is the oxidant, not the fuel, but nevertheless the source of most of the chemical energy released in combustion.<ref name="Weiss2008" /><ref name="Schmidt-Rohr2015" /> Combustion hazards also apply to compounds of oxygen with a high oxidative potential, such as [[peroxide]]s, [[chlorate]]s, [[nitrate]]s, [[perchlorate]]s, and [[dichromate]]s because they can donate oxygen to a fire.
+
+Concentrated {{chem|O|2}} will allow combustion to proceed rapidly and energetically.<ref name="astm-tpt" /> [[Steel]] pipes and storage vessels used to store and transmit both gaseous and [[liquid oxygen]] will act as a fuel; and therefore the design and manufacture of {{chem|O|2}} systems requires special training to ensure that ignition sources are minimized.<ref name="astm-tpt" /> The fire that killed the [[Apollo 1]] crew in a launch pad test spread so rapidly because the capsule was pressurized with pure {{chem|O|2}} but at slightly more than atmospheric pressure, instead of the {{frac|1|3}} normal pressure that would be used in a mission.{{refn|No single ignition source of the fire was conclusively identified, although some evidence points to arc from an electrical spark.<ref>(Report of Apollo 204 Review Board NASA Historical Reference Collection, NASA History Office, NASA HQ, Washington, DC)</ref>|group=lower-alpha}}<ref name="chiles">{{cite book|last=Chiles|first=James R.|date=2001|title=Inviting Disaster: Lessons from the edge of Technology: An inside look at catastrophes and why they happen|location=New York|publisher=HarperCollins Publishers Inc.|isbn=0-06-662082-1}}</ref>
+
+Liquid oxygen spills, if allowed to soak into organic matter, such as [[wood]], [[petrochemical]]s, and [[asphalt]] can cause these materials to [[Detonation|detonate]] unpredictably on subsequent mechanical impact.<ref name="astm-tpt" /> As with other [[Cryogenics|cryogenic]] liquids, on contact with the human body it can cause [[frostbite]]s to the skin and the eyes.
+{{clear}}
+
+==See also==
+{{div col|colwidth=20em}}
+* [[Geological history of oxygen]]
+* [[Hypoxia (environmental)]] for {{chem|O|2}} depletion in aquatic ecology
+*[[Ocean deoxygenation]]
+* [[Hypoxia (medical)]], a lack of oxygen
+* [[Limiting oxygen concentration]]
+* [[:Category:Oxygen compounds|Oxygen compounds]]
+* [[Oxygen plant]]
+* [[Oxygen sensor]]
+{{div col end}}
+{{Subject bar
+|book1=Oxygen
+|book2=Period 2 elements
+|book3=Chalcogens
+|book4=Chemical elements (sorted&nbsp;alphabetically)
+|book5=Chemical elements (sorted by number)
+|portal1=Chemistry
+|portal2=Medicine
+|commons=y
+|wikt=y
+|v=y
+|v-search=Oxygen atom
+|b=y
+|b-search=Wikijunior:The Elements/Oxygen
+}}
+
+==Notes==
+{{reflist|group=lower-alpha}}
+
+==Citations==
+<!-- Full reference information for Cook, Daintith, and Emsley given in the references section -->
+{{Reflist|colwidth=30em}}
+
+==References==
+<!-- Please do not list cite web references here unless it is cited more than once -->
+* <!-- Co -->{{cite book| ref=Reference-idCook1968|title=The Encyclopedia of the Chemical Elements|last=Cook|first=Gerhard A.|last2=Lauer|first2=Carol M.|publisher=Reinhold Book Corporation|location=New York|date=1968|pages=499–512|editor=Clifford A. Hampel|chapter=Oxygen| lccn=68-29938}}
+* <!-- Em -->{{cite book| ref=Reference-idEmsley2001 |title=Nature's Building Blocks: An A-Z Guide to the Elements|last=Emsley|first=John|publisher=Oxford University Press|date=2001|location=Oxford, England|isbn=0-19-850340-7|chapter=Oxygen|pages=297–304}}
+* <!-- Ra -->{{cite book| ref=Reference-idRaven2005 |last=Raven|first=Peter H.|first2=Ray F.|last2=Evert|first3=Susan E.|last3=Eichhorn|title=Biology of Plants|edition=7th|publisher=W.H. Freeman and Company Publishers|date=2005|location = New York|pages=115–27|isbn = 0-7167-1007-2}}
+
+==External links==
+{{Spoken Wikipedia|En-oxygen-article.ogg|2008-06-23}}
+* [http://www.periodicvideos.com/videos/008.htm Oxygen] at ''[[The Periodic Table of Videos]]'' (University of Nottingham)
+* [http://www.organic-chemistry.org/chemicals/oxidations/oxygen.shtm Oxidizing Agents > Oxygen]
+* [http://www.uigi.com/oxygen.html Oxygen (O<sub>2</sub>) Properties, Uses, Applications]
+* [http://www.americanscientist.org/issues/pub/the-story-of-o Roald Hoffmann article on "The Story of O"]
+* [http://www.webelements.com/webelements/elements/text/O/index.html WebElements.com&nbsp;– Oxygen]
+* [http://www.rsc.org/chemistryworld/podcast/element.asp Chemistry in its element podcast] (MP3) from the [[Royal Society of Chemistry]]'s [[Chemistry World]]: [http://www.rsc.org/images/CIIE_oxygen_48k_tcm18-117681.mp3 Oxygen]
+* {{In Our Time|Oxygen|b0088nql|Oxygen}}
+* [http://scrippso2.ucsd.edu/ Scripps Institute: Atmospheric Oxygen has been dropping for 20 years]
+{{clear}}
+{{Compact periodic table}}
+{{diatomicelements}}
+{{Use mdy dates|date=June 2015}}
+{{featured article}}
+
+{{Authority control}}
+
+[[Category:Oxygen| ]]
+[[Category:Chemical elements]]
+[[Category:Chalcogens]]
+[[Category:Diatomic nonmetals]]
+[[Category:Oxidizing agents]]
+[[Category:Biology and pharmacology of chemical elements]]
+[[Category:Breathing gases]]
+[[Category:Chemical substances for emergency medicine]]
