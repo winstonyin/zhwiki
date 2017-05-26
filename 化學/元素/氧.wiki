@@ -196,7 +196,7 @@ first3=Syoko|last4=Kobayasi|first4=Yoko|publisher=Springer|volume=29|issue=2|dat
 {{Main article|氧的同素異形體}}
 [[File:Ozone-1,3-dipole.png|thumb|upright|left|[[臭氧]]是地球上一種較為稀有的氣體，主要分佈在[[平流層]]。圖為臭氧的分子結構示意圖]]
 [[File:Oxygen molecule.png|thumb|right|200px|二氧（O<sub>2</sub>）分子的[[空間填充模型]]]]
-二氧{{chem|O|2}}是氧元素在地球上最常見的[[同素異形體]]，是地球大氣氧的主要部分（見[[#存在形式]]）。二氧的鍵長為121&nbsp;[[皮米|pm]]，鍵能為498&nbsp;[[焦耳每摩爾|kJ·mol<sup>−1</sup>]]。<ref>{{cite web|last=Chieh|first=Chung|title=Bond Lengths and Energies|url=http://www.science.uwaterloo.ca/~cchieh/cact/c120/bondel.html|publisher= University of Waterloo|accessdate=December 16, 2007}}</ref>與生物圈內其他分子的雙鍵或兩個單鍵相比，二氧的鍵能更低，所以二氧與任何有機分子的反應都會[[放熱反應|釋放熱能]]。<ref name="Weiss2008" /><ref name="Schmidt-Rohr2015">{{cite journal | last1 = Schmidt-Rohr | first1 = K. | year = 2015 | title = Why Combustions Are Always Exothermic, Yielding About 418 kJ per Mole of O<sub>2</sub> | doi = 10.1021/acs.jchemed.5b00333 | journal = J. Chem. Educ. | volume = 92 | issue = | pages = 2094–2099 }}</ref>這一性質是[[生物體]]呼吸作用的主要原理（見[[#生物學上的作用]]）。
+二氧（{{chem|O|2}}）是氧元素在地球上最常見的[[同素異形體]]，是地球大氣氧的主要部分（見[[#存在形式|存在形式]]一節）。二氧的鍵長為121&nbsp;[[皮米|pm]]，鍵能為498&nbsp;[[焦耳每摩爾|kJ·mol<sup>−1</sup>]]。<ref>{{cite web|last=Chieh|first=Chung|title=Bond Lengths and Energies|url=http://www.science.uwaterloo.ca/~cchieh/cact/c120/bondel.html|publisher= University of Waterloo|accessdate=December 16, 2007}}</ref>與生物圈內其他分子的雙鍵或兩個單鍵相比，二氧的鍵能更低，所以二氧與任何有機分子的反應都會[[放熱反應|釋放熱能]]。<ref name="Weiss2008" /><ref name="Schmidt-Rohr2015">{{cite journal | last1 = Schmidt-Rohr | first1 = K. | year = 2015 | title = Why Combustions Are Always Exothermic, Yielding About 418 kJ per Mole of O<sub>2</sub> | doi = 10.1021/acs.jchemed.5b00333 | journal = J. Chem. Educ. | volume = 92 | issue = | pages = 2094–2099 }}</ref>這一性質是[[生物體]]呼吸作用的主要原理（見[[#生物學上的作用|生物學上的作用]]一節）。
 
 三氧（{{chem|O|3}}），常用名為[[臭氧]]，是一種高反應性的氧同素異形體。<ref name="GuideElem48">{{cite book|title=Guide to the Elements|edition=Revised |first=Albert|last=Stwertka|publisher=Oxford University Press|date=1998|isbn=0-19-508083-1|pages=48–49}}</ref>在上層大氣中，{{chem|O|2}}經[[紫外線]]分解成獨立的氧原子。這些氧原子再與{{chem|O|2}}結合後，形成臭氧。<ref name="mellor" />由於臭氧能較強地吸收紫外線範圍內的輻射，所以[[臭氧層]]能阻擋一部分輻射抵達地球表面，有屏障的作用。<ref name="mellor" />在地球表面出現的臭氧是汽車廢氣所產生的一種[[空氣污染|空氣污染物]]。<ref name="GuideElem48"/>
 
@@ -208,63 +208,62 @@ title=Observation of an {{chem|O|8}} molecular lattice in the phase of solid oxy
 ===物理性質===
 [[File:Oxygen discharge tube.jpg|thumb|氧放電管所釋放的綠光與[[極光]]中的綠色相似]]
 {{see also|液氧|固氧}}
-Oxygen [[Solubility|dissolves]] more readily in water than nitrogen, and in freshwater more readily than seawater. Water in equilibrium with air contains approximately 1 molecule of dissolved {{chem|O|2}} for every 2 molecules of {{chem|N|2}} (1:2), compared with an atmospheric ratio of approximately 1:4. The solubility of oxygen in water is temperature-dependent, and about twice as much (14.6&nbsp;mg·L<sup>−1</sup>) dissolves at 0&nbsp;°C than at 20&nbsp;°C (7.6&nbsp;mg·L<sup>−1</sup>).<ref name="NBB299"/><ref>{{cite web|url=http://www.engineeringtoolbox.com/air-solubility-water-d_639.html|title=Air solubility in water|accessdate=December 21, 2007|publisher=The Engineering Toolbox}}</ref> At 25&nbsp;°C and {{convert|1|atm|lk=on|sigfig=4}} of air, freshwater contains about 6.04&nbsp;[[Litre|milliliters]]&nbsp;(mL) of oxygen per [[liter]], and [[seawater]] contains about 4.95&nbsp;mL per liter.<ref>{{cite book|title = The Physiology of Fishes |first=David Hudson |last=Evans |last2=Claiborne|first2=James B.|page=88|date=2005|edition=3rd|publisher=CRC Press|isbn=0-8493-2022-4}}</ref> At 5&nbsp;°C the solubility increases to 9.0&nbsp;mL (50% more than at 25&nbsp;°C) per liter for water and 7.2&nbsp;mL (45% more) per liter for sea water.
+氧氣在水中的[[可溶性]]比在氮中高，在淡水中的可溶性又比在海水中高。在大氣中氧氣和氮氣的分子比例為1:4，而在水和空氣達致平衡的狀態下，該比例為1:2。氧氣在水中的可溶性會隨溫度改變：在0&nbsp;°C下的溶解度（14.6&nbsp;mg·L<sup>−1</sup>）約為在20&nbsp;°C下的雙倍（7.6&nbsp;mg·L<sup>−1</sup>）。<ref name="NBB299"/><ref>{{cite web|url=http://www.engineeringtoolbox.com/air-solubility-water-d_639.html|title=Air solubility in water|accessdate=December 21, 2007|publisher=The Engineering Toolbox}}</ref>當空氣處於25&nbsp;°C及{{convert|1|atm|lk=on|sigfig=4}}時，每[[公升]]淡水含6.04&nbsp;毫升氧氣，而每公升海水則含4.95毫升氧氣。<ref>{{cite book|title = The Physiology of Fishes |first=David Hudson |last=Evans |last2=Claiborne|first2=James B.|page=88|date=2005|edition=3rd|publisher=CRC Press|isbn=0-8493-2022-4}}</ref>
+
 {| class="wikitable" style="float:left; margin-right:25px"
-|+Oxygen gas dissolved in water at sealevel
+|+海平面上水的溶氧量
 !
 !5&nbsp;°C
 !25&nbsp;°C
 |-
-|Freshwater
+|淡水
 |9.0&nbsp;mL
 |6.04&nbsp;mL
 |-
-|Seawater
-|7.2 mL
+|海水
+|7.2&nbsp;mL
 |4.95&nbsp;mL
 |}
-Oxygen condenses at 90.20&nbsp;[[kelvin|K]] (−182.95&nbsp;°C, −297.31&nbsp;°F), and freezes at 54.36&nbsp;K (−218.79&nbsp;°C, −361.82&nbsp;°F).<ref>{{cite book|first=David R.|last=Lide |title=CRC Handbook of Chemistry and Physics|edition=84th |publisher=[[CRC Press]] |location=Boca Raton, Florida|date=2003|chapter=Section 4, Properties of the Elements and Inorganic Compounds; Melting, boiling, and critical temperatures of the elements|isbn=0-8493-0595-0}}</ref> Both [[liquid oxygen|liquid]] and [[solid oxygen|solid]] {{chem|O|2}} are clear substances with a light [[diffuse sky radiation|sky-blue]] color caused by absorption in the red (in contrast with the blue color of the sky, which is due to [[Rayleigh scattering]] of blue light). High-purity liquid {{chem|O|2}} is usually obtained by the [[fractional distillation]] of liquefied air.<ref>{{cite web|url = http://www.uigi.com/cryodist.html|title = Overview of Cryogenic Air Separation and Liquefier Systems|publisher = Universal Industrial Gases, Inc.|accessdate = December 15, 2007}}</ref> Liquid oxygen may also be condensed from air using liquid nitrogen as a coolant.<ref name=":0">{{cite web|url = https://www.mathesontrigas.com/pdfs/msds/00225011.pdf |format=PDF| title = Liquid Oxygen Material Safety Data Sheet|publisher = Matheson Tri Gas|accessdate = December 15, 2007}}</ref>
+氧氣在90.20&nbsp;[[開爾文|K]]（−182.95&nbsp;°C）凝結，在54.36&nbsp;K（−218.79&nbsp;°C）凝固。<ref>{{cite book|first=David R.|last=Lide |title=CRC Handbook of Chemistry and Physics|edition=84th |publisher=[[CRC Press]] |location=Boca Raton, Florida|date=2003|chapter=Section 4, Properties of the Elements and Inorganic Compounds; Melting, boiling, and critical temperatures of the elements|isbn=0-8493-0595-0}}</ref>[[液氧]]和[[固氧]]（{{chem|O|2}}）都是呈淡天藍色的透明物質，這是由於氧分子會吸收紅光。（天空呈藍色是由於藍光的[[瑞利散射]]，而非因氧氣的吸收光譜所致。）高純度液氧一般是通過液化空氣[[分餾法]]萃取的；<ref>{{cite web|url = http://www.uigi.com/cryodist.html|title = Overview of Cryogenic Air Separation and Liquefier Systems|publisher = Universal Industrial Gases, Inc.|accessdate = December 15, 2007}}</ref>亦可利用液氮的低溫使空氣中的氧氣凝結。<ref name=":0">{{cite web|url = https://www.mathesontrigas.com/pdfs/msds/00225011.pdf |format=PDF| title = Liquid Oxygen Material Safety Data Sheet|publisher = Matheson Tri Gas|accessdate = December 15, 2007}}</ref>
 
-Oxygen is a highly reactive substance and must be segregated from combustible materials.<ref name=":0">{{cite web|url = https://www.mathesontrigas.com/pdfs/msds/00225011.pdf |format=PDF| title = Liquid Oxygen Material Safety Data Sheet|publisher = Matheson Tri Gas|accessdate = December 15, 2007}}</ref>
+[[極光]]和[[氣輝]]（夜輝）的部分顏色來自於氧氣分子的光譜。<ref name="Krupenie1972">{{cite journal|last1=Krupenie|first1=Paul H.|title=The Spectrum of Molecular Oxygen|journal=Journal of Physical and Chemical Reference Data|volume=1|issue=2|year=1972|pages=423 |doi=10.1063/1.3253101}}</ref>氧氣分子會吸收[[赫茨貝格連續區]]和[[舒曼–龍格帶]]內的紫外輻射，形成原子氧。這一過程對大氣中層的化學有重要的作用。<ref name="BrasseurSolomon2006">{{cite book|author1=Guy P. Brasseur|author2=Susan Solomon|title=Aeronomy of the Middle Atmosphere: Chemistry and Physics of the Stratosphere and Mesosphere|url=https://books.google.com/books?id=Z5OtlDjfXkkC&pg=PA220|date=January 15, 2006|publisher=Springer Science & Business Media|isbn=978-1-4020-3824-2|pages=220–}}</ref>在激發態下的單態氧在溶液中會化學發光，呈紅色。<ref name="Kearns1971">{{cite journal|last1=Kearns|first1=David R.|title=Physical and chemical properties of singlet molecular oxygen|journal=Chemical Reviews|volume=71|issue=4|year=1971|pages=395–427 |doi=10.1021/cr60272a004}}</ref>
 
-The spectroscopy of molecular oxygen is associated with the atmospheric processes of [[aurora]], [[airglow]] and [[nightglow]].<ref name="Krupenie1972">{{cite journal|last1=Krupenie|first1=Paul H.|title=The Spectrum of Molecular Oxygen|journal=Journal of Physical and Chemical Reference Data|volume=1|issue=2|year=1972|pages=423 |doi=10.1063/1.3253101}}</ref> The absorption in the [[Herzberg continuum]] and [[Schumann–Runge bands]] in the ultraviolet produces atomic oxygen that is important in the chemistry of the middle atmosphere.<ref name="BrasseurSolomon2006">{{cite book|author1=Guy P. Brasseur|author2=Susan Solomon|title=Aeronomy of the Middle Atmosphere: Chemistry and Physics of the Stratosphere and Mesosphere|url=https://books.google.com/books?id=Z5OtlDjfXkkC&pg=PA220|date=January 15, 2006|publisher=Springer Science & Business Media|isbn=978-1-4020-3824-2|pages=220–}}</ref> Excited state singlet molecular oxygen is responsible for red chemiluminescence in solution.<ref name="Kearns1971">{{cite journal|last1=Kearns|first1=David R.|title=Physical and chemical properties of singlet molecular oxygen|journal=Chemical Reviews|volume=71|issue=4|year=1971|pages=395–427 |doi=10.1021/cr60272a004}}</ref>
-
-===Isotopes and stellar origin===
+===同位素與來源===
 <!--COPYEDITS AND CORRECTIONS ONLY: DIRECT EXPANSION OF THIS SUBTOPIC TO [[Isotopes of oxygen]] -->
-{{Main article|Isotopes of oxygen}}
-[[File:Evolved star fusion shells.svg|thumb|Late in a massive star's life, <sup>16</sup>O concentrates in the O-shell, <sup>17</sup>O in the H-shell and <sup>18</sup>O in the He-shell.|alt=A concentric-sphere diagram, showing, from the core to the outer shell, iron, silicon, oxygen, neon, carbon, helium and hydrogen layers.]]
-Naturally occurring oxygen is composed of three stable [[isotope]]s, [[oxygen-16|<sup>16</sup>O]], [[oxygen-17|<sup>17</sup>O]], and [[oxygen-18|<sup>18</sup>O]], with <sup>16</sup>O being the most abundant (99.762% [[natural abundance]]).<ref name="EnvChem-Iso">{{cite web|url=http://environmentalchemistry.com/yogi/periodic/O-pg2.html|title=Oxygen Nuclides / Isotopes|publisher=EnvironmentalChemistry.com|accessdate=December 17, 2007}}</ref>
+{{Main article|氧的同位素}}
+[[File:Evolved star fusion shells.svg|thumb|到了大質量恆星的生命晚期，<sup>16</sup>O聚集在氧殼層，<sup>17</sup>O聚集在氫殼層，<sup>18</sup>O則聚集在氦殼層。]]
+自然界中的氧元素由[[oxygen-16|<sup>16</sup>O]]、[[oxygen-17|<sup>17</sup>O]]及[[oxygen-18|<sup>18</sup>O]]三種穩定[[同位素]]組成，其中<sup>16</sup>O的[[豐度]]最高（99.762%）。<ref name="EnvChem-Iso">{{cite web|url=http://environmentalchemistry.com/yogi/periodic/O-pg2.html|title=Oxygen Nuclides / Isotopes|publisher=EnvironmentalChemistry.com|accessdate=December 17, 2007}}</ref>
 
-Most <sup>16</sup>O is [[nucleosynthesis|synthesized]] at the end of the [[helium fusion]] process in massive [[star]]s but some is made in the [[neon burning process]].<ref name="Meyer2005">{{cite conference|first=B. S.|last=Meyer|title=Nucleosynthesis and Galactic Chemical Evolution of the Isotopes of Oxygen|conference=Workgroup on Oxygen in the Earliest Solar System|date=September 19–21, 2005|location=Gatlinburg, Tennessee|url= http://www.lpi.usra.edu/meetings/ess2005/pdf/9022.pdf|format=PDF|accessdate=January 22, 2007|work=Proceedings of the NASA Cosmochemistry Program and the Lunar and Planetary Institute|conferenceurl=http://www.lpi.usra.edu/meetings/ess2005/|id=9022}}</ref> <sup>17</sup>O is primarily made by the burning of hydrogen into [[helium]] during the [[CNO cycle]], making it a common isotope in the hydrogen burning zones of stars.<ref name="Meyer2005"/> Most <sup>18</sup>O is produced when [[Nitrogen-14|<sup>14</sup>N]] (made abundant from CNO burning) captures a [[Helium-4|<sup>4</sup>He]] nucleus, making <sup>18</sup>O common in the helium-rich zones of [[Stellar evolution#Massive stars|evolved, massive stars]].<ref name="Meyer2005"/>
+大部分<sup>16</sup>O是在大質量[[恆星]][[3氦過程|氦聚變]]過程晚期[[核合成|合成]]，也有一部分源於[[氖燃燒過程]]。<ref name="Meyer2005">{{cite conference|first=B. S.|last=Meyer|title=Nucleosynthesis and Galactic Chemical Evolution of the Isotopes of Oxygen|conference=Workgroup on Oxygen in the Earliest Solar System|date=September 19–21, 2005|location=Gatlinburg, Tennessee|url= http://www.lpi.usra.edu/meetings/ess2005/pdf/9022.pdf|format=PDF|accessdate=January 22, 2007|work=Proceedings of the NASA Cosmochemistry Program and the Lunar and Planetary Institute|conferenceurl=http://www.lpi.usra.edu/meetings/ess2005/|id=9022}}</ref><sup>17</sup>O主要是在[[碳氮氧循環]]中從氫至氦的聚變過程中產生，因此分佈在恆星內部的氫聚變區域。<ref name="Meyer2005"/>[[氮的同位素|<sup>14</sup>N]]在捕獲一個[[氦的同位素|<sup>4</sup>He]]原子核後變為<sup>18</sup>O，因此<sup>18</sup>O分佈在大質量恆星的氦區域。<ref name="Meyer2005"/>
 
-Fourteen [[radioisotope]]s have been characterized. The most stable are <sup>15</sup>O with a [[half-life]] of 122.24&nbsp;seconds and <sup>14</sup>O with a half-life of 70.606&nbsp;seconds.<ref name="EnvChem-Iso"/> All of the remaining [[Radioactive decay|radioactive]] isotopes have half-lives that are less than 27&nbsp;s and the majority of these have half-lives that are less than 83&nbsp;milliseconds.<ref name="EnvChem-Iso"/> The most common [[decay mode]] of the isotopes lighter than <sup>16</sup>O is [[positron emission|β<sup>+</sup> decay]]<ref name="NUDAT-13O">{{cite web|url=http://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=13O&unc=nds|title=NUDAT 13O|accessdate=July 6, 2009}}</ref><ref name="NUDAT-14O">{{cite web|url=http://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=14O&unc=nds|title=NUDAT 14O|accessdate=July 6, 2009}}</ref><ref name="NUDAT-15O">{{cite web|url=http://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=15O&unc=nds|title=NUDAT 15O|accessdate=July 6, 2009}}</ref> to yield nitrogen, and the most common mode for the isotopes heavier than <sup>18</sup>O is [[beta decay]] to yield [[fluorine]].<ref name="EnvChem-Iso"/>
+在穩定同位素以外，氧還有14種[[放射性同位素]]。最穩定的有<sup>15</sup>O和<sup>14</sup>O，[[半衰期]]分別為122.24秒和70.606秒。<ref name="EnvChem-Iso"/>其餘的放射性同位素半衰期都在27秒以內，大部分甚至低於83毫秒。<ref name="EnvChem-Iso"/>質量低於<sup>16</sup>O的同位素的最常見衰變模式為[[正電子發射|β<sup>+</sup>]]，<ref name="NUDAT-13O">{{cite web|url=http://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=13O&unc=nds|title=NUDAT 13O|accessdate=July 6, 2009}}</ref><ref name="NUDAT-14O">{{cite web|url=http://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=14O&unc=nds|title=NUDAT 14O|accessdate=July 6, 2009}}</ref><ref name="NUDAT-15O">{{cite web|url=http://www.nndc.bnl.gov/nudat2/decaysearchdirect.jsp?nuc=15O&unc=nds|title=NUDAT 15O|accessdate=July 6, 2009}}</ref>產物為[[氮]]；質量高於<sup>18</sup>O的同位素則主要進行β<sup>−</sup>衰變，產物為[[氟]]。<ref name="EnvChem-Iso"/>
 
-===Occurrence===
-{{see also|Silicate minerals|Category:Oxide minerals|Stellar population|Cosmochemistry|Astrochemistry}}
+===存在形式===
+{{see also|矽酸鹽礦物|分類:氧化物礦物|星族|宇宙化學|天體化學}}
 {| class="wikitable sortable" style="float:left; margin-right: 20px" 
-|+Ten most common elements in the [[Milky Way Galaxy]] estimated spectroscopically<ref name="croswell">{{cite book | last = Croswell | first = Ken | title = Alchemy of the Heavens | publisher = Anchor |date=February 1996 | url = http://kencroswell.com/alchemy.html| isbn = 0-385-47214-5}}</ref>
+|+通過光譜學估算的[[銀河系]]元素豐度表<ref name="croswell">{{cite book | last = Croswell | first = Ken | title = Alchemy of the Heavens | publisher = Anchor |date=February 1996 | url = http://kencroswell.com/alchemy.html| isbn = 0-385-47214-5}}</ref>
 |-
-![[Atomic Number|Z]] !! Element !! colspan="2"|Mass fraction in parts per million
+![[原子序|Z]] !! 元素 !! colspan="2"|質量比例（百萬分率）
 |-
-| 1 || [[Hydrogen]] || align="right"|739,000 || colspan="2"|71 × mass of oxygen (red bar)
+| 1 || [[氫]] || align="right"|739,000 || colspan="2"|71 × 氧氣質量（紅條）
 |-
-| 2 || [[Helium]] || align="right"|240,000 || colspan="2"|23 × mass of oxygen (red bar)
+| 2 || [[氦]] || align="right"|240,000 || colspan="2"|23 × 氧氣質量（紅條）
 |-
 | 8 || Oxygen || align="right"|{{bartable|10,400||0.01||background:red;}}
 |-
-| 6 || [[Carbon]] || align="right"|{{bartable| 4,600||0.01}}
+| 6 || [[碳]] || align="right"|{{bartable| 4,600||0.01}}
 |-
-| 10 || [[Neon]] || align="right"|{{bartable| 1,340||0.01}}
+| 10 || [[氖]] || align="right"|{{bartable| 1,340||0.01}}
 |-
-| 26 || [[Iron]] || align="right"|{{bartable| 1,090||0.01}}
+| 26 || [[鐵]] || align="right"|{{bartable| 1,090||0.01}}
 |-
-| 7 || [[Nitrogen]] || align="right"|{{bartable| 960||0.01}}
+| 7 || [[氮]] || align="right"|{{bartable| 960||0.01}}
 |-
-| 14 || [[Silicon]] || align="right"|{{bartable| 650||0.01}}
+| 14 || [[矽]] || align="right"|{{bartable| 650||0.01}}
 |-
-| 12 || [[Magnesium]] || align="right"|{{bartable| 580||0.01}}
+| 12 || [[鎂]] || align="right"|{{bartable| 580||0.01}}
 |-
-| 16 || [[Sulfur]] || align="right"|{{bartable| 440||0.01}}
+| 16 || [[硫]] || align="right"|{{bartable| 440||0.01}}
 |}
 
 Oxygen is the most abundant chemical element by mass in the Earth's biosphere, air, sea and land. Oxygen is the third most abundant chemical element in the universe, after hydrogen and helium.<ref name="NBB297"/> About 0.9% of the [[Sun]]'s mass is oxygen.<ref name="ECE500"/> Oxygen constitutes 49.2% of the [[Earth's crust]] by mass<ref name="lanl">
