@@ -21,23 +21,22 @@
 ''Astronomy'' (from the [[Ancient Greek|Greek]] [[wikt:ἀστρονομία#Ancient Greek|ἀστρονομία]] from [[wikt:ἄστρον#Ancient Greek|ἄστρον]] ''astron'', "star" and -νομία ''[[wikt:-nomy|-nomia]]'' from [[wikt:νόμος#Ancient Greek|νόμος]] ''nomos'', "law" or "culture") means "law of the stars" (or "culture of the stars" depending on the translation). Astronomy should not be confused with [[astrology]], the belief system which claims that human affairs are correlated with the positions of celestial objects.<ref>Losev A., (2012), [http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&bibcode=2012JAHH...15...42L&letter=.&classic=YES&defaultprint=YES&whole_paper=YES&page=42&epage=42&send=Send+PDF&filetype=.pdf 'Astronomy' or 'astrology': a brief history of an apparent confusion], [[Journal of Astronomical History and Heritage]], Vol. 15, No. 1, p. 42-46 .</ref> Although the [[Astrology and astronomy|two fields]] share a common origin, they are now entirely distinct.<ref name="new cosmos">{{cite book|first=Albrecht |last=Unsöld|author2=Baschek, Bodo|others=Translated by Brewer, W.D.|title=The New Cosmos: An Introduction to Astronomy and Astrophysics|date=2001| location=Berlin, New York|publisher=Springer|isbn =3-540-67877-8}}</ref>
 
 ===Use of terms "astronomy" and "astrophysics"===
-Generally, either the term "astronomy" or "astrophysics" may be used to refer to this subject.<ref name="scharrinhausen">{{cite web|url=http://curious.astro.cornell.edu/question.php?number=30|title=Curious About Astronomy: What is the difference between astronomy and astrophysics?|last=Scharringhausen|first=B.|date=|website=|publisher=|accessdate=17 November 2016|archiveurl=https://web.archive.org/web/20070609102139/http://curious.astro.cornell.edu/question.php?number=30|archivedate=9 June 2007 |deadurl=yes}}</ref><ref name="odenwald">{{cite web|url=http://www.astronomycafe.net/qadir/q449.html|title=Archive of Astronomy Questions and Answers: What is the difference between astronomy and astrophysics?|last=Odenwald|first=Sten|date=|website=astronomycafe.net|publisher=The Astronomy Cafe|accessdate=20 June 2007|archiveurl=https://web.archive.org/web/20070708092148/http://www.astronomycafe.net/qadir/q449.html|archivedate=8 July 2007 |deadurl=no}}</ref><ref name="pennstateerie">{{cite web
+Generally, either the term "astronomy" or "astrophysics" may be used to refer to this subject.<ref name="scharrinhausen">{{cite web|url=http://curious.astro.cornell.edu/question.php?number=30|title=Curious About Astronomy: What is the difference between astronomy and astrophysics?|last=Scharringhausen|first=B.|date=|website=|publisher=|accessdate=2016-11-17|archiveurl=https://web.archive.org/web/20070609102139/http://curious.astro.cornell.edu/question.php?number=30|archivedate=2007-06-09 |deadurl=yes}}</ref><ref name="odenwald">{{cite web|url=http://www.astronomycafe.net/qadir/q449.html|title=Archive of Astronomy Questions and Answers: What is the difference between astronomy and astrophysics?|last=Odenwald|first=Sten|date=|website=astronomycafe.net|publisher=The Astronomy Cafe|accessdate=2007-06-20|archiveurl=https://web.archive.org/web/20070708092148/http://www.astronomycafe.net/qadir/q449.html|archivedate=2007-07-08 |deadurl=no}}</ref><ref name="pennstateerie">{{cite web
  |title=Penn State Erie-School of Science-Astronomy and Astrophysics 
  |url=http://www.erie.psu.edu/academic/science/degrees/astronomy/astrophysics.htm 
- |accessdate=20 June 2007 
+ |accessdate=2007-06-20 
  |deadurl=yes 
  |archiveurl=https://web.archive.org/web/20071101100832/http://www.erie.psu.edu/academic/science/degrees/astronomy/astrophysics.htm 
- |archivedate=1 November 2007 
- |df=dmy 
+ |archivedate=2007-11-01 
 }}</ref> Based on strict dictionary definitions, "astronomy" refers to "the study of objects and matter outside the Earth's atmosphere and of their physical and chemical properties"<ref name="mw-astronomy">{{cite web
 |title=Merriam-Webster Online
 |work=Results for "astronomy"
 |url=http://www.m-w.com/dictionary/astronomy
-|accessdate=20 June 2007| archiveurl= https://web.archive.org/web/20070617131203/http://www.m-w.com/dictionary/astronomy| archivedate= 17 June 2007 | deadurl= no}}</ref> and "astrophysics" refers to the branch of astronomy dealing with "the behavior, physical properties, and dynamic processes of celestial objects and phenomena."<ref name="mw-astrophysics">{{cite web
+|accessdate=2007-06-20| archiveurl= https://web.archive.org/web/20070617131203/http://www.m-w.com/dictionary/astronomy| archivedate= 2007-06-17 | deadurl= no}}</ref> and "astrophysics" refers to the branch of astronomy dealing with "the behavior, physical properties, and dynamic processes of celestial objects and phenomena."<ref name="mw-astrophysics">{{cite web
 |title=Merriam-Webster Online
 |work=Results for "astrophysics"
 |url=http://www.m-w.com/dictionary/astrophysics
-|accessdate=20 June 2007 }}</ref> In some cases, as in the introduction of the introductory textbook ''The Physical Universe'' by [[Frank Shu]], "astronomy" may be used to describe the qualitative study of the subject, whereas "astrophysics" is used to describe the physics-oriented version of the subject.<ref name="shu1982">{{cite book
+|accessdate=2007-06-20 }}</ref> In some cases, as in the introduction of the introductory textbook ''The Physical Universe'' by [[Frank Shu]], "astronomy" may be used to describe the qualitative study of the subject, whereas "astrophysics" is used to describe the physics-oriented version of the subject.<ref name="shu1982">{{cite book
 |first = F. H. |last=Shu
 |title = The Physical Universe
 |publisher = University Science Books
@@ -53,12 +52,12 @@ Generally, either the term "astronomy" or "astrophysics" may be used to refer to
 
 在望遠鏡發明之前，人們只能用肉眼觀察夜空。在[[美索不達米亞]]、[[古希臘]]、[[波斯]]、[[印度]]、[[中國]]、[[古埃及]]和[[瑪雅文明|中美洲]]等地，人們開始建造天文台，思索宇宙的本質。早期天文學以記錄恆星和行星在天上的位置為主，今天這項範疇稱為[[天體測量學]]。在這些觀測的基礎上，開始萌發出有關行星的運動、日月地在宇宙中的地位等的哲學思想。不少文化把地球視為宇宙的中心，日月星辰皆繞地球旋轉，是為[[地心說]]。<ref>{{cite book|last=DeWitt|first=Richard|title=Worldviews: An Introduction to the History and Philosophy of Science|date=2010|publisher=Wiley|location=Chichester, England|isbn=1-4051-9563-0|page=113|chapter=The Ptolemaic System}}</ref>
 
-[[巴比倫天文學|巴比倫人]]是最早利用數學和科學方法研究天象的文化，這為日後其他文化的天文研究奠下了基礎。<ref>{{cite journal|title=Scientific Astronomy in Antiquity|author=Aaboe, A. |journal=[[Philosophical Transactions of the Royal Society]]|volume=276|issue=1257|date=1974|pages=21–42|jstor=74272|doi=10.1098/rsta.1974.0007|bibcode = 1974RSPTA.276...21A }}</ref>例如，巴比倫人發現[[月食]]會週期性發生，他們稱之為[[沙羅週期]]。<ref>{{cite web|url=http://sunearth.gsfc.nasa.gov/eclipse/SEsaros/SEsaros.html |title=Eclipses and the Saros |publisher=NASA |accessdate=28 October 2007 |archiveurl=https://web.archive.org/web/20071030225501/http://sunearth.gsfc.nasa.gov/eclipse/SEsaros/SEsaros.html |archivedate=30 October 2007 |deadurl=yes |df=dmy }}</ref>
+[[巴比倫天文學|巴比倫人]]是最早利用數學和科學方法研究天象的文化，這為日後其他文化的天文研究奠下了基礎。<ref>{{cite journal|title=Scientific Astronomy in Antiquity|author=Aaboe, A. |journal=[[自然科學會報|Philosophical Transactions of the Royal Society]]|volume=276|issue=1257|date=1974|pages=21–42|jstor=74272|doi=10.1098/rsta.1974.0007|bibcode = 1974RSPTA.276...21A }}</ref>例如，巴比倫人發現[[月食]]會週期性發生，他們稱之為[[沙羅週期]]。<ref>{{cite web|url=http://sunearth.gsfc.nasa.gov/eclipse/SEsaros/SEsaros.html |title=Eclipses and the Saros |publisher=NASA |accessdate=2007-10-28 |archiveurl=https://web.archive.org/web/20071030225501/http://sunearth.gsfc.nasa.gov/eclipse/SEsaros/SEsaros.html |archivedate=2007-10-30 |deadurl=yes}}</ref>
 [[File:AiKhanoumSunDial.jpg|thumb|upright|前3至前2世紀古希臘赤道式[[日晷]]，今阿富汗{{le|阿伊-哈努姆|Alexandria on the Oxus}}出土]]
 
-接著巴比倫人研究天象的還有[[古希臘]]文化。[[古希臘天文學]]的特點在於用理性、基於現實的方法來解釋天文現象。<ref>{{Cite book| last = Krafft| first = Fritz| date = 2009| contribution = Astronomy| editor-last = Cancik| editor-first = Hubert| editor2-last = Schneider| editor2-first = Helmuth| title = [[Brill's New Pauly]]| ref = harv}}</ref>公元前3世紀，[[阿里斯塔克斯]]對日月的大小和距離進行估算，發表《論日月之大小及距離》（{{lang-grc|Περὶ μεγεθῶν καὶ ἀποστημάτων ἡλίου καὶ σελήνης}}）一作，並首次提出[[太陽系]][[日心說]]。<ref>{{cite journal | title = Aristarchus's On the Sizes and Distances of the Sun and the Moon: Greek and Arabic Texts | journal = Archive for History of Exact Sciences | date = May 2007 | first = J.L. | last = Berrgren |author2= Nathan Sidoli | volume = 61 | issue = 3 | pages = 213–254 | doi = 10.1007/s00407-006-0118-4}}</ref>公元前2世紀，[[喜帕恰斯]]發現了[[歲差]]現象，對月球的大小和距離進行了估算，發明了世界上最早的天文儀器──[[星盤]]，<ref>{{cite web|url=http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Hipparchus.html|title=Hipparchus of Rhodes|last=|first=|date=|website=|publisher=School of Mathematics and Statistics, [[University of St Andrews]], Scotland|accessdate=28 October 2007|archiveurl=https://web.archive.org/web/20071023062202/http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Hipparchus.html|archivedate=23 October 2007 <!--DASHBot-->|deadurl=no}}</ref>還彙編了含1020顆星的詳細星表。<ref>Thurston, H., [https://books.google.com/books?id=rNpHjqxQQ9oC&pg=PA2 ''Early Astronomy.''] Springer, 1996. {{ISBN|0-387-94822-8}} p. 2</ref>[[安提基特拉機械]]（約前150至80年）是一部可計算日月行星在某一日的確切位置的[[模擬計算機]]。如此複雜的天文儀器，要等到14世紀歐洲人發明機械[[天文鐘]]後，才再次出現。<ref name=insearchoflosttime>{{cite journal|last1=Marchant|first1=Jo|title=In search of lost time|journal=Nature|volume=444|issue=7119|pages=534–8|date=2006|pmid=17136067|doi=10.1038/444534a|bibcode = 2006Natur.444..534M }}</ref>
+接著巴比倫人研究天象的還有[[古希臘]]文化。[[古希臘天文學]]的特點在於用理性、基於現實的方法來解釋天文現象。<ref>{{Cite book| last = Krafft| first = Fritz| date = 2009| contribution = Astronomy| editor-last = Cancik| editor-first = Hubert| editor2-last = Schneider| editor2-first = Helmuth| title = {{le|大保利古典學百科全書|Realencyclopädie der classischen Altertumswissenschaft|Brill's New Pauly}}| ref = harv}}</ref>公元前3世紀，[[阿里斯塔克斯]]對日月的大小和距離進行估算，發表《論日月之大小及距離》（{{lang-grc|Περὶ μεγεθῶν καὶ ἀποστημάτων ἡλίου καὶ σελήνης}}）一作，並首次提出[[太陽系]][[日心說]]。<ref>{{cite journal | title = Aristarchus's On the Sizes and Distances of the Sun and the Moon: Greek and Arabic Texts | journal = Archive for History of Exact Sciences | date = 2007-05 | first = J.L. | last = Berrgren |author2= Nathan Sidoli | volume = 61 | issue = 3 | pages = 213–254 | doi = 10.1007/s00407-006-0118-4}}</ref>公元前2世紀，[[喜帕恰斯]]發現了[[歲差]]現象，對月球的大小和距離進行了估算，發明了世界上最早的天文儀器──[[星盤]]，<ref>{{cite web|url=http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Hipparchus.html|title=Hipparchus of Rhodes|last=|first=|date=|website=|publisher=School of Mathematics and Statistics, [[聖安德魯斯大學|University of St Andrews]], Scotland|accessdate=2007-10-28|archiveurl=https://web.archive.org/web/20071023062202/http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Hipparchus.html|archivedate=2007-10-23|deadurl=no}}</ref>還彙編了含1020顆星的詳細星表。<ref>Thurston, H., [https://books.google.com/books?id=rNpHjqxQQ9oC&pg=PA2 ''Early Astronomy.''] Springer, 1996. {{ISBN|0-387-94822-8}} p. 2</ref>[[安提基特拉機械]]（約前150至80年）是一部可計算日月行星在某一日的確切位置的[[模擬計算機]]。如此複雜的天文儀器，要等到14世紀歐洲人發明機械[[天文鐘]]後，才再次出現。<ref name=insearchoflosttime>{{cite journal|last1=Marchant|first1=Jo|title=In search of lost time|journal=Nature|volume=444|issue=7119|pages=534–8|date=2006|pmid=17136067|doi=10.1038/444534a|bibcode = 2006Natur.444..534M }}</ref>
 
-[[中世紀]]期間（直到13世紀），歐洲天文學停滯不前。與此同時，伊斯蘭世界及其他文化的天文學則蓬勃發展（見[[中古伊斯蘭天文學]]）。9世紀初，伊斯蘭世界出現最早的[[天文台]]。<ref name="Kennedy-1962">{{Cite journal |last=Kennedy |first=Edward S. |date=1962 |title=Review: ''The Observatory in Islam and Its Place in the General History of the Observatory'' by Aydin Sayili |journal=[[Isis (journal)|Isis]] |volume=53 |issue=2 |pages=237–239 |doi=10.1086/349558 }}</ref><ref name="Micheau-992-3">{{Cite journal|last=Micheau|first=Francoise|year=|editor-last=Rashed|editor-first=Roshdi|editor2-last=Morelon|editor2-first=Régis|title=The Scientific Institutions in the Medieval Near East|url=|journal=Encyclopedia of the History of Arabic Science|volume=3|pages=992–3|via=}}</ref><ref>{{cite book |last=Nas |first=Peter J|title=Urban Symbolism|date=1993 |publisher=Brill Academic Publishers |isbn=90-04-09855-0|page=350}}</ref>964年，波斯天文學家[[阿卜杜勒-拉赫曼·蘇菲|阿左飛]]發現[[仙女座星系]]，[[本星系群]]中最大的星系，並記錄在《[[恆星之書]]》中。<ref name="NSOG">{{cite book |last= Kepple |first= George Robert |author2=Glen W. Sanner |title= The Night Sky Observer's Guide |volume= 1 |publisher= Willmann-Bell, Inc. |date= 1998 |isbn= 0-943396-58-1 |page=18}}</ref>1006年爆發的[[超新星]][[SN 1006]]是歷史記載中[[視星等]]最高的天體事件，埃及阿拉伯天文學家{{le|阿里·伊本·里德萬|Ali ibn Ridwan}}和[[中國天文學|中國天文學家]]都有記載。在伊斯蘭世界對天文學有較大貢獻的還有：[[巴塔尼]]、{{le|泰比特·伊本·奎拉|Thābit ibn Qurra|泰比特}}、{{le|阿布·馬沙爾|Abu Maʿshar}}、[[比魯尼]]、{{le|阿爾-宰尔嘎里|Abū Ishāq Ibrāhīm al-Zarqālī}}、{{le|阿爾-比利安蒂|Al-Birjandi}}，以及{{le|馬拉蓋天文台|Maragheh observatory}}和{{le|兀鲁伯天文台|Ulugh Beg}}等等。這段時期伊斯蘭天文學家對恆星的命名，有不少至今仍在西方通用。<ref name="short history">{{cite book|first=Arthur|last=Berry|title=A Short History of Astronomy From Earliest Times Through the 19th Century|publisher=Dover Publications, Inc.|location=New York|date=1961|isbn=0-486-20210-0}}</ref><ref name="Cambridge history">{{cite book|editor=Hoskin, Michael|title=The Cambridge Concise History of Astronomy|publisher=Cambridge University Press|date=1999|isbn = 0-521-57600-8}}</ref>考古學家相信，在[[大津巴布韋]]和[[廷巴克圖]]發現的建築遺跡<ref>{{cite book|url=https://books.google.com/?id=Pk-bZMS_KdUC&pg=PA103&lpg=PA103|title= The royal kingdoms of Ghana, Mali, and Songhay: life in medieval Africa|first=Pat|last= McKissack|author2=McKissack, Frederick|date=1995|publisher=H. Holt|isbn=978-0-8050-4259-7}}</ref>很有可能是天文台。<ref>{{cite journal|url=https://www.newscientist.com/article/dn3137-eclipse-brings-claim-of-medieval-african-observatory.html|title=Eclipse brings claim of medieval African observatory|date=2002|journal=New Scientist|accessdate=3 February 2010|last=Clark|first=Stuart|author2=Carrington, Damian }}</ref>
+[[中世紀]]期間（直到13世紀），歐洲天文學停滯不前。與此同時，伊斯蘭世界及其他文化的天文學則蓬勃發展（見[[中古伊斯蘭天文學]]）。9世紀初，伊斯蘭世界出現最早的[[天文台]]。<ref name="Kennedy-1962">{{Cite journal |last=Kennedy |first=Edward S. |date=1962 |title=Review: ''The Observatory in Islam and Its Place in the General History of the Observatory'' by Aydin Sayili |journal={{le|伊西斯 (期刊)|Isis (journal)|Isis}} |volume=53 |issue=2 |pages=237–239 |doi=10.1086/349558 }}</ref><ref name="Micheau-992-3">{{Cite journal|last=Micheau|first=Francoise|year=|editor-last=Rashed|editor-first=Roshdi|editor2-last=Morelon|editor2-first=Régis|title=The Scientific Institutions in the Medieval Near East|url=|journal=Encyclopedia of the History of Arabic Science|volume=3|pages=992–3|via=}}</ref><ref>{{cite book |last=Nas |first=Peter J|title=Urban Symbolism|date=1993 |publisher=Brill Academic Publishers |isbn=90-04-09855-0|page=350}}</ref>964年，波斯天文學家[[阿卜杜勒-拉赫曼·蘇菲|阿左飛]]發現[[仙女座星系]]，[[本星系群]]中最大的星系，並記錄在《[[恆星之書]]》中。<ref name="NSOG">{{cite book |last= Kepple |first= George Robert |author2=Glen W. Sanner |title= The Night Sky Observer's Guide |volume= 1 |publisher= Willmann-Bell, Inc. |date= 1998 |isbn= 0-943396-58-1 |page=18}}</ref>1006年爆發的[[超新星]][[SN 1006]]是歷史記載中[[視星等]]最高的天體事件，埃及阿拉伯天文學家{{le|阿里·伊本·里德萬|Ali ibn Ridwan}}和[[中國天文學|中國天文學家]]都有記載。在伊斯蘭世界對天文學有較大貢獻的還有：[[巴塔尼]]、{{le|泰比特·伊本·奎拉|Thābit ibn Qurra|泰比特}}、{{le|阿布·馬沙爾|Abu Maʿshar}}、[[比魯尼]]、{{le|阿爾-宰尔嘎里|Abū Ishāq Ibrāhīm al-Zarqālī}}、{{le|阿爾-比利安蒂|Al-Birjandi}}，以及{{le|馬拉蓋天文台|Maragheh observatory}}和{{le|兀鲁伯天文台|Ulugh Beg}}等等。這段時期伊斯蘭天文學家對恆星的命名，有不少至今仍在西方通用。<ref name="short history">{{cite book|first=Arthur|last=Berry|title=A Short History of Astronomy From Earliest Times Through the 19th Century|publisher=Dover Publications, Inc.|location=New York|date=1961|isbn=0-486-20210-0}}</ref><ref name="Cambridge history">{{cite book|editor=Hoskin, Michael|title=The Cambridge Concise History of Astronomy|publisher=Cambridge University Press|date=1999|isbn = 0-521-57600-8}}</ref>考古學家相信，在[[大津巴布韋]]和[[廷巴克圖]]發現的建築遺跡<ref>{{cite book|url=https://books.google.com/?id=Pk-bZMS_KdUC&pg=PA103&lpg=PA103|title= The royal kingdoms of Ghana, Mali, and Songhay: life in medieval Africa|first=Pat|last= McKissack|author2=McKissack, Frederick|date=1995|publisher=H. Holt|isbn=978-0-8050-4259-7}}</ref>很有可能是天文台。<ref>{{cite journal|url=https://www.newscientist.com/article/dn3137-eclipse-brings-claim-of-medieval-african-observatory.html|title=Eclipse brings claim of medieval African observatory|date=2002|journal=New Scientist|accessdate=2010-02-03|last=Clark|first=Stuart|author2=Carrington, Damian }}</ref>
 
 ===科學革命===
 [[File:Galileo moon phases.jpg|thumb|upright|[[伽利略]]對[[月球]]的素描。他發現月球表面佈滿了凹凸的山]]
@@ -67,18 +66,18 @@ Generally, either the term "astronomy" or "astrophysics" may be used to refer to
 
 [[約翰內斯·開普勒]]是最早用科學定律正確解釋日心說的科學家，但他無法解釋這些定律背後的科學原理。<ref>Forbes, 1909, pp. 49–58</ref>之後，[[伊薩克·牛頓]]發明[[天體力學]]和[[萬有引力|萬有引力定律]]，才從根本上解釋了行星的運行。反射望遠鏡也是由牛頓所發明。<ref name="f58-64">Forbes, 1909, pp. 58–64</ref>
 
-英國天文學家[[約翰·佛蘭斯蒂德]]彙編的星表收錄了超過3千顆恆星。<ref>Chambers, Robert (1864) ''[[Chambers Book of Days]]''</ref>隨著望遠鏡大小和質量的提高，天文學家陸續發現更多的星體和天文現象。法國天文學家[[尼可拉·路易·拉卡伊]]的星表收錄了將近1萬顆南天恆星。[[威廉·赫歇爾]]彙編了星雲、星團星表，並於1781年發現第七顆行星[[天王星]]。這是自遠古時期以來第一顆被發現的新行星。<ref>Forbes, 1909, pp. 79–81</ref>1838年，[[弗里德里希·威廉·貝塞爾]]利用[[視差]]原理測量[[天津增廿九]]的距離，是為首次成功測得恆星的距離。<ref>Forbes, 1909, pp. 147–150</ref>
+英國天文學家[[約翰·佛蘭斯蒂德]]彙編的星表收錄了超過3千顆恆星。<ref>Chambers, Robert (1864) ''Chambers Book of Days''</ref>隨著望遠鏡大小和質量的提高，天文學家陸續發現更多的星體和天文現象。法國天文學家[[尼可拉·路易·拉卡伊]]的星表收錄了將近1萬顆南天恆星。[[威廉·赫歇爾]]彙編了星雲、星團星表，並於1781年發現第七顆行星[[天王星]]。這是自遠古時期以來第一顆被發現的新行星。<ref>Forbes, 1909, pp. 79–81</ref>1838年，[[弗里德里希·威廉·貝塞爾]]利用[[視差]]原理測量[[天津增廿九]]的距離，是為首次成功測得恆星的距離。<ref>Forbes, 1909, pp. 147–150</ref>
 
 18至19世紀，[[李安納·歐拉]]、[[亞歷克西斯·克勞德·克萊羅]]、[[讓·勒朗·達朗貝爾]]研究[[三體問題]]，對月球和行星的運行作出了更準確的預測。[[約瑟夫·拉格朗日]]和[[皮耶爾-西蒙·拉普拉斯]]在此基礎上，從衛星和行星的軌道擾動推算出它們的質量。<ref>Forbes, 1909, pp. 74–76</ref>
 
 在[[光譜儀]]和[[天文攝影]]等新技術出現之後，天文學有了飛快的發展。1814至15年，[[約瑟夫·夫琅和費]]在太陽的光譜當中觀察到大約600條譜線。[[古斯塔夫·基爾霍夫]]在1859年解釋，這些譜線是由不同[[化學元素]]產生的。人們發現，恆星其實類似於太陽，只不過有著不同的溫度、質量和大小。<ref name="short history" />
 
-到了20世紀，科學家才認識到地球所身處的[[銀河系]]是一個獨立的星系，並且在銀河系外還存在別的星系。這些星系都在遠離銀河系，科學家以此發現[[宇宙]]正在膨脹。<ref name=Belkora2003>{{cite book|author=Belkora, Leila|title=Minding the heavens: the story of our discovery of the Milky Way|isbn=978-0-7503-0730-7|url=https://books.google.com/?id=qBM-wez94WwC&printsec=frontcover|publisher=[[CRC Press]]|date=2003|pages=1–14}}</ref>奇異的星體現象陸續被發現，如[[類星體]]、[[脈衝星]]、[[耀變體]]和[[電波星系]]等。理論天文學家則提出[[黑洞]]、[[中子星]]等天體來解釋這些觀測現象。[[物理宇宙學]]也在20世紀蓬勃發展，其中的[[大爆炸|大爆炸理論]]，已得到[[宇宙微波背景輻射]]、[[哈勃定律]]以及[[太初核合成|宇宙化學元素豐度]]的充分支持。[[太空望遠鏡]]的發射意味著，科學家能夠通過電磁波譜中一般被大氣層所遮掩的部分來觀察宇宙。2016年，[[雷射干涉引力波天文台]]（LIGO）宣佈首次直接探測到源自黑洞碰撞的[[引力波]]訊號，展開了以引力波作天文觀測的時代。
+到了20世紀，科學家才認識到地球所身處的[[銀河系]]是一個獨立的星系，並且在銀河系外還存在別的星系。這些星系都在遠離銀河系，科學家以此發現[[宇宙]]正在膨脹。<ref name=Belkora2003>{{cite book|author=Belkora, Leila|title=Minding the heavens: the story of our discovery of the Milky Way|isbn=978-0-7503-0730-7|url=https://books.google.com/?id=qBM-wez94WwC&printsec=frontcover|publisher=CRC Press|date=2003|pages=1–14}}</ref>奇異的星體現象陸續被發現，如[[類星體]]、[[脈衝星]]、[[耀變體]]和[[電波星系]]等。理論天文學家則提出[[黑洞]]、[[中子星]]等天體來解釋這些觀測現象。[[物理宇宙學]]也在20世紀蓬勃發展，其中的[[大爆炸|大爆炸理論]]，已得到[[宇宙微波背景輻射]]、[[哈勃定律]]以及[[太初核合成|宇宙化學元素豐度]]的充分支持。[[太空望遠鏡]]的發射意味著，科學家能夠通過電磁波譜中一般被大氣層所遮掩的部分來觀察宇宙。2016年，[[雷射干涉引力波天文台]]（LIGO）宣佈首次直接探測到源自黑洞碰撞的[[引力波]]訊號，展開了以引力波作天文觀測的時代。
 
 ==觀測天文學==
 {{Main article|觀測天文學}}
 
-[[光]]，乃至[[電磁輻射]]，是人類對天象的主要觀測途徑。<ref>{{cite web|url=http://imagine.gsfc.nasa.gov/docs/science/know_l1/emspectrum.html|title=Electromagnetic Spectrum|last=|first=|date=|website=|publisher=NASA|accessdate=17 November 2016|archiveurl=https://web.archive.org/web/20060905131651/http://imagine.gsfc.nasa.gov/docs/science/know_l1/emspectrum.html|archivedate=5 September 2006 <!--DASHBot-->|deadurl=yes}}</ref>觀測天文學的不同領域可依[[電磁波譜]]的區域所分，其中有的波長可從地球表面觀測，有的則須要在高海拔甚至在地球大氣層以外才能有效觀測。
+[[光]]，乃至[[電磁輻射]]，是人類對天象的主要觀測途徑。<ref>{{cite web|url=http://imagine.gsfc.nasa.gov/docs/science/know_l1/emspectrum.html|title=Electromagnetic Spectrum|last=|first=|date=|website=|publisher=NASA|accessdate=2016-11-17|archiveurl=https://web.archive.org/web/20060905131651/http://imagine.gsfc.nasa.gov/docs/science/know_l1/emspectrum.html|archivedate=2006-09-05|deadurl=yes}}</ref>觀測天文學的不同領域可依[[電磁波譜]]的區域所分，其中有的波長可從地球表面觀測，有的則須要在高海拔甚至在地球大氣層以外才能有效觀測。
 
 ===射電天文學===
 [[File:USA.NM.VeryLargeArray.02.jpg|thumb|美國[[新墨西哥州]]的[[甚大天線陣]]屬於[[射電望遠鏡]]]]
@@ -99,13 +98,13 @@ Generally, either the term "astronomy" or "astrophysics" may be used to refer to
 
 ===紅外天文學===
 {{Main article|紅外天文學}}
-[[File:In Search of Space.jpg|thumb|智利的[[阿塔卡馬大型毫米波/次毫米波陣列]]（ALMA）是地球上海拔最高的天文台之一<ref>{{cite news|title=In Search of Space|url=http://www.eso.org/public/images/potw1431a/|accessdate=5 August 2014|work=Picture of the Week|agency=European Southern Observatory}}</ref>]]
-紅外天文學通過[[紅外輻射]]進行天文觀測，此類輻射的波長比紅光更長，位於人類肉眼的觀測範圍以外。紅外天文學能最有效觀測溫度較低、無法發出可見光的天體，例如[[行星]]、[[星周盤]]及光線被塵埃遮蔽的[[星雲]]等。紅外輻射的波長較可見光長，所以可以穿透可見光所無法穿透的塵埃雲，有助於研究[[分子雲]]深處的年輕恆星和星系核。例如，[[廣域紅外線巡天探測衛星]]（WISE）已成功觀測到多個銀河系內的[[原恆星]]和這些恆星所在的[[星團]]。<ref name="wright">{{cite web|url=http://wise.ssl.berkeley.edu/|title=Wide-field Infrared Survey Explorer Mission|last=|first=|date=30 September 2014|publisher=[[NASA]][[University of California, Berkeley]]|access-date=17 November 2016}}</ref><ref name=ma2013>Majaess, D. (2013). [http://adsabs.harvard.edu/abs/2013Ap%26SS.344..175M ''Discovering protostars and their host clusters via WISE''], ApSS, 344, 1 ([http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=J%2Fother%2FApSS%2F344%2E175 ''VizieR catalog''])</ref>除了十分接近可見光的紅外光以外，大部分紅外輻射都會被[[地球大氣層]]吸收；大氣本身也會產生較強的紅外輻射，進一步影響觀測。因此，紅外天文台都必須在海拔高、濕度低的地點建造，甚至是作為衛星發射到太空。<ref>{{cite news
-|author=Staff|date=11 September 2003
+[[File:In Search of Space.jpg|thumb|智利的[[阿塔卡馬大型毫米波/次毫米波陣列]]（ALMA）是地球上海拔最高的天文台之一<ref>{{cite news|title=In Search of Space|url=http://www.eso.org/public/images/potw1431a/|accessdate=2014-08-05|work=Picture of the Week|agency=European Southern Observatory}}</ref>]]
+紅外天文學通過[[紅外輻射]]進行天文觀測，此類輻射的波長比紅光更長，位於人類肉眼的觀測範圍以外。紅外天文學能最有效觀測溫度較低、無法發出可見光的天體，例如[[行星]]、[[星周盤]]及光線被塵埃遮蔽的[[星雲]]等。紅外輻射的波長較可見光長，所以可以穿透可見光所無法穿透的塵埃雲，有助於研究[[分子雲]]深處的年輕恆星和星系核。例如，[[廣域紅外線巡天探測衛星]]（WISE）已成功觀測到多個銀河系內的[[原恆星]]和這些恆星所在的[[星團]]。<ref name="wright">{{cite web|url=http://wise.ssl.berkeley.edu/|title=Wide-field Infrared Survey Explorer Mission|last=|first=|date=2014-09-30|publisher=[[NASA]][[University of California, Berkeley]]|access-date=2016-11-17}}</ref><ref name=ma2013>Majaess, D. (2013). [http://adsabs.harvard.edu/abs/2013Ap%26SS.344..175M ''Discovering protostars and their host clusters via WISE''], ApSS, 344, 1 ([http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=J%2Fother%2FApSS%2F344%2E175 ''VizieR catalog''])</ref>除了十分接近可見光的紅外光以外，大部分紅外輻射都會被[[地球大氣層]]吸收；大氣本身也會產生較強的紅外輻射，進一步影響觀測。因此，紅外天文台都必須在海拔高、濕度低的地點建造，甚至是作為衛星發射到太空。<ref>{{cite news
+|author=Staff|date=2003-09-11
 |title=Why infrared astronomy is a hot topic
 |publisher=ESA
 |url=http://www.esa.int/esaCP/SEMX9PZO4HD_FeatureWeek_0.html
-|accessdate=11 August 2008 }}</ref>個別分子在紅外輻射範圍有較強的譜線，這有助於研究天體的化學成分，如[[彗星]]所含的[[水]]。<ref>{{cite news|url=http://www.ipac.caltech.edu/Outreach/Edu/Spectra/irspec.html|title=Infrared Spectroscopy – An Overview|last=|first=|date=|work=|publisher=[[NASA]] [[California Institute of Technology]]|via=|accessdate=11 August 2008|deadurl=yes|archiveurl=https://web.archive.org/web/20081005031543/http://www.ipac.caltech.edu/Outreach/Edu/Spectra/irspec.html|archivedate=5 October 2008|df=dmy-all}}</ref>
+|accessdate=2008-08-11 }}</ref>個別分子在紅外輻射範圍有較強的譜線，這有助於研究天體的化學成分，如[[彗星]]所含的[[水]]。<ref>{{cite news|url=http://www.ipac.caltech.edu/Outreach/Edu/Spectra/irspec.html|title=Infrared Spectroscopy – An Overview|last=|first=|date=|work=|publisher=[[NASA]] [[California Institute of Technology]]|via=|accessdate=2008-08-11|deadurl=yes|archiveurl=https://web.archive.org/web/20081005031543/http://www.ipac.caltech.edu/Outreach/Edu/Spectra/irspec.html|archivedate=2008-10-05}}</ref>
 
 ===可見光天文學===
 [[File:The Keck Subaru and Infrared obervatories.JPG|thumb|[[毛納基火山]]上的[[昴星團望遠鏡]]（左）和[[凱克天文台]]（中）在近紅外和可見光範圍觀測。{{le|美國太空總署望遠鏡|NASA Infrared Telescope Facility}}（右）只在近紅外範圍觀測。]]
@@ -130,7 +129,7 @@ X射線天文學在[[X射線]]範圍觀測天體。宇宙中的X射線來自於[
 
 ===伽馬射線天文學===
 {{Main article|伽馬射線天文學}}
-伽馬射線天文學所觀測的是電磁波譜中波長最短的輻射。[[伽馬射線]]可通過[[康普頓伽瑪射線天文台]]等衛星或{{le|大氣切倫科夫實驗|IACT|大氣切倫科夫望遠鏡}}來觀測。<ref name="cox2000"/>切倫科夫望遠鏡不直接探測伽馬射線，而是觀測大氣吸收伽馬射線時所產生的可見光閃光。<ref name="spectrum">{{cite web|url=http://www.pparc.ac.uk/frontiers/latest/feature.asp?article=14F1&style=feature|title=The electromagnetic spectrum|last=Penston|first=Margaret J.|date=14 August 2002|website=|publisher=Particle Physics and Astronomy Research Council|archive-url=https://archive.is/20120908014227/http://www.pparc.ac.uk/frontiers/latest/feature.asp?article=14F1&style=feature|archive-date=8 September 2012|dead-url=yes|accessdate=17 November 2016}}</ref>
+伽馬射線天文學所觀測的是電磁波譜中波長最短的輻射。[[伽馬射線]]可通過[[康普頓伽瑪射線天文台]]等衛星或{{le|大氣切倫科夫實驗|IACT|大氣切倫科夫望遠鏡}}來觀測。<ref name="cox2000"/>切倫科夫望遠鏡不直接探測伽馬射線，而是觀測大氣吸收伽馬射線時所產生的可見光閃光。<ref name="spectrum">{{cite web|url=http://www.pparc.ac.uk/frontiers/latest/feature.asp?article=14F1&style=feature|title=The electromagnetic spectrum|last=Penston|first=Margaret J.|date=2002-08-14|website=|publisher=Particle Physics and Astronomy Research Council|archive-url=https://archive.is/20120908014227/http://www.pparc.ac.uk/frontiers/latest/feature.asp?article=14F1&style=feature|archive-date=2012-09-08|dead-url=yes|accessdate=2016-11-17}}</ref>
 
 [[伽馬射線暴]]是突然發出伽馬射線的天體，持續時間從幾毫秒到幾千秒不等，大部分伽馬射線源都屬於此類。只有一成的伽馬射線源為持續性射源，這包括脈衝星、[[中子星]]及活動星系核等可能為[[黑洞]]的天體。<ref name="cox2000"/>
 
@@ -142,18 +141,18 @@ X射線天文學在[[X射線]]範圍觀測天體。宇宙中的X射線來自於[
 |title=Cosmic Rays and Particle Physics|pages=1–2
 |publisher=Cambridge University Press|isbn=0-521-33931-6}}</ref>未來的中微子探測器能力將會提高，有望探測到宇宙射線衝擊大氣時所發出的粒子。<ref name="cox2000"/>
 
-[[引力波天文學]]通過觀測[[引力波]]來研究遙遠的大質量天體，是一門新興的天文學領域。[[雷射干涉引力波天文台]]（LIGO）是其中一座正在運行的[[引力波探測器]]，它在2015年9月14日探測到歷史上[[GW150914|首個引力波訊號]]，訊號源自[[雙黑洞]]。<ref name="PRL-20160211">{{cite journal | collaboration = LIGO Scientific Collaboration and Virgo Collaboration | last1 = Abbott | first1 = Benjamin P.  |title=Observation of Gravitational Waves from a Binary Black Hole Merger |url=http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102 |journal=[[Phys. Rev. Lett.]] |volume=116 | issue = 6 |pages=061102 |year=2016 |doi=10.1103/PhysRevLett.116.061102 | arxiv=1602.03837|bibcode = 2016PhRvL.116f1102A | pmid=26918975}}</ref>2017年，LIGO和[[室女座干涉儀]]共同探測到首個來自[[雙中子星]]（[[GW170817]]）的引力波訊號。<ref>{{cite journal |date=2017 |title=Multi-messenger Observations of a Binary Neutron Star Merger |url=http://iopscience.iop.org/article/10.3847/2041-8213/aa91c9/meta |journal=The Astrophysical Journal Letters|volume=848 |issue=2 |pages=L12 |accessdate=16 October 2017}}</ref>
+[[引力波天文學]]通過觀測[[引力波]]來研究遙遠的大質量天體，是一門新興的天文學領域。[[雷射干涉引力波天文台]]（LIGO）是其中一座正在運行的[[引力波探測器]]，它在2015年9月14日探測到歷史上[[GW150914|首個引力波訊號]]，訊號源自[[雙黑洞]]。<ref name="PRL-20160211">{{cite journal | author = LIGO Scientific Collaboration and Virgo Collaboration |title=Observation of Gravitational Waves from a Binary Black Hole Merger |url=http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102 |journal=[[物理評論快報|Phys. Rev. Lett.]] |volume=116 | issue = 6 |pages=061102 |year=2016 |doi=10.1103/PhysRevLett.116.061102 | arxiv=1602.03837|bibcode = 2016PhRvL.116f1102A | pmid=26918975}}</ref>2017年，LIGO和[[室女座干涉儀]]共同探測到首個來自[[雙中子星]]（[[GW170817]]）的引力波訊號。<ref>{{cite journal |date=2017 |title=Multi-messenger Observations of a Binary Neutron Star Merger |url=http://iopscience.iop.org/article/10.3847/2041-8213/aa91c9/meta |journal=The Astrophysical Journal Letters|volume=848 |issue=2 |pages=L12 |accessdate=2017-10-16}}</ref>
 
-科學家可結合電磁輻射、中微子和引力波等不同方法研究同一個天體，這種做法稱為{{le|多元訊息天文學|multi-messenger astronomy}}。<ref>{{cite web|title=Planning for a bright tomorrow: Prospects for gravitational-wave astronomy with Advanced LIGO and Advanced Virgo|url=http://www.ligo.org/science/Publication-ObservingScenario/index.php|publisher=[[LIGO Scientific Collaboration]]|accessdate=31 December 2015}}</ref><ref>{{cite book |title=Neutrinos in Particle Physics, Astronomy and Cosmology |first1=Zhizhong |last1=Xing |first2=Shun |last2=Zhou |publisher=Springer |date=2011 |isbn=3642175600 |page=313 |url=https://books.google.com/books?id=6QXqlCHLjJkC}} [https://books.google.com/books?id=6QXqlCHLjJkC&pg=PA313 Extract of page 313]</ref>
+科學家可結合電磁輻射、中微子和引力波等不同方法研究同一個天體，這種做法稱為{{le|多元訊息天文學|multi-messenger astronomy}}。<ref>{{cite web|title=Planning for a bright tomorrow: Prospects for gravitational-wave astronomy with Advanced LIGO and Advanced Virgo|url=http://www.ligo.org/science/Publication-ObservingScenario/index.php|publisher=[[LIGO|LIGO Scientific Collaboration]]|accessdate=2015-12-31}}</ref><ref>{{cite book |title=Neutrinos in Particle Physics, Astronomy and Cosmology |first1=Zhizhong |last1=Xing |first2=Shun |last2=Zhou |publisher=Springer |date=2011 |isbn=3642175600 |page=313 |url=https://books.google.com/books?id=6QXqlCHLjJkC}} [https://books.google.com/books?id=6QXqlCHLjJkC&pg=PA313 Extract of page 313]</ref>
 
 ===天體測量學與天體力學===
 {{Main article|天體測量學|天體力學}}
 [[File:EmissionNebula NGC6357.jpg|right|thumb|[[NGC 6357]]星團和星雲]]
 天文學乃至所有科學中最古老的一個領域，是對各天體位置的測量。在歷史上，準確測量日、月、行星、恆星的位置，有[[天文航海]]和制訂[[曆法]]等作用。
 
-18世紀開始，天文學家以精確測定的行星位置作為基礎，發展出完善的引力[[攝動理論]]，可以極精確地推算過去和未來的行星位置。這門學科稱為[[天體力學]]。今天，科學家對[[近地天體]]進行大規模追蹤，目的是預測這些天體何時會近距離略過地球以及評估與地球相撞的風險。<ref>{{cite web|last = Calvert|first = James B.|date = 28 March 2003|url=http://www.du.edu/~jcalvert/phys/orbits.htm|title = Celestial Mechanics|publisher = University of Denver|accessdate =21 August 2006| archiveurl= https://web.archive.org/web/20060907120741/http://www.du.edu/~jcalvert/phys/orbits.htm| archivedate= 7 September 2006 <!--DASHBot-->| deadurl= no}}</ref>
+18世紀開始，天文學家以精確測定的行星位置作為基礎，發展出完善的引力[[攝動理論]]，可以極精確地推算過去和未來的行星位置。這門學科稱為[[天體力學]]。今天，科學家對[[近地天體]]進行大規模追蹤，目的是預測這些天體何時會近距離略過地球以及評估與地球相撞的風險。<ref>{{cite web|last = Calvert|first = James B.|date = 2003-03-28|url=http://www.du.edu/~jcalvert/phys/orbits.htm|title = Celestial Mechanics|publisher = University of Denver|accessdate =2006-08-21| archiveurl= https://web.archive.org/web/20060907120741/http://www.du.edu/~jcalvert/phys/orbits.htm| archivedate= 2006-09-07| deadurl= no}}</ref>
 
-太陽系周邊恆星的[[恆星視差|視差]]是[[宇宙距離尺度]]的起始點。在用視差測量附近恆星的距離後，可以通過比對，推測遙遠恆星的各種屬性。通過測量恆星的[[徑向速度]]和[[自行]]，天文學家可以繪出銀河系內恆星的運行軌跡，從而算出銀河系[[暗物質]]的分佈。<ref>{{cite web|url=http://www.astro.virginia.edu/~rjp0i/museum/engines.html|title=Hall of Precision Astrometry|last=|first=|date=|website=|publisher=[[University of Virginia]] Department of Astronomy|accessdate=17 November 2016|archiveurl=https://web.archive.org/web/20060826104509/http://www.astro.virginia.edu/~rjp0i/museum/engines.html|archivedate=26 August 2006 <!--DASHBot-->|deadurl=yes}}</ref>
+太陽系周邊恆星的[[恆星視差|視差]]是[[宇宙距離尺度]]的起始點。在用視差測量附近恆星的距離後，可以通過比對，推測遙遠恆星的各種屬性。通過測量恆星的[[徑向速度]]和[[自行]]，天文學家可以繪出銀河系內恆星的運行軌跡，從而算出銀河系[[暗物質]]的分佈。<ref>{{cite web|url=http://www.astro.virginia.edu/~rjp0i/museum/engines.html|title=Hall of Precision Astrometry|last=|first=|date=|website=|publisher=[[弗吉尼亞大學|University of Virginia]] Department of Astronomy|accessdate=2016-11-17|archiveurl=https://web.archive.org/web/20060826104509/http://www.astro.virginia.edu/~rjp0i/museum/engines.html|archivedate=2006-08-26|deadurl=yes}}</ref>
 
 1990年代，天文學家開始利用[[多普勒光譜學]]觀察太陽系周邊恆星的擺動。這種方法可以用來發現一些較大的[[系外行星]]（詳見[[系外行星偵測法#天體測量|系外行星偵測法]]）。<ref name="Wolszczan">{{cite journal| author=Wolszczan, A.| author2=Frail, D. A.| title=A planetary system around the millisecond pulsar PSR1257+12| journal=Nature| date=1992| volume=355| issue=6356|pages=145–147| doi= 10.1038/355145a0| ref=harv| bibcode=1992Natur.355..145W}}</ref>
 
@@ -161,7 +160,7 @@ X射線天文學在[[X射線]]範圍觀測天體。宇宙中的X射線來自於[
 {{Main article|理論天文學}}
 理論天文學家的研究手段包括[[數學模型]]及用電腦做[[數值分析|數值模擬]]，兩者各有千秋。數學模型一般能揭示天文現象背後更深層次的原理，數值模擬則可以演示現實中難以觀察的現象。<ref>{{cite journal|first=H.|last=Roth|title=A Slowly Contracting or Expanding Fluid Sphere and its Stability|journal=Physical Review |volume=39|issue=3|pages=525–529|date=1932|doi=10.1103/PhysRev.39.525|bibcode = 1932PhRv...39..525R }}</ref><ref>{{cite book|first=A.S.|last=Eddington|title=Internal Constitution of the Stars|publisher=Cambridge University Press|date=1926|url=https://books.google.com/?id=hJW3JbhnFQMC&pg=PA182|isbn=978-0-521-33708-3}}</ref>
 
-Theorists in astronomy endeavor to create theoretical models and from the results predict observational consequences of those models. The observation of a phenomenon predicted by a model allows astronomers to select between several alternate or conflicting models as the one best able to describe the phenomena.
+<!--Theorists in astronomy endeavor to create theoretical models and from the results predict observational consequences of those models. The observation of a phenomenon predicted by a model allows astronomers to select between several alternate or conflicting models as the one best able to describe the phenomena.
 
 Theorists also try to generate or modify models to take into account new data. In the case of an inconsistency between the data and model's results, the general tendency is to try to make minimal modifications to the model so that it produces results that fit the data. In some cases, a large amount of inconsistent data over time may lead to total abandonment of a model.
 
@@ -173,44 +172,44 @@ A few examples of this process:
 
 {| class="wikitable"
 |-
-| |<!-- A --> '''Physical process'''
-| |<!-- B --> '''Experimental tool'''
-| |<!-- C --> '''Theoretical model'''
-| |<!-- D --> '''Explains/predicts'''
+| | '''Physical process'''
+| | '''Experimental tool'''
+| | '''Theoretical model'''
+| | '''Explains/predicts'''
 |-
-| |<!-- A -->[[Gravitation]]
-| |<!-- B -->[[Radio telescope]]s
-| |<!-- C -->[[Nordtvedt effect|Self-gravitating system]]
-| |<!-- D -->Emergence of a [[star system]]
+| |[[Gravitation]]
+| |[[Radio telescope]]s
+| |[[Nordtvedt effect|Self-gravitating system]]
+| |Emergence of a [[star system]]
 |-
-| |<!-- A --> [[Nuclear fusion]]
-| |<!-- B --> [[Spectroscopy]]
-| |<!-- C --> [[Stellar evolution]]
-| |<!-- D --> How the stars shine and how [[nucleosynthesis|metals formed]]
+| | [[Nuclear fusion]]
+| | [[Spectroscopy]]
+| | [[Stellar evolution]]
+| | How the stars shine and how [[nucleosynthesis|metals formed]]
 |-
-| |<!-- A -->[[The Big Bang]]
-| |<!-- B -->[[Hubble Space Telescope]], [[Cosmic Background Explorer|COBE]]
-| |<!-- C --> [[Expanding universe]]
-| |<!-- D --> [[Age of the Universe]]
+| |[[The Big Bang]]
+| |[[Hubble Space Telescope]], [[Cosmic Background Explorer|COBE]]
+| | [[Expanding universe]]
+| | [[Age of the Universe]]
 |-
-| |<!-- A --> [[Quantum fluctuation]]s
-| |<!-- B -->
-| |<!-- C --> [[Cosmic inflation]]
-| |<!-- D --> [[Flatness problem]]
+| | [[Quantum fluctuation]]s
+| |
+| | [[Cosmic inflation]]
+| | [[Flatness problem]]
 |-
-| |<!-- A --> [[Gravitational collapse]]
-| |<!-- B --> [[X-ray astronomy]]
-| |<!-- C --> [[General relativity]]
-| |<!-- D --> [[Black hole]]s at the center of [[Andromeda galaxy]]
+| | [[Gravitational collapse]]
+| | [[X-ray astronomy]]
+| | [[General relativity]]
+| | [[Black hole]]s at the center of [[Andromeda galaxy]]
 |-
-| |<!-- A --> [[CNO cycle]] in stars
-| |<!-- B -->
-| |<!-- C -->
-| |<!-- D --> The dominant source of energy for massive star.
+| | [[CNO cycle]] in stars
+| |
+| |
+| | The dominant source of energy for massive star.
 |}
 
-[[Dark matter]] and [[dark energy]] are the current leading topics in astronomy,<ref>{{cite web|url=http://imagine.gsfc.nasa.gov/docs/science/know_l1/dark_matter.html|quote=third paragraph, "There is currently much ongoing research by scientists attempting to discover exactly what this dark matter is"|accessdate=2 November 2009|publisher=NASA|title=Dark matter|date=2010| archiveurl= https://web.archive.org/web/20091030022817/http://imagine.gsfc.nasa.gov/docs/science/know_l1/dark_matter.html| archivedate= 30 October 2009 <!--DASHBot-->| deadurl= no}}</ref> as their discovery and controversy originated during the study of the galaxies.
-
+[[Dark matter]] and [[dark energy]] are the current leading topics in astronomy,<ref>{{cite web|url=http://imagine.gsfc.nasa.gov/docs/science/know_l1/dark_matter.html|quote=third paragraph, "There is currently much ongoing research by scientists attempting to discover exactly what this dark matter is"|accessdate=2009-11-02|publisher=NASA|title=Dark matter|date=2010| archiveurl= https://web.archive.org/web/20091030022817/http://imagine.gsfc.nasa.gov/docs/science/know_l1/dark_matter.html| archivedate= 2009-10-30| deadurl= no}}</ref> as their discovery and controversy originated during the study of the galaxies.
+-->
 ==具體分支==
 
 ===太陽天文學===
@@ -218,21 +217,28 @@ A few examples of this process:
 [[File:Observatórium Lomnický štít 1.jpg|thumb|斯洛伐克[[洛姆尼茨基山]]太陽天文台]]
 {{Main article|太陽}}
 {{See also|太陽望遠鏡}}
-[[太陽]]離地球8[[光分]]，是距離地球最近，也是天文研究最為關注的恆星。太陽是一顆典型的[[主序星|主序]][[矮星]]，屬於[[恆星分類|G2 V類]]，年齡約有46億年。雖然太陽不是一顆[[變星]]，但[[沃夫數|太陽粒子數]]會上下波動，每11年為一[[太陽週期]]。太陽粒子是太陽表面上溫度較平均低的區域，一般有強烈的磁場活動。<ref name="solar FAQ">{{cite web|url=http://www.talkorigins.org/faqs/faq-solar.html|title=The Solar FAQ|last=Johansson|first=Sverker|authorlink=Sverker Johansson|date=27 July 2003|website=|publisher=Talk.Origins Archive|accessdate=11 August 2006|archiveurl=https://web.archive.org/web/20060907235636/http://www.talkorigins.org/faqs/faq-solar.html|archivedate=7 September 2006 <!--DASHBot-->|deadurl=no}}</ref>
+[[太陽]]離地球8[[光分]]，是距離地球最近，也是天文研究最為關注的恆星。太陽是一顆典型的[[主序星|主序]][[矮星]]，屬於[[恆星分類|G2V類]]，年齡約有46億年。<ref>{{cite book|last=Zombeck|first=Martin V.|date=1990|title=Handbook of Space Astronomy and Astrophysics 2nd edition|publisher=[[劍橋大學出版社|Cambridge University Press]]|url=http://ads.harvard.edu/books/hsaa/}}</ref>雖然太陽不是一顆[[變星]]，但[[沃夫數|太陽粒子數]]會上下波動，每11年為一[[太陽週期]]。太陽粒子是太陽表面上溫度較平均低的區域，一般有強烈的磁場活動。<ref name="Zirker2002-119">{{Cite book
+ |last=Zirker |first=J. B.
+ |date=2002
+ |title=Journey from the Center of the Sun
+ |pages=119–120
+ |publisher=[[普林斯頓大學出版社|Princeton University Press]]
+ |isbn=978-0-691-05781-1
+}}</ref>
 
-自進入主序至今，太陽的亮度已增加了40%，期間它的亮度有過週期性波動，對地球上的氣候有著極大的影響。<ref name="Environmental issues : essential primary sources.">{{cite web|url=http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2006000857&CNT=10+records+per+page|title=Environmental issues : essential primary sources|last=Lerner|first=K. Lee|first2=Brenda Wilmoth|date=2006|website=|publisher=Thomson Gale|archive-url=https://archive.is/20120710152134/http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2006000857&CNT=10+records+per+page|archive-date=10 July 2012|dead-url=yes|author2=Lerner|accessdate=17 November 2016}}</ref>例如，[[蒙德極小期]]很可能導致了中世紀期間的[[小冰期]]。<ref name="future-sun">{{cite web|author=Pogge, Richard W. |date=1997 |url=http://www.astronomy.ohio-state.edu/~pogge/Lectures/vistas97.html |title=The Once & Future Sun |format=lecture notes |work=New Vistas in Astronomy |accessdate=3 February 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20050527094435/http://www-astronomy.mps.ohio-state.edu/Vistas/ |archivedate=27 May 2005 }}</ref>
+自進入主序至今，太陽的亮度已增加了40%，期間它的亮度有過週期性波動，對地球上的氣候有著極大的影響。<ref name="Environmental issues : essential primary sources.">{{cite web|url=http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2006000857&CNT=10+records+per+page|title=Environmental issues : essential primary sources|last=Lerner|first=K. Lee|first2=Brenda Wilmoth|date=2006|website=|publisher=Thomson Gale|archive-url=https://archive.is/20120710152134/http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&DB=local&CMD=010a+2006000857&CNT=10+records+per+page|archive-date=2012-07-10|dead-url=yes|author2=Lerner|accessdate=2016-11-17}}</ref>例如，[[蒙德極小期]]很可能導致了中世紀期間的[[小冰期]]。<ref name="future-sun">{{cite web|author=Pogge, Richard W. |date=1997 |url=http://www.astronomy.ohio-state.edu/~pogge/Lectures/vistas97.html |title=The Once & Future Sun |format=lecture notes |work=New Vistas in Astronomy |accessdate=2010-02-03 |deadurl=yes |archiveurl=https://web.archive.org/web/20050527094435/http://www-astronomy.mps.ohio-state.edu/Vistas/ |archivedate=2005-05-27 }}</ref>
 
-在結構上，人們一般所能見到的太陽表面稱為[[光球]]，光球以外是一層薄薄的[[色球]]，色球以外有一層過渡層，溫度劇烈上升，直到最外面的超高溫[[日冕]]。太陽的中心有著極高的溫度和壓力，足以產生持續的[[核聚變]]。包圍著中心的是[[輻射層]]，這裡的[[等離子體]]以輻射的形式把能量傳遞出來。輻射層以外是[[對流層 (恆星)|對流層]]，這裡的氣體以對流的形式把能量傳遞到外層。科學家相信，對流層氣體的翻滾運動所產生的磁場活動導致了太陽粒子的形成。<ref name="solar FAQ" />
+在結構上，人們一般所能見到的太陽表面稱為[[光球]]，<ref>{{cite web|author=Hathaway, David H.|date=2014-08-11|url=https://solarscience.msfc.nasa.gov/surface.shtml|title=The Photosphere|publisher=NASA|accessdate=2017-12-26}}</ref>光球以外是一層薄薄的[[色球]]，<ref>{{cite web|author=Hathaway, David H.|date=2014-08-11|url=https://solarscience.msfc.nasa.gov/chromos.shtml|title=The Chromosphere|publisher=NASA|accessdate=2017-12-26}}</ref>色球以外有一層薄薄的過渡層，溫度劇烈上升，直到最外面的超高溫[[日冕]]。<ref>{{cite web|author=Hathaway, David H.|date=2014-08-11|url=https://solarscience.msfc.nasa.gov/t_region.shtml|title=The Transition Region|publisher=NASA|accessdate=2017-12-26}}</ref>太陽的中心有著極高的溫度和壓力，足以產生持續的[[核聚變]]。包圍著中心的是[[輻射層]]，這裡的[[等離子體]]以輻射的形式把能量傳遞出來。輻射層以外是[[對流層 (恆星)|對流層]]，這裡的氣體以對流的形式把能量傳遞到外層。<ref>{{cite web|author=Hathaway, David H.|date=2015-10-01|url=https://solarscience.msfc.nasa.gov/interior.shtml|title=The Solar Interior|publisher=NASA|accessdate=2017-12-26}}</ref>科學家相信，對流層氣體的翻滾運動所產生的磁場活動導致了太陽粒子的形成。<ref>{{Cite journal | last1 = Hale | first1 = G. E. | last2 = Ellerman | first2 = F. | last3 = Nicholson | first3 = S. B. | last4 = Joy | first4 = A. H. | title = The Magnetic Polarity of Sun-Spots | journal = The Astrophysical Journal | volume = 49 | page = 153 | year = 1919 | doi = 10.1086/142452|bibcode = 1919ApJ....49..153H }}</ref>
 
-太陽時時刻刻都從表面向外噴射大量的等離子體粒子，就是所謂的[[太陽風]]。太陽風會一直達到太陽系的邊緣──[[太陽層頂]]。太陽風在經過地球時會與[[地磁場]]（[[磁層]]）相互作用，會因此轉向，但也有一部分會被困在環繞地球的[[范艾倫輻射帶]]中。當太陽風粒子沿著磁場線進入地球兩極的大氣層時，就會產生[[極光]]。<ref>{{cite web|author = Stern, D. P.|author2 = Peredo, M.|date = 28 September 2004|url=http://www-istp.gsfc.nasa.gov/Education/Intro.html|title = The Exploration of the Earth's Magnetosphere|publisher = NASA|accessdate =22 August 2006| archiveurl= https://web.archive.org/web/20060824003619/http://www-istp.gsfc.nasa.gov/Education/Intro.html| archivedate= 24 August 2006 <!--DASHBot-->| deadurl= no}}</ref>
+太陽時時刻刻都從表面向外噴射大量的等離子體粒子，就是所謂的[[太陽風]]。太陽風會一直達到太陽系的邊緣──[[太陽層頂]]。太陽風在經過地球時會與[[地磁場]]（[[磁層]]）相互作用，會因此轉向，但也有一部分會被困在環繞地球的[[范艾倫輻射帶]]中。當太陽風粒子沿著磁場線進入地球兩極的大氣層時，就會產生[[極光]]。<ref>{{cite web|author = Stern, D. P.|author2 = Peredo, M.|date = 2004-09-28|url=http://www-istp.gsfc.nasa.gov/Education/Intro.html|title = The Exploration of the Earth's Magnetosphere|publisher = NASA|accessdate =2006-08-22| archiveurl= https://web.archive.org/web/20060824003619/http://www-istp.gsfc.nasa.gov/Education/Intro.html| archivedate= 2006-08-24| deadurl= no}}</ref>
 
 ===行星科學===
 {{Main article|行星科學|行星地質學}}
-行星科學的研究對象，除了有太陽系內的[[行星]]、[[衛星]]、[[矮行星]]、[[彗星]]、[[小行星]]等等，還包括[[太陽系外行星]]。科學家最先通過望遠鏡觀察太陽系內的天體，再通過航天器，如今已對太陽系自身的形成和演化有了較好的認識。<ref name="geology">{{cite book|url=http://marswatch.tn.cornell.edu/rsm.html|title=Remote Sensing for the Earth Sciences: Manual of Remote Sensing|first=|date=2004|publisher=John Wiley & Sons|year=|isbn=|edition=3rd|location=|pages=|quote=|via=|author=Bell III, J. F.|author2=Campbell, B. A.|author3=Robinson, M. S.|accessdate=17 November 2016|archiveurl=https://web.archive.org/web/20060811220029/http://marswatch.tn.cornell.edu/rsm.html|archivedate=11 August 2006 <!--DASHBot-->|deadurl=yes}}</ref>
+行星科學的研究對象，除了有太陽系內的[[行星]]、[[衛星]]、[[矮行星]]、[[彗星]]、[[小行星]]等等，還包括[[太陽系外行星]]。科學家最先通過望遠鏡觀察太陽系內的天體，再通過航天器，如今已對太陽系自身的形成和演化有了較好的認識。<ref name="geology">{{cite book|url=http://marswatch.tn.cornell.edu/rsm.html|title=Remote Sensing for the Earth Sciences: Manual of Remote Sensing|first=|date=2004|publisher=John Wiley & Sons|year=|isbn=|edition=3rd|location=|pages=|quote=|via=|author=Bell III, J. F.|author2=Campbell, B. A.|author3=Robinson, M. S.|accessdate=2016-11-17|archiveurl=https://web.archive.org/web/20060811220029/http://marswatch.tn.cornell.edu/rsm.html|archivedate=2006-08-11|deadurl=yes}}</ref>
 
 [[File:dust.devil.mars.arp.750pix.jpg|thumb|照片攝於[[火星]]。一個[[塵卷風]]沿著隕石坑壁向上爬（黑點），留下了一條暗暗的軌跡。塵卷風是[[火星大氣層]]現象，類似於地球上的[[龍捲風]]]]
 
-從內向外，太陽系可分為內行星、[[小行星帶]]和外行星。內行星包括[[水星]]、[[金星]]、[[地球]]和[[火星]]，均為[[類地行星]]；外行星包括[[木星]]、[[土星]]、[[天王星]]和[[海王星]]，均為[[氣態巨行星]]。<ref name="planets">{{cite web|author = Grayzeck, E.|author2 = Williams, D. R.| date = 11 May 2006|url=http://nssdc.gsfc.nasa.gov/planetary/|title = Lunar and Planetary Science|publisher = NASA|accessdate =21 August 2006| archiveurl= https://web.archive.org/web/20060820173205/http://nssdc.gsfc.nasa.gov/planetary/| archivedate= 20 August 2006 <!--DASHBot-->| deadurl= no}}</ref>在八大行星以外，還有[[柯伊伯帶]]和可能延續1光年的[[奧爾特雲]]。
+從內向外，太陽系可分為內行星、[[小行星帶]]和外行星。內行星包括[[水星]]、[[金星]]、[[地球]]和[[火星]]，均為[[類地行星]]；外行星包括[[木星]]、[[土星]]、[[天王星]]和[[海王星]]，均為[[氣態巨行星]]。<ref name="planets">{{cite web|author = Grayzeck, E.|author2 = Williams, D. R.| date = 2006-05-11|url=http://nssdc.gsfc.nasa.gov/planetary/|title = Lunar and Planetary Science|publisher = NASA|accessdate =2006-08-21| archiveurl= https://web.archive.org/web/20060820173205/http://nssdc.gsfc.nasa.gov/planetary/| archivedate= 2006-08-20| deadurl= no}}</ref>在八大行星以外，還有[[柯伊伯帶]]和可能延續1光年的[[奧爾特雲]]。
 
 太陽系行星是在46億年前的[[原行星盤]]中誕生的。經過相互吸引、碰撞和吸積，原行星盤中逐漸積累起大塊物質，這些物質慢慢演變為原行星。[[太陽風]]「吹走」大部分的離散物質，只有質量足夠大的行星才得以保留其大氣層。在接著的[[後期重轟炸期]]期間，行星繼續受到太陽系剩餘物質的劇烈碰撞。這些碰撞的歷史遺跡在月球上的諸多[[撞擊坑]]中就有跡可循。其中一些原行星也互相碰撞，科學家相信，月球就很有可能是在此類[[大碰撞說|碰撞中形成]]的。<ref name=Montmerle2006>{{cite journal|last=Montmerle|first=Thierry|author2=Augereau, Jean-Charles|author3= Chaussidon, Marc|title=Solar System Formation and Early Evolution: the First 100 Million Years|journal=Earth, Moon, and Planets|volume=98|issue=1–4|publisher=Springer|pages=39–95|date=2006|doi=10.1007/s11038-006-9087-5| bibcode=2006EM&P...98...39M|display-authors=etal}}</ref>
 
@@ -257,7 +263,7 @@ A few examples of this process:
 {{Main article|銀河系天文學}}
 [[太陽系]]所處的[[銀河系]]屬於[[棒旋星系]]，是[[本星系群]]中的一員。銀河系由氣體、塵埃、恆星等各種天體所組成，這些天體繞銀河系的中心公轉，並通過相互引力束縛在一起。太陽系位於銀河系一個螺旋臂的外端，因此銀河系有很大部分受塵埃的阻擋，觀測不易。
 
-銀河系中心是一個棒形隆起物，稱為核球。科學家相信在核球的最中心處有一個[[超大質量黑洞]]。從核球起有四條主螺旋臂向外輻射至外端，此處的恆星形成非常活躍，含較多的[[星族|第一星族]]恆星。這些結構都基本位於同一平面上，平面以外還有一個[[螺旋星系#星系扁球體|扁球形銀暈]]，主要含年齡更大的第二星族恆星，亦含數以百計的[[球狀星團]]。<ref>{{cite web|url=http://www.mpe.mpg.de/ir/GC/index.php|title=The Galactic Centre|last=Ott|first=Thomas|date=24 August 2006|website=|publisher=Max-Planck-Institut für extraterrestrische Physik|accessdate=17 November 2016|archiveurl=https://web.archive.org/web/20060904140550/http://www.mpe.mpg.de/ir/GC/index.php|archivedate=4 September 2006 <!--DASHBot-->|deadurl=yes}}</ref>
+銀河系中心是一個棒形隆起物，稱為核球。科學家相信在核球的最中心處有一個[[超大質量黑洞]]。從核球起有四條主螺旋臂向外輻射至外端，此處的恆星形成非常活躍，含較多的[[星族|第一星族]]恆星。這些結構都基本位於同一平面上，平面以外還有一個[[螺旋星系#星系扁球體|扁球形銀暈]]，主要含年齡更大的第二星族恆星，亦含數以百計的[[球狀星團]]。<ref>{{cite web|url=http://www.mpe.mpg.de/ir/GC/index.php|title=The Galactic Centre|last=Ott|first=Thomas|date=2006-08-24|website=|publisher=Max-Planck-Institut für extraterrestrische Physik|accessdate=2016-11-17|archiveurl=https://web.archive.org/web/20060904140550/http://www.mpe.mpg.de/ir/GC/index.php|archivedate=2006-09-04|deadurl=yes}}</ref>
 
 恆星和恆星之間的空間充斥著低密度的物質，稱為[[星際介質]]。其中由氫等元素組成的[[分子雲]]是恆星誕生的區域，密度相對較高。高密度的[[星前核心]]或[[暗星雲]]坍縮（坍縮與否的臨界點由[[金斯不穩定性|金斯長度]]決定），形成原恆星。<ref name=Smith2004>{{cite book|first=Michael David|last=Smith|date=2004| pages=53–86|title=The Origin of Stars|chapter=Cloud formation, Evolution and Destruction| publisher=Imperial College Press|isbn=1-86094-501-5 |url=https://books.google.com/?id=UVgBoqZg8a4C&dq}}</ref>
 
@@ -271,7 +277,7 @@ A few examples of this process:
 {{Main article|星系天文學}}
 對銀河系以外天體的研究分支包括：[[星系的形成和演化]]、[[星系分類]]、[[活動星系核|活動星系]]觀測以及[[星系群]]和[[星系團]]的觀測。對星系群和星系團等的觀測對了解宇宙[[大尺度結構]]有重要的意義。
 
-大部分[[星系]]都可根據形狀具體劃分為[[螺旋星系]]、[[橢圓星系]]及[[不規則星系]]。<ref>{{cite web|last = Keel|first = Bill|date = 1 August 2006|url=http://www.astr.ua.edu/keel/galaxies/classify.html|title = Galaxy Classification|publisher = University of Alabama|accessdate =8 September 2006| archiveurl= https://web.archive.org/web/20060901074027/http://www.astr.ua.edu/keel/galaxies/classify.html| archivedate= 1 September 2006 <!--DASHBot-->| deadurl= no}}</ref>
+大部分[[星系]]都可根據形狀具體劃分為[[螺旋星系]]、[[橢圓星系]]及[[不規則星系]]。<ref>{{cite web|last = Keel|first = Bill|date = 2006-08-01|url=http://www.astr.ua.edu/keel/galaxies/classify.html|title = Galaxy Classification|publisher = University of Alabama|accessdate =2006-09-08| archiveurl= https://web.archive.org/web/20060901074027/http://www.astr.ua.edu/keel/galaxies/classify.html| archivedate= 2006-09-01| deadurl= no}}</ref>
 
 顧名思義，橢圓星系的截面呈[[橢圓形]]。星系中的恆星沿著[[隨機]]軌道，而不是一個特別的方向運行。在橢圓星系中，星際塵埃幾乎不存在或完全不存在，恆星誕生的區域少，恆星普遍較老。橢圓星系常見於星系團的中心，很可能是大星系相撞的產物。
 
@@ -279,7 +285,7 @@ A few examples of this process:
 
 不規則星系是外表混亂，無法歸為螺旋或橢圓星系的星系。宇宙中有四分之一的星系都屬於此類。混亂的形狀很可能是引力擾動的結果。
 
-活動星系會發出巨大的能量，但這些能量並不來自它的恆星、塵埃或氣體，而是來自它的緻密核心。科學家相信，星系中心的超大質量黑洞在吸入物質後發出大量輻射，形成活動星系核。[[電波星系]]會發出大量的[[無線電波]]，並散發出羽狀或葉狀的巨大氣體結構。其他的活動星系則會發出波長較短的高能輻射，如[[西佛星系]]、[[類星體]]和[[耀變體]]。類星體是[[可觀測宇宙]]中持續亮度最高的天體。<ref>{{cite web|url=http://imagine.gsfc.nasa.gov/docs/science/know_l1/active_galaxies.html|title=Active Galaxies and Quasars|last=|first=|date=|website=|publisher=NASA|accessdate=17 November 2016|archiveurl=https://web.archive.org/web/20060831033713/http://imagine.gsfc.nasa.gov/docs/science/know_l1/active_galaxies.html|archivedate=31 August 2006 <!--DASHBot-->|deadurl=yes}}</ref>
+活動星系會發出巨大的能量，但這些能量並不來自它的恆星、塵埃或氣體，而是來自它的緻密核心。科學家相信，星系中心的超大質量黑洞在吸入物質後發出大量輻射，形成活動星系核。[[電波星系]]會發出大量的[[無線電波]]，並散發出羽狀或葉狀的巨大氣體結構。其他的活動星系則會發出波長較短的高能輻射，如[[西佛星系]]、[[類星體]]和[[耀變體]]。類星體是[[可觀測宇宙]]中持續亮度最高的天體。<ref>{{cite web|url=http://imagine.gsfc.nasa.gov/docs/science/know_l1/active_galaxies.html|title=Active Galaxies and Quasars|last=|first=|date=|website=|publisher=NASA|accessdate=2016-11-17|archiveurl=https://web.archive.org/web/20060831033713/http://imagine.gsfc.nasa.gov/docs/science/know_l1/active_galaxies.html|archivedate=2006-08-31|deadurl=yes}}</ref>
 
 宇宙在大尺度上的結構由星系群和星系團組成。最大的星系集體稱為[[超星系團]]。宇宙中的物質在最大尺度上形成[[大尺度纖維狀結構|纖維狀結構]]和[[長城 (天文學)|長城]]，之間則是巨大的[[空洞 (天文學)|空洞]]。<ref name="evolving universe">{{cite book|first=Michael|last=Zeilik|title=Astronomy: The Evolving Universe|edition=8th|publisher=Wiley|date=2002|isbn=0-521-80090-0}}</ref>
 
@@ -298,27 +304,27 @@ A few examples of this process:
 |date = 2013-04-02
 |doi =
 |accessdate = 2013-04-15}}
-</ref><ref name=Dodelson2003/>1965年，科學家發現[[宇宙微波背景輻射]]，奠定了大爆炸的觀測基礎。<ref name=Dodelson2003>{{cite book|last=Dodelson|first=Scott|title=Modern cosmology|date=2003|isbn=978-0-12-219141-1|publisher=[[Academic Press]]|pages=1–22}}</ref>
+</ref><ref name=Dodelson2003/>1965年，科學家發現[[宇宙微波背景輻射]]，奠定了大爆炸的觀測基礎。<ref name=Dodelson2003>{{cite book|last=Dodelson|first=Scott|title=Modern cosmology|date=2003|isbn=978-0-12-219141-1|publisher=Academic Press|pages=1–22}}</ref>
 
 宇宙在膨脹期間經歷了多個發展階段。宇宙學家猜測，宇宙最初曾有過極快速的[[宇宙暴脹]]，使波動的初始條件得以勻化。接著的[[太初核合成|核合成]]過程產生了早期宇宙的各種[[原子核]]（見[[核宇宙編年學]]）。<ref name=Dodelson2003/>
 
-此時宇宙充斥著[[離子]]，[[光子]]不可穿透。直到中性[[原子]]形成，太空才變得「透明」。第一次不受阻擋穿透太空的光線，至今仍游離於宇宙中，形成宇宙微波背景。有相當一段時間，由於恆星還未形成，宇宙是漆黑一片的。<ref name="cosmology 101">{{cite web|last = Hinshaw|first = Gary|date = 13 July 2006|url=http://map.gsfc.nasa.gov/m_uni.html|title = Cosmology 101: The Study of the Universe|publisher = NASA WMAP|accessdate =10 August 2006| archiveurl= https://web.archive.org/web/20060813053535/http://map.gsfc.nasa.gov/m_uni.html| archivedate= 13 August 2006 <!--DASHBot-->| deadurl= no}}</ref>
+此時宇宙充斥著[[離子]]，[[光子]]不可穿透。直到中性[[原子]]形成，太空才變得「透明」。第一次不受阻擋穿透太空的光線，至今仍游離於宇宙中，形成宇宙微波背景。有相當一段時間，由於恆星還未形成，宇宙是漆黑一片的。<ref name="cosmology 101">{{cite web|last = Hinshaw|first = Gary|date = 2006-07-13|url=http://map.gsfc.nasa.gov/m_uni.html|title = Cosmology 101: The Study of the Universe|publisher = NASA WMAP|accessdate =2006-08-10| archiveurl= https://web.archive.org/web/20060813053535/http://map.gsfc.nasa.gov/m_uni.html| archivedate= 2006-08-13| deadurl= no}}</ref>
 
 不同區域的物質質量密度有微乎其微的差異，物質因此開始聚合，形成各個尺度上的階級式結構。密度較高的物質成為了氣體雲和最早期的恆星──[[星族|第三星族]]恆星。這些大質量恆星激發了[[再電離]]過程，製造了早期宇宙中的許多重元素。重元素在衰變後成為輕元素，使核合成週期可以延續下去。<ref>Dodelson, 2003, pp. 216–261</ref>
 
-在引力的作用下，物質形成了大尺度纖維狀結構和巨大的空洞。氣體和塵埃逐漸聚集，形成早期星系。這些星系不斷納入更多的物質，並互相形成星系群和星系團，再組成超星系團。<ref>{{cite web|url=http://www.damtp.cam.ac.uk/user/gr/public/gal_lss.html|title = Galaxy Clusters and Large-Scale Structure|publisher = University of Cambridge|accessdate =8 September 2006| archiveurl= https://web.archive.org/web/20061010041120/http://www.damtp.cam.ac.uk/user/gr/public/gal_lss.html| archivedate= 10 October 2006 <!--DASHBot-->| deadurl= no}}</ref>
+在引力的作用下，物質形成了大尺度纖維狀結構和巨大的空洞。氣體和塵埃逐漸聚集，形成早期星系。這些星系不斷納入更多的物質，並互相形成星系群和星系團，再組成超星系團。<ref>{{cite web|url=http://www.damtp.cam.ac.uk/user/gr/public/gal_lss.html|title = Galaxy Clusters and Large-Scale Structure|publisher = University of Cambridge|accessdate =2006-09-08| archiveurl= https://web.archive.org/web/20061010041120/http://www.damtp.cam.ac.uk/user/gr/public/gal_lss.html| archivedate= 2006-10-10| deadurl= no}}</ref>
 
-[[暗物質]]和[[暗能量]]的存在對宇宙的結構有著決定性作用。兩者合起來，共佔全宇宙質量的96%之多。因此，科學家正在極力試圖探究其背後的物理原理。<ref>{{cite web|last = Preuss|first = Paul|url=http://www.lbl.gov/Science-Articles/Archive/dark-energy.html|title = Dark Energy Fills the Cosmos|publisher = U.S. Department of Energy, Berkeley Lab|accessdate =8 September 2006| archiveurl= https://web.archive.org/web/20060811215815/http://www.lbl.gov/Science-Articles/Archive/dark-energy.html| archivedate= 11 August 2006 <!--DASHBot-->| deadurl= no}}</ref>
+[[暗物質]]和[[暗能量]]的存在對宇宙的結構有著決定性作用。兩者合起來，共佔全宇宙質量的96%之多。因此，科學家正在極力試圖探究其背後的物理原理。<ref>{{cite web|last = Preuss|first = Paul|url=http://www.lbl.gov/Science-Articles/Archive/dark-energy.html|title = Dark Energy Fills the Cosmos|publisher = U.S. Department of Energy, Berkeley Lab|accessdate =2006-09-08| archiveurl= https://web.archive.org/web/20060811215815/http://www.lbl.gov/Science-Articles/Archive/dark-energy.html| archivedate= 2006-08-11| deadurl= no}}</ref>
 
 ==跨學科研究==
-天文學和天體物理學與其他科學領域有著密切的跨學科關係。[[考古天文學]]利用[[考古學]]和[[人類學]]證據，研究遠古或傳統天文學在文化中的角色和地位。<ref>Sinclair 2006:13</ref>[[天體生物學]]研究生物系統在宇宙中的[[生物起源|起源]]、[[演化]]和分佈，並特別關注[[地外生物]]能否存在，人類又如何能探測這些生命這些問題。<ref>{{cite web| url=http://astrobiology.nasa.gov/about-astrobiology/ |title=About Astrobiology |accessdate=20 October 2008 |date=21 January 2008 |work=NASA Astrobiology Institute |publisher=NASA | archiveurl= https://web.archive.org/web/20081011192341/http://astrobiology.nasa.gov/about-astrobiology/| archivedate= 11 October 2008}}</ref>{{le|天體統計學|Astrostatistics}}將統計學方法應用在分析不可勝計的天文觀測數據上。<ref>[https://asaip.psu.edu  Astrostatistics and Astroinformatics Portal]</ref>
+天文學和天體物理學與其他科學領域有著密切的跨學科關係。[[考古天文學]]利用[[考古學]]和[[人類學]]證據，研究遠古或傳統天文學在文化中的角色和地位。<ref>Sinclair 2006:13</ref>[[天體生物學]]研究生物系統在宇宙中的[[生物起源|起源]]、[[演化]]和分佈，並特別關注[[地外生物]]能否存在，人類又如何能探測這些生命這些問題。<ref>{{cite web| url=http://astrobiology.nasa.gov/about-astrobiology/ |title=About Astrobiology |accessdate=2008-10-20 |date=2008-01-21 |work=NASA Astrobiology Institute |publisher=NASA | archiveurl= https://web.archive.org/web/20081011192341/http://astrobiology.nasa.gov/about-astrobiology/| archivedate= 2008-10-11}}</ref>{{le|天體統計學|Astrostatistics}}將統計學方法應用在分析不可勝計的天文觀測數據上。<ref>[https://asaip.psu.edu Astrostatistics and Astroinformatics Portal]</ref>
 
-[[天體化學]]研究宇宙中[[化學物]]的形成和反應。<ref>{{Cite news|url=https://www.cfa.harvard.edu/research/amp-rg/astrochemistry|title=Astrochemistry|date=2013-07-15|newspaper=www.cfa.harvard.edu/|access-date=2016-11-20}}</ref>[[宇宙化學]]專門研究太陽系內的化學物分佈、它們的來源以及[[同位素]]比率的變化。<ref name=McSween>{{cite book|last1=McSween|first1=Harry|title=Cosmochemistry|date=2010|publisher=Cambridge University Press|isbn=0-521-87862-4|last2=Huss |first2=Gary|edition=1st}}</ref>
+[[天體化學]]研究宇宙中[[化學物質]]的形成和反應。<ref>{{Cite news|url=https://www.cfa.harvard.edu/research/amp-rg/astrochemistry|title=Astrochemistry|date=2013-07-15|newspaper=www.cfa.harvard.edu/|access-date=2016-11-20}}</ref>[[宇宙化學]]專門研究太陽系內化學物質的分佈、來源以及[[同位素]]比率的變化。<ref name=McSween>{{cite book|last1=McSween|first1=Harry|title=Cosmochemistry|date=2010|publisher=Cambridge University Press|isbn=0-521-87862-4|last2=Huss |first2=Gary|edition=1st}}</ref>
 
 {{le|天文鑒證科學|forensic astronomy}}利用天文學的知識，解答法律、歷史上的疑問，例如某件藝術品是在何時何地創作的。
 
 ==業餘天文學==
-{{Main article|Amateur astronomy}}
+{{Main article|業餘天文學}}
 [[File:Telescope trailer 22.jpg|right|thumb|upright|業餘天文學家可以自己搭建觀測器材，並舉辦[[星空饗宴]]。圖為位於美國[[佛蒙特州]]的Stellafane天文俱樂部]]
 天文學是眾多科學領域中，業餘者能夠最大程度參與的領域。<ref>{{cite journal
 |last = Mims III|first = Forrest M.
@@ -329,18 +335,18 @@ A few examples of this process:
 |quote=Astronomy has traditionally been among the most fertile fields for serious amateurs [...]
 |bibcode = 1999Sci...284...55M }}</ref>
 
-業餘天文學家可以對各種天體和天文現象進行觀測，有的甚至會自己搭建觀測器材。最普遍的觀測對象包括：日、月、各大行星、恆星、彗星、[[流星雨]]及星團、星系、星雲等[[深空天體]]。業餘天文俱樂部分佈在世界各地，有的會為成員提供各種幫助，包括搭建器材以及完成觀測[[梅西耶天體|梅西耶星表]]（共110個）或[[赫歇爾目錄]]（共400個）中的所有天體。
+業餘天文學家可以對各種天體和天文現象進行觀測，有的甚至會自己搭建觀測器材。最普遍的觀測對象包括：日、月、八大行星、小行星、彗星、[[流星雨]]、恆星以及星團、星系、星雲等[[深空天體]]。業餘天文俱樂部分佈在世界各地，有的會為成員提供各種幫助，從搭建器材乃至完成觀測[[梅西耶天體|梅西耶星表]]（共110個）或[[赫歇爾目錄]]（共400個）中的所有天體。
 
-[[天文攝影]]是業餘天文學的一個分支。許多業餘天文學家會選擇專門觀測某一類天體或某一類天文現象。<ref>{{cite web|url=http://www.amsmeteors.org/|title = The American Meteor Society|accessdate =24 August 2006| archiveurl= https://web.archive.org/web/20060822135040/http://www.amsmeteors.org/| archivedate= 22 August 2006 <!--DASHBot-->| deadurl= no}}</ref><ref>{{cite web|first=Jerry|last=Lodriguss|url=http://www.astropix.com/|title = Catching the Light: Astrophotography|accessdate =24 August 2006| archiveurl= https://web.archive.org/web/20060901185541/http://www.astropix.com/| archivedate= 1 September 2006 <!--DASHBot-->| deadurl= no}}</ref>
+[[天文攝影]]是業餘天文學的一個分支。許多業餘天文學家會選擇專門觀測某一類天體或某一類天文現象。<ref>{{cite web|url=http://www.amsmeteors.org/|title = The American Meteor Society|accessdate =2006-08-24| archiveurl= https://web.archive.org/web/20060822135040/http://www.amsmeteors.org/| archivedate= 2006-08-22| deadurl= no}}</ref><ref>{{cite web|first=Jerry|last=Lodriguss|url=http://www.astropix.com/|title = Catching the Light: Astrophotography|accessdate =2006-08-24| archiveurl= https://web.archive.org/web/20060901185541/http://www.astropix.com/| archivedate= 2006-09-01| deadurl= no}}</ref>
 
-大部分業餘天文學家都在[[可見光]]範圍內做觀測，但也有一小部分用可見光以外的波長進行觀測，包括在傳統天文望遠鏡上加上紅外濾光片，或使用[[射電望遠鏡]]。[[卡爾·央斯基]]在1930年代開始在無線電波長進行觀測，開創了業餘射電天文學。業餘天文學家不但可以使用自己的器材，還可以使用開放給業餘者的專業射電天文望遠鏡。<ref>{{cite web|author=Ghigo, F.|date = 7 February 2006|url=http://www.nrao.edu/whatisra/hist_jansky.shtml|title = Karl Jansky and the Discovery of Cosmic Radio Waves|publisher = National Radio Astronomy Observatory|accessdate =24 August 2006| archiveurl= https://web.archive.org/web/20060831105945/http://www.nrao.edu/whatisra/hist_jansky.shtml| archivedate= 31 August 2006 <!--DASHBot-->| deadurl= no}}</ref><ref>{{cite web|url=http://www.users.globalnet.co.uk/~arcus/cara/|title = Cambridge Amateur Radio Astronomers|accessdate =24 August 2006 }}</ref>
+大部分業餘天文學家都在[[可見光]]範圍內做觀測，但也有一小部分用可見光以外的波長進行觀測，包括在傳統天文望遠鏡上加上紅外濾光片，或使用[[射電望遠鏡]]。[[卡爾·央斯基]]在1930年代開始在無線電波長進行觀測，開創了業餘射電天文學。業餘天文學家不但可以使用自己的器材，還可以使用開放給業餘者的專業射電天文望遠鏡。<ref>{{cite web|author=Ghigo, F.|date = 2006-02-07|url=http://www.nrao.edu/whatisra/hist_jansky.shtml|title = Karl Jansky and the Discovery of Cosmic Radio Waves|publisher = National Radio Astronomy Observatory|accessdate =2006-08-24| archiveurl= https://web.archive.org/web/20060831105945/http://www.nrao.edu/whatisra/hist_jansky.shtml| archivedate= 2006-08-31| deadurl= no}}</ref><ref>{{cite web|url=http://www.users.globalnet.co.uk/~arcus/cara/|title = Cambridge Amateur Radio Astronomers|accessdate =24 August 2006 }}</ref>
 
-與大多數現代科學領域不同的是，業餘天文學家至今仍在為天文學作出重大的貢獻。比如，他們通過[[掩星]]的方法提高[[小行星]]軌道的測量精度，發現新彗星，又對[[變星]]做定期觀測。隨著數碼科技的提升，業餘天文攝影也有了極大的進步。<ref>{{cite web|url=http://www.lunar-occultations.com/iota/iotandx.htm|title = The International Occultation Timing Association|accessdate =24 August 2006| archiveurl= https://web.archive.org/web/20060821180723/http://www.lunar-occultations.com/iota/iotandx.htm| archivedate= 21 August 2006 <!--DASHBot-->| deadurl= no}}</ref><ref>{{cite web|url=http://cbat.eps.harvard.edu/special/EdgarWilson.html |title=Edgar Wilson Award |publisher=IAU Central Bureau for Astronomical Telegrams |accessdate=24 October 2010 |archiveurl=https://web.archive.org/web/20101024202325/http://www.cbat.eps.harvard.edu/special/EdgarWilson.html |archivedate=24 October 2010 |deadurl=yes |df=dmy }}</ref><ref>{{cite web|url=http://www.aavso.org/|title = American Association of Variable Star Observers|publisher = AAVSO|accessdate =3 February 2010| archiveurl= https://web.archive.org/web/20100202050715/http://www.aavso.org/| archivedate= 2 February 2010 <!--DASHBot-->| deadurl= no}}</ref>
+與大多數現代科學領域不同的是，業餘天文學家至今仍在為天文學作出重大的貢獻。比如，他們通過[[掩星]]的方法提高[[小行星]]軌道的測量精度，發現新彗星，又對[[變星]]做定期觀測。隨著數碼科技的提升，業餘天文攝影也有了極大的進步。<ref>{{cite web|url=http://www.lunar-occultations.com/iota/iotandx.htm|title = The International Occultation Timing Association|accessdate =2006-08-24| archiveurl= https://web.archive.org/web/20060821180723/http://www.lunar-occultations.com/iota/iotandx.htm| archivedate= 2006-08-21| deadurl= no}}</ref><ref>{{cite web|url=http://cbat.eps.harvard.edu/special/EdgarWilson.html |title=Edgar Wilson Award |publisher=IAU Central Bureau for Astronomical Telegrams |accessdate=2010-10-24 |archiveurl=https://web.archive.org/web/20101024202325/http://www.cbat.eps.harvard.edu/special/EdgarWilson.html |archivedate=2010-10-24 |deadurl=yes}}</ref><ref>{{cite web|url=http://www.aavso.org/|title = American Association of Variable Star Observers|publisher = AAVSO|accessdate =2010-02-03| archiveurl= https://web.archive.org/web/20100202050715/http://www.aavso.org/| archivedate= 2010-02-02| deadurl= no}}</ref>
 
 ==天文學未解之謎==
 {{See also|未解決的物理學問題}}
 儘管隨著天文學的驚人發展，人類已經對宇宙的認知有了翻天覆地的變化，但是在今天仍然有一些至關重要的[[未解決的物理學問題#天文學、天文物理學|天文學未解之謎]]。要解答這些謎題，有可能需要新的地面或太空觀測儀器，乃至理論和實驗物理上的新發展。
-*恆星質量分佈從何而來？為甚麼任何的初始狀態都會導致相同的[[初始質量函數]]？<ref>{{cite journal
+*恆星質量分佈從何而來？為什麼不論初始條件如何，天文學家都會觀測到相同的[[初始質量函數]]？<ref>{{cite journal
 |last = Kroupa|first = Pavel
 |title=The Initial Mass Function of Stars: Evidence for Uniformity in Variable Systems
 |journal=Science|date=2002|volume=295|issue=5552
@@ -351,21 +357,21 @@ A few examples of this process:
 *宇宙中是否存在[[外星生物|其他生命體]]？是否存在其他智慧生物？如果存在，應如何解決[[費米悖論]]？證實地球以外生物的存在，對許多科學和哲學問題有至關重要的意義。<ref>{{cite web
 |url=http://www.astrobio.net/debate/236/complex-life-elsewhere-in-the-universe
 |archiveurl=https://web.archive.org/web/20110628214416/http://www.astrobio.net/debate/236/complex-life-elsewhere-in-the-universe
-|archivedate=28 June 2011
+|archivedate=2011-06-28
 |title = Rare Earth: Complex Life Elsewhere in the Universe?
-|publisher = Astrobiology Magazine|accessdate =12 August 2006}}</ref><ref>{{cite web|url=http://www.bigear.org/vol1no2/sagan.htm|title=The Quest for Extraterrestrial Intelligence|last=Sagan|first=Carl|date=|website=|publisher=Cosmic Search Magazine|accessdate=12 August 2006|archiveurl=https://web.archive.org/web/20060818144558/http://www.bigear.org/vol1no2/sagan.htm|archivedate=18 August 2006 <!--DASHBot-->|deadurl=no}}</ref>太陽系是平平凡凡，還是絕無僅有？
+|publisher = Astrobiology Magazine|accessdate =2006-08-12}}</ref><ref>{{cite web|url=http://www.bigear.org/vol1no2/sagan.htm|title=The Quest for Extraterrestrial Intelligence|last=Sagan|first=Carl|date=|website=|publisher=Cosmic Search Magazine|accessdate=2006-08-12|archiveurl=https://web.archive.org/web/20060818144558/http://www.bigear.org/vol1no2/sagan.htm|archivedate=2006-08-18|deadurl=no}}</ref>太陽系是平平凡凡，還是絕無僅有？
 *[[暗物質]]和[[暗能量]]的本質是甚麼？這兩者在宇宙的發展和未來有著決定性作用，然而人類對它們的本質尚且一無所知。<ref name="physics questions">{{cite web|url=http://www.pnl.gov/energyscience/01-02/11-questions/11questions.htm
  |title = 11 Physics Questions for the New Century
 |publisher = Pacific Northwest National Laboratory
-|accessdate =12 August 2006 |archiveurl = https://web.archive.org/web/20060203152634/http://www.pnl.gov/energyscience/01-02/11-questions/11questions.htm |archivedate = 3 February 2006}}</ref> What will be the [[ultimate fate of the universe]]?<ref>{{cite web
-|last = Hinshaw|first = Gary|date = 15 December 2005
+|accessdate =2006-08-12 |archiveurl = https://web.archive.org/web/20060203152634/http://www.pnl.gov/energyscience/01-02/11-questions/11questions.htm |archivedate = 2006-02-03}}</ref>[[宇宙的終極命運]]是甚麼？<ref>{{cite web
+|last = Hinshaw|first = Gary|date = 2005-12-15
 |url = http://map.gsfc.nasa.gov/m_uni/uni_101fate.html
 |title = What is the Ultimate Fate of the Universe?
-|publisher = NASA WMAP|accessdate =28 May 2007| archiveurl= https://web.archive.org/web/20070529145436/http://map.gsfc.nasa.gov/m_uni/uni_101fate.html| archivedate= 29 May 2007 <!--DASHBot-->| deadurl= no}}</ref>
-*第一批星系是如何形成的？<ref>{{cite web|title=FAQ - How did galaxies form?|url=http://origins.stsci.edu/faq/galaxies.html|publisher=NASA|accessdate=July 28, 2015}}</ref>超大質量黑洞是如何形成的？<ref>{{cite web|title=Supermassive Black Hole|url=http://astronomy.swin.edu.au/cosmos/S/Supermassive+Black+Hole|publisher=Swinburne University|accessdate=July 28, 2015}}</ref>
-*{{le|超高能宇宙射線|ultra-high-energy cosmic ray}}從何而來？<ref>{{cite journal|journal=Annual Review of Astronomy and Astrophysics|title=The Origin of Ultra-High-Energy Cosmic Rays|last=Hillas|first=A. M.|volume=22|date=September 1984|doi=10.1146/annurev.aa.22.090184.002233|pages=425–444|quote=This poses a challenge to these models, because [...]|bibcode = 1984ARA&A..22..425H }}</ref>
-*[[鋰]]元素在宇宙中的豐度為甚麼比[[大爆炸]]模型所預測的低四倍？<ref>{{Cite journal|last=Howk|first=J. Christopher|last2=Lehner|first2=Nicolas|last3=Fields|first3=Brian D.|last4=Mathews|first4=Grant J.|date=6 September 2012|year=|title=Observation of interstellar lithium in the low-metallicity Small Magellanic Cloud|url=http://www.nature.com/nature/journal/v489/n7414/full/nature11407.html|journal=Nature|language=en|volume=489|issue=7414|pages=121–123|doi=10.1038/nature11407|issn=0028-0836|via=|pmid=22955622|arxiv = 1207.3081 |bibcode = 2012Natur.489..121H }}</ref>
-<!--*[[事件視界]]的另一端究竟是怎樣的？<ref>{{cite web|url=http://www.businessinsider.com.au/what-happens-when-you-enter-a-black-hole-2014-12|title=What Happens When You Enter A Black Hole?|date=15 December 2014|website=|publisher=Business Insider International|last1=Orwig|first1=Jessica|accessdate=17 November 2016}}</ref>-->
+|publisher = NASA WMAP|accessdate =2007-05-28| archiveurl= https://web.archive.org/web/20070529145436/http://map.gsfc.nasa.gov/m_uni/uni_101fate.html| archivedate= 2007-05-29| deadurl= no}}</ref>
+*第一批星系是如何形成的？<ref>{{cite web|title=FAQ - How did galaxies form?|url=http://origins.stsci.edu/faq/galaxies.html|publisher=NASA|accessdate=2015-07-28}}</ref>超大質量黑洞是如何形成的？<ref>{{cite web|title=Supermassive Black Hole|url=http://astronomy.swin.edu.au/cosmos/S/Supermassive+Black+Hole|publisher=Swinburne University|accessdate=2015-07-28}}</ref>
+*{{le|超高能宇宙射線|ultra-high-energy cosmic ray}}從何而來？<ref>{{cite journal|journal=Annual Review of Astronomy and Astrophysics|title=The Origin of Ultra-High-Energy Cosmic Rays|last=Hillas|first=A. M.|volume=22|date=1984-09|doi=10.1146/annurev.aa.22.090184.002233|pages=425–444|quote=This poses a challenge to these models, because [...]|bibcode = 1984ARA&A..22..425H }}</ref>
+*[[鋰]]元素在宇宙中的豐度為甚麼比[[大爆炸]]模型所預測的低四倍？<ref>{{Cite journal|last=Howk|first=J. Christopher|last2=Lehner|first2=Nicolas|last3=Fields|first3=Brian D.|last4=Mathews|first4=Grant J.|date=2012-09-06|year=|title=Observation of interstellar lithium in the low-metallicity Small Magellanic Cloud|url=http://www.nature.com/nature/journal/v489/n7414/full/nature11407.html|journal=Nature|language=en|volume=489|issue=7414|pages=121–123|doi=10.1038/nature11407|issn=0028-0836|via=|pmid=22955622|arxiv = 1207.3081 |bibcode = 2012Natur.489..121H }}</ref>
+<!--*[[事件視界]]的另一端究竟是怎樣的？<ref>{{cite web|url=http://www.businessinsider.com.au/what-happens-when-you-enter-a-black-hole-2014-12|title=What Happens When You Enter A Black Hole?|date=2014-12-15|website=|publisher=Business Insider International|last1=Orwig|first1=Jessica|accessdate=2016-11-17}}</ref>-->
 
 ==參見==
 {{Sister project links|天文學|commons=Astronomy|v=no|voy=no|s=no}}
@@ -382,8 +388,10 @@ A few examples of this process:
 * [[天體演化學]]
 * [[空間科學]]
 * [[太空探索]]
+* [[可觀測宇宙]]
 * [[宇宙距離尺度]]
 {{div col end}}
+{{Clear}}
 
 ==參考資料==
 {{Reflist|30em}}

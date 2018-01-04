@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   width="518"
+   height="451"
+   version="1.0"
+   sodipodi:docname="Milky_Way_Spiral_Arm_zh_hant.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     inkscape:window-height="721"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.83813747"
+     inkscape:cx="244.58066"
+     inkscape:cy="261.12329"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="0" />
+  <path
+     style="fill: rgb(211, 211, 211); fill-rule: evenodd; stroke: rgb(211, 211, 211); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; fill-opacity: 1;"
+     d="M 513.04233,64.428571 L 513.04233,367.48148 L 252.34524,284.55952 L 252.34524,145.56085 L 513.04233,64.428571 z "
+     id="path3168" />
+  <path
+     sodipodi:type="arc"
+     style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path2161"
+     sodipodi:cx="272.6283"
+     sodipodi:cy="217.14815"
+     sodipodi:rx="71.587303"
+     sodipodi:ry="71.587303"
+     d="M 344.2156 217.14815 A 71.587303 71.587303 0 1 1  201.04099,217.14815 A 71.587303 71.587303 0 1 1  344.2156 217.14815 z"
+     transform="translate(0.71898,-2.37418)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:28px;font-family:Arial;text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="273.44299"
+     y="225.41753"
+     id="text2173"><tspan
+       sodipodi:role="line"
+       id="tspan2175"
+       x="273.44299"
+       y="225.41753">銀核</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:28px;font-family:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="358.112"
+     y="208.04057"
+     id="text3170"><tspan
+       sodipodi:role="line"
+       id="tspan3172"
+       x="358.112"
+       y="208.04057">視線被</tspan><tspan
+       sodipodi:role="line"
+       x="358.112"
+       y="243.04057"
+       id="tspan4161">遮擋區域</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size: 28px; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; font-family: Arial;"
+     x="293.995"
+     y="-268.113"
+     id="text4166"
+     transform="matrix(0.702826, 0.711362, -0.711362, 0.702826, 0, 0)"><tspan
+       sodipodi:role="line"
+       id="tspan4168"
+       x="293.995"
+       y="-268.113">太陽軌道</tspan></text>
+  <path
+     style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 255); stroke-width: 10.5; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
+     d="M 191.93367,191.15135 C 185.13344,214.44467 184.37898,239.39291 191.51184,262.441 C 217.30356,334.82422 274.70421,356.10331 344.63693,329.09049 C 359.71905,324.40419 371.65243,313.88633 382.60183,302.93689 C 386.1647,298.84122 389.20573,294.78287 391.46031,289.86009 C 392.65363,287.47345 392.9456,286.44991 393.56947,283.95444"
+     id="path4171"
+     sodipodi:nodetypes="cccccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:28px;font-family:Arial;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="226.69308"
+     y="311.40479"
+     id="text5143"><tspan
+       sodipodi:role="line"
+       id="tspan5145"
+       x="226.69308"
+       y="311.40479">矩尺座旋臂</tspan></text>
+  <path
+     style="fill: none; fill-rule: evenodd; stroke: rgb(0, 128, 0); stroke-width: 10.5; stroke-linecap: round; stroke-linejoin: miter; stroke-opacity: 1; stroke-miterlimit: 4; stroke-dasharray: none;"
+     d="M 314.98413,136.01587 C 310.70582,120.76422 293.86272,115.89814 280.3836,113.34656 C 241.81935,106.30482 195.02365,124.83449 175.38889,159.87831 C 158.67169,192.03532 141.52012,219.59908 143.1746,256.52116 C 153.87162,371.68776 243.18783,407.53982 346.00529,404.46825 C 380.72629,399.16192 414.00699,384.69133 446.22751,371.06085 C 462.06632,364.94607 474.26774,359.20813 487.98677,349.58466"
+     id="path5148"
+     sodipodi:nodetypes="ccccccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:28px;font-family:Arial;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="250.39871"
+     y="383.85611"
+     id="text7090"><tspan
+       sodipodi:role="line"
+       id="tspan7092"
+       x="250.39871"
+       y="383.85611">南十字旋臂</tspan></text>
+  <path
+     style="fill: none; fill-rule: evenodd; stroke: rgb(255, 0, 0); stroke-width: 10.5; stroke-linecap: round; stroke-linejoin: miter; stroke-opacity: 1; stroke-miterlimit: 4; stroke-dasharray: none;"
+     d="M 346.74608,122.81453 C 342.64725,105.54913 334.55434,83.63902 317.21783,75.569324 C 287.6784,57.604953 253.09807,57.119612 221.88375,70.507337 C 159.36685,106.57126 135.75822,155.64666 106.30172,218.14861 C 92.208805,241.74636 84.984794,273.19013 91.115759,300.82773 C 105.27848,359.1228 148.46335,408.74845 203.32313,434.12671"
+     id="path8064"
+     sodipodi:nodetypes="cccccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:28px;font-family:Arial;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-31.851542"
+     y="188.39668"
+     id="text9035"
+     transform="matrix(0.71849113,-0.69553612,0.69553612,0.71849113,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan9037"
+       x="-31.851542"
+       y="188.39668">人馬座旋臂</tspan></text>
+  <path
+     style="fill: none; fill-rule: evenodd; stroke: rgb(0, 191, 191); stroke-width: 10.5; stroke-linecap: round; stroke-linejoin: miter; stroke-opacity: 1; stroke-miterlimit: 4; stroke-dasharray: none;"
+     d="M 61.587504,411.34777 C 25.001101,375.71569 19.194975,335.22051 17.716953,286.48543 C 24.234546,83.26192 191.65767,-38.536676 365.3067,81.474975 C 385.52682,102.56057 408.188,138.81994 408.33359,169.21608"
+     id="path10009"
+     sodipodi:nodetypes="cccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:28px;font-family:Arial;fill:#00bfbf;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-45.042606"
+     y="112.69113"
+     id="text10980"
+     transform="matrix(0.80019496,-0.59973997,0.59973997,0.80019496,0,0)"
+     inkscape:transform-center-x="7.59298"><tspan
+       sodipodi:role="line"
+       id="tspan10982"
+       x="-45.042606"
+       y="112.69113">英仙座旋臂</tspan></text>
+  <path
+     sodipodi:type="arc"
+     style="opacity: 1; fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 2; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     id="path3194"
+     sodipodi:cx="275.03461"
+     sodipodi:cy="221.52327"
+     sodipodi:rx="216.82176"
+     sodipodi:ry="216.82176"
+     d="M 491.85637 221.52327 A 216.82176 216.82176 0 1 1  58.212845,221.52327 A 216.82176 216.82176 0 1 1  491.85637 221.52327 z"
+     transform="translate(10.9676, 4.21832)" />
+  <path
+     style="fill: none; fill-rule: evenodd; stroke: rgb(153, 102, 0); stroke-width: 5; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
+     d="M 83.944616,164.57592 C 71.429754,192.40682 64.610035,238.20055 70.867813,269.19031 C 70.977056,269.62728 70.867813,270.39394 70.867813,270.87764"
+     id="path10985"
+     sodipodi:nodetypes="ccc" />
+  <path
+     sodipodi:type="arc"
+     style="opacity: 1; fill: rgb(255, 255, 0); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(255, 255, 0); stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1;"
+     id="path12925"
+     sodipodi:cx="70.445984"
+     sodipodi:cy="216.03946"
+     sodipodi:rx="10.123973"
+     sodipodi:ry="10.123973"
+     d="M 80.569957 216.03946 A 10.123973 10.123973 0 1 1  60.322011,216.03946 A 10.123973 10.123973 0 1 1  80.569957 216.03946 z"
+     transform="translate(-0.421832)" />
+  <text
+     xml:space="preserve"
+     style="font-size: 28px; font-style: normal; font-weight: normal; fill: rgb(153, 102, 0); fill-opacity: 1; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; font-family: Arial;"
+     x="-370.893"
+     y="62.1068"
+     id="text12927"
+     transform="matrix(0, -1, 1, 0, 0, 0)"><tspan
+       sodipodi:role="line"
+       id="tspan12929"
+       x="-370.893"
+       y="62.1068">獵戶座旋臂</tspan></text>
+  <g
+     id="g14877"
+     transform="translate(54.8836, 2.21032)">
+    <path
+       id="path13902"
+       d="M -20.879629,290.52514 L -20.879629,146.75397"
+       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 2; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;" />
+    <path
+       id="path13904"
+       d="M -20.818453,146.45569 L -33.987057,195.60159"
+       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 2; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;" />
+    <path
+       id="path14875"
+       d="M -20.973538,146.45468 L -7.8049342,195.60058"
+       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 2; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;" />
+  </g>
+</svg>
