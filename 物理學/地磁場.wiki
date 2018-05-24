@@ -1,6 +1,6 @@
 [[File:Geodynamo Between Reversals.gif|thumb|非逆轉期間[[地球]]磁場的電腦模擬。<ref name="selfconsistent" />線條表示磁場線，從地核伸出時為黃色，回入地核時為藍色。地球自轉軸位於正中，垂直於圖中。繁雜的線團位於地核之內。<ref name="Glatzmaier">{{cite web |url=http://es.ucsc.edu/~glatz/geodynamo.html |title=The Geodynamo |last=Glatzmaier |first=Gary |publisher=University of California Santa Cruz |accessdate=20 October 2013}}</ref>]]
 
-'''地磁場'''是源於[[地球構造|地球內部]]，一直延伸到太空的[[磁場]]。磁場在地表上的強度在25至65[[特斯拉|微特斯拉]]（即0.25至0.65[[高斯 (單位)|高斯]]）之間。<ref name="GeomagneticReferenceField">{{cite journal|last1=Finlay|first1=C. C.|last2=Maus|first2=S.|last3=Beggan|first3=C. D.|last4=Bondar|first4=T. N.|last5=Chambodut|first5=A.|last6=Chernova|first6=T. A.|last7=Chulliat|first7=A.|last8=Golovkov|first8=V. P.|last9=Hamilton|first9=B.|last10=Hamoudi|first10=M.|last11=Holme|first11=R.|last12=Hulot|first12=G.|last13=Kuang|first13=W.|last14=Langlais|first14=B.|last15=Lesur|first15=V.|last16=Lowes|first16=F. J.|last17=Lühr|first17=H.|last18=Macmillan|first18=S.|last19=Mandea|first19=M.|last20=McLean|first20=S.|last21=Manoj|first21=C.|last22=Menvielle|first22=M.|last23=Michaelis|first23=I.|last24=Olsen|first24=N.|last25=Rauberg|first25=J.|last26=Rother|first26=M.|last27=Sabaka|first27=T. J.|last28=Tangborn|first28=A.|last29=Tøffner-Clausen|first29=L.|last30=Thébault|first30=E.|last31=Thomson|first31=A. W. P.|last32=Wardinski|first32=I.|last33=Wei|first33=Z.|last34=Zvereva|first34=T. I.|title=International Geomagnetic Reference Field: the eleventh generation|journal=Geophysical Journal International|date=December 2010|volume=183|issue=3|pages=1216–1230|doi=10.1111/j.1365-246X.2010.04804.x|ref=harv|bibcode=2010GeoJI.183.1216F}}</ref>粗略地說，地磁場是一個與[[地球自轉|地球自轉軸]]呈11°角的[[磁偶極子]]，相當於在地球中心放置了一個傾斜了的[[磁棒]]。目前的[[地磁北極]]位於[[北半球]]的[[格陵蘭]]附近，實際上它是地磁場的南極，而[[地磁南極]]則是地磁場的北極。地核向外散發熱量時，引起[[外核]]中熔融鐵的[[對流]]運動，進而產生[[電流]]，地磁場即是此電流所致。這種使天體磁場形成的原理，稱為[[發電機理論]]。
+'''地磁場'''是源於[[地球構造|地球內部]]，一直延伸到太空的[[磁場]]。磁場在地表上的強度在25至65[[特斯拉|微特斯拉]]（即0.25至0.65[[高斯 (單位)|高斯]]）之間。<ref name="GeomagneticReferenceField">{{cite journal|last1=Finlay|first1=C. C.|last2=Maus|first2=S.|last3=Beggan|first3=C. D.|last4=Bondar|first4=T. N.|last5=Chambodut|first5=A.|last6=Chernova|first6=T. A.|last7=Chulliat|first7=A.|last8=Golovkov|first8=V. P.|last9=Hamilton|first9=B.|last10=Hamoudi|first10=M.|last11=Holme|first11=R.|last12=Hulot|first12=G.|last13=Kuang|first13=W.|last14=Langlais|first14=B.|last15=Lesur|first15=V.|last16=Lowes|first16=F. J.|last17=Lühr|first17=H.|last18=Macmillan|first18=S.|last19=Mandea|first19=M.|last20=McLean|first20=S.|last21=Manoj|first21=C.|last22=Menvielle|first22=M.|last23=Michaelis|first23=I.|last24=Olsen|first24=N.|last25=Rauberg|first25=J.|last26=Rother|first26=M.|last27=Sabaka|first27=T. J.|last28=Tangborn|first28=A.|last29=Tøffner-Clausen|first29=L.|last30=Thébault|first30=E.|last31=Thomson|first31=A. W. P.|last32=Wardinski|first32=I.|last33=Wei|first33=Z.|last34=Zvereva|first34=T. I.|title=International Geomagnetic Reference Field: the eleventh generation|journal=Geophysical Journal International|date=December 2010|volume=183|issue=3|pages=1216–1230|doi=10.1111/j.1365-246X.2010.04804.x|ref=harv|bibcode=2010GeoJI.183.1216F}}</ref>粗略地說，地磁場是一個與[[地球自轉|地球自轉軸]]呈11°夾角的[[磁偶極子]]，相當於在地球中心放置了一個傾斜了的[[磁棒]]。目前的[[地磁北極]]位於[[北半球]]的[[格陵蘭]]附近，實際上它是地磁場的南極，而[[地磁南極]]則是地磁場的北極。地核向外散發熱量時，引起[[外核]]中熔融鐵的[[對流]]運動，進而產生[[電流]]，地磁場即是此電流所致。這種使天體磁場形成的原理，稱為[[發電機理論]]。
 
 南北磁極通常位於[[天體的極|地理極]]附近，但其位置在地質時間尺度上可以有較大的變化。這種變化極其緩慢，不足以干預[[指南針]]的日常使用。不過，平均每幾十萬年會發生一次[[地磁逆轉]]，即南北磁極突然（相對於地質時長）互相換位。每次逆轉都會在岩石中留下印跡，這對[[古地磁學]]研究十分重要。以此所得的數據有助科學家了解大陸和海床的[[板塊運動]]。
 
@@ -10,50 +10,52 @@
 
 地磁場能夠使大部分太陽風轉向。沒有了地磁場，太陽風中的帶電粒子就會剝去阻擋紫外線的臭氧層，生物體也就會受到紫外線的侵害。<ref>{{cite journal |title=Solar wind hammers the ozone layer |first=Quirin |last=Shlermeler |date=3 March 2005 |doi=10.1038/news050228-12 |journal=News@nature |url=http://www.nature.com/news/2005/050228/full/news050228-12.html}}</ref>其中一個大氣剝離原理是，氣體粒子被困在一個磁場泡之中，磁場泡再被太陽風「吹走」。<ref>{{cite news |title=Solar wind ripping chunks off Mars |url=http://archive.cosmosmagazine.com/news/solar-wind-ripping-chunks-mars/ |work=Cosmos Online |date=25 November 2008 |accessdate=21 October 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20160304072916/http://archive.cosmosmagazine.com/news/solar-wind-ripping-chunks-mars/ |archivedate=4 March 2016 |df= }}</ref>從[[火星]]大氣[[二氧化碳]]因太陽風流失的速度推算，可推斷火星磁場的喪失直接導致其大氣層幾乎完全流失。<ref>{{harvnb|Luhmann|Johnson|Zhang|1992}}</ref><ref>[http://scign.jpl.nasa.gov/learn/plate1.htm Structure of the Earth] {{webarchive|url=https://web.archive.org/web/20130315042223/http://scign.jpl.nasa.gov/learn/plate1.htm |date=2013-03-15 }}. Scign.jpl.nasa.gov. Retrieved on 2012-01-27.</ref>
 
-古地磁學是對地球過去磁場的研究。<ref name="McElhinny2000">{{cite book |last1=McElhinny |first1=Michael W. |last2=McFadden |first2=Phillip L. |title=Paleomagnetism: Continents and Oceans |publisher=Academic Press |year=2000 |isbn=0-12-483355-1 |ref=harv}}</ref>地磁場的極向會在[[火成岩]]中留下印記，所以當[[海床擴張]]時，每次[[地磁逆轉]]的印記會從[[中洋脊]]向外移動，在海床上形成多條與中洋脊平行的條狀結構。古地磁學家能夠利用非逆轉期間較為穩定的地磁極向，推測大陸漂移的歷史。科學家還可以利用地磁逆轉來判斷岩石和沉積物的[[地質年代學|年代]]，這種研究稱為[[磁性地層學]]。<ref>{{cite book |last1=Opdyke |first1=Neil D. |last2=Channell |first2=James E. T. |title=Magnetic Stratigraphy |publisher=Academic Press |year=1996 |isbn=978-0-12-527470-8 |ref=harv}}</ref>地磁場會使地殼礦物磁化，造成的[[磁異常]]可用於勘探金屬礦藏。<ref>{{cite book |last1=Mussett |first1=Alan E. |last2=Khan |first2=M. Aftab |title=Looking into the Earth: An introduction to Geological Geophysics |year=2000 |publisher=Cambridge University Press |isbn=0-521-78085-3 |ref=harv}}</ref>
+古地磁學是對地球過去磁場的研究。<ref name="McElhinny2000">{{cite book |last1=McElhinny |first1=Michael W. |last2=McFadden |first2=Phillip L. |title=Paleomagnetism: Continents and Oceans |publisher=Academic Press |year=2000 |isbn=0-12-483355-1 |ref=harv}}</ref>地磁場的極向會在[[火成岩]]中留下印記，所以當[[海底擴張]]時，每次[[地磁逆轉]]的印記會從[[中洋脊]]向外移動，在海床上形成多條與中洋脊平行的條狀結構。古地磁學家能夠利用非逆轉期間較為穩定的地磁極向，推測大陸漂移的歷史。科學家還可以利用地磁逆轉來判斷岩石和沉積物的[[地質年代學|年代]]，這種研究稱為[[磁性地層學]]。<ref>{{cite book |last1=Opdyke |first1=Neil D. |last2=Channell |first2=James E. T. |title=Magnetic Stratigraphy |publisher=Academic Press |year=1996 |isbn=978-0-12-527470-8 |ref=harv}}</ref>地磁場會使地殼礦物磁化，造成的[[磁異常]]可用於勘探金屬礦藏。<ref>{{cite book |last1=Mussett |first1=Alan E. |last2=Khan |first2=M. Aftab |title=Looking into the Earth: An introduction to Geological Geophysics |year=2000 |publisher=Cambridge University Press |isbn=0-521-78085-3 |ref=harv}}</ref>
 
 人類最早在公元11世紀利用磁性指南針判斷方向，並在12世紀用指南針導航。<ref>{{cite book |last=Temple |first=Robert |title=The Genius of China |publisher=Andre Deutsch |year=2006 |isbn=0-671-62028-2 |ref=harv}}</ref>雖然[[地磁偏角]]會隨時間漂移，但這種移動的速度十分緩慢，不足以干擾普通指南針的導航作用。諸多生物物種都具有[[磁場感知]]的能力，包括[[鴿子]]和某些細菌，並用之判定方向和導航。
 
 == 主要特點 ==
 
-===Description===
-At any location, the Earth's magnetic field can be represented by a three-dimensional vector. A typical procedure for measuring its direction is to use a compass to determine the direction of magnetic North. Its angle relative to true North is the ''declination'' ({{math|<var>D</var>}}) or ''variation''. Facing magnetic North, the angle the field makes with the horizontal is the ''inclination'' ({{math|<var>I</var>}}) or ''[[magnetic dip]]''. The ''intensity'' ({{math|<var>F</var>}}) of the field is proportional to the force it exerts on a magnet. Another common representation is in {{math|<var>X</var>}} (North), {{math|<var>Y</var>}} (East) and {{math|<var>Z</var>}} (Down) coordinates.<ref name="MMMch2" />
-[[File:XYZ-DIS magnetic field coordinates.svg|500px|thumb|center|Common coordinate systems used for representing the Earth's magnetic field.]]
+===數學描述===
+在任何空間點上的地磁場可用一個三維[[矢量]]來描述。測量矢量方向的最基本方法，是用指南針判斷磁北極的方向。該方向與正北方之間的夾角稱為「偏角」（{{math|<var>D</var>}}），與地平面之間的夾角則稱為「[[磁傾角|傾角]]」（{{math|<var>I</var>}}）。磁場的強度（{{math|<var>F</var>}}）與磁鐵所受的磁力成正比。另一種描述方法是北（{{math|<var>X</var>}}）、東（{{math|<var>Y</var>}}）、下（{{math|<var>Z</var>}}）坐標。<ref name="MMMch2" />
+[[File:XYZ-DIS magnetic field coordinates.svg|500px|thumb|center|用於描述磁場的兩種常用坐標系]]
 
-====Intensity====
-The intensity of the field is often measured in [[Gauss (unit)|gauss (G)]], but is generally reported in nanoteslas (nT), with 1&nbsp;G = 100,000&nbsp;nT. A nanotesla is also referred to as a gamma (γ).<ref name="NGDC">{{cite web |url=https://www.ngdc.noaa.gov/geomag/faqgeom.shtml#What_are_the_magnetic_elements |title=Geomagnetism Frequently Asked Questions |publisher=National Geophysical Data Center |accessdate=21 October 2013}}</ref>   The [[tesla (unit)|tesla]] is the [[SI]] unit of the magnetic field, '''B'''.  The Earth's field ranges between approximately 25,000 and 65,000&nbsp;nT (0.25–0.65&nbsp;G). By comparison, a strong [[refrigerator magnet]] has a field of about {{convert|10000000|nT|G}}.<ref>{{cite web |url=http://www.magnet.fsu.edu/education/tutorials/magnetminute/tesla-transcript.html |last1=Palm |first1=Eric |title=Tesla |publisher=National High Magnetic Field Laboratory |year=2011 |accessdate=20 October 2013}}</ref>
+====強度====
+磁場強度的常用單位包括[[高斯 (單位)|高斯]]（G）和納[[特斯拉]]（nT），互換公式為1&nbsp;G = 100,000&nbsp;nT。一個納特斯拉亦稱伽馬（γ）。<ref name="NGDC">{{cite web |url=https://www.ngdc.noaa.gov/geomag/faqgeom.shtml#What_are_the_magnetic_elements |title=Geomagnetism Frequently Asked Questions |publisher=National Geophysical Data Center |accessdate=21 October 2013}}</ref>特斯拉是量度磁場強度的[[國際單位制]]單位。地磁場的強度在25,000至65,000&nbsp;nT（0.25至0.65&nbsp;G）之間（一個普通家用磁鐵的強度約為{{convert|10000000|nT|G}}）。<ref>{{cite web |url=http://www.magnet.fsu.edu/education/tutorials/magnetminute/tesla-transcript.html |last1=Palm |first1=Eric |title=Tesla |publisher=National High Magnetic Field Laboratory |year=2011 |accessdate=20 October 2013}}</ref>
 
-A map of intensity contours is called an ''isodynamic chart''. As the [[Earth's magnetic field#Geographical variation|World Magnetic Model]] shows, the intensity tends to decrease from the poles to the equator. A minimum intensity occurs in the [[South Atlantic Anomaly]] over South America while there are maxima over northern Canada, Siberia, and the coast of Antarctica south of Australia.<ref name="renamed_from_2010_on_20131022170733" />
+磁場強度的等高線圖稱為「力線圖」。[[#地域差異|世界地磁模型]]顯示，地磁場強度的整體趨勢是從兩極至赤道減弱，強度最低處位於南美洲一帶的[[南大西洋異常區]]，最高處則位於加拿大北部、西伯利亞以及澳洲以南的南極海岸。<ref name="renamed_from_2010_on_20131022170733" />
 
-====Inclination====
-{{main article|Magnetic dip}}
-The inclination is given by an angle that can assume values between -90° (up) to 90° (down). In the northern hemisphere, the field points downwards. It is straight down at the [[North Magnetic Pole]] and rotates upwards as the latitude decreases until it is horizontal (0°) at the magnetic equator. It continues to rotate upwards until it is straight up at the South Magnetic Pole. Inclination can be measured with a [[dip circle]].
+====傾角====
+{{main article|地磁傾角}}
+地磁傾角的數值在−90°（上）和90°（下）之間。地磁場在北半球向下傾，在地磁北極指向正下方，並隨緯度下降而逐漸向上，至「地磁赤道」處完全與地表平行（0°）。往南，傾角繼續向上，直到地磁南極處指向正上方。
 
-An ''isoclinic chart'' (map of inclination contours) for the Earth's magnetic field is shown [[#Geographical variation|below]].
+地磁傾角的等高線圖請見[[#地域差異|下文]]。
 
-====Declination====
-{{main article|Magnetic declination}}
-Declination is positive for an eastward deviation of the field relative to true north. It can be estimated by comparing the magnetic north/south heading on a compass with the direction of a [[celestial pole]]. Maps typically include information on the declination as an angle or a small diagram showing the relationship between magnetic north and true north. Information on declination for a region can be represented by a chart with isogonic lines (contour lines with each line representing a fixed declination).
+====偏角====
+{{main article|地磁偏角}}
+地磁場相對正北方向東偏時，偏角數值為正，往西偏時則為負。其中一個測量方法是比較指南針的指向和[[天極]]的方向。
 
-===Geographical variation===
+地磁偏角的等高線圖請見[[#地域差異|下文]]。
+
+===地域差異===
 <center>
-Components of the Earth's magnetic field at the surface from the [[World Magnetic Model]] for 2015.<ref name="renamed_from_2010_on_20131022170733">{{Cite report |last1=Chulliat |first1=A. |last2=Macmillan |first2=S. |last3=Alken |first3=P. |last4=Beggan |first4=C. |last5=Nair |first5=M. |last6=Hamilton |first6=B. |last7=Woods |first7=A. |last8=Ridley |first8=V. |last9=Maus  |first9=S. |last10=Thomson |first10=A. |date=2015 |title=The US/UK World Magnetic Model for 2015-2020 |url=http://www.ngdc.noaa.gov/geomag/WMM/data/WMM2015/WMM2015_Report.pdf |publisher=National Geophysical Data Center |accessdate=21 February 2016}}</ref>
+地磁場三個坐標分量的地域分佈圖，[[世界地磁模型]]2015年數據。<ref name="renamed_from_2010_on_20131022170733">{{Cite report |last1=Chulliat |first1=A. |last2=Macmillan |first2=S. |last3=Alken |first3=P. |last4=Beggan |first4=C. |last5=Nair |first5=M. |last6=Hamilton |first6=B. |last7=Woods |first7=A. |last8=Ridley |first8=V. |last9=Maus  |first9=S. |last10=Thomson |first10=A. |date=2015 |title=The US/UK World Magnetic Model for 2015-2020 |url=http://www.ngdc.noaa.gov/geomag/WMM/data/WMM2015/WMM2015_Report.pdf |publisher=National Geophysical Data Center |accessdate=21 February 2016}}</ref>
 </center>
 <gallery mode="packed" align="center" heights="155px">
-File:World Magnetic Field 2015.pdf|Intensity
-File:World Magnetic Inclination 2015.pdf|Inclination
-File:World Magnetic Declination 2015.pdf|Declination
+File:World Magnetic Field 2015.pdf|強度
+File:World Magnetic Inclination 2015.pdf|傾角
+File:World Magnetic Declination 2015.pdf|偏角
 </gallery>
 
-===Dipolar approximation===
-[[File:Geomagnetisme.svg|thumb|The variation between magnetic north (N<sub>m</sub>) and "true" north (N<sub>g</sub>).]]
-{{see also|Dipole model of the Earth's magnetic field}}
-Near the surface of the Earth, its magnetic field can be closely approximated by the field of a magnetic dipole positioned at the center of the Earth and tilted at an angle of about 11° with respect to the rotational axis of the Earth.<ref name="NGDC" /> The dipole is roughly equivalent to a powerful bar [[magnet]], with its south pole pointing towards the geomagnetic North Pole.<ref>{{cite news |first=Anne |last=Casselman |title=The Earth Has More Than One North Pole |newspaper=Scientific American |date=28 February 2008 |url=http://www.scientificamerican.com/article.cfm?id=the-earth-has-more-than-one-north-pole |accessdate=21 May 2013}}</ref> This may seem surprising, but the north pole of a magnet is so defined because, if allowed to rotate freely, it points roughly northward (in the geographic sense). Since the north pole of a magnet attracts the south poles of other magnets and repels the north poles, it must be attracted to the south pole of Earth's magnet. The dipolar field accounts for 80–90% of the field in most locations.<ref name="MMMch2" />
+===偶極子近似===
+[[File:Geomagnetisme.svg|thumb|磁北極（N<sub>m</sub>）與正北（N<sub>g</sub>）]]
+<!--{{see also|Dipole model of the Earth's magnetic field}}-->
+地表附近的磁場可以較準確地近似為一個位於地心，與地球自轉軸呈11°夾角的[[磁偶極子]]。<ref name="NGDC" />這個磁偶極子可以想象為一個南極指向地磁北極的強力[[磁鐵]]。<ref>{{cite news |first=Anne |last=Casselman |title=The Earth Has More Than One North Pole |newspaper=Scientific American |date=28 February 2008 |url=http://www.scientificamerican.com/article.cfm?id=the-earth-has-more-than-one-north-pole |accessdate=21 May 2013}}</ref>之所以有這種似乎南北顛倒的說法，是因為磁鐵的北極會與另一塊磁鐵的南極相吸。因此如果把地核想象為一個大磁鐵，那麼指南針北極所指向的，其實是「地核磁鐵」的南極。<ref name="MMMch2" />
 {{clear}}
 
-===Magnetic poles{{anchor|Poles}}===
-{{main|Geomagnetic pole}}
-[[File:Magnetic North Pole Positions 2015.svg|thumb|The movement of Earth's North Magnetic Pole across the Canadian arctic.]]
+===地磁極===
+{{main|地磁北極|地磁南極}}
+[[File:Magnetic North Pole Positions 2015.svg|thumb|地磁北極在加拿大北極圈內的移動路徑]]
 
 Historically, the north and south poles of a magnet were first defined by the Earth's magnetic field, not vice versa, since one of the first uses for a magnet was as a compass needle. Its North pole was defined as the pole that would be attracted by the Earth's North Magnetic Pole when the magnet was suspended so it could turn freely. Since opposite poles attract, the North Magnetic Pole of the Earth is really the south pole of its magnetic field (the place where the field is directed downward into the Earth).<ref name="Serway">{{cite book  | last = Serway  | first = Raymond A. |author2=Chris Vuille | title = Essentials of college physics | publisher = Cengage Learning | year = 2006 | location = USA | page = 493 | url = https://books.google.com/books?id=8n4NCyRgUMEC&pg=PA493 | isbn = 0-495-10619-4}}</ref><ref name="Emiliani">{{cite book  | last = Emiliani | first = Cesare | title = Planet Earth: Cosmology, Geology, and the Evolution of Life and Environment | publisher = Cambridge University Press | year = 1992 | location = UK | page = 228 | url = https://books.google.com/books?id=MfAGpVq8gpQC&pg=PA228 | isbn = 0-521-40949-7}}</ref><ref name="Manners">{{cite book  | last = Manners | first = Joy | title = Static Fields and Potentials | publisher = CRC Press | year = 2000 | location = USA | page = 148 | url = https://books.google.com/books?id=vJyqbRPsXYQC&pg=PA148 | isbn = 0-7503-0718-8}}</ref><ref name="Hyperphysics">{{cite web | last = Nave | first = Carl R. | title = Bar Magnet | work = Hyperphysics | publisher = Dept. of Physics and Astronomy, Georgia State Univ.  | year = 2010 | url = http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html | accessdate = 2011-04-10}}</ref>  
 
