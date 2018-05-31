@@ -18,7 +18,7 @@
 
 ===數學描述===
 在任何空間點上的地磁場可用一個三維[[矢量]]來描述。測量矢量方向的最基本方法，是用指南針判斷磁北極的方向。該方向與正北方之間的夾角稱為「偏角」（{{math|<var>D</var>}}），與地平面之間的夾角則稱為「[[磁傾角|傾角]]」（{{math|<var>I</var>}}）。磁場的強度（{{math|<var>F</var>}}）與磁鐵所受的磁力成正比。另一種描述方法是北（{{math|<var>X</var>}}）、東（{{math|<var>Y</var>}}）、下（{{math|<var>Z</var>}}）坐標。<ref name="MMMch2" />
-[[File:XYZ-DIS magnetic field coordinates.svg|500px|thumb|center|用於描述磁場的兩種常用坐標系]]
+{{File2|zh-hans=XYZ-DIS magnetic field coordinates zh-hans.svg|zh-hant=XYZ-DIS magnetic field coordinates zh-hant.svg|500px|thumb|center|用於描述磁場的兩種常用坐標系}}
 
 ====強度====
 磁場強度的常用單位包括[[高斯 (單位)|高斯]]（G）和納[[特斯拉]]（nT），互換公式為1&nbsp;G = 100,000&nbsp;nT。一個納特斯拉亦稱伽馬（γ）。<ref name="NGDC">{{cite web |url=https://www.ngdc.noaa.gov/geomag/faqgeom.shtml#What_are_the_magnetic_elements |title=Geomagnetism Frequently Asked Questions |publisher=National Geophysical Data Center |accessdate=21 October 2013}}</ref>特斯拉是量度磁場強度的[[國際單位制]]單位。地磁場的強度在25,000至65,000&nbsp;nT（0.25至0.65&nbsp;G）之間（一個普通家用磁鐵的強度約為{{convert|10000000|nT|G}}）。<ref>{{cite web |url=http://www.magnet.fsu.edu/education/tutorials/magnetminute/tesla-transcript.html |last1=Palm |first1=Eric |title=Tesla |publisher=National High Magnetic Field Laboratory |year=2011 |accessdate=20 October 2013}}</ref>
@@ -96,7 +96,7 @@ File:World Magnetic Declination 2015.pdf|偏角
 [[File:Earth Magnetic Field Declination from 1590 to 1990.gif|thumb|地磁偏角估值等高線圖從1590年至1990年的變化]]
 [[File:Geomagnetic axial dipole strength.svg|thumb|地磁場沿自轉軸的偶極分量從1600年至2020年的變化]]
 
-「長期變化」指的是時長在一年以上的地磁場變化。地磁傾角在過去幾百年來偏移了幾十度，<ref name="MMMch2" />變化趨勢於右圖動畫顯示。<ref name="declination">{{cite journal |last=Jackson |first=Andrew |last2=Jonkers |first2=Art R. T. |last3=Walker |first3=Matthew R. |title=Four centuries of Geomagnetic Secular Variation from Historical Records |journal=Philosophical Transactions of the Royal Society A |volume=358 |pages=957–990 |year=2000 |jstor=2666741 |ref=harv |issue=1768 |bibcode=2000RSPTA.358..957J |doi=10.1098/rsta.2000.0569}}</ref>
+「長期變化」指的是時長在一年以上的地磁場變化。地磁偏角在過去幾百年來偏移了幾十度，<ref name="MMMch2" />變化趨勢於右圖動畫顯示。<ref name="declination">{{cite journal |last=Jackson |first=Andrew |last2=Jonkers |first2=Art R. T. |last3=Walker |first3=Matthew R. |title=Four centuries of Geomagnetic Secular Variation from Historical Records |journal=Philosophical Transactions of the Royal Society A |volume=358 |pages=957–990 |year=2000 |jstor=2666741 |ref=harv |issue=1768 |bibcode=2000RSPTA.358..957J |doi=10.1098/rsta.2000.0569}}</ref>
 
 地磁場偶極子的方向和強度都會隨時間變化。過去200年間，磁偶極強度以每百年6.3%的速率減弱。<ref name="MMMch2" /><!--如此推算，在1600年後地磁場強度將變得微不足道。<ref name="GSC">{{cite web |url=http://nrhp.focus.nps.gov |title=Secular variation |work=Geomagnetism |publisher=Canadian Geological Survey |year=2011 |accessdate=18 July 2011}}</ref>-->目前的強度和變化速率在過去7000年間並無偏離常規。<ref name="Constable_dipole">{{Cite book |last=Constable |first=Catherine |chapter=Dipole Moment Variation |pages=159–161 |year=2007 |editor-last=Gubbins |editor-first=David |editor2-last=Herrero-Bervera |editor2-first=Emilio |title=Encyclopedia of Geomagnetism and Paleomagnetism |publisher=Springer-Verlag |doi=10.1007/978-1-4020-4423-6_67 |ref=harv |isbn=978-1-4020-3992-8}}</ref>
 
