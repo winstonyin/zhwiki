@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -11,11 +12,11 @@
    width="380"
    height="1150"
    id="svg2368"
-   inkscape:version="0.46dev+devel"
+   inkscape:version="0.91 r13725"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    sodipodi:version="0.32"
-   sodipodi:docname="geomagnetic_polarity_late_Cenozoic.svg">
+   sodipodi:docname="Geomagnetic_polarity_late_Cenozoic zh-hant.svg">
   <defs
      id="defs122" />
   <sodipodi:namedview
@@ -27,7 +28,16 @@
      guidetolerance="10"
      objecttolerance="10"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:zoom="0.8"
+     inkscape:cx="263.30508"
+     inkscape:cy="416.49609"
+     inkscape:window-width="1280"
+     inkscape:window-height="756"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid2285"
@@ -43,7 +53,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
-        <dc:title>Geomagnetic polarity late Cenozoic</dc:title>
+        <dc:title></dc:title>
         <dc:date>2007-10-08</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -75,7 +85,7 @@
      style="opacity:1;display:inline">
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Bitstream Vera Sans';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="55.390625"
        y="27.47266"
        id="text2279"><tspan
@@ -83,15 +93,30 @@
          id="tspan2281"
          x="55.390625"
          y="27.47266"
-         style="font-size:24px;text-align:end;text-anchor:end">Age</tspan><tspan
+         style="font-size:24px;text-align:end;text-anchor:end">距</tspan><tspan
          sodipodi:role="line"
          x="55.390625"
          y="57.47266"
+         style="font-size:24px;text-align:end;text-anchor:end"
+         id="tspan4246">今</tspan><tspan
+         sodipodi:role="line"
+         x="55.390625"
+         y="87.472656"
          id="tspan2283"
-         style="font-size:24px;text-align:end;text-anchor:end">(Ma)</tspan></text>
+         style="font-size:24px;text-align:end;text-anchor:end">百</tspan><tspan
+         sodipodi:role="line"
+         x="55.390625"
+         y="117.47266"
+         style="font-size:24px;text-align:end;text-anchor:end"
+         id="tspan4252">萬</tspan><tspan
+         sodipodi:role="line"
+         x="55.390625"
+         y="147.47266"
+         style="font-size:24px;text-align:end;text-anchor:end"
+         id="tspan4254">年</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="115.23438"
        y="27.47266"
        id="text2287"><tspan
@@ -99,10 +124,10 @@
          x="115.23438"
          y="27.47266"
          style="font-size:24px;text-align:center;text-anchor:middle"
-         id="tspan3191">Chron</tspan></text>
+         id="tspan3191">時代</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Bitstream Vera Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="285.29297"
        y="27.47266"
        id="text2971"><tspan
@@ -110,7 +135,7 @@
          x="285.29297"
          y="27.47266"
          style="font-size:24px;text-align:center;text-anchor:middle"
-         id="tspan3189">Subchron</tspan></text>
+         id="tspan3189">亞時代</tspan></text>
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="rect2949"
@@ -616,51 +641,87 @@
          sodipodi:role="line">Jaramillo</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="-124.41602"
-       y="123.44922"
-       id="text3208"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
+       style="font-style:normal;font-weight:normal;font-size:18px;font-family:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="113.91602"
+       y="88.117188"
+       id="text3208"><tspan
          sodipodi:role="line"
          id="tspan3210"
-         x="-124.41602"
-         y="123.44922"
-         style="font-size:24px;text-align:center;text-anchor:middle">Brunhes</tspan></text>
+         x="113.91602"
+         y="88.117188"
+         style="font-size:24px;text-align:center;text-anchor:middle">布</tspan><tspan
+         sodipodi:role="line"
+         x="113.91602"
+         y="118.11719"
+         style="font-size:24px;text-align:center;text-anchor:middle"
+         id="tspan4309">容</tspan><tspan
+         sodipodi:role="line"
+         x="113.91602"
+         y="148.11719"
+         style="font-size:24px;text-align:center;text-anchor:middle"
+         id="tspan4311">尼</tspan><tspan
+         sodipodi:role="line"
+         x="113.91602"
+         y="178.11719"
+         style="font-size:24px;text-align:center;text-anchor:middle"
+         id="tspan4313">斯</tspan></text>
     <text
-       transform="matrix(0,-1,1,0,0,0)"
        id="text3212"
-       y="121.06445"
-       x="-383.375"
-       style="font-size:18px;font-style:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       y="377.42188"
+       x="114.75391"
+       style="font-style:normal;font-weight:normal;font-size:18px;font-family:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:24px;text-align:center;text-anchor:middle"
-         y="121.06445"
-         x="-383.375"
+         y="377.42188"
+         x="114.75391"
          id="tspan3214"
-         sodipodi:role="line">Matuyama</tspan></text>
+         sodipodi:role="line">松</tspan><tspan
+         style="font-size:24px;text-align:center;text-anchor:middle"
+         y="407.42188"
+         x="114.75391"
+         sodipodi:role="line"
+         id="tspan4315">山</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="-664.17578"
-       y="123.58984"
-       id="text3222"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
+       style="font-style:normal;font-weight:normal;font-size:18px;font-family:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="114.77148"
+       y="658.03516"
+       id="text3222"><tspan
          sodipodi:role="line"
          id="tspan3224"
-         x="-664.17578"
-         y="123.58984"
-         style="font-size:24px;text-align:center;text-anchor:middle">Gauss</tspan></text>
+         x="114.77148"
+         y="658.03516"
+         style="font-size:24px;text-align:center;text-anchor:middle">高</tspan><tspan
+         sodipodi:role="line"
+         x="114.77148"
+         y="688.03516"
+         style="font-size:24px;text-align:center;text-anchor:middle"
+         id="tspan4317">斯</tspan></text>
     <text
-       transform="matrix(0,-1,1,0,0,0)"
        id="text3226"
-       y="123.58984"
-       x="-950.63281"
-       style="font-size:18px;font-style:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       y="912.28796"
+       x="114.26172"
+       style="font-style:normal;font-weight:normal;font-size:18px;font-family:'Bitstream Vera Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:24px;text-align:center;text-anchor:middle"
-         y="123.58984"
-         x="-950.63281"
+         y="912.28796"
+         x="114.26172"
          id="tspan3228"
-         sodipodi:role="line">Gilbert</tspan></text>
+         sodipodi:role="line">基</tspan><tspan
+         style="font-size:24px;text-align:center;text-anchor:middle"
+         y="942.28796"
+         x="114.26172"
+         sodipodi:role="line"
+         id="tspan4319">爾</tspan><tspan
+         style="font-size:24px;text-align:center;text-anchor:middle"
+         y="972.28796"
+         x="114.26172"
+         sodipodi:role="line"
+         id="tspan4321">伯</tspan><tspan
+         style="font-size:24px;text-align:center;text-anchor:middle"
+         y="1002.288"
+         x="114.26172"
+         sodipodi:role="line"
+         id="tspan4323">特</tspan></text>
   </g>
 </svg>
