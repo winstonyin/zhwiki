@@ -82,6 +82,8 @@ File:World Magnetic Declination 2015.pdf|偏角
 
 == 變化 ==
 
+對澳洲[[古太古代]]熔岩和南非[[礫岩]]的研究顯示，地磁場在34.5億年前就已存在。<ref>{{cite journal |url=http://onlinelibrary.wiley.com/doi/10.1029/JB085iB07p03523/abstract |first1=T. N. W. |last1=McElhinney |first2=W. E. |last2=Senanayake |title=Paleomagnetic Evidence for the Existence of the Geomagnetic Field 3.5 Ga Ago |journal=Journal of Geophysical Research |volume=85 |page=3523 |year=1980 |bibcode=1980JGR....85.3523M |doi=10.1029/JB085iB07p03523 |ref=harv}}</ref><ref name="Tarduno2009">{{cite journal |last1=Usui |first1=Yoichi |last2=Tarduno |first2=John A. |last3=Watkeys |first3=Michael |last4=Hofmann |first4=Axel |last5=Cottrell |first5=Rory D. |title=Evidence for a 3.45-billion-year-old magnetic remanence: Hints of an ancient geodynamo from conglomerates of South Africa |journal=Geochemistry Geophysics Geosystems |year=2009 |volume=10 |issue=9 |doi=10.1029/2009GC002496 |bibcode=2009GGG....1009Z07U |ref=harv}}</ref><ref>{{cite journal |last1=Tarduno |first1=J. A. |last2=Cottrell |first2=R. D. |last3=Watkeys |first3=M. K. |last4=Hofmann |first4=A. |last5=Doubrovine |first5=P. V. |last6=Mamajek |first6=E. E. |last7=Liu |first7=D. |last8=Sibeck |first8=D. G. |last9=Neukirch |first9=L. P. |last10=Usui |first10=Y. |title=Geodynamo, Solar Wind, and Magnetopause 3.4 to 3.45 Billion Years Ago |journal=Science |date=4 March 2010 |volume=327 |issue=5970 |pages=1238–1240 |doi=10.1126/science.1183445 |bibcode=  2010Sci...327.1238T|pmid=20203044 |ref=harv}}</ref>
+
 ===短期===
 [[File:Magnetic Storm Oct 2003.jpg|thumb|'''背景'''：各地地磁觀測站所錄得的2003年磁暴數據。<br /> '''球體'''：地磁觀測站地點，線條為磁場強度等高線，兩條線之間的差異為1&nbsp;[[特斯拉|μT]]。]]
 
@@ -112,20 +114,17 @@ File:World Magnetic Declination 2015.pdf|偏角
 
 過去的地磁場主要記錄在具有永久[[磁矩]]的強磁性礦物之中，特別是[[磁鐵礦]]等[[氧化鐵]]礦物。這種[[剩磁]]的原理不止一種。當[[熔岩]]逐漸冷卻時，其中的磁性礦物會將當時的磁場方向凝固下來，這稱為{{le|熱剩磁|thermoremanent magnetization}}。當沉積物在海床或湖底積累的時候，磁性粒子的方向會稍稍傾向和地磁場對齊的方向，這稱為岩屑剩磁。<ref name="McElhinny2000" />
 
-熱剩磁是[[中洋脊]]兩旁地磁異常的主要形成原理。海床在擴張時，從[[地幔]]湧出的[[岩漿]]冷卻，在中洋脊兩旁形成新的玄武岩地殼。海床的擴張使新的地殼不斷向外緩慢移動。玄武岩會記錄下冷卻凝固時的地磁場方向，因此在千古以來的多番地磁逆轉後，已在海床上留下了一系列與中洋脊平行、在脊的兩旁對稱的條狀結構。用一條船在海底拖動magnetometer，所得數據可用來推斷海床的年齡，以及過去海床的擴張速率。<ref name="McElhinny2000" />
+熱剩磁是[[中洋脊]]兩旁地磁異常的主要形成原理。海床在擴張時，從[[地幔]]湧出的[[岩漿]]冷卻，在中洋脊兩旁形成新的玄武岩地殼。海床的擴張使新的地殼不斷向外緩慢移動。玄武岩會記錄下冷卻凝固時的地磁場方向，因此在千古以來的多番地磁逆轉後，已在海床上留下了一系列與中洋脊平行、在脊的兩旁對稱的條狀結構。用船在海底拖動磁力儀，所得數據可用來推斷海床的年齡，以及過去海床的擴張速率。<ref name="McElhinny2000" />
 
-[[Radiometric dating]] of lava flows has been used to establish a ''geomagnetic polarity time scale'', part of which is shown in the image. This forms the basis of [[magnetostratigraphy]], a geophysical correlation technique that can be used to date both sedimentary and volcanic sequences as well as the seafloor magnetic anomalies.<ref name="McElhinny2000" />
+對熔岩進行[[放射性定年法|放射性定年]]，可建立地磁極向時間線（如圖所示），這是[[磁性地層學]]的基礎。磁性地層學是一種在地質數據之間建立相關性的方法，可以用來判斷沉積物、火成岩地層以及海床磁異常的年齡。<ref name="McElhinny2000" />
 
-Studies of lava flows on [[Steens Mountain]], Oregon, indicate that the magnetic field could have shifted at a rate of up to 6 degrees per day at some time in Earth's history, which significantly challenges the popular understanding of how the Earth's magnetic field works.<ref name="nature.com" /> This finding was later attributed to unusual rock magnetic properties of the lava flow under study, not rapid field change, by one of the original authors of the 1995 study.<ref name="epsl.com" />
+對美國[[俄勒岡州]]{{le|斯廷斯山|Steens Mountain}}熔岩流的研究顯示，地磁場在地球歷史上曾經有過每天6度的偏移速度，這與人們對地磁場的普遍認識大相徑庭。<ref name="nature.com" />然而，參與這項研究的其中一位科學家後來表示，該現象應歸咎於這條熔岩流本身特殊的磁特性，而與地磁場的快速偏移無關。<ref name="epsl.com" />
 
-Temporary dipole tilt variations that take the dipole axis across the equator and then back to the original polarity are known as ''excursions''.<ref name="MMMexcursion" />
+地磁場磁偶極子軸有時會傾斜到越過赤道，然後返回到原來的極向。這一現象稱為「地磁偏移」。<ref name="MMMexcursion" />
 
-===Earliest appearance===
-Paleomagnetic studies of [[Paleoarchean]] lava in Australia and [[Conglomerate (geology)|conglomerate]] in South Africa have concluded that the magnetic field has been present since at least about {{Ma|3450}}.<ref>{{cite journal |url=http://onlinelibrary.wiley.com/doi/10.1029/JB085iB07p03523/abstract |first1=T. N. W. |last1=McElhinney |first2=W. E. |last2=Senanayake |title=Paleomagnetic Evidence for the Existence of the Geomagnetic Field 3.5 Ga Ago |journal=Journal of Geophysical Research |volume=85 |page=3523 |year=1980 |bibcode=1980JGR....85.3523M |doi=10.1029/JB085iB07p03523 |ref=harv}}</ref><ref name="Tarduno2009">{{cite journal |last1=Usui |first1=Yoichi |last2=Tarduno |first2=John A. |last3=Watkeys |first3=Michael |last4=Hofmann |first4=Axel |last5=Cottrell |first5=Rory D. |title=Evidence for a 3.45-billion-year-old magnetic remanence: Hints of an ancient geodynamo from conglomerates of South Africa |journal=Geochemistry Geophysics Geosystems |year=2009 |volume=10 |issue=9 |doi=10.1029/2009GC002496 |bibcode=2009GGG....1009Z07U |ref=harv}}</ref><ref>{{cite journal |last1=Tarduno |first1=J. A. |last2=Cottrell |first2=R. D. |last3=Watkeys |first3=M. K. |last4=Hofmann |first4=A. |last5=Doubrovine |first5=P. V. |last6=Mamajek |first6=E. E. |last7=Liu |first7=D. |last8=Sibeck |first8=D. G. |last9=Neukirch |first9=L. P. |last10=Usui |first10=Y. |title=Geodynamo, Solar Wind, and Magnetopause 3.4 to 3.45 Billion Years Ago |journal=Science |date=4 March 2010 |volume=327 |issue=5970 |pages=1238–1240 |doi=10.1126/science.1183445 |bibcode=  2010Sci...327.1238T|pmid=20203044 |ref=harv}}</ref>
-
-===Future===
+===未來===
 [[File:Brunhes geomagnetism western US.png|thumb|Variations in virtual axial dipole moment since the last reversal.]]
-At present, the overall geomagnetic field is becoming weaker; the present strong deterioration corresponds to a 10–15% decline over the last 150 years and has accelerated in the past several years; geomagnetic intensity has declined almost continuously from a maximum 35% above the modern value achieved approximately 2,000 years ago. The rate of decrease and the current strength are within the normal range of variation, as shown by the record of past magnetic fields recorded in rocks.
+目前的地磁場正在整體減弱。在過去150年間，地磁場強度下降了10%至15%，且在過去幾年有加快的趨勢。地磁場在2千年前達到比目前強度高35%的最高值，並自此幾乎持續減弱至今。和岩石中的古地磁場記錄相比，今天的地磁場強度和減弱的速率都在正常波動範圍以內。
 
 The nature of Earth's magnetic field is one of [[heteroscedastic]] fluctuation. An instantaneous measurement of it, or several measurements of it across the span of decades or centuries, are not sufficient to extrapolate an overall trend in the field strength. It has gone up and down in the past for unknown reasons. Also, noting the local intensity of the dipole field (or its fluctuation) is insufficient to characterize Earth's magnetic field as a whole, as it is not strictly a dipole field. The dipole component of Earth's field can diminish even while the total magnetic field remains the same or increases.
 
