@@ -15,7 +15,7 @@
 
 古地磁學是對地球過去磁場的研究。<ref name="McElhinny2000">{{cite book |last1=McElhinny |first1=Michael W. |last2=McFadden |first2=Phillip L. |title=Paleomagnetism: Continents and Oceans |publisher=Academic Press |year=2000 |isbn=0-12-483355-1 |ref=harv}}</ref>地磁場的極向會在[[火成岩]]中留下印記，所以當[[海底擴張]]時，每次[[地磁逆轉]]的印記會從[[中洋脊]]向外移動，在海床上形成多條與中洋脊平行的條狀結構。古地磁學家能夠利用非逆轉期間較為穩定的地磁極向，推測大陸漂移的歷史。科學家還可以利用地磁逆轉來判斷岩石和沉積物的[[地質年代學|年代]]，這種研究稱為[[磁性地層學]]。<ref>{{cite book |last1=Opdyke |first1=Neil D. |last2=Channell |first2=James E. T. |title=Magnetic Stratigraphy |publisher=Academic Press |year=1996 |isbn=978-0-12-527470-8 |ref=harv}}</ref>地磁場會使地殼礦物磁化，造成的[[磁異常]]可用於勘探金屬礦藏。<ref>{{cite book |last1=Mussett |first1=Alan E. |last2=Khan |first2=M. Aftab |title=Looking into the Earth: An introduction to Geological Geophysics |year=2000 |publisher=Cambridge University Press |isbn=0-521-78085-3 |ref=harv}}</ref>
 
-人類最早在公元11世紀利用磁性指南針判斷方向，並在12世紀用指南針導航。<ref>{{cite book |last=Temple |first=Robert |title=The Genius of China |publisher=Andre Deutsch |year=2006 |isbn=0-671-62028-2 |ref=harv}}</ref>雖然[[地磁偏角]]會隨時間漂移，但這種移動的速度十分緩慢，不足以干擾普通指南針的導航作用。諸多生物物種都具有[[磁場感知]]的能力，包括[[鴿子]]和某些細菌，並用之判定方向和導航。
+人類最早在公元11世紀利用磁性指南針判斷方向，並在12世紀用指南針導航。<ref>{{cite book |last=Temple |first=Robert |title=The Genius of China |publisher=Andre Deutsch |year=2006 |isbn=0-671-62028-2 |ref=harv}}</ref>雖然[[地磁偏角]]會隨時間漂移，但這種移動的速度十分緩慢，不足以干擾普通指南針的導航作用。諸多生物物種都具有{{le|磁場感知|magnetoreception}}的能力，包括[[鴿子]]和某些細菌，並用之判定方向和導航。
 
 == 主要特點 ==
 
@@ -42,7 +42,7 @@
 
 ===地域差異===
 <center>
-地磁場三個坐標分量的地域分佈圖，[[世界地磁模型]]2015年數據。<ref name="renamed_from_2010_on_20131022170733">{{Cite report |last1=Chulliat |first1=A. |last2=Macmillan |first2=S. |last3=Alken |first3=P. |last4=Beggan |first4=C. |last5=Nair |first5=M. |last6=Hamilton |first6=B. |last7=Woods |first7=A. |last8=Ridley |first8=V. |last9=Maus  |first9=S. |last10=Thomson |first10=A. |date=2015 |title=The US/UK World Magnetic Model for 2015-2020 |url=http://www.ngdc.noaa.gov/geomag/WMM/data/WMM2015/WMM2015_Report.pdf |publisher=National Geophysical Data Center |accessdate=21 February 2016}}</ref>
+地磁場三個坐標分量的地域分佈圖，{{le|世界地磁模型|World Magnetic Model}}2015年數據。<ref name="renamed_from_2010_on_20131022170733">{{Cite report |last1=Chulliat |first1=A. |last2=Macmillan |first2=S. |last3=Alken |first3=P. |last4=Beggan |first4=C. |last5=Nair |first5=M. |last6=Hamilton |first6=B. |last7=Woods |first7=A. |last8=Ridley |first8=V. |last9=Maus  |first9=S. |last10=Thomson |first10=A. |date=2015 |title=The US/UK World Magnetic Model for 2015-2020 |url=http://www.ngdc.noaa.gov/geomag/WMM/data/WMM2015/WMM2015_Report.pdf |publisher=National Geophysical Data Center |accessdate=21 February 2016}}</ref>
 </center>
 <gallery mode="packed" align="center" heights="155px">
 File:World Magnetic Field 2015.pdf|強度
@@ -172,7 +172,7 @@ File:World Magnetic Declination 2015.pdf|偏角
 ===勘察===
 1832年，[[卡爾·弗里德里希·高斯]]測量地球磁場。<ref>{{cite web |author=Gauss, C.F |date=1832 |title=The Intensity of the Earth's Magnetic Force Reduced to Absolute Measurement |url=http://21stcenturysciencetech.com/translations/gaussMagnetic.pdf |accessdate=2009-10-21}}</ref>在之後150年的重複測量中，地磁場錄得10%的整體減弱。<ref>{{cite journal |journal=[[Annual Review of Earth and Planetary Sciences]] |volume=1988 |issue=16 |page=435 |title=Time Variations of the Earth's Magnetic Field: From Daily to Secular |first1=Vincent |last1=Courtillot |author1-link=Vincent Courtillot |first2=Jean Louis |last2=Le Mouel |doi=10.1146/annurev.ea.16.050188.002133 |bibcode=1988AREPS..16..389C |year=1988 |ref=harv}}</ref>包括[[Magsat]]在內的一系列衛星利用三軸矢量磁力儀測量地磁場的三維結構。{{le|奧斯特衛星|Ørsted (satellite)}}的數據顯示，存在一個動力地球發電機，使得在南非以西大西洋底下出現一個額外的磁極。<ref name="pmid11948347">{{cite journal |last1=Hulot |first1=G. |last2=Eymin |first2=C. |last3=Langlais |first3=B. |last4=Mandea |first4=M. |last5=Olsen |first5=N. |title=Small-scale structure of the geodynamo inferred from Oersted and Magsat satellite data |journal=[[Nature (journal)|Nature]] |volume=416 |issue=6881 |pages=620–623 |date=April 2002 |pmid=11948347 |doi=10.1038/416620a |url= |ref=harv|bibcode=2002Natur.416..620H}}</ref>
 
-各國政府往往會通過地質調查所在各地的觀測站對地磁場進行系統性的勘察，如{{le|英國地質調查所}}的{{le|埃斯克代爾繆爾觀測站|Eskdalemuir Observatory}}。這些觀測站可以測量和預測磁暴等地磁場狀況。
+各國政府往往會通過地質調查所在各地的觀測站對地磁場進行系統性的勘察，如{{le|英國地質調查所|British Geological Survey}}的{{le|埃斯克代爾繆爾觀測站|Eskdalemuir Observatory}}。這些觀測站可以測量和預測磁暴等地磁場狀況。
 
 [[Intermagnet|國際實時磁場觀測站網絡]]由遍佈全球的一百多座第磁場觀測站所組成，自1991年起一直保持對地磁場的監察。
 
@@ -199,40 +199,37 @@ File:World Magnetic Declination 2015.pdf|偏角
 
 最低階高斯係數{{math|''g''<sub>0</sub><sup>0</sup>}}描述的是一個磁單極子對地磁場的貢獻，由於自然界中尚未發現磁單極子的存在，因此這一項必須為零。接下來，第一階共有三項：{{math|<var>g</var><sub>1</sub><sup>0</sup>}}、{{math|<var>g</var><sub>1</sub><sup>1</sup>}}和{{math|<var>h</var><sub>1</sub><sup>1</sup>}}，分別描述三個正交方向的磁偶極子對磁場的貢獻。用此方法得出的磁偶極子方向與地球的自轉軸（地理南北方向）夾角約為10°，詳見上文。<ref name="MMMch2" />
 
-=====角度關係=====
+=====半徑關係=====
 如果在不同海拔對地磁場進行測量（如地表和衛星），再利用球諧函數分析，就可以分辨出磁場是源自地球內部還是外部。每一個高斯係數{{math|''g<sub>m</sub><sup>ℓ</sup>''}}或{{math|''h<sub>m</sub><sup>ℓ</sup>''}}都會分成兩項：一項隨半徑依{{math|1/''r''<sup>''ℓ''+1</sup>}}降低，另一項隨半徑依{{math|''r<sup>ℓ</sup>''}}上升。後者的存在是因為有外在磁場源，如電離層和磁層中的電流。不過，外在磁場源的貢獻在多年數據的平均下會最終趨向零。<ref name="MMMch2" />
 
 如果把對應於外在磁場源的項忽略不計，餘下的多極展開項說明，一個磁偶極子（{{math|''ℓ''{{=}}1}}）所產生的磁純量勢隨半徑依{{math|1/''r''<sup>2</sup>}}降低。磁場是勢的導數，所以它依{{math|1/''r''<sup>3</sup>}}降低。磁四極子所產生的磁場則依{{math|1/''r''<sup>4</sup>}}降低。更高階項隨半徑的降低速度會越來越快。地球外核的半徑約為地球半徑的一半，如果以核幔邊界作為球面用球諧函數來擬合地磁場，那麼在地表上，偶極磁場就只有核幔邊界處的八分之一，四極磁場則只有十六分之一，如此類推。因此，只有低階項（亦即波長較短的磁場）才能在地表上探測得到。再加上其他的種種原因，科學家通常假設只有第14階及以下的磁場來自於地核，相應的波長在2千公里以下。比這更小的磁場變化是由地殼的磁異常所致。<ref name="MMMch2" />
 
 ====全球模型====
-The [[International Association of Geomagnetism and Aeronomy]] maintains a standard global field model called the [[International Geomagnetic Reference Field]]. It is updated every five years. The 11th-generation model, IGRF11, was developed using data from satellites ([[Ørsted (satellite)|Ørsted]], [[CHAMP (satellite)|CHAMP]] and [[SAC-C]]) and a world network of geomagnetic observatories.<ref>{{cite journal |last1=Finlay |first1=C. C. |last2=Maus |first2=S. |last3=Beggan |first3=C. D. |last4=Hamoudi |first4=M. |last5=Lowes |first5=F. J. |last6=Olsen |first6=N. |last7=Thébault |first7=E. |date=2010 |title=Evaluation of candidate geomagnetic field models for IGRF-11 |url=http://www.geomag.us/info/Smaus/Doc/Finlay_etal_IGRF11eval_sub.pdf |journal=Earth, Planets and Space |volume=62 |issue=10 |pages=787–804 |bibcode=2010EP&S...62..787F |doi=10.5047/eps.2010.11.005 |ref=harv}}</ref> The spherical harmonic expansion was truncated at degree 10, with 120 coefficients, until 2000. Subsequent models are truncated at degree 13 (195 coefficients).<ref>{{cite web |url=http://www.ngdc.noaa.gov/IAGA/vmod/igrfhw.html |title=The International Geomagnetic Reference Field: A "Health" Warning |date=January 2010 |publisher=National Geophysical Data Center |accessdate=13 October 2011}}</ref>
+{{le|國際地磁參考場|International Geomagnetic Reference Field}}是{{le|國際地磁學與高空科學協會|International Association of Geomagnetism and Aeronomy}}彙編的標準全球地磁場模型，每五年修訂一次。第12代模型IGRF12的數據來源包括{{le|奧斯特衛星|Ørsted (satellite)|奧斯特}}、[[微型衛星酬載挑戰計劃|CHAMP]]和[[SAC-C]]等衛星以及遍佈全球的地磁觀測站。<ref>{{cite journal |last1=Thébault |first1=E. |last2=Finlay |first2=C. C. |last3=Beggan |first3=C. D. |last4=Alken |first4=P. |display-authors=3 |date=2015-05-27 |title=International Geomagnetic Reference Field: the 12th generation |url=https://earth-planets-space.springeropen.com/articles/10.1186/s40623-015-0228-9 |journal=Earth, Planets and Space |volume=67 |issue=79}}</ref>2000年之前的模型中，球諧函數展開截至第10階，共含120個係數；新模型截至第13階，共含195個係數。<ref>{{cite web |url=http://www.ngdc.noaa.gov/IAGA/vmod/igrfhw.html |title=The International Geomagnetic Reference Field: A "Health" Warning |date=January 2010 |publisher=National Geophysical Data Center |accessdate=13 October 2011}}</ref>
 
-Another global field model, called the [[World Magnetic Model]], is produced jointly by the United States [[National Centers for Environmental Information]] (formerly the National Geophysical Data Center) and the [[British Geological Survey]]. This model truncates at degree 12 (168 coefficients) with an approximate spatial resolution of 3,000 kilometers. It is the model used by the [[United States Department of Defense]], the [[Ministry of Defence (United Kingdom)]], the United States [[Federal Aviation Administration]] (FAA), the [[North Atlantic Treaty Organization]] (NATO), and the [[International Hydrographic Office]] as well as in many civilian navigation systems.<ref>{{cite web |title=The World Magnetic Model |url=http://www.ngdc.noaa.gov/geomag/WMM/DoDWMM.shtml |publisher=National Geophysical Data Center |accessdate=14 October 2011}}</ref>
+{{le|世界地磁模型|World Magnetic Model}}由美國{{le|國家環境資訊中心}}（前身為國家地球物理數據中心）和{{le|英國地質調查所|British Geological Survey}}共同彙編。該模型的球諧函數展開截至第12階，共含168個係數，空間解析度約為3千公里。採用此模型的包括[[美國國防部]]、[[英國國防部]]、[[美國聯邦航空總署]]、[[北約組織]]及許多民用導航系統。<ref>{{cite web |title=The World Magnetic Model |url=http://www.ngdc.noaa.gov/geomag/WMM/DoDWMM.shtml |publisher=National Geophysical Data Center |accessdate=14 October 2011}}</ref>
 
-A third model, produced by the [[Goddard Space Flight Center]] ([[NASA]] and [[GSFC]]) and the [[Danish Space Research Institute]], uses a "comprehensive modeling" approach that attempts to reconcile data with greatly varying temporal and spatial resolution from ground and satellite sources.<ref>{{cite web |last=Herbert |first=Frey |title=Comprehensive Modeling of the Geomagnetic Field |url=http://core2.gsfc.nasa.gov/CM/ |publisher=NASA |deadurl=yes |archiveurl=https://web.archive.org/web/20111020054217/http://core2.gsfc.nasa.gov/cm/ |archivedate=2011-10-20 |df= }}</ref>
+除此之外，由[[高達德太空飛行中心]]和{{le|丹麥空間研究所|Danish Space Research Institute}}彙編的地磁模型採取一種「全面性建模」方法，目的是把時間和空間解析度差別巨大的多組地表和衛星數據融合起來。<ref>{{cite web |last=Herbert |first=Frey |title=Comprehensive Modeling of the Geomagnetic Field |url=http://core2.gsfc.nasa.gov/CM/ |publisher=NASA |deadurl=yes |archiveurl=https://web.archive.org/web/20111020054217/http://core2.gsfc.nasa.gov/cm/ |archivedate=2011-10-20 |df= }}</ref>
 
-For users with higher accuracy needs, the United States [[National Centers for Environmental Information]] developed  the Enhanced Magnetic Model (EMM), which extends to degree and order 720 and resolves magnetic anomalies down to a wavelength of 56 kilometers. It was compiled from satellite, marine, aeromagnetic and ground magnetic surveys. The latest version, EMM2015, includes data from The European Space Agency's Swarm satellite mission.<ref>{{cite web |title=The Enhanced Magnetic Model|url=https://www.ngdc.noaa.gov/geomag/EMM/ |publisher=United States [[National Centers for Environmental Information]] |accessdate=20 December 2016}}</ref>
+精度更高的還有美國國家環境資訊中心所彙編的增強地磁模型（{{lang-en|Enhanced Magnetic Model}}），其球諧函數展開截至第790階，對磁異常的解析度達到56公里的波長。數據取自衛星、海上、航空、地表等地磁觀測站。{{截至|2018}}的最新版本EMM2017包含由[[歐洲太空總署]]{{le|Swarm任務|Swarm (spacecraft)}}所錄得的數據。<ref>{{cite web |title=The Enhanced Magnetic Model|url=https://www.ngdc.noaa.gov/geomag/EMM/ |publisher=United States [[National Centers for Environmental Information]] |accessdate=29 June 2018}}</ref>
 
 == Biomagnetism ==
-{{main article|Magnetoception}}
+{{main article|磁場感知}}
 
-Animals including birds and turtles can detect the Earth's magnetic field, and use the field to navigate during [[Bird migration|migration]].<ref>{{cite journal |last1=Deutschlander |first1=M. |last2=Phillips |first2=J. |last3=Borland |first3=S. |year=1999 |title=The case for light-dependent magnetic orientation in animals |journal=Journal of Experimental Biology |volume=202 |issue=8 |pages=891–908 |pmid=10085262 |ref=harv}}</ref> Some researchers have found that cows and wild deer tend to align their bodies north-south while relaxing, but not when the animals are under high-voltage power lines, suggesting that magnetism is responsible.<ref name='Burda2009'>{{cite journal |doi=10.1073/pnas.0811194106 |title=Extremely low-frequency electromagnetic fields disrupt magnetic alignment of ruminants |year=2009 |last1=Burda |first1=H. |last2=Begall |first2=S. |last3=Cerveny |first3=J. |last4=Neef |first4=J. |last5=Nemec |first5=P. |journal=Proceedings of the National Academy of Sciences |volume=106 |issue=14 |pages=5708–13 |bibcode=2009PNAS..106.5708B |pmid=19299504 |pmc=2667019}}</ref><ref name='Nature summary'>{{cite journal |doi=10.1038/458389a |title=Biology: Electric cows |year=2009 |journal=Nature |volume=458 |page=389 |pmid=<!--none--> |issue=7237 |bibcode=2009Natur.458Q.389. |ref=harv}}</ref> Other researchers reported in 2011 that they could not replicate those findings using different [[Google Earth]] images.<ref>{{cite journal|last1=Hert|first1=J|last2=Jelinek|first2=L|last3=Pekarek|first3=L|last4=Pavlicek|first4=A|year=2011|title=No alignment of cattle along geomagnetic field lines found|journal=Journal of Comparative Physiology|volume=197|issue=6|pages=677–682|doi=10.1007/s00359-011-0628-7|pmid=|ref=harv}} [https://link.springer.com/article/10.1007%2Fs00359-011-0628-7]</ref>
+不少動物可以感知地磁場，例如某些鳥類在[[鳥類遷徙|遷徙]]過程中用地磁場來導航。<ref>{{cite journal |last1=Deutschlander |first1=M. |last2=Phillips |first2=J. |last3=Borland |first3=S. |year=1999 |title=The case for light-dependent magnetic orientation in animals |journal=Journal of Experimental Biology |volume=202 |issue=8 |pages=891–908 |pmid=10085262 |ref=harv}}</ref>研究也發現，牛和野鹿往往會把身體與南北方向對齊，但在高壓電線底下卻不會，意味著這種行為和磁場相關。<ref name='Burda2009'>{{cite journal |doi=10.1073/pnas.0811194106 |title=Extremely low-frequency electromagnetic fields disrupt magnetic alignment of ruminants |year=2009 |last1=Burda |first1=H. |last2=Begall |first2=S. |last3=Cerveny |first3=J. |last4=Neef |first4=J. |last5=Nemec |first5=P. |journal=Proceedings of the National Academy of Sciences |volume=106 |issue=14 |pages=5708–13 |bibcode=2009PNAS..106.5708B |pmid=19299504 |pmc=2667019}}</ref><ref name='Nature summary'>{{cite journal |doi=10.1038/458389a |title=Biology: Electric cows |year=2009 |journal=Nature |volume=458 |page=389 |issue=7237 |bibcode=2009Natur.458Q.389. |ref=harv}}</ref>然而，2011年的一項研究通過分析[[Google地球]]圖像，並沒有觀察到這種現象。<ref>{{cite journal|last1=Hert|first1=J|last2=Jelinek|first2=L|last3=Pekarek|first3=L|last4=Pavlicek|first4=A|year=2011|title=No alignment of cattle along geomagnetic field lines found|url=https://link.springer.com/article/10.1007%2Fs00359-011-0628-7|journal=Journal of Comparative Physiology|volume=197|issue=6|pages=677–682|doi=10.1007/s00359-011-0628-7|pmid=|ref=harv}}</ref>
 
-Researchers found out that very weak electromagnetic fields disrupt the magnetic compass used by European robins and other songbirds to navigate using the Earth's magnetic field. Neither power lines nor cellphone signals are to blame for the electromagnetic field effect on the birds;<ref>{{Cite journal|last=Engels|first=Svenja|last2=Schneider|first2=Nils-Lasse|last3=Lefeldt|first3=Nele|last4=Hein|first4=Christine Maira|last5=Zapka|first5=Manuela|last6=Michalik|first6=Andreas|last7=Elbers|first7=Dana|last8=Kittel|first8=Achim|last9=Hore|first9=P. J.|date=2014-05-15|title=Anthropogenic electromagnetic noise disrupts magnetic compass orientation in a migratory bird|url=http://www.nature.com/articles/nature13290|journal=Nature|language=En|volume=509|issue=7500|pages=353–356|doi=10.1038/nature13290|issn=0028-0836|via=}}</ref> instead, the culprits have frequencies between 2&nbsp;kHz and 5&nbsp;MHz. These include AM radio signals and ordinary electronic equipment that might be found in businesses or private homes.<ref>{{cite web |url=http://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/electric-field-disruption-magnetic-compass-birds-hints-quantum-action |title=Electromagnetic Interference Disrupts Bird Navigation, Hints at Quantum Action |first=Jeremy |last=Hsu |work=IEEE Spectrum |date=9 May 2014 |accessdate=31 May 2015}}</ref>
+科學家發現，[[歐亞鴝]]及其他[[鳴禽]]的地磁導航能力正受到微弱電磁場的干擾。這種干擾並非來自電纜或手提電話訊號，<ref>{{Cite journal|last=Engels|first=Svenja|last2=Schneider|first2=Nils-Lasse|last3=Lefeldt|first3=Nele|last4=Hein|first4=Christine Maira|last5=Zapka|first5=Manuela|last6=Michalik|first6=Andreas|last7=Elbers|first7=Dana|last8=Kittel|first8=Achim|last9=Hore|first9=P. J.|date=2014-05-15|title=Anthropogenic electromagnetic noise disrupts magnetic compass orientation in a migratory bird|url=http://www.nature.com/articles/nature13290|journal=Nature|language=En|volume=509|issue=7500|pages=353–356|doi=10.1038/nature13290|issn=0028-0836|via=}}</ref>而是一種頻率介乎2&nbsp;kHz至5&nbsp;MHz的訊號。這包括[[調幅廣播]]訊號以及普通商用和家用的電子設備。<ref>{{cite web |url=http://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/electric-field-disruption-magnetic-compass-birds-hints-quantum-action |title=Electromagnetic Interference Disrupts Bird Navigation, Hints at Quantum Action |first=Jeremy |last=Hsu |work=IEEE Spectrum |date=9 May 2014 |accessdate=31 May 2015}}</ref>
 
-== See also ==
-{{portal|Earth sciences|Physics}}
-{{Wikipedia books|Geomagnetism}}
-* [[Van Allen radiation belt]]
-* [[Thermal history of the Earth|Thermal History of the Earth]]
-* [[Geomagnetic jerk]]
-* [[Geomagnetic latitude]]
-* [[History of geomagnetism]]
-* [[Magnetic field of the Moon]]
-* [[Magnetosphere of Jupiter]]
-* [[Magnetotellurics]]
+== 參見 ==
+{{portal|地球科學|物理學}}
+* [[范艾倫輻射帶]]
+<!--* [[Geomagnetic jerk]]-->
+<!--* [[History of geomagnetism]]-->
+<!--* [[Magnetic field of the Moon]]-->
+* [[木星的磁層]]
+<!--* [[Magnetotellurics]]-->
 
-== References ==
+== 參考資料 ==
 {{reflist|2| refs =
 
 <ref name="nature.com">{{cite journal
@@ -273,7 +270,7 @@ Researchers found out that very weak electromagnetic fields disrupt the magnetic
 
 }}
 
-== Further reading ==
+== 延伸閱讀 ==
 {{refbegin}}
 * {{cite book |last=Campbell|first=Wallace H.|title=Introduction to geomagnetic fields|year=2003|publisher=[[Cambridge University Press]]|location=New York|isbn=978-0-521-52953-2|edition=2nd|ref=harv}}
 * {{cite book |first1=Neil F. |last1=Comins |year=2008 |title=Discovering the Essential Universe |publisher=[[W. H. Freeman]] |edition=Fourth |isbn=978-1-4292-1797-2}}
@@ -290,7 +287,7 @@ Researchers found out that very weak electromagnetic fields disrupt the magnetic
 * {{cite book |first1=Martin |last1=Walt |author1-link=Martin Walt |year=1994 |title=Introduction to Geomagnetically Trapped Radiation |publisher=[[Cambridge University Press]] |isbn=978-0-521-61611-9}}
 {{refend}}
 
-== External links ==
+== 外部連結 ==
 {{Commons category|Geomagnetism}}
 * ''[http://www.agu.org/sections/geomag/background.html Geomagnetism & Paleomagnetism background material]''. American Geophysical Union Geomagnetism and Paleomagnetism Section.
 * ''[http://geomag.usgs.gov National Geomagnetism Program]''. [[United States Geological Survey]], March 8, 2011.
@@ -306,12 +303,11 @@ Researchers found out that very weak electromagnetic fields disrupt the magnetic
 * [http://www.vukcevic.talktalk.net/Global%20Mag%20Anomaly.gif Global evolution/anomaly of the Earth's magnetic field] Sweeps are in 10 degree steps at 10 years intervals. Based on data from: The Institute of Geophysics, [http://www.ethz.ch/index_EN ETH Zurich]
 
 {{Atmospheric electricity}}
-{{Geology}}
+{{地質學}}
 {{Geophysics navbox}}
-{{magnetospherics}}
+{{Magnetosphere}}
 
 {{Authority control}}
 
-[[Category:Geomagnetism]]
-[[Category:Geophysics]]
-[[Category:Magnetospheres|Earth]]
+[[Category:地磁]]
+[[Category:地球物理学]]
