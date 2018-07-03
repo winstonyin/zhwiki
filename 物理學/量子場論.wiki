@@ -3,9 +3,9 @@
 | 1=zh-cn:泡利; zh-hk:鮑利; zh-tw:包立;
 | 2=zh-cn:沃尔夫冈; zh-hk:華夫岡; zh-tw:沃夫岡;
 }}
-'''量子場論'''（{{lang-en|'''Quantum field theory'''}}，簡稱'''QFT'''）是為[[粒子物理]]中的各種[[亞原子粒子]]和[[凝聚態物理學]]中的各種[[準粒子]]建立[[量子力學]]模型的一個[[理論物理|理論]]框架，是結合了[[場 (物理)|經典場論]]、[[狹義相對論]]和量子力學的一套概念和數學工具。<ref>{{harvnb|Peskin|Scroeder|1995|loc=Preface.}}</ref><!--When combined with the [[Cluster decomposition theorem|cluster decomposition principle]],<ref>It is related with, but not identical to the notion of [[causality]]. It says in effect, distant experiments yield uncorrelated results.</ref> it may be the ''only'' way to do so,<ref>{{harvnb|Weinberg|1995|loc=Preface.}}</ref> while retaining the ideas of [[Point particle|quantum point particle]]s and [[Principle of locality|locality]].-->科學家曾經認為量子場論是描述宇宙的真正根本的理論，但一直以來，把[[廣義相對論]]量子化的嘗試困難重重，所以人們現在相信量子場論只是某個更基礎的未知理論的[[有效場論]]。
+'''量子場論'''（{{lang-en|'''Quantum field theory'''}}，簡稱'''QFT'''）是為[[粒子物理學]]中[[亞原子粒子]]和[[凝聚態物理學]]中[[準粒子]]建立[[量子力學]]模型的一個[[理論物理|理論]]框架，是結合了[[場 (物理)|經典場論]]、[[狹義相對論]]和量子力學的一套概念和數學工具。<ref>{{harvnb|Peskin|Scroeder|1995|loc=Preface.}}</ref>量子場論將粒子視為更基礎的[[場 (物理)|場]]上的[[激發態]]，即所謂的[[量子]]，而粒子之間的交互作用則是以相應的場之間的交互項來描述。每個交互作用都可以用[[費曼圖]]來表示，這些圖不但是一種直觀視化的方法，而且還是相對論性協變[[微擾理論 (量子力學)|微擾理論]]中用於計算粒子交互過程的一個重要的數學工具。
 
-量子場論將粒子視為更基礎的[[場 (物理)|場]]上的[[激發態]]，即所謂的[[量子]]，而粒子之間的交互作用則是以相應的場之間的交互項來描述。每個交互作用都可以用[[費曼圖]]來表示，這些圖不但是一種直觀視化的方法，而且還是相對論性協變[[微擾理論 (量子力學)|微擾理論]]中用於計算粒子交互過程的一個重要的數學工具。
+<!--When combined with the [[Cluster decomposition theorem|cluster decomposition principle]],<ref>It is related with, but not identical to the notion of [[causality]]. It says in effect, distant experiments yield uncorrelated results.</ref> it may be the ''only'' way to do so,<ref>{{harvnb|Weinberg|1995|loc=Preface.}}</ref> while retaining the ideas of [[Point particle|quantum point particle]]s and [[Principle of locality|locality]].-->科學家曾經認為量子場論是描述宇宙的真正根本的理論，但一直以來，把[[廣義相對論]]量子化的嘗試困難重重，所以人們現在相信量子場論只是某個更基礎的未知理論的[[有效場論]]。
 
 ==歷史==
 <!--{{Main|History of quantum field theory}}-->
