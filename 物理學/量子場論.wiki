@@ -9,7 +9,7 @@
 
 ==歷史==
 <!--{{Main|History of quantum field theory}}-->
-儘管量子場論是[[量子力學]]和[[狹義相對論]]相結合的必然結果（{{harvtxt|Weinberg|1995}}），其歷史卻源自1920年代對[[電磁場]]的量子化。
+儘管量子場論是[[量子力學]]和[[狹義相對論]]相結合的必然結果（{{harvtxt|Weinberg|1995}}），其歷史卻源自1920年代對[[電磁場]]的量子化。[[愛德華·維騰]]認為量子場論是當今物理學最難理解的理論，<ref>{{Cite web|title=Beautiful Minds, Vol. 20: Ed Witten|url=http://temi.repubblica.it/iniziative-beautifulminds/|publisher=[[la Repubblica]]|year=2010|accessdate=22 June 2012}} See [https://www.youtube.com/watch?v=NsYRCLYH954&t=2m22s here].</ref>「它如此難理解，在整整25年內都沒有人完全相信它。」<ref>{{Cite news |last= Cole |first= K. C. |date= 18 October 1987 |title= A Theory of Everything |url= https://www.nytimes.com/1987/10/18/magazine/a-theory-of-everything.html?pagewanted=all |journal= [[The New York Times Magazine]] |accessdate= 15 September 2016 }}</ref>
 
 ===早期發展===
 [[File:Max Born.jpg|220px|thumb|left|[[馬克斯·玻恩]]（1882至1970年），量子場論開拓者之一。他所定下的[[玻恩定則]]首次把量子力學視為以概率為根本的理論。1954年與[[瓦爾特·博特]]同獲[[諾貝爾物理學獎]]。]]
@@ -85,33 +85,35 @@
 {{le|亞歷山大·別拉溫|Alexander Belavin}}、[[亞歷山大·泊里雅科夫]]和{{le|亞歷山大·扎莫洛季科夫|Alexander Zamolodchikov}}在1984年提出，二維臨界系統的縮放極限存在一種更強的對稱性。這一發現最終發展成為一種特殊的量子場論──[[共形場論]]，<ref>{{cite journal|author=Belavin AA|author2=Polyakov AM|author3=Zamolodchikov AB|title=Infinite conformal symmetry in two-dimensional quantum field theory|journal=Nucl. Phys. B|volume=241|issue=2|pages=333–80|date=1984|doi=10.1016/0550-3213(84)90052-X|bibcode = 1984NuPhB.241..333B |url=http://cds.cern.ch/record/152341}}</ref><ref>Clément Hongler, [http://www.math.columbia.edu/~hongler/thesis.pdf "Conformal invariance of Ising model correlations"], Ph.D. thesis, Université of Geneva, 2010, p. 9.</ref>目前應用在粒子物理學和凝聚態物理學。
 
 ==方法==
-Most theories in standard particle physics are formulated as ''relativistic quantum field theories'', such as QED, QCD, and the [[Standard Model]]. QED, the quantum field-theoretic description of the electromagnetic field, approximately reproduces [[James Clerk Maxwell|Maxwell]]'s theory of electrodynamics in the low-energy limit, with [[Euler–Heisenberg Lagrangian|small non-linear corrections to the Maxwell equations]] required due to [[virtual particle|virtual]] electron–positron pairs.
+粒子物理學中，包括量子電動力學、量子色動力學和標準模型在內的大部分理論都屬於「相對論性量子場論」。在低能極限下，從量子電動力學可得出[[麥克斯韋方程組]]。由於有量子效應，如虛電子正子對的產生，因此在經典電動力學以外還有小的非線性修正項，這由{{le|歐拉-海森堡拉格朗日量|Euler–Heisenberg Lagrangian}}來描述。
 
-===Perturbative and non-perturbative approaches===
-In the [[Perturbation theory (quantum mechanics)|perturbative]] approach to quantum field theory, the full field interaction terms are approximated as a perturbative expansion in the number of particles involved. Each term in the expansion can be thought of as forces between particles being mediated by other particles. In QED, the [[electromagnetic force]] between two [[electrons]] is caused by an exchange of [[photons]]. Similarly, [[intermediate vector boson]]s mediate the [[weak force]] and [[gluons]] mediate the [[strong force]] in QCD. The notion of a force-mediating particle comes from [[perturbation theory]], and does not make sense in the context of [[non-perturbative]] approaches to QFT, such as with [[bound states]].
+===微擾與非微擾方法===
+通過量子場論的[[微擾理論 (量子力學)|微擾]]方法，可以用一個以參與相互作用的粒子總數所展開的級數，一階一階地近似相互作用項的整個效應。展開中的每一項都可以理解為粒子間通過其他[[虛粒子]]傳遞相互作用的一種可能途徑，可以用非常形象的[[費曼圖]]來表達。兩個電子間的[[電磁力]]在量子電動力學中（在第一階微擾）是以[[光子]]的傳遞來表達的。同樣，[[W和Z玻色子]]傳遞弱相互作用，[[膠子]]傳遞強相互作用。這種把相互作用的中間態視為各種粒子交換過程的總和的看法，只有在微擾理論的框架下才有意義；非微擾方法則把相互作用項視為一個整體來對待，不進行級數展開，因此也沒有虛粒子傳遞相互作用一說。取而代之描述相互作用的，是{{le|束縛態|bound state}}、[[瞬子]]等概念。
 
-===QFT and gravity===
-There is currently no complete quantum theory of the remaining [[fundamental interaction|fundamental force]], [[gravity]].  Many of the [[quantum gravity|proposed theories]] to describe gravity as a QFT postulate the existence of a [[graviton]] particle that mediates the gravitational force. Presumably, the as yet unknown correct quantum field-theoretic treatment of the gravitational field will behave like Einstein's [[general theory of relativity]] in the low-energy limit. Quantum field theory of the fundamental forces itself has been postulated to be the low-energy [[effective field theory]] limit of a more fundamental theory such as [[superstring theory]].
+===引力量子場論===
+{{Main|量子引力}}
 
-==Definition==
-[[Quantum electrodynamics]] (QED) has one [[electron]] field and one [[photon]] field; [[quantum chromodynamics]] (QCD) has one field for each type of [[quark]]; and, in condensed matter, there is an atomic displacement field that gives rise to [[phonon]] particles. [[Edward Witten]] describes QFT as "by far" the most difficult theory in modern physics<ref>{{Cite web|title=Beautiful Minds, Vol. 20: Ed Witten|url=http://temi.repubblica.it/iniziative-beautifulminds/|publisher=[[la Repubblica]]|year=2010|accessdate=22 June 2012}} See [https://www.youtube.com/watch?v=NsYRCLYH954&t=2m22s here].</ref> – "so difficult that nobody fully believed it for 25 years."<ref>{{Cite news |last= Cole |first= K. C. |date= 18 October 1987 |title= A Theory of Everything |url= https://www.nytimes.com/1987/10/18/magazine/a-theory-of-everything.html?pagewanted=all |journal= [[The New York Times Magazine]] |accessdate= 15 September 2016 }}</ref>
+[[引力]]是唯一一個不能通過量子場論完全描述的[[基本相互作用]]。不少以量子場論為框架的[[量子引力]]理論都假設存在一種傳遞引力相互作用的粒子──[[引力子]]。理論學家猜想，如果確實有一個描述引力的正確量子場論，那麼它的低能極限就必定是愛因斯坦的[[廣義相對論]]。理論學家也猜想，描述基本相互作用的量子場論，都是某個更根本的理論（如[[超弦理論]]）的[[有效場論]]。
+<!--
+==定義==
+[[Quantum electrodynamics]] (QED) has one [[electron]] field and one [[photon]] field; [[quantum chromodynamics]] (QCD) has one field for each type of [[quark]]; and, in condensed matter, there is an atomic displacement field that gives rise to [[phonon]] particles.
 
-===Dynamics===
+===動力學===
 {{See also|Relativistic dynamics}}
-Ordinary quantum mechanical systems have a fixed number of particles, with each particle having a finite number of [[degrees of freedom (physics and chemistry)|degrees of freedom]]. In contrast, the excited states of a quantum field can represent any number of particles. This makes quantum field theories especially useful for describing systems where the particle count/number may change over time, a crucial feature of relativistic dynamics. A QFT is thus an organized infinite array of oscillators.
+普通量子力學系統所包含的粒子數目是恆定不變的，每顆粒子都具有有限個[[自由度 (物理學)|自由度]]。與之不同的是，量子場論中的「粒子」指的是在量子場上的激發態，而激發態所對應的粒子數目是可以改變的。由於相對論性動力系統的粒子數目是會隨時間變化的，所以量子場論變得尤其恰當。
 
-===States===
+===態===
 QFT interaction terms are similar in spirit to those between charges with electric and magnetic fields in [[Maxwell's equations]]. However, unlike the classical fields of Maxwell's theory, fields in QFT generally exist in [[quantum superposition]]s of states and are subject to  the laws of quantum mechanics.
 
 Because the fields are continuous quantities over space, there exist excited states with arbitrarily large numbers of particles in them, providing QFT systems with effectively an infinite number of degrees of freedom. Infinite degrees of freedom can easily lead to [[divergent series|divergences]] of calculated quantities (e.g., the quantities become infinite).  Techniques such as [[renormalization]] of QFT parameters or discretization of [[spacetime]], as in [[lattice QCD]], are often used to avoid such infinities so as to yield physically plausible results.
 
 ===Fields and radiation===
 The [[gravitational field]] and the [[electromagnetic field]] are the only two fundamental fields in nature that have infinite range and a corresponding classical low-energy limit, which greatly diminishes and hides their "particle-like" excitations. [[Albert Einstein]] in 1905, attributed "particle-like" and discrete exchanges of momenta and energy, characteristic of "field quanta", to the electromagnetic field. Originally, his principal motivation was to explain the [[thermodynamics]] of [[radiation]]. Although the [[photoelectric effect]] and [[Compton scattering]] strongly suggest the existence of the photon, it might alternatively be explained by a mere quantization of emission; more definitive evidence of the quantum nature of radiation is now taken up into modern [[quantum optics]] as in the [[Photon antibunching|antibunching]] effect.<ref>{{harvnb|Thorn|Neel|Donato|Bergreen|2004}}</ref>
+-->
+== 原理 ==
 
-== Principles ==
-
-=== Classical and quantum fields ===
-{{main|Classical field theory}}
+=== 經典場與量子場 ===
+{{Main|經典場論}}
 
 A classical field is a function defined over some region of space and duration in time.<ref name="tong1">{{harvnb|Tong|2015|loc=Chapter 1}}</ref> Two physical phenomena which are described by classical fields are [[Newtonian gravitation]], described by [[Newtonian gravitational field]] '''g'''('''x''', ''t''), and [[classical electromagnetism]], described by the [[electric field|electric]] and [[magnetic fields]] '''E'''('''x''', ''t'') and '''B'''('''x''', ''t''). Because such fields can in principle take on distinct values at each point in space, they are said to have infinite [[Degrees of freedom (physics and chemistry)|degrees of freedom]].<ref name="tong1" />
 
