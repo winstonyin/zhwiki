@@ -15,11 +15,11 @@
 [[File:Max Born.jpg|180px|thumb|left|[[馬克斯·玻恩]]（1882至1970年），量子場論開拓者之一。他所定下的[[玻恩定則]]首次把量子力學視為以概率為根本的理論。1954年與[[瓦爾特·博特]]同獲[[諾貝爾物理學獎]]。]]
 [[量子電動力學]]是量子場論的首個成果，被稱為「成功的量子場理論中之典範」（{{harvtxt|Weinberg|1995}}）。[[光子]]是相對論性粒子的最佳例子：其[[靜質量]]為零，因此在真空中以[[光速]]''c''行進。普通量子力學不是一個相對論性理論，所以無法以近似的方法解釋光子。在光被吸收或發射的各種過程中，例如當[[電子]]在不同[[能級]]之間躍遷時，只能額外假定光子的存在。要明確描述光子，必須用到量子場論。事實上，在量子理論發展的早期（所謂的[[舊量子論]]，1900至1925年），大部分課題都圍繞著光和物質的相互作用，所以都理應以量子場論方法來處理。不過，1926至1927年間由[[保羅·狄拉克]]、[[維爾納·海森堡]]和[[埃爾溫·薛定諤]]所創的量子力學以原子[[光譜學|光譜]]為主要對象，而非光輻射。
 
-在量子力學的概念框架建立完成之際，一小組理論家試圖把量子力學方法應用到[[電磁場]]上。（例如{{harvtxt|Born|Jordan|Heisenberg|1926}}，其中[[帕斯庫爾·約當]]對有關光的量子的文獻尤其熟悉，對量子場論做過開創性的貢獻。）想法大體是，量子場論中的電磁場應以[[矩陣]]來表示，就如量子力學中的位置和動量都以矩陣來表示一樣（[[矩陣力學]]中的諧振子算子）。如此，量子力學的概念被套用到含無限[[自由度 (物理學)|自由度]]的系統上──一組無限個[[量子諧振子]]。
+在量子力學的概念框架建立完成之際，一小組理論家試圖把量子力學方法應用到[[電磁場]]上。（例如{{harvtxt|Born|Jordan|Heisenberg|1926}}，其中[[帕斯庫爾·約當]]對有關光的量子的文獻尤其熟悉，對量子場論做過開創性的貢獻。）想法大體是，量子場論中的電磁場應以[[矩陣]]來表示，就如量子力學中的位置和動量都以矩陣來表示一樣（[[矩陣力學]]中的諧振子算子）。如此，量子力學的概念被套用到具有無限[[自由度 (物理學)|自由度]]的系統上──一組無限個[[量子諧振子]]。
 
 量子場論之始，一般追溯至1927年狄拉克的論文《描述輻射的發射和吸收的量子理論》。<ref>{{harvnb|Dirac|1927}}</ref>論文中，狄拉克首用「量子電動力學」一詞（{{lang-en|Quantum electrodynamics}}，簡稱QED）。他建立了系統性的步驟，把量子理論中粒子的物理量具有不連續性的這一特徵，轉移到場上。他利用量子諧振子理論，為光子從電磁場中出現的現象提供了理論解釋。之後，其他場的量子化步驟，也用到了狄拉克的方法。其後的三年內，這些早期量子場論方法繼續發展。約當建立了對應於遵守[[費米-狄拉克統計]]的場的[[創生及消滅算符]]。和對應於[[玻色–愛因斯坦統計]]的算符不同的是，前者滿足反對易關係，而後者滿足[[對易關係]]。
 
-量子場論方法可以用來推導基於場的量子力學方程式，包括[[狄拉克方程式]]、[[克莱恩-戈登方程式]]和[[麥克斯韋方程式]]。有學者指出，<ref>{{harvnb|Schweber|1994|p=28}}</ref>[[二次量子化]]的概念和步驟可追溯至約當在1927年發表的幾篇論文<ref>詳見{{harvtxt|Schweber|1994|pp=695ff}}中的參考</ref>，但這一術語則是由狄拉克所創。一些圍繞對易關係、統計和[[勞侖茲協變性]]的難題，也都一一陸續得到解決。海森堡和[[華夫岡·鮑利]]在1929至1930年首次全面描述量子場理論中的正則量子化方法。<ref>Werner Heisenberg and Wolfgang Pauli, "Zur Quantendynamik der Wellenfelder", ''Zeitschrift für Physik'', '''56''', 1929, 1–61.</ref><ref>Werner Heisenberg and Wolfgang Pauli, "Zur Quantendynamik der Wellenfelder II", ''Zeitschrift für Physik'', '''59''', 1930, 168–90.</ref>約當的二次量子化方法運用在場的[[簡正模]]係數上，海森堡和鮑利則從場本身開始，並把正則方法直接應用到場上。因此，後二人所創立的，是現代量子場論導論中所用的基本理論框架。費米和狄拉克，以及{{le|弗拉基米爾·亞歷山大羅維奇·福克|Vladimir Aleksandrovich Fock}}和[[鮑里斯·波多爾斯基]]，都分別用到不同的陳述，這都對日後的理論發展起到了啟發性的作用。
+量子場論方法可以用來推導基於場的量子力學方程式，包括[[狄拉克方程式]]、[[克萊恩-戈登方程式]]和[[麥克斯韋方程式]]。有學者指出，<ref>{{harvnb|Schweber|1994|p=28}}</ref>[[二次量子化]]的概念和步驟可追溯至約當在1927年發表的幾篇論文<ref>詳見{{harvtxt|Schweber|1994|pp=695ff}}中的參考</ref>，但這一術語則是由狄拉克所創。一些圍繞對易關係、統計和[[勞侖茲協變性]]的難題，也都一一陸續得到解決。海森堡和[[華夫岡·鮑利]]在1929至1930年首次全面描述量子場理論中的正則量子化方法。<ref>Werner Heisenberg and Wolfgang Pauli, "Zur Quantendynamik der Wellenfelder", ''Zeitschrift für Physik'', '''56''', 1929, 1–61.</ref><ref>Werner Heisenberg and Wolfgang Pauli, "Zur Quantendynamik der Wellenfelder II", ''Zeitschrift für Physik'', '''59''', 1930, 168–90.</ref>約當的二次量子化方法運用在場的[[簡正模]]係數上，海森堡和鮑利則從場本身開始，並把正則方法直接應用到場上。因此，後二人所創立的，是現代量子場論導論中所用的基本理論框架。費米和狄拉克，以及{{le|弗拉基米爾·亞歷山大羅維奇·福克|Vladimir Aleksandrovich Fock}}和[[鮑里斯·波多爾斯基]]，都分別用到不同的陳述，這都對日後的理論發展起到了啟發性的作用。
 
 量子電動力學的根基有二。<ref>詳見{{harvtxt|Scharf|2014}}中短小精湛的''Historical introduction''一章</ref>其一為電磁場的量子化，即以光子為電磁場的激發態（或稱量子）。[[史蒂文·溫伯格]]指出：「光子是唯一一個被發現是粒子前就已經被認為是場的粒子」，所以量子電動力學很自然地以研究電磁場為始。<ref>{{harvnb|Weinberg|1995|p=15}}</ref>其二為電子的相對論性理論，其核心為狄拉克方程式。
 
@@ -115,53 +115,53 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 === 經典場與量子場 ===
 {{Main|經典場論}}
 
-A classical field is a function defined over some region of space and duration in time.<ref name="tong1">{{harvnb|Tong|2015|loc=Chapter 1}}</ref> Two physical phenomena which are described by classical fields are [[Newtonian gravitation]], described by [[Newtonian gravitational field]] '''g'''('''x''', ''t''), and [[classical electromagnetism]], described by the [[electric field|electric]] and [[magnetic fields]] '''E'''('''x''', ''t'') and '''B'''('''x''', ''t''). Because such fields can in principle take on distinct values at each point in space, they are said to have infinite [[Degrees of freedom (physics and chemistry)|degrees of freedom]].<ref name="tong1" />
+經典[[場 (物理)|場]]是在時間和空間上定義的函數。<ref name="tong1">{{harvnb|Tong|2015|loc=Chapter 1}}</ref>例子包括：[[牛頓萬有引力定律|牛頓萬有引力]]中的[[引力場]]{{math|'''g'''('''x''', ''t'')}}，以及[[經典電磁學]]中的[[電場]]{{math|'''E'''('''x''', ''t'')}}和[[磁場]]{{math|'''B'''('''x''', ''t'')}}。經典場在空間上的每一個點都有一個隨時間變動的數值，所以它們具有無限[[自由度 (物理學)|自由度]]。<ref name="tong1" />
 
-Classical field theory does not, however, account for the quantum-mechanical aspects of such physical phenomena. For instance, it is known from quantum mechanics that certain aspects of electromagnetism involve discrete particles&mdash;[[photons]]&mdash;rather than continuous fields. The business of ''quantum'' field theory is to write down a field that is, like a classical field, a function defined over space and time, but which also accommodates the observations of quantum mechanics. This is a ''quantum field''.
+然而，經典場論無法解釋具有量子力學性質的物理現象。例如，一些物理現象（包括[[光電效應]]）必須以一顆顆獨立的粒子──[[光子]]──來描述，而非在空間上連續的場。「量子」場論的目的，是既要以場為基礎，又要能夠解釋各種量子力學現象。
 
-To write down such a [[Canonical quantization#Field operators|quantum field]], one promotes the infinity of classical oscillators representing the modes of the classical fields to [[quantum harmonic oscillator]]s. They thus become operator-valued functions (actually, distributions).<ref>{{cite book 
+和經典場一樣，量子場也有對應的[[運動方程]]。經典場在此方程下的解可以分為無限個[[簡正模]]，每一個都是[[諧振子]]；而在[[正則量子化]]表述下，量子場在運動方程下的簡正模都要提升成為[[量子諧振子]]。原來在每個空間點上都有一個數值的函數，現在成為了在每個空間點上都有一個[[算符]]的函數。<ref>{{cite book 
 |last= Brown
 |first= Lowell S.
 |title= Quantum Field Theory
 |publisher= [[Cambridge University Press]]
 |year= 1994
-|isbn= 978-0-521-46946-3 }}</ref> (In its most general formulation, quantum mechanics is a theory of abstract [[Operator (physics)|operators]] (observables) acting on an abstract state space ([[Hilbert space]]), where the observables represent physically observable quantities and the state space represents the possible states of the system under study.<ref>{{harvnb|Srednicki|2007|p=19}}</ref> For instance, the fundamental observables associated with the motion of a single quantum mechanical particle are the [[position operator|position]] and [[momentum operator]]s <math>\hat{x}</math> and <math>\hat{p}</math>. Field theory, by sharp contrast, treats ''x'' as a label, an index of the field rather than as an operator.<ref>{{harvnb|Srednicki|2007|pp=25&ndash;26}}</ref>)
+|isbn= 978-0-521-46946-3 }}</ref>（在最廣義的量子力學中，抽象[[算符]]作用在抽象態空間（[[希爾伯特空間]]）上。每個可觀察量都有一個對應的算符，而態空間則代表物理系統所有可能的狀態。<ref>{{harvnb|Srednicki|2007|p=19}}</ref>在普通量子力學中，單個粒子的可觀察量算符有[[位置算符]]<math>\hat{x}</math>和[[動量算符]]<math>\hat{p}</math>。不同的是，量子場論中的{{math|''x''}}只是場的位置標籤，不是算符。<ref>{{harvnb|Srednicki|2007|pp=25&ndash;26}}</ref>）
 
-There are two common ways of handling a quantum field: [[canonical quantization]] and  the [[path integral formalism]].<ref>{{harvnb|Zee|2010|p=61}}</ref> The latter of these is pursued in this article.
+量子場論的兩種常用表述分別是[[正則量子化]]和[[路徑積分表述]]。<ref>{{harvnb|Zee|2010|p=61}}</ref>
 
-==== Lagrangian formalism ====
-Quantum field theory relies on the [[Lagrangian (field theory)|Lagrangian]] formalism from [[classical field theory]]. This formalism is analogous to the Lagrangian formalism used in [[classical mechanics]] to solve for the motion of a particle under the influence of a field. In classical field theory, one writes down a [[Lagrangian (field theory)|Lagrangian density]], <math>\mathcal{L}</math>, involving a field, φ('''x''',''t''), and possibly its first derivatives (∂φ/∂''t'' and ∇φ), and then applies a field-theoretic form of the [[Euler–Lagrange equation]]. Writing coordinates (''t'', '''x''')&nbsp;= (''x''<sup>0</sup>, ''x''<sup>1</sup>, ''x''<sup>2</sup>, ''x''<sup>3</sup>) = ''x''<sup>μ</sup>, this form of the Euler–Lagrange equation is<ref name="tong1" />
+==== 拉格朗日量表述 ====
+[[經典場論]]中的[[拉格朗日量]]表述在量子場論中也是必不可少的，它類似於[[經典力學]]中用於計算粒子在場作用下的移動路徑的拉格朗日量表述。在經典場論下，要先寫下一個拉格朗日量密度<math>\mathcal{L}</math>，其中包含場的數值{{math|''φ''('''x''',''t'')}}和它的第一導數（{{math|∂''φ''/∂''t''}}和{{math|∇''φ''}}），然後在拉格朗日量上應用適用於場論的[[歐拉-拉格朗日方程]]。將坐標整合寫作{{math|(''t'', '''x''') {{=}} (''x''<sup>0</sup>, ''x''<sup>1</sup>, ''x''<sup>2</sup>, ''x''<sup>3</sup>) {{=}} ''x''<sup>''μ''</sup>}}，則歐拉-拉格朗日方程如下：<ref name="tong1" />
 :<math>\frac{\partial}{\partial x^\mu} \left[\frac{\partial\mathcal{L}}{\partial(\partial\varphi/\partial x^\mu)}\right] - \frac{\partial\mathcal{L}}{\partial\varphi} = 0,</math>
-where a sum over μ is performed according to the rules of [[Einstein notation]].
+當中根據[[愛因斯坦標記法]]省去了把標號{{math|''μ''}}總和的記號。
 
-By solving this equation, one arrives at the "equations of motion" of the field.<ref name="tong1" /> For example, if one begins with the Lagrangian density
+把拉格朗日量密度代入以上方程，所得的方程就是場的[[運動方程]]。<ref name="tong1" />舉例來說，如果從以下拉格朗日量密度開始：
 :<math> \mathcal{L}(\varphi,\nabla\varphi) = -\rho(t,\mathbf{x})\,\varphi(t,\mathbf{x}) - \frac{1}{8\pi G}|\nabla\varphi|^2,</math>
-and then applies the Euler–Lagrange equation, one obtains the equation of motion
+應用歐拉-拉格朗日方程就會得出
 :<math> 4\pi G \rho(t,\mathbf{x}) = \nabla^2 \varphi.</math>
-This equation is [[Newton's law of universal gravitation]], expressed in differential form in terms of the [[gravitational potential]] φ(''t'', '''x''') and the [[mass density]] ρ(''t'', '''x'''). Despite the nomenclature, the "field" under study is the gravitational potential, φ, rather than the gravitational field, '''g'''. Similarly, when classical field theory is used to study electromagnetism, the "field" of interest is the electromagnetic [[four-potential]] (''V''/''c'', '''A'''), rather than the electric and magnetic fields '''E''' and '''B'''.
+這就是以[[引力勢]]{{math|''φ''(''t'', '''x''')}}和[[質量密度]]{{math|''ρ''(''t'', '''x''')}}寫出的[[牛頓萬有引力定律]]微分形式。
 
-Quantum field theory uses this same Lagrangian procedure to determine the equations of motion for quantum fields. These equations of motion are then supplemented by [[commutation relation]]s derived from the canonical quantization procedure described below, thereby incorporating quantum mechanical effects into the behavior of the field.
+場論中的「場」是一種廣義的稱呼，有時會造成混淆。以上所考慮的「場」其實是引力勢，而非引力場{{math|'''g'''}}。電磁學的經典場論也有同樣的情況：拉格朗日量中所寫的「場」其實是[[電磁四維勢]]{{math|(''V''/''c'', '''A''')}}，而非電場{{math|'''E'''}}和磁場{{math|'''B'''}}。
 
-=== Single- and many-particle quantum mechanics ===
-{{main|Quantum mechanics|First quantization}}
-In non-relativistic quantum mechanics, a particle (such as an electron or proton) is described by a [[complex number|complex]] [[wavefunction]], {{math|''ψ''(''x'', ''t'')}}, whose time-evolution is governed by the [[Schrödinger equation]]:
+量子場論也用到相同的拉格朗日程序來得出量子場的運動方程。為了納入量子力學效應，在運動方程以外還需要考慮一組[[對易關係]]。下文將描述如何通過正則量子化程序得出這些對易關係。
+
+=== 單粒子與多粒子量子力學 ===
+{{main|量子力學<!--|第一量子化-->}}
+非相對論性量子力學中的粒子（如電子或質子）由[[複數|複]][[波函數]]{{math|''ψ''(''x'', ''t'')}}所描述，而波函數隨時間的演變是由[[薛定諤方程]]所決定：
 :<math>-\frac{{\hbar}^2}{2m}\frac{{\partial}^2}{\partial x^2}\psi(x,t) + V(x)\psi(x,t) = i \hbar \frac{\partial}{\partial t} \psi(x,t).</math>
-Here {{math|''m''}} is the particle's [[mass]] and {{math|''V''(''x'')}} is the applied [[potential]]. Physical information about the behavior of the particle is extracted from the wavefunction by constructing [[expected value]]s for various quantities; for example, the expected value of the particle's position is given by integrating {{math|''ψ''<sup>*</sup>(''x'') ''x'' ''ψ''(''x'')}} over all space, and the expected value of the particle's [[momentum]] is found by integrating {{math|&minus;''iħ''ψ<sup>*</sup>(''x'')d''ψ''/d''x''}}. The quantity {{math|''ψ''<sup>*</sup>(''x'')''ψ''(''x'')}} is itself in the [[Copenhagen interpretation]] of quantum mechanics interpreted as a [[probability density function]]. This treatment of quantum mechanics, where a particle's wavefunction evolves against a classical background potential {{math|''V''(''x'')}}, is sometimes called ''first quantization''.
+此處{{math|''m''}}是粒子的[[質量]]，{{math|''V''(''x'')}}是外在的[[純量勢|勢]]。要取得有關粒子行為的任何訊息，須利用波函數計算對應於物理量的各種[[期望值]]。例如，粒子位置的期望值是{{math|''ψ''<sup>*</sup>(''x'') ''x'' ''ψ''(''x'')}}在整個空間上的積分，粒子動量的期望值則是{{math|&minus;''iħ''ψ<sup>*</sup>(''x'')d''ψ''/d''x''}}在整個空間上的積分。根據[[哥本哈根詮釋]]，{{math|''ψ''<sup>*</sup>(''x'')''ψ''(''x'')}}本身可理解為粒子可能出現位置的[[機率密度函數]]。粒子在一個背景經典場{{math|''V''(''x'')}}作用下計算其波函數演變的量子力學方法，有時會被稱為「第一量子化」。
 
-This description of quantum mechanics can be extended to describe the behavior of multiple particles, so long as the number and the type of particles remain fixed. The particles are described by a wavefunction {{math|''ψ''(''x''<sub>1</sub>, ''x''<sub>2</sub>, &hellip;, ''x<sub>N</sub>'', ''t'')}}, which is governed by an extended version of the Schrödinger equation.
+此方法可以推廣至含多個粒子的系統，唯一條件是粒子數目和粒子種類必須保持不變。所有粒子的集體由波函數{{math|''ψ''(''x''<sub>1</sub>, ''x''<sub>2</sub>, &hellip;, ''x<sub>N</sub>'', ''t'')}}所描述，而波函數的演變是由推廣後的薛定諤方程所描述。
 
-Often one is interested in the case where {{math|''N''}} particles are all of the same type (for example, the 18 electrons orbiting a neutral [[argon]] nucleus). As described in the article on [[identical particles]], this implies that the state of the entire system must be either symmetric ([[boson]]s) or antisymmetric ([[fermion]]s) when the coordinates of its constituent particles are exchanged. This is achieved by using a [[Slater determinant]] as the wavefunction of a fermionic system (and a Slater [[Permanent (mathematics)|permanent]] for a bosonic system), which is equivalent to an element of the symmetric or antisymmetric subspace of a tensor product.
+當系統中所有粒子都屬於同一種類時（如圍繞[[氬]]原子核公轉的18顆電子），可以根據波函數在位置坐標調換下是對稱還是反對稱，分別分為[[玻色子]]和[[費米子]]。費米子系統的波函數可以用[[斯萊特行列式]]表達，玻色子系統則用斯萊特[[積和式]]。玻色子和費米子分別理解為[[張量積]]的對稱和反對稱子空間。詳見[[全同粒子]]。
 
-For example, the general quantum state of a system of {{math|''N''}} bosons is written as
-
+以含{{math|''N''}}個玻色子的系統為例，其最一般的量子態可寫作：
 :<math> |\phi_1 \cdots \phi_N \rang = \sqrt{\frac{\prod_j N_j!}{N!}} \sum_{p\in S_N} |\phi_{p(1)}\rang \otimes \cdots \otimes |\phi_{p(N)} \rang,</math>
+其中<math>|\phi_i\rang</math>是單粒子態，{{math|''N<sub>j</sub>''}}是佔據態{{math|''j''}}的粒子數目，求和範圍是作用在{{math|''N''}}個元素上的所有[[置換]]{{math|''p''}}。求和項共有{{math|''N''!}}個。<math>\sqrt{\frac{\prod_j N_j!}{N!}}</math> is a normalizing factor.
 
-where <math>|\phi_i\rang</math> are the single-particle states, {{math|''N<sub>j</sub>''}} is the number of particles occupying state {{math|''j''}}, and the sum is taken over all possible [[permutation]]s {{math|''p''}} acting on {{math|''N''}} elements. In general, this is a sum of {{math|''N''!}} ({{math|''N''}} [[factorial]]) distinct terms. <math>\sqrt{\frac{\prod_j N_j!}{N!}}</math> is a normalizing factor.
+以上量子力學方法有若干量子場論所能彌補的弱點。首先，嘗試把[[狹義相對論]]效應納入量子力學，會遇到諸多難題。<ref>{{harvnb|Tong|2015|loc=Introduction}}</ref>比如，如果將薛定諤方程換為符合狹義相對論的[[克萊恩-戈登方程式]]或[[狄拉克方程式]]，方程解的能量[[特徵值]]會一直往下延續至&minus;∞，以致於無法對[[基態]]做良好的定義。後來人們發現，這些問題的根源在於，波函數在狹義相對論下不能夠理解為在位置空間上的機率分佈，因為機率守恆並不是一個[[洛倫茲協變|相對論性不變]]的概念。第二個短處是，量子力學無法解釋[[成對產生]]這種粒子創生和消滅的現象。<ref>{{harvnb|Zee|2010|p=3}}</ref>能量和質量可以相互轉換（見[[質能等價]]），也是相對論中的一個重要元素。
 
-There are several shortcomings to the above description of quantum mechanics, which are addressed by quantum field theory. First, it is unclear how to extend quantum mechanics to include the effects of [[special relativity]].<ref>{{harvnb|Tong|2015|loc=Introduction}}</ref> Attempted replacements for the Schrödinger equation, such as the [[Klein–Gordon equation]] or the [[Dirac equation]], have many unsatisfactory qualities; for instance, they possess energy [[eigenvalues]] that extend to &ndash;∞, so that there seems to be no easy definition of a [[ground state]]. It turns out that such inconsistencies arise from relativistic wavefunctions not having a well-defined probabilistic interpretation in position space, as probability conservation is not a [[Lorentz covariance|relativistically covariant]] concept. The second shortcoming, related to the first, is that in quantum mechanics there is no mechanism to describe particle creation and annihilation;<ref>{{harvnb|Zee|2010|p=3}}</ref> this is crucial for describing phenomena such as [[pair production]], which result from the conversion between mass and energy according to the relativistic relation [[Mass–energy equivalence|''E'' = ''mc''<sup>2</sup>]].
-
-=== Second quantization ===
-{{Main|Second quantization}}
+=== 第二量子化 ===
+{{Main|第二量子化}}
 
 In this section, we will describe a method for constructing a quantum field theory called '''[[second quantization]]'''. This basically involves choosing a way to index the quantum mechanical degrees of freedom in the space of multiple identical-particle states. It is based on the [[Hamiltonian (quantum mechanics)|Hamiltonian]] formulation of quantum mechanics.
 
