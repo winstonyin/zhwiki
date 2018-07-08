@@ -110,24 +110,47 @@ Because the fields are continuous quantities over space, there exist excited sta
 ===Fields and radiation===
 The [[gravitational field]] and the [[electromagnetic field]] are the only two fundamental fields in nature that have infinite range and a corresponding classical low-energy limit, which greatly diminishes and hides their "particle-like" excitations. [[Albert Einstein]] in 1905, attributed "particle-like" and discrete exchanges of momenta and energy, characteristic of "field quanta", to the electromagnetic field. Originally, his principal motivation was to explain the [[thermodynamics]] of [[radiation]]. Although the [[photoelectric effect]] and [[Compton scattering]] strongly suggest the existence of the photon, it might alternatively be explained by a mere quantization of emission; more definitive evidence of the quantum nature of radiation is now taken up into modern [[quantum optics]] as in the [[Photon antibunching|antibunching]] effect.<ref>{{harvnb|Thorn|Neel|Donato|Bergreen|2004}}</ref>
 -->
-== 原理 ==
-
+== 表述 ==
 === 經典場與量子場 ===
-{{Main|經典場論}}
+{{See also|經典場論}}
 
 經典[[場 (物理)|場]]是在時間和空間上定義的函數。<ref name="tong1">{{harvnb|Tong|2015|loc=Chapter 1}}</ref>例子包括：[[牛頓萬有引力定律|牛頓萬有引力]]中的[[引力場]]{{math|'''g'''('''x''', ''t'')}}，以及[[經典電磁學]]中的[[電場]]{{math|'''E'''('''x''', ''t'')}}和[[磁場]]{{math|'''B'''('''x''', ''t'')}}。經典場在空間上的每一個點都有一個隨時間變動的數值，所以它們具有無限[[自由度 (物理學)|自由度]]。<ref name="tong1" />
 
 然而，經典場論無法解釋具有量子力學性質的物理現象。例如，一些物理現象（包括[[光電效應]]）必須以一顆顆獨立的粒子──[[光子]]──來描述，而非在空間上連續的場。「量子」場論的目的，是既要以場為基礎，又要能夠解釋各種量子力學現象。
-
+<!--
 和經典場一樣，量子場也有對應的[[運動方程]]。經典場在此方程下的解可以分為無限個[[簡正模]]，每一個都是[[諧振子]]；而在[[正則量子化]]表述下，量子場在運動方程下的簡正模都要提升成為[[量子諧振子]]。原來在每個空間點上都有一個數值的函數，現在成為了在每個空間點上都有一個[[算符]]的函數。<ref>{{cite book 
 |last= Brown
 |first= Lowell S.
 |title= Quantum Field Theory
 |publisher= [[Cambridge University Press]]
 |year= 1994
-|isbn= 978-0-521-46946-3 }}</ref>（在最廣義的量子力學中，抽象[[算符]]作用在抽象態空間（[[希爾伯特空間]]）上。每個可觀察量都有一個對應的算符，而態空間則代表物理系統所有可能的狀態。<ref>{{harvnb|Srednicki|2007|p=19}}</ref>在普通量子力學中，單個粒子的可觀察量算符有[[位置算符]]<math>\hat{x}</math>和[[動量算符]]<math>\hat{p}</math>。不同的是，量子場論中的{{math|''x''}}只是場的位置標籤，不是算符。<ref>{{harvnb|Srednicki|2007|pp=25&ndash;26}}</ref>）
+|isbn= 978-0-521-46946-3 }}</ref>（在最廣義的量子力學中，抽象[[算符]]作用在抽象態空間（[[希爾伯特空間]]）上。每個可觀察量都有一個對應的算符，而態空間則代表物理系統所有可能的狀態。<ref>{{harvnb|Srednicki|2007|p=19}}</ref>在普通量子力學中，單個粒子的可觀察量算符有[[位置算符]]<math>\hat{x}</math>和[[動量算符]]<math>\hat{p}</math>。不同的是，量子場論中的{{math|''x''}}只是場的位置標籤，不是算符。<ref>{{harvnb|Srednicki|2007|pp=25&ndash;26}}</ref>）-->
 
-量子場論的兩種常用表述分別是[[正則量子化]]和[[路徑積分表述]]。<ref>{{harvnb|Zee|2010|p=61}}</ref>
+量子場論的兩種常用表述分別是[[正則量子化]]和[[路徑積分表述]]。<ref>{{harvnb|Zee|2010|p=61}}</ref>為了展示量子場論的基礎原理，以下先簡述經典場論。
+
+以最簡易的經典場為例，假設在空間上每一個點都有一個可以隨時間變動的[[實數]]，記作{{math|''ϕ''('''x''', ''t'')}}，其中{{math|'''x'''}}是位置矢量，{{math|''t''}}是時間。這就是實[[純量場]]。又假設這個場的[[拉格朗日量]]為
+<math>L = \int d^3x\,\mathcal{L} = \int d^3x\,\left[\frac 12 \dot\phi^2 - \frac 12 (\nabla\phi)^2 - \frac 12 m^2\phi^2\right],</math>
+其中<math>\dot\phi</math>是場的時間導數，{{math|∇}}是[[散度]]算符，{{math|''m''}}是一個參數（可視為場的「質量」）。在此拉格朗日量上應用[[歐拉-拉格朗日方程]]，可得出場的[[運動方程]]，描述其在時間和空間上的變動：
+<math>\left(\frac{\partial^2}{\partial t^2} - \nabla^2 + m^2\right)\phi = 0.</math>
+這就是[[克萊恩-戈登方程式]]。
+
+克萊恩-戈登方程式的解可以表示為[[簡正模]]之和（可用[[傅里葉變換]]所得）：
+<math>\phi(\mathbf{x}, t) = \int \frac{d^3p}{(2\pi)^3} \left(a_{\mathbf{p}} e^{-i\omega_{\mathbf{p}}t + i\mathbf{p}\cdot\mathbf{x}} + a_{\mathbf{p}}^* e^{i\omega_{\mathbf{p}}t - i\mathbf{p}\cdot\mathbf{x}}\right),</math>
+其中{{math|''a''}}為複數，星號{{math|*}}代表[[複共軛]]。
+
+=== 正則量子化 ===
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==== 拉格朗日量表述 ====
 [[經典場論]]中的[[拉格朗日量]]表述在量子場論中也是必不可少的，它類似於[[經典力學]]中用於計算粒子在場作用下的移動路徑的拉格朗日量表述。在經典場論下，要先寫下一個拉格朗日量密度<math>\mathcal{L}</math>，其中包含場的數值{{math|''φ''('''x''',''t'')}}和它的第一導數（{{math|∂''φ''/∂''t''}}和{{math|∇''φ''}}），然後在拉格朗日量上應用適用於場論的[[歐拉-拉格朗日方程]]。將坐標整合寫作{{math|(''t'', '''x''') {{=}} (''x''<sup>0</sup>, ''x''<sup>1</sup>, ''x''<sup>2</sup>, ''x''<sup>3</sup>) {{=}} ''x''<sup>''μ''</sup>}}，則歐拉-拉格朗日方程如下：<ref name="tong1" />
@@ -152,33 +175,31 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 
 此方法可以推廣至含多個粒子的系統，唯一條件是粒子數目和粒子種類必須保持不變。所有粒子的集體由波函數{{math|''ψ''(''x''<sub>1</sub>, ''x''<sub>2</sub>, &hellip;, ''x<sub>N</sub>'', ''t'')}}所描述，而波函數的演變是由推廣後的薛定諤方程所描述。
 
-當系統中所有粒子都屬於同一種類時（如圍繞[[氬]]原子核公轉的18顆電子），可以根據波函數在位置坐標調換下是對稱還是反對稱，分別分為[[玻色子]]和[[費米子]]。費米子系統的波函數可以用[[斯萊特行列式]]表達，玻色子系統則用斯萊特[[積和式]]。玻色子和費米子分別理解為[[張量積]]的對稱和反對稱子空間。詳見[[全同粒子]]。
+當系統中所有粒子都屬於同一種類時（如圍繞[[氬]]原子核公轉的18顆電子），可以根據波函數在位置坐標調換下是對稱還是反對稱，分別把系統分為[[玻色子]]和[[費米子]]。費米子系統的波函數可以用[[斯萊特行列式]]表達，玻色子系統則用斯萊特[[積和式]]。玻色子和費米子可以分別理解為[[張量積]]的對稱和反對稱子空間。詳見[[全同粒子]]。
 
 以含{{math|''N''}}個玻色子的系統為例，其最一般的量子態可寫作：
 :<math> |\phi_1 \cdots \phi_N \rang = \sqrt{\frac{\prod_j N_j!}{N!}} \sum_{p\in S_N} |\phi_{p(1)}\rang \otimes \cdots \otimes |\phi_{p(N)} \rang,</math>
-其中<math>|\phi_i\rang</math>是單粒子態，{{math|''N<sub>j</sub>''}}是佔據態{{math|''j''}}的粒子數目，求和範圍是作用在{{math|''N''}}個元素上的所有[[置換]]{{math|''p''}}。求和項共有{{math|''N''!}}個。<math>\sqrt{\frac{\prod_j N_j!}{N!}}</math> is a normalizing factor.
+其中<math>|\phi_i\rang</math>是單粒子態，{{math|''N<sub>j</sub>''}}是佔據態{{math|''j''}}的粒子數目，求和範圍是作用在{{math|''N''}}個元素上的所有[[置換]]{{math|''p''}}。求和項共有{{math|''N''!}}個。<math>\sqrt{\frac{\prod_j N_j!}{N!}}</math>只是一個歸一化因子。
 
 以上量子力學方法有若干量子場論所能彌補的弱點。首先，嘗試把[[狹義相對論]]效應納入量子力學，會遇到諸多難題。<ref>{{harvnb|Tong|2015|loc=Introduction}}</ref>比如，如果將薛定諤方程換為符合狹義相對論的[[克萊恩-戈登方程式]]或[[狄拉克方程式]]，方程解的能量[[特徵值]]會一直往下延續至&minus;∞，以致於無法對[[基態]]做良好的定義。後來人們發現，這些問題的根源在於，波函數在狹義相對論下不能夠理解為在位置空間上的機率分佈，因為機率守恆並不是一個[[洛倫茲協變|相對論性不變]]的概念。第二個短處是，量子力學無法解釋[[成對產生]]這種粒子創生和消滅的現象。<ref>{{harvnb|Zee|2010|p=3}}</ref>能量和質量可以相互轉換（見[[質能等價]]），也是相對論中的一個重要元素。
 
 === 第二量子化 ===
 {{Main|第二量子化}}
 
-In this section, we will describe a method for constructing a quantum field theory called '''[[second quantization]]'''. This basically involves choosing a way to index the quantum mechanical degrees of freedom in the space of multiple identical-particle states. It is based on the [[Hamiltonian (quantum mechanics)|Hamiltonian]] formulation of quantum mechanics.
+此章節描述一種基於量子力學[[哈密頓算符|哈密頓量]]表述，稱為「[[第二量子化]]」的量子場論方法。方法的大意是在由多個全同粒子所組成的系統中選出一種量子力學自由度的標號方式。
 
-Several other approaches exist, such as the [[Feynman path integral]],<ref>{{harvnb|Pais|1994}}. Pais recounts how his astonishment at the rapidity with which [[Feynman]] could calculate using his method. Feynman's method is now part of the standard methods for physicists.</ref> which uses a [[Lagrangian (field theory)|Lagrangian]] formulation. For an overview of some of these approaches, see the article on [[quantization (physics)|quantization]].
+量子場論還有其他的表述，包括基於量子力學[[拉格朗日量]]表述的[[費曼路徑積分]]。<ref>{{harvnb|Pais|1994}}</ref><!--For an overview of some of these approaches, see the article on [[quantization (physics)|quantization]].-->
 
-==== Bosons ====
-For simplicity, we will first discuss second quantization for [[boson]]s, which form perfectly symmetric quantum states. Let us denote the mutually orthogonal single-particle states which are possible in the system by <math>|\phi_1\rang, |\phi_2\rang, |\phi_3\rang,</math> and so on. For example, the 3-particle state with one particle in state <math>|\phi_1\rang</math> and two in state <math>|\phi_2\rang</math> is
-
+==== 玻色子 ====
+為簡單起見，我們以量子態完全對稱的[[玻色子]]為例，討論第二量子化。系統中相互正交的單粒子態分別記作<math>|\phi_1\rang, |\phi_2\rang, |\phi_3\rang,</math>等等。例如，在一個含三個粒子的系統中，一個粒子的態為<math>|\phi_1\rang</math>，兩個粒子的態為<math>|\phi_2\rang</math>，則系統的量子態可寫作完全對稱和：
 :<math> \frac{1}{\sqrt{3}} \left[ |\phi_1\rang |\phi_2\rang
 |\phi_2\rang + |\phi_2\rang |\phi_1\rang |\phi_2\rang + |\phi_2\rang
 |\phi_2\rang |\phi_1\rang \right]. </math>
 
-The first step in second quantization is to express such quantum states in terms of '''occupation numbers''', by listing the number of particles occupying each of the single-particle states <math>|\phi_1\rang, |\phi_2\rang, </math> etc. This is simply another way of labelling the states. For instance, the above 3-particle state is denoted as
-
+第二量子化的第一步是將這些量子態以「佔據數」表達，即以佔據每個單粒子態<math>|\phi_1\rang, |\phi_2\rang, </math>等等的粒子數目為整個系統的態的標號。例如，以上的三粒子系統也可以記作
 :<math> |1, 2, 0, 0, 0, \dots \rangle.</math>
 
-An ''N''-particle state belongs to a space of states describing systems of ''N'' particles. The next step is to combine the individual ''N''-particle state spaces into an extended state space, known as [[Fock space]], which can describe systems of any number of particles. This is composed of the state space of a system with no particles (the so-called [[vacuum state]], written as <math>|0\rang</math>), plus the state space of a 1-particle system, plus the state space of a 2-particle system, and so forth. States describing a definite number of particles are known as [[Fock state]]s: a general element of Fock space will be a linear combination of Fock states. There is a one-to-one correspondence between the occupation number representation and valid boson states in the Fock space.
+一個{{math|''N''}}粒子態是含{{math|''N''}}個粒子的系統的態空間之一員。下一步是把所有{{math|''N''}}粒子態空間結合起來，組成所謂的{{le|福克空間|Fock space}}，從而可以描述含任何粒子數目的系統。換言之，福克空間是含零個粒子、一個粒子、兩個粒子……的系統的態空間之總和（含零個粒子的態空間又稱{{le|真空態|vacuum state}}，記作<math>|0\rang</math>）。含確切粒子數的態稱為[[福克態]]，而福克空間的任意元素一般是若干福克態的[[線性組合]]。福克空間中的所有玻色子態，都可以唯一地用佔據數表示。
 
 At this point, the quantum mechanical system has become a quantum field in the sense we described above. The field's elementary degrees of freedom are the occupation numbers, and each occupation number is indexed by a number <math>j</math> indicating which of the single-particle states <math>|\phi_1\rang, |\phi_2\rang,\dots,|\phi_j\rang,\dots</math> it refers to:
 :<math> | N_1, N_2, N_3, \dots, N_j, \dots \rang .</math>
@@ -261,7 +282,7 @@ Alternatively, the [[Heisenberg picture]] can be used where the time dependence 
 
 Probability amplitudes of observables in such systems are quite hard to evaluate, an enterprise which has absorbed considerable ingenuity in the last three quarters of a century. In practice, most often, expectation values of operators are computed systematically through ''covariant perturbation theory'', formulated through [[Feynman diagram]]s, but [[path integral formulation|path integral]] computer simulations have also produced important results. Contemporary  [[particle physics]] relies on extraordinarily accurate predictions of such techniques.
 
-=== Implications ===
+=== 意義 ===
 
 ==== Unification of fields and particles ====
 The "second quantization" procedure  outlined in the previous section takes a set of single-particle quantum states as a starting point. Sometimes, it is impossible to define such single-particle states, and one must proceed directly to quantum field theory. For example, a quantum theory of the [[electromagnetic field]] ''must'' be a quantum field theory, because it is impossible (for various reasons) to define a [[wavefunction]] for a single [[photon]].<ref>
