@@ -129,14 +129,15 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 量子場論的兩種常用表述分別是[[正則量子化]]和[[路徑積分表述]]。<ref>{{harvnb|Zee|2010|p=61}}</ref>為了展示量子場論的基礎原理，以下先簡述經典場論。
 
 以最簡易的經典場為例，假設在空間上每一個點都有一個可以隨時間變動的[[實數]]，記作{{math|''ϕ''('''x''', ''t'')}}，其中{{math|'''x'''}}是位置矢量，{{math|''t''}}是時間。這就是實[[純量場]]。又假設這個場的[[拉格朗日量]]為
-<math>L = \int d^3x\,\mathcal{L} = \int d^3x\,\left[\frac 12 \dot\phi^2 - \frac 12 (\nabla\phi)^2 - \frac 12 m^2\phi^2\right],</math>
+:<math>L = \int d^3x\,\mathcal{L} = \int d^3x\,\left[\frac 12 \dot\phi^2 - \frac 12 (\nabla\phi)^2 - \frac 12 m^2\phi^2\right],</math>
 其中<math>\dot\phi</math>是場的時間導數，{{math|∇}}是[[散度]]算符，{{math|''m''}}是一個參數（可視為場的「質量」）。在此拉格朗日量上應用[[歐拉-拉格朗日方程]]，可得出場的[[運動方程]]，描述其在時間和空間上的變動：
-<math>\left(\frac{\partial^2}{\partial t^2} - \nabla^2 + m^2\right)\phi = 0.</math>
+:<math>\left(\frac{\partial^2}{\partial t^2} - \nabla^2 + m^2\right)\phi = 0.</math>
 這就是[[克萊恩-戈登方程式]]。
 
 克萊恩-戈登方程式的解可以表示為[[簡正模]]之和（可用[[傅里葉變換]]所得）：
-<math>\phi(\mathbf{x}, t) = \int \frac{d^3p}{(2\pi)^3} \left(a_{\mathbf{p}} e^{-i\omega_{\mathbf{p}}t + i\mathbf{p}\cdot\mathbf{x}} + a_{\mathbf{p}}^* e^{i\omega_{\mathbf{p}}t - i\mathbf{p}\cdot\mathbf{x}}\right),</math>
-其中{{math|''a''}}為複數，星號{{math|*}}代表[[複共軛]]。
+:<math>\phi(\mathbf{x}, t) = \int \frac{d^3p}{(2\pi)^3} \left(a_{\mathbf{p}} e^{-i\omega_{\mathbf{p}}t + i\mathbf{p}\cdot\mathbf{x}} + a_{\mathbf{p}}^* e^{i\omega_{\mathbf{p}}t - i\mathbf{p}\cdot\mathbf{x}}\right),</math>
+其中{{math|''a''}}為複數，星號{{math|*}}代表[[複共軛]]，{{math|''ω''<sub>'''p'''</sub>}}則是簡正模的頻率：
+:<math>\omega_{\mathbf{p}} = \sqrt{|\mathbf{p}|^2 + m^2}.</math>
 
 === 正則量子化 ===
 
