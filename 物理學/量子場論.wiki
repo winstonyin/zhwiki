@@ -134,16 +134,36 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 :<math>\left(\frac{\partial^2}{\partial t^2} - \nabla^2 + m^2\right)\phi = 0.</math>
 這就是[[克萊恩-戈登方程式]]。
 
-克萊恩-戈登方程式的解可以表示為[[簡正模]]之和（可用[[傅里葉變換]]所得）：
+克萊恩-戈登方程式是一條[[波動方程]]，因此它的解可以表示為[[簡正模]]之和（可用[[傅里葉變換]]所得）：
 :<math>\phi(\mathbf{x}, t) = \int \frac{d^3p}{(2\pi)^3} \left(a_{\mathbf{p}} e^{-i\omega_{\mathbf{p}}t + i\mathbf{p}\cdot\mathbf{x}} + a_{\mathbf{p}}^* e^{i\omega_{\mathbf{p}}t - i\mathbf{p}\cdot\mathbf{x}}\right),</math>
 其中{{math|''a''}}為複數，星號{{math|*}}代表[[複共軛]]，{{math|''ω''<sub>'''p'''</sub>}}則是簡正模的頻率：
 :<math>\omega_{\mathbf{p}} = \sqrt{|\mathbf{p}|^2 + m^2}.</math>
+故此，對應於每個{{math|'''p'''}}簡正模都可以視為頻率為{{math|''ω''<sub>'''p'''</sub>}}的經典[[諧振子]]。
 
 === 正則量子化 ===
+{{Main|正則量子化}}
 
+以上經典場的量子化過程，和單個經典諧振子推廣為[[量子諧振子]]的過程相似。
 
+一個經典諧振子的波動程度（一般想象為做諧波運動的粒子之位置{{math|''x''}}，但不應與目前的場的位置標籤{{math|'''x'''}}所混淆）隨時間之變化為
+:<math>x(t) = a e^{-i\omega t} + a^* e^{i\omega t},</math>
+其中{{math|''a''}}是複數，{{math|''ω''}}是諧振子的頻率。
 
+要提升為量子諧振子，經典諧振子的{{math|''x''(''t'')}}從普通數字提升為線性[[算符]]<math>\hat x(t)</math>。同時，{{math|''a''}}和{{math|''a''<sup>*</sup>}}也提升為算符，分別變成[[消滅算符]]<math>\hat a</math>和[[創生算符]]<math>\hat a^\dagger</math>。兩者的[[對易關係]]為
+:<math>[\hat a,\hat a^\dagger] = 1.</math>
+單個諧振子的所有量子態都可以從[[真空態]]<math>|0\rang</math>開始，通過創生算符<math>\hat a^\dagger</math>的重複作用，逐一產生：
+:<math>|n\rang = (\hat a^\dagger)^n|0\rang.</math>
 
+同樣，上文的實純量場{{math|''ϕ''}}（對應於單個諧振子的{{math|''x''}}）提升為算符<math>\hat\phi</math>，而{{math|''a''<sub>'''p'''</sub>}}和{{math|''a''<sub>'''p'''</sub><sup>*</sup>}}則提升為對應於{{math|'''p'''}}的消滅算符<math>\hat a_{\mathbf{p}}</math>和創生算符<math>\hat a_{\mathbf{p}}^\dagger</math>。創生和消滅算符的對易關係為：
+:<math>[\hat a_{\mathbf p},\hat a_{\mathbf q}^\dagger] = (2\pi)^3\delta(\mathbf{p} - \mathbf{q}),\quad [\hat a_{\mathbf p},\hat a_{\mathbf q}] = [\hat a_{\mathbf p}^\dagger,\hat a_{\mathbf q}^\dagger] = 0,</math>
+其中{{math|''δ''}}是[[狄拉克δ函數]]。場的所有量子態都可以從真空態<math>|0\rang</math>開始，通過各個創生算符<math>\hat a_{\mathbf{p}}^\dagger</math>的重複作用，逐一產生，如：
+:<math>(\hat a_{\mathbf{p}_3}^\dagger)^3 \hat a_{\mathbf{p}_2}^\dagger (\hat a_{\mathbf{p}_1}^\dagger)^2 |0\rang.</math>
+
+雖然寫在拉格朗日量中的場在空間上具有連續性，但在量子化之後，態空間卻是離散的。單個諧振子的態空間包含一個粒子的所有離散能級，而與之不同的是，量子場的態空間包含任意粒子數目的所有離散能級。這樣的態空間稱為{{le|福克空間|Fock space}}，它能夠描述相對論性量子系統中粒子數目不固定的現象。
+
+以上將場量子化的過程直接應用了非相對論性量子力學的表述，可以用於對純量場、[[矢量場]]（如電磁場）甚至是[[弦理論|弦]]進行量子化。不過，只有在不含相互作用的最簡單理論（所謂的「自由理論」）中，創生和消滅算符才有良好的定義。在實純量場的例子中，這些算符的存在純粹是因為其經典運動方程的解可以分解成簡正模之和。要對具有相互作用的理論進行任何計算，必須在自由理論的基礎上應用[[微擾理論]]。
+
+=== 路徑積分 ===
 
 
 
