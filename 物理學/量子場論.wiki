@@ -84,32 +84,6 @@
 
 {{le|亞歷山大·別拉溫|Alexander Belavin}}、[[亞歷山大·泊里雅科夫]]和{{le|亞歷山大·扎莫洛季科夫|Alexander Zamolodchikov}}在1984年提出，二維臨界系統的縮放極限存在一種更強的對稱性。這一發現最終發展成為一種特殊的量子場論──[[共形場論]]，<ref>{{cite journal|author=Belavin AA|author2=Polyakov AM|author3=Zamolodchikov AB|title=Infinite conformal symmetry in two-dimensional quantum field theory|journal=Nucl. Phys. B|volume=241|issue=2|pages=333–80|date=1984|doi=10.1016/0550-3213(84)90052-X|bibcode = 1984NuPhB.241..333B |url=http://cds.cern.ch/record/152341}}</ref><ref>Clément Hongler, [http://www.math.columbia.edu/~hongler/thesis.pdf "Conformal invariance of Ising model correlations"], Ph.D. thesis, Université of Geneva, 2010, p. 9.</ref>目前應用在粒子物理學和凝聚態物理學。
 
-==方法==
-粒子物理學中，包括量子電動力學、量子色動力學和標準模型在內的大部分理論都屬於「相對論性量子場論」。在低能極限下，從量子電動力學可得出[[麥克斯韋方程組]]。由於有量子效應，如虛電子正子對的產生，因此在經典電動力學以外還有小的非線性修正項，這由{{le|歐拉-海森堡拉格朗日量|Euler–Heisenberg Lagrangian}}來描述。
-
-===微擾與非微擾方法===
-通過量子場論的[[微擾理論 (量子力學)|微擾]]方法，可以用一個以參與相互作用的粒子總數所展開的級數，一階一階地近似相互作用項的整個效應。展開中的每一項都可以理解為粒子間通過其他[[虛粒子]]傳遞相互作用的一種可能途徑，可以用非常形象的[[費曼圖]]來表達。兩個電子間的[[電磁力]]在量子電動力學中（在第一階微擾）是以[[光子]]的傳遞來表達的。同樣，[[W和Z玻色子]]傳遞弱相互作用，[[膠子]]傳遞強相互作用。這種把相互作用的中間態視為各種粒子交換過程的總和的看法，只有在微擾理論的框架下才有意義；非微擾方法則把相互作用項視為一個整體來對待，不進行級數展開，因此也沒有虛粒子傳遞相互作用一說。取而代之描述相互作用的，是{{le|束縛態|bound state}}、[[瞬子]]等概念。
-
-===引力量子場論===
-{{Main|量子引力}}
-
-[[引力]]是唯一一個尚未通過量子場論完全描述的[[基本相互作用]]。不少以量子場論為框架的[[量子引力]]理論都假設存在一種傳遞引力相互作用的粒子──[[引力子]]。如果確實有一個描述引力的正確量子場論，那麼它的低能極限就應該是愛因斯坦的[[廣義相對論]]。理論學家猜想，描述基本相互作用的量子場論，都是某個更根本的理論（如[[超弦理論]]）的[[有效場論]]。
-<!--
-==定義==
-[[Quantum electrodynamics]] (QED) has one [[electron]] field and one [[photon]] field; [[quantum chromodynamics]] (QCD) has one field for each type of [[quark]]; and, in condensed matter, there is an atomic displacement field that gives rise to [[phonon]] particles.
-
-===動力學===
-{{See also|Relativistic dynamics}}
-普通量子力學系統所包含的粒子數目是恆定不變的，每顆粒子都具有有限個[[自由度 (物理學)|自由度]]。與之不同的是，量子場論中的「粒子」指的是在量子場上的激發態，而激發態所對應的粒子數目是可以改變的。由於相對論性動力系統的粒子數目是會隨時間變化的，所以量子場論變得尤其恰當。
-
-===態===
-QFT interaction terms are similar in spirit to those between charges with electric and magnetic fields in [[Maxwell's equations]]. However, unlike the classical fields of Maxwell's theory, fields in QFT generally exist in [[quantum superposition]]s of states and are subject to  the laws of quantum mechanics.
-
-Because the fields are continuous quantities over space, there exist excited states with arbitrarily large numbers of particles in them, providing QFT systems with effectively an infinite number of degrees of freedom. Infinite degrees of freedom can easily lead to [[divergent series|divergences]] of calculated quantities (e.g., the quantities become infinite).  Techniques such as [[renormalization]] of QFT parameters or discretization of [[spacetime]], as in [[lattice QCD]], are often used to avoid such infinities so as to yield physically plausible results.
-
-===Fields and radiation===
-The [[gravitational field]] and the [[electromagnetic field]] are the only two fundamental fields in nature that have infinite range and a corresponding classical low-energy limit, which greatly diminishes and hides their "particle-like" excitations. [[Albert Einstein]] in 1905, attributed "particle-like" and discrete exchanges of momenta and energy, characteristic of "field quanta", to the electromagnetic field. Originally, his principal motivation was to explain the [[thermodynamics]] of [[radiation]]. Although the [[photoelectric effect]] and [[Compton scattering]] strongly suggest the existence of the photon, it might alternatively be explained by a mere quantization of emission; more definitive evidence of the quantum nature of radiation is now taken up into modern [[quantum optics]] as in the [[Photon antibunching|antibunching]] effect.<ref>{{harvnb|Thorn|Neel|Donato|Bergreen|2004}}</ref>
--->
 == 原理 ==
 === 經典場與量子場 ===
 {{See also|經典場論}}
@@ -117,14 +91,6 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 經典[[場 (物理)|場]]是在時間和空間上定義的函數。<ref name="tong1">{{harvnb|Tong|2015|loc=Chapter 1}}</ref>例子包括：[[牛頓萬有引力定律|牛頓萬有引力]]中的[[引力場]]{{math|'''g'''('''x''', ''t'')}}，以及[[經典電磁學]]中的[[電場]]{{math|'''E'''('''x''', ''t'')}}和[[磁場]]{{math|'''B'''('''x''', ''t'')}}。經典場在空間上的每一個點都有一個隨時間變動的數值，所以它們具有無限[[自由度 (物理學)|自由度]]。<ref name="tong1" />
 
 然而，經典場論無法解釋具有量子力學性質的物理現象。例如，一些物理現象（包括[[光電效應]]）必須以一顆顆獨立的粒子──[[光子]]──來描述，而非在空間上連續的場。「量子」場論的目的，是既要以場為基礎，又要能夠解釋各種量子力學現象。
-<!--
-和經典場一樣，量子場也有對應的[[運動方程]]。經典場在此方程下的解可以分為無限個[[簡正模]]，每一個都是[[諧振子]]；而在[[正則量子化]]表述下，量子場在運動方程下的簡正模都要提升成為[[量子諧振子]]。原來在每個空間點上都有一個數值的函數，現在成為了在每個空間點上都有一個[[算符]]的函數。<ref>{{cite book 
-|last= Brown
-|first= Lowell S.
-|title= Quantum Field Theory
-|publisher= [[Cambridge University Press]]
-|year= 1994
-|isbn= 978-0-521-46946-3 }}</ref>（在最廣義的量子力學中，抽象[[算符]]作用在抽象態空間（[[希爾伯特空間]]）上。每個可觀察量都有一個對應的算符，而態空間則代表物理系統所有可能的狀態。<ref>{{harvnb|Srednicki|2007|p=19}}</ref>在普通量子力學中，單個粒子的可觀察量算符有[[位置算符]]<math>\hat{x}</math>和[[動量算符]]<math>\hat{p}</math>。不同的是，量子場論中的{{math|''x''}}只是場的位置標籤，不是算符。<ref>{{harvnb|Srednicki|2007|pp=25&ndash;26}}</ref>）-->
 
 量子場論的兩種常用表述分別是[[正則量子化]]和[[路徑積分表述]]。<ref>{{harvnb|Zee|2010|p=61}}</ref>為了展示量子場論的基礎原理，以下先簡述經典場論。
 
@@ -243,9 +209,16 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 
 
 
+==方法==
+粒子物理學中，包括量子電動力學、量子色動力學和標準模型在內的大部分理論都屬於「相對論性量子場論」。在低能極限下，從量子電動力學可得出[[麥克斯韋方程組]]。由於有量子效應，如虛電子正子對的產生，因此在經典電動力學以外還有小的非線性修正項，這由{{le|歐拉-海森堡拉格朗日量|Euler–Heisenberg Lagrangian}}來描述。
 
+===微擾與非微擾方法===
+通過量子場論的[[微擾理論 (量子力學)|微擾]]方法，可以用一個以參與相互作用的粒子總數所展開的級數，一階一階地近似相互作用項的整個效應。展開中的每一項都可以理解為粒子間通過其他[[虛粒子]]傳遞相互作用的一種可能途徑，可以用非常形象的[[費曼圖]]來表達。兩個電子間的[[電磁力]]在量子電動力學中（在第一階微擾）是以[[光子]]的傳遞來表達的。同樣，[[W和Z玻色子]]傳遞弱相互作用，[[膠子]]傳遞強相互作用。這種把相互作用的中間態視為各種粒子交換過程的總和的看法，只有在微擾理論的框架下才有意義；非微擾方法則把相互作用項視為一個整體來對待，不進行級數展開，因此也沒有虛粒子傳遞相互作用一說。取而代之描述相互作用的，是{{le|束縛態|bound state}}、[[瞬子]]等概念。
 
+===引力量子場論===
+{{Main|量子引力}}
 
+[[引力]]是唯一一個尚未通過量子場論完全描述的[[基本相互作用]]。不少以量子場論為框架的[[量子引力]]理論都假設存在一種傳遞引力相互作用的粒子──[[引力子]]。如果確實有一個描述引力的正確量子場論，那麼它的低能極限就應該是愛因斯坦的[[廣義相對論]]。理論學家猜想，描述基本相互作用的量子場論，都是某個更根本的理論（如[[超弦理論]]）的[[有效場論]]。
 
 == Associated phenomena ==
 Beyond  the most general features of quantum field theories,  special aspects  such as renormalizability, gauge symmetry, and supersymmetry are outlined below.
