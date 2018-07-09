@@ -161,7 +161,7 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 其中{{math|''δ''}}是[[狄拉克δ函數]]。場的所有量子態都可以從真空態<math>|0\rang</math>開始，通過各個創生算符<math>\hat a_{\mathbf{p}}^\dagger</math>的重複作用，逐一產生，如：
 :<math>(\hat a_{\mathbf{p}_3}^\dagger)^3 \hat a_{\mathbf{p}_2}^\dagger (\hat a_{\mathbf{p}_1}^\dagger)^2 |0\rang.</math>
 
-雖然寫在拉格朗日量中的場在空間上具有連續性，但在量子化之後，態空間卻是離散的。單個諧振子的態空間包含一個粒子的所有離散能級，而與之不同的是，量子場的態空間包含任意粒子數目的所有離散能級。這樣的態空間稱為{{le|福克空間|Fock space}}，它能夠描述相對論性量子系統中粒子數目不固定的現象。
+雖然寫在拉格朗日量中的場在空間上具有連續性，但在量子化之後，態空間卻是離散的。單個諧振子的態空間包含一個粒子的所有離散能級，而與之不同的是，量子場的態空間包含任意粒子數目的所有離散能級。這樣的態空間稱為{{le|福克空間|Fock space}}，它能夠描述相對論性量子系統中粒子數目不固定的現象。從單粒子提升為任意粒子數的量子化過程，有時也稱為第二量子化。
 
 以上將場量子化的過程直接應用了非相對論性量子力學的表述，可以用於對純量場、[[矢量場]]（如電磁場）甚至是[[弦理論|弦]]進行量子化。不過，只有在不含相互作用的最簡單理論（所謂的「自由理論」）中，創生和消滅算符才有良好的定義。在實純量場的例子中，這些算符的存在純粹是因為其經典運動方程的解可以分解成簡正模之和。要對具有相互作用的理論進行任何計算，必須在自由理論的基礎上應用[[微擾理論]]。
 
@@ -187,15 +187,33 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 
 在實際計算中，往往會遇到這樣的表達式：
 :<math>\lang\Omega|T\{\phi(x)\phi(y)\}|\Omega\rang,</math>
-其中{{math|''x''}}和{{math|''y''}}是位置[[四維矢量]]，{{math|''T''}}是[[路徑排序#時間排序|時間排序算符]]（即根據{{math|''x''}}和{{math|''y''}}的時間分量順序，把{{math|''ϕ''(''x'')}}和{{math|''ϕ''(''y'')}}從最遲至最早，從左至右排列），<math>|\Omega\rang</math>則是在相互作用下的基態（真空態），一般來說不同於自由理論下的基態<math>|0\rang</math>。上式所表達的是場從{{math|''y''}}至{{math|''x''}}傳播的機率幅，稱為兩點{{le|相關函數 (量子場論)|Correlation function (quantum field theory)|相關函數}}。
+其中{{math|''x''}}和{{math|''y''}}是位置[[四維矢量]]，{{math|''T''}}是[[路徑排序#時間排序|時間排序算符]]（即根據{{math|''x''}}和{{math|''y''}}的時間分量順序，把{{math|''ϕ''(''x'')}}和{{math|''ϕ''(''y'')}}從最遲至最早，從左至右排列），<math>|\Omega\rang</math>則是在相互作用下的基態（真空態），一般來說不同於自由理論下的基態<math>|0\rang</math>。上式所表達的是場從{{math|''y''}}至{{math|''x''}}傳播的機率幅，稱為兩點{{le|相關函數 (量子場論)|Correlation function (quantum field theory)|相關函數}}，又稱兩點[[格林函數]]。
 
 在正則量子化表述下，兩點相關函數可以寫作：
 :<math>\lang\Omega|T\{\phi(x)\phi(y)\}|\Omega\rang = \lim_{T\to\infty(1-i\epsilon)} \frac{\lang 0|T\left\{\phi_I(x)\phi_I(y)\exp\left[-i\int_{-T}^T dt \int d^3z\, \frac{\lambda}{4!}\phi_I(z)^4\right]\right\}|0\rang}{\lang 0|T\left\{\exp\left[-i\int_{-T}^T dt \int d^3z\, \frac{\lambda}{4!}\phi_I(z)^4\right]\right\}|0\rang}.</math>
 此處的{{math|''ε''}}是一個[[無窮小量]]，而{{math|''ϕ<sub>I</sub>''}}是前文自由理論下的場算符。由於{{math|''λ''}}是一個小參數，所以[[指數函數]]{{math|exp}}還可以展開為{{math|''λ''}}的級數，逐階計算。這條方程式的用途在於，可以用右邊有良好定義的自由場算符和基態，計算左邊難以定義的場算符和基態。
 
 在路徑積分表述下，兩點相關函數可以寫作：
-:<math>\lang\Omega|T\{\phi(x)\phi(y)\}|\Omega\rang = \lim_{T\to\infty(1-i\epsilon)} \frac{\int\mathcal{D}\phi\,\phi(x)\phi(y)\exp\left[i\int_{-T}^T d^4z\mathcal{L}\right]}{\int\mathcal{D}\phi\,\exp\left[i\int_{-T}^T d^4z\mathcal{L}\right]},</math>
+:<math>\lang\Omega|T\{\phi(x)\phi(y)\}|\Omega\rang = \lim_{T\to\infty(1-i\epsilon)} \frac{\int\mathcal{D}\phi\,\phi(x)\phi(y)\exp\left[i\int_{-T}^T d^4z\,\mathcal{L}\right]}{\int\mathcal{D}\phi\,\exp\left[i\int_{-T}^T d^4z\,\mathcal{L}\right]},</math>
 其中<math>\mathcal{L}</math>是拉格朗日量密度。和前一段一樣，指數函數中對應於相互作用項的因子也可以展開為{{math|''λ''}}的級數。
+
+根據[[維克定理]]，任何自由理論下的{{math|''n''}}點相關函數都可以寫成兩點相關函數之積之和。例如，
+:<math>\lang 0|T\{\phi(x_1)\phi(x_2)\phi(x_3)\phi(x_4)\}|0\rang = \lang 0|T\{\phi(x_1)\phi(x_2)\}|0\rang \lang 0|T\{\phi(x_3)\phi(x_4)\}|0\rang + \lang 0|T\{\phi(x_1)\phi(x_3)\}|0\rang \lang 0|T\{\phi(x_2)\phi(x_4)\}|0\rang + \lang 0|T\{\phi(x_1)\phi(x_4)\}|0\rang \lang 0|T\{\phi(x_2)\phi(x_3)\}|0\rang.</math>
+由於相互作用理論下的相關函數可以用自由理論下的相關函數來表達，因此只須計算自由理論下的兩點相關函數<math>\lang 0|T\{\phi(x)\phi(y)\}|0\rang</math>，就足以計算（微擾）相互作用理論下的所有物理量。
+
+通過正則量子化或路徑積分表述，都可以得出：
+:<math>\lang 0|T\{\phi(x)\phi(y)\}|0\rang = \int\frac{d^4p}{(2\pi)^4} \frac{i}{p^2 - m^2 + i\epsilon} e^{-ip_\mu (x^\mu - y^\mu)}.</math>
+這就是實純量場的費曼[[傳播子]]。
+
+=== 費曼圖 ===
+{{Main|費曼圖}}
+
+相互作用理論下的相關函數可以表達為一個微擾級數，級數中每個項都是一些費曼傳播子之積，可以十分形象地用[[費曼圖]]來表達。
+
+
+
+
+
 
 
 
