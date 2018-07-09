@@ -226,6 +226,13 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 :<math>\lang\Omega|T\{\phi(x_1)\cdots\phi(x_n)\}|\Omega\rang</math>
 等於所有含{{math|''n''}}個外點的連通費曼圖（相應的數值）之和。（所謂的連通費曼圖，指的是不允許有內點不與任何外點經線連通的情況。與外點完全斷開的部分，有時亦稱「真空泡沫」。）在此處考慮的{{math|''ϕ''<sup>4</sup>}}相互作用理論中，每個內點必須接上四條腿。
 
+=== 重整化 ===
+
+
+=== 其他理論 ===
+
+
+==== 規範對稱性 ====
 
 
 
@@ -237,161 +244,8 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 
 
 
-==== 拉格朗日量表述 ====
-[[經典場論]]中的[[拉格朗日量]]表述在量子場論中也是必不可少的，它類似於[[經典力學]]中用於計算粒子在場作用下的移動路徑的拉格朗日量表述。在經典場論下，要先寫下一個拉格朗日量密度<math>\mathcal{L}</math>，其中包含場的數值{{math|''φ''('''x''',''t'')}}和它的第一導數（{{math|∂''φ''/∂''t''}}和{{math|∇''φ''}}），然後在拉格朗日量上應用適用於場論的[[歐拉-拉格朗日方程]]。將坐標整合寫作{{math|(''t'', '''x''') {{=}} (''x''<sup>0</sup>, ''x''<sup>1</sup>, ''x''<sup>2</sup>, ''x''<sup>3</sup>) {{=}} ''x''<sup>''μ''</sup>}}，則歐拉-拉格朗日方程如下：<ref name="tong1" />
-:<math>\frac{\partial}{\partial x^\mu} \left[\frac{\partial\mathcal{L}}{\partial(\partial\varphi/\partial x^\mu)}\right] - \frac{\partial\mathcal{L}}{\partial\varphi} = 0,</math>
-當中根據[[愛因斯坦標記法]]省去了把標號{{math|''μ''}}總和的記號。
 
-把拉格朗日量密度代入以上方程，所得的方程就是場的[[運動方程]]。<ref name="tong1" />舉例來說，如果從以下拉格朗日量密度開始：
-:<math> \mathcal{L}(\varphi,\nabla\varphi) = -\rho(t,\mathbf{x})\,\varphi(t,\mathbf{x}) - \frac{1}{8\pi G}|\nabla\varphi|^2,</math>
-應用歐拉-拉格朗日方程就會得出
-:<math> 4\pi G \rho(t,\mathbf{x}) = \nabla^2 \varphi.</math>
-這就是以[[引力勢]]{{math|''φ''(''t'', '''x''')}}和[[質量密度]]{{math|''ρ''(''t'', '''x''')}}寫出的[[牛頓萬有引力定律]]微分形式。
 
-場論中的「場」是一種廣義的稱呼，有時會造成混淆。以上所考慮的「場」其實是引力勢，而非引力場{{math|'''g'''}}。電磁學的經典場論也有同樣的情況：拉格朗日量中所寫的「場」其實是[[電磁四維勢]]{{math|(''V''/''c'', '''A''')}}，而非電場{{math|'''E'''}}和磁場{{math|'''B'''}}。
-
-量子場論也用到相同的拉格朗日程序來得出量子場的運動方程。為了納入量子力學效應，在運動方程以外還需要考慮一組[[對易關係]]。下文將描述如何通過正則量子化程序得出這些對易關係。
-
-=== 單粒子與多粒子量子力學 ===
-{{main|量子力學<!--|第一量子化-->}}
-非相對論性量子力學中的粒子（如電子或質子）由[[複數|複]][[波函數]]{{math|''ψ''(''x'', ''t'')}}所描述，而波函數隨時間的演變是由[[薛定諤方程]]所決定：
-:<math>-\frac{{\hbar}^2}{2m}\frac{{\partial}^2}{\partial x^2}\psi(x,t) + V(x)\psi(x,t) = i \hbar \frac{\partial}{\partial t} \psi(x,t).</math>
-此處{{math|''m''}}是粒子的[[質量]]，{{math|''V''(''x'')}}是外在的[[純量勢|勢]]。要取得有關粒子行為的任何訊息，須利用波函數計算對應於物理量的各種[[期望值]]。例如，粒子位置的期望值是{{math|''ψ''<sup>*</sup>(''x'') ''x'' ''ψ''(''x'')}}在整個空間上的積分，粒子動量的期望值則是{{math|&minus;''iħ''ψ<sup>*</sup>(''x'')d''ψ''/d''x''}}在整個空間上的積分。根據[[哥本哈根詮釋]]，{{math|''ψ''<sup>*</sup>(''x'')''ψ''(''x'')}}本身可理解為粒子可能出現位置的[[機率密度函數]]。粒子在一個背景經典場{{math|''V''(''x'')}}作用下計算其波函數演變的量子力學方法，有時會被稱為「第一量子化」。
-
-此方法可以推廣至含多個粒子的系統，唯一條件是粒子數目和粒子種類必須保持不變。所有粒子的集體由波函數{{math|''ψ''(''x''<sub>1</sub>, ''x''<sub>2</sub>, &hellip;, ''x<sub>N</sub>'', ''t'')}}所描述，而波函數的演變是由推廣後的薛定諤方程所描述。
-
-當系統中所有粒子都屬於同一種類時（如圍繞[[氬]]原子核公轉的18顆電子），可以根據波函數在位置坐標調換下是對稱還是反對稱，分別把系統分為[[玻色子]]和[[費米子]]。費米子系統的波函數可以用[[斯萊特行列式]]表達，玻色子系統則用斯萊特[[積和式]]。玻色子和費米子可以分別理解為[[張量積]]的對稱和反對稱子空間。詳見[[全同粒子]]。
-
-以含{{math|''N''}}個玻色子的系統為例，其最一般的量子態可寫作：
-:<math> |\phi_1 \cdots \phi_N \rang = \sqrt{\frac{\prod_j N_j!}{N!}} \sum_{p\in S_N} |\phi_{p(1)}\rang \otimes \cdots \otimes |\phi_{p(N)} \rang,</math>
-其中<math>|\phi_i\rang</math>是單粒子態，{{math|''N<sub>j</sub>''}}是佔據態{{math|''j''}}的粒子數目，求和範圍是作用在{{math|''N''}}個元素上的所有[[置換]]{{math|''p''}}。求和項共有{{math|''N''!}}個。<math>\sqrt{\frac{\prod_j N_j!}{N!}}</math>只是一個歸一化因子。
-
-以上量子力學方法有若干量子場論所能彌補的弱點。首先，嘗試把[[狹義相對論]]效應納入量子力學，會遇到諸多難題。<ref>{{harvnb|Tong|2015|loc=Introduction}}</ref>比如，如果將薛定諤方程換為符合狹義相對論的[[克萊恩-戈登方程式]]或[[狄拉克方程式]]，方程解的能量[[特徵值]]會一直往下延續至&minus;∞，以致於無法對[[基態]]做良好的定義。後來人們發現，這些問題的根源在於，波函數在狹義相對論下不能夠理解為在位置空間上的機率分佈，因為機率守恆並不是一個[[洛倫茲協變|相對論性不變]]的概念。第二個短處是，量子力學無法解釋[[成對產生]]這種粒子創生和消滅的現象。<ref>{{harvnb|Zee|2010|p=3}}</ref>能量和質量可以相互轉換（見[[質能等價]]），也是相對論中的一個重要元素。
-
-=== 第二量子化 ===
-{{Main|第二量子化}}
-
-此章節描述一種基於量子力學[[哈密頓算符|哈密頓量]]表述，稱為「[[第二量子化]]」的量子場論方法。方法的大意是在由多個全同粒子所組成的系統中選出一種量子力學自由度的標號方式。
-
-量子場論還有其他的表述，包括基於量子力學[[拉格朗日量]]表述的[[費曼路徑積分]]。<ref>{{harvnb|Pais|1994}}</ref><!--For an overview of some of these approaches, see the article on [[quantization (physics)|quantization]].-->
-
-==== 玻色子 ====
-為簡單起見，我們以量子態完全對稱的[[玻色子]]為例，討論第二量子化。系統中相互正交的單粒子態分別記作<math>|\phi_1\rang, |\phi_2\rang, |\phi_3\rang,</math>等等。例如，在一個含三個粒子的系統中，一個粒子的態為<math>|\phi_1\rang</math>，兩個粒子的態為<math>|\phi_2\rang</math>，則系統的量子態可寫作完全對稱和：
-:<math> \frac{1}{\sqrt{3}} \left[ |\phi_1\rang |\phi_2\rang
-|\phi_2\rang + |\phi_2\rang |\phi_1\rang |\phi_2\rang + |\phi_2\rang
-|\phi_2\rang |\phi_1\rang \right]. </math>
-
-第二量子化的第一步是將這些量子態以「佔據數」表達，即以佔據每個單粒子態<math>|\phi_1\rang, |\phi_2\rang, </math>等等的粒子數目為整個系統的態的標號。例如，以上的三粒子系統也可以記作
-:<math> |1, 2, 0, 0, 0, \dots \rangle.</math>
-
-一個{{math|''N''}}粒子態是含{{math|''N''}}個粒子的系統的態空間之一員。下一步是把所有{{math|''N''}}粒子態空間結合起來，組成所謂的{{le|福克空間|Fock space}}，從而可以描述含任何粒子數目的系統。換言之，福克空間是含零個粒子、一個粒子、兩個粒子……的系統的態空間之總和（含零個粒子的態空間又稱{{le|真空態|vacuum state}}，記作<math>|0\rang</math>）。含確切粒子數的態稱為[[福克態]]，而福克空間的任意元素一般是若干福克態的[[線性組合]]。福克空間中的所有玻色子態，都可以唯一地用佔據數表示。
-
-At this point, the quantum mechanical system has become a quantum field in the sense we described above. The field's elementary degrees of freedom are the occupation numbers, and each occupation number is indexed by a number <math>j</math> indicating which of the single-particle states <math>|\phi_1\rang, |\phi_2\rang,\dots,|\phi_j\rang,\dots</math> it refers to:
-:<math> | N_1, N_2, N_3, \dots, N_j, \dots \rang .</math>
-
-The properties of this quantum field can be explored by defining [[creation and annihilation operators]], which add and subtract particles. They are analogous to [[ladder operators]] in the [[quantum harmonic oscillator]] problem, which added and subtracted energy quanta. However, these operators literally create and annihilate particles of a given quantum state. The bosonic annihilation operator <math>a_2</math> and creation operator <math>a_2^\dagger</math> are easily defined in the occupation number representation as having the following effects:
-
-:<math> a_2 | N_1, N_2, N_3, \dots \rang = \sqrt{N_2} \mid N_1, (N_2 - 1), N_3, \dots \rang,</math>
-:<math> a_2^\dagger | N_1, N_2, N_3, \dots \rang = \sqrt{N_2 + 1} \mid N_1, (N_2 + 1), N_3, \dots \rang.</math>
-
-It can be shown that these are operators in the usual quantum mechanical sense, i.e. [[linear operator]]s acting on the Fock space. Furthermore, they are indeed [[Hermitian adjoint|Hermitian conjugates]], which justifies the way we have written them. They can be shown to obey the [[commutator|commutation relation]]
-
-:<math>
-\left[a_i , a_j \right] = 0 \quad,\quad
-\left[a_i^\dagger , a_j^\dagger \right] = 0 \quad,\quad
-\left[a_i , a_j^\dagger \right] = \delta_{ij},
-</math>
-
-where <math>\delta</math> stands for the [[Kronecker delta]]. These are precisely the relations obeyed by the ladder operators for an infinite set of independent [[quantum harmonic oscillator]]s, one for each single-particle state. Adding or removing bosons from each state is, therefore, analogous to exciting or de-exciting a quantum of energy in a harmonic oscillator.
-
-Applying an annihilation operator <math>a_k</math> followed by its corresponding creation operator <math>a_k^\dagger</math> returns the number <math>N_k</math> of particles in the ''k''<sup>th</sup> single-particle eigenstate:
-:<math>a_k^\dagger\,a_k|\dots, N_k, \dots \rangle=N_k| \dots, N_k, \dots \rangle.</math>
-The combination of operators <math>a_k^\dagger a_k</math> is known as the [[number operator]] for the ''k''<sup>th</sup> eigenstate.
-
-The [[Hamiltonian (quantum mechanics)|Hamiltonian operator]] of the quantum field (which, through the [[Schrödinger equation]], determines its dynamics) can be written in terms of creation and annihilation operators. For instance, for a field of free (non-interacting) bosons, the total energy of the field is found by summing the energies of the bosons in each energy eigenstate. If the ''k''<sup>th</sup> single-particle energy eigenstate has energy <math>E_k</math> and there are <math>N_k</math> bosons in this state, then the total energy of these bosons is <math>E_k N_k</math>. The energy in the ''entire'' field is then a sum over <math>k</math>:
-:<math> E_\mathrm{tot} = \sum_k E_k N_k</math>
-This can be turned into the Hamiltonian operator of the field by replacing <math>N_k</math> with the corresponding number operator, <math>a_k^\dagger a_k</math>. This yields
-:<math>H = \sum_k E_k \, a^\dagger_k \,a_k.</math>
-
-==== Fermions ====
-It turns out that a different definition of creation and annihilation must be used for describing [[fermion]]s. According to the [[Pauli exclusion principle]], fermions cannot share quantum states, so their occupation numbers ''N<sub>i</sub>'' can only take on the value 0 or 1. The fermionic annihilation operators ''c'' and creation operators <math>c^\dagger</math> are defined by their actions on a Fock state thus
-
-:<math> c_j | N_1, N_2, \dots, N_j = 0, \dots \rangle = 0 </math>
-:<math> c_j | N_1, N_2, \dots, N_j = 1, \dots \rangle = (-1)^{(N_1 + \cdots + N_{j-1})} | N_1, N_2, \dots, N_j = 0, \dots \rangle </math>
-:<math> c_j^\dagger | N_1, N_2, \dots, N_j = 0, \dots \rangle = (-1)^{(N_1 + \cdots + N_{j-1})} | N_1, N_2, \dots, N_j = 1, \dots \rangle </math>
-:<math> c_j^\dagger | N_1, N_2, \dots, N_j = 1, \dots \rangle = 0. </math>
-
-These obey an [[anticommutator|anticommutation relation]]:
-
-:<math>
-\left\{c_i , c_j \right\} = 0 \quad,\quad
-\left\{c_i^\dagger , c_j^\dagger \right\} = 0 \quad,\quad
-\left\{c_i , c_j^\dagger \right\} = \delta_{ij}.
-</math>
-
-One may notice from this that applying a fermionic creation operator twice gives zero, so it is impossible for the particles to share single-particle states, in accordance with the exclusion principle.
-
-==== Field operators ====
-{{see also|Canonical quantization}}
-We have previously mentioned that there can be more than one way of indexing the degrees of freedom in a quantum field. Second quantization indexes the field by enumerating the single-particle quantum states. However, as we have discussed, it is more natural to think about a "field", such as the electromagnetic field, as a set of degrees of freedom indexed by position.
-
-To this end, we can define ''field operators'' that create or destroy a particle at a particular point in space. In particle physics, these operators turn out to be more convenient to work with, because they make it easier to formulate theories that satisfy the demands of relativity.
-
-Single-particle states are usually enumerated in terms of their [[momentum|momenta]] (as in the [[particle in a box]] problem.) We can construct field operators by applying the [[Fourier transform]] to the creation and annihilation operators for these states. For example, the bosonic field annihilation operator <math>\phi(\mathbf{r})</math> is
-
-:<math>\phi(\mathbf{r}) \ \stackrel{\mathrm{def}}{=}\   \sum_{j} e^{i\mathbf{k}_j\cdot \mathbf{r}} a_{j}. </math>
-
-The bosonic field operators obey the commutation relation
-
-:<math>
-\left[\phi(\mathbf{r}) , \phi(\mathbf{r'}) \right] = 0 \quad,\quad
-\left[\phi^\dagger(\mathbf{r}) , \phi^\dagger(\mathbf{r'}) \right] = 0 \quad,\quad
-\left[\phi(\mathbf{r}) , \phi^\dagger(\mathbf{r'}) \right] = \delta^3(\mathbf{r} - \mathbf{r'})
-</math>
-
-where <math>\delta(x)</math> stands for the [[Dirac delta function]]. As before, the fermionic relations are the same, with the commutators replaced by anticommutators.
-
-The field operator is not the same thing as a single-particle wavefunction. The former is an operator acting on the Fock space, and the latter is a quantum-mechanical amplitude for finding a particle in some position. However, they are closely related and are indeed commonly denoted with the same symbol. If we have a Hamiltonian with a space representation, say
-
-:<math>H = - \frac{\hbar^2}{2m} \sum_i \nabla_i^2 + \sum_{i < j} U(|\mathbf{r}_i - \mathbf{r}_j|) </math>
-
-where the indices ''i'' and ''j'' run over all particles, then the field theory Hamiltonian (in the non-relativistic limit and for negligible self-interactions) is
-
-:<math>H = - \frac{\hbar^2}{2m} \int d^3\!r \ \phi^\dagger(\mathbf{r}) \nabla^2 \phi(\mathbf{r}) + \frac{1}{2}\int\!d^3\!r \int\!d^3\!r' \; \phi^\dagger(\mathbf{r}) \phi^\dagger(\mathbf{r}') U(|\mathbf{r} - \mathbf{r}'|) \phi(\mathbf{r'}) \phi(\mathbf{r}). </math>
-
-This looks remarkably like an expression for the expectation value of the energy, with <math>\phi</math> playing the role of the wavefunction. This relationship between the field operators and wave functions makes it very easy to formulate field theories starting from space projected Hamiltonians.
-
-=== Dynamics ===
-Once the Hamiltonian operator is obtained as part of the [[canonical quantization]] process, the time dependence of the state is described with the [[Schrödinger equation]], just as with other quantum theories. 
-Alternatively, the [[Heisenberg picture]] can be used where the time dependence is in the operators rather than in the states.
-
-Probability amplitudes of observables in such systems are quite hard to evaluate, an enterprise which has absorbed considerable ingenuity in the last three quarters of a century. In practice, most often, expectation values of operators are computed systematically through ''covariant perturbation theory'', formulated through [[Feynman diagram]]s, but [[path integral formulation|path integral]] computer simulations have also produced important results. Contemporary  [[particle physics]] relies on extraordinarily accurate predictions of such techniques.
-
-=== 意義 ===
-
-==== Unification of fields and particles ====
-The "second quantization" procedure  outlined in the previous section takes a set of single-particle quantum states as a starting point. Sometimes, it is impossible to define such single-particle states, and one must proceed directly to quantum field theory. For example, a quantum theory of the [[electromagnetic field]] ''must'' be a quantum field theory, because it is impossible (for various reasons) to define a [[wavefunction]] for a single [[photon]].<ref>
-{{harvnb|Newton|Wigner|1949|pp=400–06}}</ref> In such situations, the quantum field theory can be constructed by examining the mechanical properties of the classical field and guessing the [[correspondence principle|corresponding]] quantum theory. For free (non-interacting) quantum fields, the quantum field theories obtained in this way have the same properties as those obtained using second quantization, such as well-defined creation and annihilation operators obeying commutation or anticommutation relations.
-
-Quantum field theory thus provides a unified framework for describing "field-like" objects (such as the electromagnetic field, whose excitations are photons) and "particle-like" objects (such as electrons, which are treated as excitations of an underlying electron field), so long as one can treat interactions as "perturbations" of free fields.
-
-==== Physical meaning of particle indistinguishability ====
-The second quantization procedure relies crucially on the particles being [[identical particles|identical]]. We would not have been able to construct a quantum field theory from a distinguishable many-particle system, because there would have been no way of separating and indexing the degrees of freedom.
-
-Many physicists prefer to take the converse interpretation, which is that ''quantum field theory explains what identical particles are''. In ordinary quantum mechanics, there is not much theoretical motivation for using symmetric (bosonic) or antisymmetric (fermionic) states, and the need for such states is simply regarded as an empirical fact. From the point of view of quantum field theory, particles are identical [[if and only if]] they are excitations of the same underlying quantum field. Thus, the question "why are all electrons identical?" arises from mistakenly regarding individual electrons as fundamental objects, when in fact it is only the electron field that is fundamental.
-
-==== Particle conservation and non-conservation ====
-During second quantization, we started with a Hamiltonian and state space describing a fixed [[Particle number|number of particles]] (''N''), and ended with a Hamiltonian and state space for an arbitrary number of particles. Of course, in many common situations ''N'' is an important and perfectly well-defined quantity, e.g. if we are describing a gas of [[particle in a box|atoms sealed in a box]]. From the point of view of quantum field theory, such situations are described by quantum states that are eigenstates of the [[particle number operator|number operator]] <math>\hat{N}</math>, which measures the total number of particles present. As with any quantum mechanical observable, <math>\hat{N}</math> is conserved if it commutes with the Hamiltonian. In that case, the quantum state is trapped in the ''N''-particle [[Euclidean subspace|subspace]] of the total Fock space, and the situation could equally well be described by ordinary ''N''-particle quantum mechanics. (Strictly speaking, this is only true in the noninteracting case or in the low energy density limit of renormalized quantum field theories.)
-
-For example, we can see that the free boson Hamiltonian described above conserves particle number. Whenever the Hamiltonian operates on a state, each particle destroyed by an annihilation operator <math>a_k</math> is immediately put back by the creation operator <math>a_k^\dagger</math>.
-
-On the other hand, it is possible, and indeed common, to encounter quantum states that are ''not'' eigenstates of <math>\hat{N}</math>, which do not have well-defined particle numbers. Such states are difficult or impossible to handle using ordinary quantum mechanics, but they can be easily described in quantum field theory as [[quantum superposition]]s of states having different values of ''N''. For example, suppose we have a bosonic field whose particles can be created or destroyed by interactions with a fermionic field. The Hamiltonian of the combined system would be given by the Hamiltonians of the free boson and free fermion fields, plus a "potential energy" term such as
-
-:<math>H_I = \sum_{k,q} V_q (a_q + a_{-q}^\dagger) c_{k+q}^\dagger c_k</math>
-
-where <math>a_k^\dagger</math> and <math>a_k</math> denotes the bosonic creation and annihilation operators, <math>c_k^\dagger</math> and <math>c_k</math> denotes the fermionic creation and annihilation operators, and <math>V_q</math> is a parameter that describes the strength of the interaction. This "interaction term" describes processes in which a fermion in state ''k'' either absorbs or emits a boson, thereby being kicked into a different eigenstate <math>k+q</math>. (In fact, this type of Hamiltonian is used to describe the interaction between [[conduction electron]]s and [[phonon]]s in [[metal]]s. The interaction between electrons and [[photon]]s is treated in a similar way, but is a little more complicated because the role of [[spin (physics)|spin]] must be taken into account.) One thing to notice here is that even if we start out with a fixed number of bosons, we will typically end up with a superposition of states with different numbers of bosons at later times. The number of fermions, however, is conserved in this case.
-
-In [[condensed matter physics]], states with ill-defined particle numbers are particularly important for describing the various [[superfluid]]s. Many of the defining characteristics of a superfluid arise from the notion that its quantum state is a superposition of states with different particle numbers. In addition, the concept of a coherent state (used to model the laser and the BCS ground state) refers to a state with an ill-defined particle number but a well-defined phase.
 
 == Associated phenomena ==
 Beyond  the most general features of quantum field theories,  special aspects  such as renormalizability, gauge symmetry, and supersymmetry are outlined below.
