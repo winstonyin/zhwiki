@@ -130,7 +130,9 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 
 以最簡易的經典場為例，假設在空間上每一個點都有一個可以隨時間變動的[[實數]]，記作{{math|''ϕ''('''x''', ''t'')}}，其中{{math|'''x'''}}是位置矢量，{{math|''t''}}是時間。這就是實[[純量場]]。又假設這個場的[[拉格朗日量]]為
 :<math>L = \int d^3x\,\mathcal{L} = \int d^3x\,\left[\frac 12 \dot\phi^2 - \frac 12 (\nabla\phi)^2 - \frac 12 m^2\phi^2\right],</math>
-其中<math>\dot\phi</math>是場的時間導數，{{math|∇}}是[[散度]]算符，{{math|''m''}}是一個參數（可視為場的「質量」）。在此拉格朗日量上應用[[歐拉-拉格朗日方程]]，可得出場的[[運動方程]]，描述其在時間和空間上的變動：
+其中<math>\dot\phi</math>是場的時間導數，{{math|∇}}是[[散度]]算符，{{math|''m''}}是一個參數（可視為場的「質量」）。在此拉格朗日量上應用適用於場論的[[歐拉-拉格朗日方程]]
+:<math>\frac{\partial}{\partial t} \left[\frac{\partial\mathcal{L}}{\partial(\partial\phi/\partial t)}\right] + \sum_{i=1}^3 \frac{\partial}{\partial x^i} \left[\frac{\partial\mathcal{L}}{\partial(\partial\phi/\partial x^i)}\right] - \frac{\partial\mathcal{L}}{\partial\phi} = 0,</math>
+可得出場的[[運動方程]]，描述其在時間和空間上的變動：
 :<math>\left(\frac{\partial^2}{\partial t^2} - \nabla^2 + m^2\right)\phi = 0.</math>
 這就是[[克萊恩-戈登方程式]]。
 
@@ -163,10 +165,37 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 
 以上將場量子化的過程直接應用了非相對論性量子力學的表述，可以用於對純量場、[[矢量場]]（如電磁場）甚至是[[弦理論|弦]]進行量子化。不過，只有在不含相互作用的最簡單理論（所謂的「自由理論」）中，創生和消滅算符才有良好的定義。在實純量場的例子中，這些算符的存在純粹是因為其經典運動方程的解可以分解成簡正模之和。要對具有相互作用的理論進行任何計算，必須在自由理論的基礎上應用[[微擾理論]]。
 
+在自然界中，量子場的拉格朗日量都含有相互作用項。例如，可以在實純量場的拉格朗日量密度上另加一個四次方項：
+:<math>\mathcal{L} = \frac 12 (\partial_\mu\phi)(\partial^\mu\phi) - \frac 12 m^2\phi^2 - \frac{\lambda}{4!}\phi^4,</math>
+其中{{math|''μ''}}是時空標號：<math>\partial_0 = \partial/\partial t,\ \partial_1 = \partial/\partial x^1</math>等等；此處根據[[愛因斯坦標記法]]省去了對標號{{math|''μ''}}求和的記號。如果參數{{math|''λ''}}足夠小，四次方相互作用項就可算作微擾。
+
 === 路徑積分 ===
+{{Main|路徑積分表述}}
 
+與正則量子化表述不同的是，路徑積分表述的重點並不在建立算符和態空間上，而是在於直接計算某過程的振幅。[[路徑積分表述|費曼路徑積分]]的大意是，要計算一個系統從某初始態<math>|\phi_I\rang</math>（時間{{math|''t'' {{=}} 0}}）演變到某終結態<math>|\phi_F\rang</math>（{{math|''t'' {{=}} ''T''}}）的振幅，先把總時間{{math|''T''}}分成{{math|''N''}}個很小的時段，然後考慮它在每個時段內的演變振幅，最後對每個時段所對應的中間態求積分。將[[哈密爾頓量]]（即{{le|時間演化算符|time evolution}}）記作{{math|''H''}}，則
+:<math>\lang \phi_F|e^{-iHT}|\phi_I\rang = \int d\phi_1\int d\phi_2\cdots\int d\phi_{N-1}\,\lang \phi_F|e^{-iHT/N}|\phi_{N-1}\rang\cdots\lang \phi_2|e^{-iHT/N}|\phi_1\rang\lang \phi_1|e^{-iHT/N}|\phi_I\rang.</math>
+在取{{math|''N'' → ∞}}極限後，以上無限個積分之積就成為了路徑積分，記作：
+:<math>\lang \phi_F|e^{-iHT}|\phi_I\rang = \int \mathcal{D}\phi(t)\,\exp\left\{i\int_0^T dt\,L\right\},</math>
+其中{{math|''L''}}是包含{{math|''ϕ''}}及其時間和空間導數的拉格朗日量，而路徑積分的初始和終結條件分別為
+:<math>\phi(0) = \phi_I,\quad \phi(T) = \phi_F.</math>
+換句話說，從開始至終結的振幅，是此二態之間所有路徑的振幅之和，而每條路徑的振幅由被積分的指數給出。
 
+=== 兩點相關函數 ===
+<!--{{Main|相關函數}}
+-->
+現在假設理論中包含相互作用，且拉格朗日量中的相互作用項是一個微擾。
 
+在實際計算中，往往會遇到這樣的表達式：
+:<math>\lang\Omega|T\{\phi(x)\phi(y)\}|\Omega\rang,</math>
+其中{{math|''x''}}和{{math|''y''}}是位置[[四維矢量]]，{{math|''T''}}是[[路徑排序#時間排序|時間排序算符]]（即根據{{math|''x''}}和{{math|''y''}}的時間分量順序，把{{math|''ϕ''(''x'')}}和{{math|''ϕ''(''y'')}}從最遲至最早，從左至右排列），<math>|\Omega\rang</math>則是在相互作用下的基態（真空態），一般來說不同於自由理論下的基態<math>|0\rang</math>。上式所表達的是場從{{math|''y''}}至{{math|''x''}}傳播的機率幅，稱為兩點{{le|相關函數 (量子場論)|Correlation function (quantum field theory)|相關函數}}。
+
+在正則量子化表述下，兩點相關函數可以寫作：
+:<math>\lang\Omega|T\{\phi(x)\phi(y)\}|\Omega\rang = \lim_{T\to\infty(1-i\epsilon)} \frac{\lang 0|T\left\{\phi_I(x)\phi_I(y)\exp\left[-i\int_{-T}^T dt \int d^3z\, \frac{\lambda}{4!}\phi_I(z)^4\right]\right\}|0\rang}{\lang 0|T\left\{\exp\left[-i\int_{-T}^T dt \int d^3z\, \frac{\lambda}{4!}\phi_I(z)^4\right]\right\}|0\rang}.</math>
+此處的{{math|''ε''}}是一個[[無窮小量]]，而{{math|''ϕ<sub>I</sub>''}}是前文自由理論下的場算符。由於{{math|''λ''}}是一個小參數，所以[[指數函數]]{{math|exp}}還可以展開為{{math|''λ''}}的級數，逐階計算。這條方程式的用途在於，可以用右邊有良好定義的自由場算符和基態，計算左邊難以定義的場算符和基態。
+
+在路徑積分表述下，兩點相關函數可以寫作：
+:<math>\lang\Omega|T\{\phi(x)\phi(y)\}|\Omega\rang = \lim_{T\to\infty(1-i\epsilon)} \frac{\int\mathcal{D}\phi\,\phi(x)\phi(y)\exp\left[i\int_{-T}^T d^4z\mathcal{L}\right]}{\int\mathcal{D}\phi\,\exp\left[i\int_{-T}^T d^4z\mathcal{L}\right]},</math>
+其中<math>\mathcal{L}</math>是拉格朗日量密度。和前一段一樣，指數函數中對應於相互作用項的因子也可以展開為{{math|''λ''}}的級數。
 
 
 
