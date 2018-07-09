@@ -110,7 +110,7 @@ Because the fields are continuous quantities over space, there exist excited sta
 ===Fields and radiation===
 The [[gravitational field]] and the [[electromagnetic field]] are the only two fundamental fields in nature that have infinite range and a corresponding classical low-energy limit, which greatly diminishes and hides their "particle-like" excitations. [[Albert Einstein]] in 1905, attributed "particle-like" and discrete exchanges of momenta and energy, characteristic of "field quanta", to the electromagnetic field. Originally, his principal motivation was to explain the [[thermodynamics]] of [[radiation]]. Although the [[photoelectric effect]] and [[Compton scattering]] strongly suggest the existence of the photon, it might alternatively be explained by a mere quantization of emission; more definitive evidence of the quantum nature of radiation is now taken up into modern [[quantum optics]] as in the [[Photon antibunching|antibunching]] effect.<ref>{{harvnb|Thorn|Neel|Donato|Bergreen|2004}}</ref>
 -->
-== 表述 ==
+== 原理 ==
 === 經典場與量子場 ===
 {{See also|經典場論}}
 
@@ -191,24 +191,41 @@ The [[gravitational field]] and the [[electromagnetic field]] are the only two f
 
 在正則量子化表述下，兩點相關函數可以寫作：
 :<math>\lang\Omega|T\{\phi(x)\phi(y)\}|\Omega\rang = \lim_{T\to\infty(1-i\epsilon)} \frac{\lang 0|T\left\{\phi_I(x)\phi_I(y)\exp\left[-i\int_{-T}^T dt \int d^3z\, \frac{\lambda}{4!}\phi_I(z)^4\right]\right\}|0\rang}{\lang 0|T\left\{\exp\left[-i\int_{-T}^T dt \int d^3z\, \frac{\lambda}{4!}\phi_I(z)^4\right]\right\}|0\rang}.</math>
-此處的{{math|''ε''}}是一個[[無窮小量]]，而{{math|''ϕ<sub>I</sub>''}}是前文自由理論下的場算符。由於{{math|''λ''}}是一個小參數，所以[[指數函數]]{{math|exp}}還可以展開為{{math|''λ''}}的級數，逐階計算。這條方程式的用途在於，可以用右邊有良好定義的自由場算符和基態，計算左邊難以定義的場算符和基態。
+此處的{{math|''ε''}}是一個[[無窮小量]]，而{{math|''ϕ<sub>I</sub>''}}是前文自由理論下的場算符。由於{{math|''λ''}}是一個小參數，所以[[指數函數]]{{math|exp}}還可以展開為{{math|''λ''}}的級數，逐階計算。這條方程式的用途在於，可以用右邊有良好定義的自由場算符和基態，代替左邊難以定義的場算符和基態做計算。
 
 在路徑積分表述下，兩點相關函數可以寫作：
 :<math>\lang\Omega|T\{\phi(x)\phi(y)\}|\Omega\rang = \lim_{T\to\infty(1-i\epsilon)} \frac{\int\mathcal{D}\phi\,\phi(x)\phi(y)\exp\left[i\int_{-T}^T d^4z\,\mathcal{L}\right]}{\int\mathcal{D}\phi\,\exp\left[i\int_{-T}^T d^4z\,\mathcal{L}\right]},</math>
 其中<math>\mathcal{L}</math>是拉格朗日量密度。和前一段一樣，指數函數中對應於相互作用項的因子也可以展開為{{math|''λ''}}的級數。
 
 根據[[維克定理]]，任何自由理論下的{{math|''n''}}點相關函數都可以寫成兩點相關函數之積之和。例如，
-:<math>\lang 0|T\{\phi(x_1)\phi(x_2)\phi(x_3)\phi(x_4)\}|0\rang = \lang 0|T\{\phi(x_1)\phi(x_2)\}|0\rang \lang 0|T\{\phi(x_3)\phi(x_4)\}|0\rang + \lang 0|T\{\phi(x_1)\phi(x_3)\}|0\rang \lang 0|T\{\phi(x_2)\phi(x_4)\}|0\rang + \lang 0|T\{\phi(x_1)\phi(x_4)\}|0\rang \lang 0|T\{\phi(x_2)\phi(x_3)\}|0\rang.</math>
+:<math>\begin{align}
+\lang 0|T\{\phi(x_1)\phi(x_2)\phi(x_3)\phi(x_4)\}|0\rang =& \lang 0|T\{\phi(x_1)\phi(x_2)\}|0\rang \lang 0|T\{\phi(x_3)\phi(x_4)\}|0\rang\\
+&+ \lang 0|T\{\phi(x_1)\phi(x_3)\}|0\rang \lang 0|T\{\phi(x_2)\phi(x_4)\}|0\rang\\
+&+ \lang 0|T\{\phi(x_1)\phi(x_4)\}|0\rang \lang 0|T\{\phi(x_2)\phi(x_3)\}|0\rang.
+\end{align}</math>
 由於相互作用理論下的相關函數可以用自由理論下的相關函數來表達，因此只須計算自由理論下的兩點相關函數<math>\lang 0|T\{\phi(x)\phi(y)\}|0\rang</math>，就足以計算（微擾）相互作用理論下的所有物理量。
 
 通過正則量子化或路徑積分表述，都可以得出：
-:<math>\lang 0|T\{\phi(x)\phi(y)\}|0\rang = \int\frac{d^4p}{(2\pi)^4} \frac{i}{p^2 - m^2 + i\epsilon} e^{-ip_\mu (x^\mu - y^\mu)}.</math>
+:<math>D_F(x-y) \equiv \lang 0|T\{\phi(x)\phi(y)\}|0\rang = \int\frac{d^4p}{(2\pi)^4} \frac{i}{p^2 - m^2 + i\epsilon} e^{-ip_\mu (x^\mu - y^\mu)}.</math>
 這就是實純量場的費曼[[傳播子]]。
 
 === 費曼圖 ===
 {{Main|費曼圖}}
 
-相互作用理論下的相關函數可以表達為一個微擾級數，級數中每個項都是一些費曼傳播子之積，可以十分形象地用[[費曼圖]]來表達。
+相互作用理論下的相關函數可以表達為一個微擾級數，級數中每項都是一些自由理論下的費曼傳播子之積，而且可以非常形象地用[[費曼圖]]來表達。例如，級數的{{math|''λ''<sup>1</sup>}}階為
+:<math>\frac{-i\lambda}{4!}\lang 0|T\{\phi(x)\phi(y)\int d^4z\,\phi(z)\phi(z)\phi(z)\phi(z)\}|0\rang,</math>
+經維克定理展開後含這一重複12次的項：
+:<math>12\cdot \frac{-i\lambda}{4!}\int d^4z\, D_F(x-z)D_F(y-z)D_F(z-z),</math>
+相對應的費曼圖為
+
+「「「「「費曼圖在此，P92第二項」」」」」
+
+圖中每個點對應於一個{{math|''ϕ''}}場因子，位於外端（標為{{math|''x''}}和{{math|''y''}}）的稱為「外點」，位於內部的稱為「內點」（此處只有一個）。要得回這一項的數值，須遵循一套適用於此理論的「費曼規則」：每個內點對應於<math>-i\lambda\int d^4z</math>，每條線對應於費曼傳播子<math>D_F(x-y)</math>（{{math|''x''}}和{{math|''y''}}是線兩端點的位置標籤），把這些因子全部相乘後，再除以「對稱因子」。（此費曼圖的對稱因子為2，但此處不作詳細解釋。）
+
+要計算任何{{math|''n''}}點相關函數，可以以內點的數目為階，列出每一階符合條件的所有費曼圖，再用費曼規則得出每一項的數值。確切地說，
+:<math>\lang\Omega|T\{\phi(x_1)\cdots\phi(x_n)\}|\Omega\rang</math>
+等於所有含{{math|''n''}}個外點的連通費曼圖（相應的數值）之和。（所謂的連通費曼圖，指的是不允許有內點不與任何外點經線連通的情況。與外點完全斷開的部分，有時亦稱「真空泡沫」。）在此處考慮的{{math|''ϕ''<sup>4</sup>}}相互作用理論中，每個內點必須接上四條腿。
+
 
 
 
