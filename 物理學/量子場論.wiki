@@ -256,17 +256,19 @@
 :<math>\mathcal{L} = \frac 12 (\partial_\mu\phi^i)(\partial^\mu\phi^i) + \frac 12 \mu^2 \phi^i\phi^i - \frac{\lambda}{4} (\phi^i\phi^i)^2,</math>
 其中{{math|''μ''}}和{{math|''λ''}}都是實參數。此理論具有[[正交群|{{math|O(''N'')}}]]規範對稱：
 :<math>\phi^i \to R^{ij}\phi^j,\quad R\in\mathrm{O}(N).</math>
-從經典的角度，理論的最低能量態（基態、真空態）是任何符合
+經典理論的最低能量態（基態、真空態）是任何符合
 :<math>\phi_0^i \phi_0^i = \frac{\mu^2}{\lambda}</math>
 的均勻場{{math|''ϕ''<sub>0</sub>}}。可以選擇坐標，使得基態指向第{{math|''N''}}方向：
 :<math>\phi_0^i = \left(0,\cdots,0,\frac{\mu}{\sqrt{\lambda}}\right).</math>
 原先的{{math|''N''}}個場可以重新寫作
 :<math>\phi^i(x) = \left(\pi^1(x),\cdots,\pi^{N-1}(x),\frac{\mu}{\sqrt{\lambda}} + \sigma(x)\right).</math>
 原來的拉格朗日量密度，以新的場寫出：
-:<math>\mathcal{L} = \frac 12 (\partial_\mu\pi^k)(\partial^\mu\pi^k) + \frac 12 (\partial_\mu\sigma)(\partial^\mu\sigma) - \frac 12 (2\mu^2)\sigma^2 - \sqrt{\lambda}\mu\sigma^3 - \sqrt{\lambda}\mu\pi^k\pi^k\sigma - \frac{\lambda}{2} \pi^k\pi^k\sigma^2 - \frac{\lambda}{4}(\pi^k\pi^k)^2.</math>
-從表面上，拉格朗日量不再具有{{math|O(''N'')}}規範對稱，而只是剩下子群{{math|O(''N''-1)}}規範對稱，所以自發對稱破缺前的更大對稱性，也被稱為「隱藏的對稱性」。
+:<math>\mathcal{L} = \frac 12 (\partial_\mu\pi^k)(\partial^\mu\pi^k) + \frac 12 (\partial_\mu\sigma)(\partial^\mu\sigma) - \frac 12 (2\mu^2)\sigma^2 - \sqrt{\lambda}\mu\sigma^3 - \sqrt{\lambda}\mu\pi^k\pi^k\sigma - \frac{\lambda}{2} \pi^k\pi^k\sigma^2 - \frac{\lambda}{4}(\pi^k\pi^k)^2,</math>
+其中{{math|''k'' {{=}} 1,…,''N''-1}}。從表面上，拉格朗日量不再具有{{math|O(''N'')}}規範對稱，而只是剩下子群{{math|O(''N''-1)}}規範對稱，所以自發對稱破缺前的更大對稱性，也被稱為「隱藏的對稱性」。
 
 在描述[[鐵磁性]]系統的量子場論中，自發對稱破缺可以解釋低溫下[[磁偶極子]]方向對齊的現象；在基本粒子標準模型中，[[希格斯機制]]利用自發對稱破缺，使得原先因規範對稱性而不允許有質量的[[規範玻色子]]（[[W和Z玻色子]]）獲得質量。
+
+根據[[戈德斯通定理]]，在自發對稱破缺機制下，每一個被破壞的連續對稱性都對應於一個無質量場，這些場稱為戈德斯通玻色子。在以上的例子中，{{math|O(''N'')}}有{{math|''N''(''N''-1)/2}}個連續對稱性，而{{math|O(''N''-1)}}則有{{math|(''N''-1)(''N''-2)/2}}個，兩者之差為{{math|''N''-1}}，正好對應於{{math|''N''-1}}個無質量場{{math|''π<sup>k</sup>''}}。
 
 
 
