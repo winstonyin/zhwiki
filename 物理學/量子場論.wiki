@@ -277,7 +277,7 @@
 
 標準模型具有全局[[龐加萊群|龐加萊對稱性]]，生成子有：平移生成子{{math|''P<sup>μ</sup>''}}和[[勞侖茲變換]]生成子{{math|''M<sub>μν</sup>''}}。超對稱在此對稱群的基礎上，再加上遵守[[外爾費米子]]轉換法則的超對稱生成子{{math|''Q<sub>α</sub>''}}。由以上所有生成子所生成的對稱群稱為{{le|超龐加萊群|Super-Poincaré algebra}}。廣義地說，超對稱生成子可以不止一個：{{math|''Q<sub>α</sub><sup>I</sup>'', ''I'' {{=}} 1,…,''N''}}，這樣的對稱性稱為{{math|''N'' {{=}} 1}}超對稱、{{math|''N'' {{=}} 2}}超對稱，如此類推。
 
-如果一個理論具有超對稱性，那麼其拉格朗日量就必須在超對稱群的轉換作用下不變，例子有：{{le|N = 4超對稱楊-米爾斯理論|N = 4 supersymmetric Yang–Mills theory|{{math|''N'' = 4}}超對稱楊-米爾斯理論}}、[[超弦理論]]等等。
+如果一個理論具有超對稱性，那麼其拉格朗日量就必須在超對稱群的轉換作用下不變，例子有：{{le|N {{=}} 4超對稱楊-米爾斯理論|N {{=}} 4 supersymmetric Yang–Mills theory|{{math|''N'' {{=}} 4}}超對稱楊-米爾斯理論}}、[[超弦理論]]等等。
 
 ==== 其他時空 ====
 
@@ -286,13 +286,14 @@
 <!--https://www.springer.com/us/book/9783540671770-->在[[凝聚態物理學]]中，有{{le|二維電子氣體|2-dimensional electron gas|2+1維電子氣體}}。在[[高能物理學]]中，有屬於1+1維量子場論的[[弦理論]]，還有利用額外維度中的引力產生低維度規範場論的[[卡魯扎-克萊因理論]]等等。
 
 在閔考斯基時空中，拉格朗日量的所有標號升降都利用平坦[[度規張量]]{{math|''η<sub>μν</sub>''}}，例如：
-:<math>A_\mu A^\mu = \eta_{\mu\nu} A^\mu A^\nu,\quad (\partial_\mu\phi)(\partial^\mu\phi) = \eta^{\mu\nu}(\partial_\mu\phi)(\partial_\nu\phi),</math>
-其中{{math|''η<sup>μν</sup>''}}是{{math|''η<sub>μν</sub>''}}的逆：{{math|''η<sup>μρ</sup>η<sup>ρν</sup>'' {{=}} ''δ<sup>μ</sup><sub>ν</sub>''}}。如果量子場所在的時空不是平坦的，就應使用更廣義的度規張量{{math|''g<sub>μν</sub>''}}（例如描述[[黑洞]]的[[史瓦西度規]]）：
-:<math>A_\mu A^\mu = g_{\mu\nu} A^\mu A^\nu,\quad (\partial_\mu\phi)(\partial^\mu\phi) = g^{\mu\nu}(\partial_\mu\phi)(\partial_\nu\phi).</math>
-此處{{math|''g<sup>μν</sup>''}}是{{math|''g<sub>μν</sub>''}}的逆。因此，根據固定背景時空幾何的不同，拉格朗日量也會隨之改變，理論的種種計算和預測也會不同。
+:<math>A_\mu A^\mu = \eta_{\mu\nu} A^\mu A^\nu,\quad \partial_\mu\phi \partial^\mu\phi = \eta^{\mu\nu}\partial_\mu\phi \partial_\nu\phi,</math>
+其中{{math|''η<sup>μν</sup>''}}是{{math|''η<sub>μν</sub>''}}的逆：{{math|''η<sup>μρ</sup>η<sup>ρν</sup>'' {{=}} ''δ<sup>μ</sup><sub>ν</sub>''}}。如果量子場所在的時空不是平坦的（見[[彎曲時空中的量子場論]]），就應使用更廣義的度規張量{{math|''g<sub>μν</sub>''}}（例如描述[[黑洞]]的[[史瓦西度規]]）：
+:<math>A_\mu A^\mu = g_{\mu\nu} A^\mu A^\nu,\quad \partial_\mu\phi \partial^\mu\phi = g^{\mu\nu}\partial_\mu\phi \partial_\nu\phi.</math>
+此處{{math|''g<sup>μν</sup>''}}是{{math|''g<sub>μν</sub>''}}的逆。以實純量場為例，最廣義的拉格朗日量在彎曲時空下變為
+:<math>\mathcal{L} = \sqrt{|g|}\left(\frac 12 g^{\mu\nu} \nabla_\mu\phi \nabla_\nu\phi - \frac 12 m^2\phi^2\right),</math>
+其中{{math|''g'' {{=}} det(''g<sub>μν</sub>'')}}，{{math|∇<sub>''μ''</sub>}}是[[協變導數]]。<!--Parker & Toms 2.34-->
 
-
-
+由此可見，根據固定背景時空幾何的不同，拉格朗日量也會隨之改變，理論的種種計算和預測也會不同。
 
 ==== 拓撲量子場論 ====
 
