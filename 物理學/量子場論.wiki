@@ -194,7 +194,7 @@
 
 在現實應用中，某個相互作用過程的{{le|散射振幅|scattering amplitude}}或某種粒子的[[粒子衰變|衰變率]]都能夠從[[S矩陣]]算出，而S矩陣本身可以用上述的費曼圖方法計算。
 
-不含迴圈的費曼圖稱為「樹圖」，它所描述的是最低階的相互作用過程；含有迴圈的則稱為「圈圖」，它描述在樹階以上稱為輻射校正的更高階項。兩端為內點的線，可以想象成一個[[虛粒子]]的傳播。
+不含迴圈的費曼圖稱為「樹圖」，它所描述的是最低階的相互作用過程；含有迴圈的則稱為「圈圖」，它描述在樹階以上的更高階項（這些項稱為輻射修正）。兩端為內點的線，可以想象成一個[[虛粒子]]的傳播。
 
 === 重整化 ===
 {{Main|重整化}}
@@ -243,9 +243,9 @@
 
 如果在每一個時空點{{math|''x''}}上做如下變換（又稱局域變換），則量子電動力學的拉格朗日量會保持不變：
 :<math>\psi(x) \to e^{i\alpha(x)}\psi(x),\quad A_\mu(x) \to A_\mu(x) + ie^{-1} e^{-i\alpha(x)}\partial_\mu e^{i\alpha(x)},</math>
-其中{{math|''α''(''x'')}}是任何在時空上變化的函數。如果某個理論的拉格朗日量（應該更廣義地說[[作用量]]）在某種局域變換下不變，該變換就可以稱作此理論的[[規範對稱]]。以上的變換在每一個時空點上組成一個[[群]]：以<math>e^{i\alpha(x)}</math>和<math>e^{i\alpha'(x)}</math>相繼進行變換，整體來說還是一個變換<math>e^{i[\alpha(x)+\alpha'(x)]}</math>。對於任意{{math|''α''(''x'')}}，<math>e^{i\alpha(x)}</math>都屬於[[U(1)|{{math|U(1)}}]]群，因此可以說量子電動力學具有{{math|U(1)}}規範對稱性。
+其中{{math|''α''(''x'')}}是任何在時空上變化的函數。如果某個理論的拉格朗日量（應該更廣義地說[[作用量]]）在某種局域變換下不變，該變換就可以稱作此理論的[[規範對稱]]。以上的變換在每一個時空點上組成一個[[群]]：以<math>e^{i\alpha(x)}</math>和<math>e^{i\alpha'(x)}</math>相繼進行變換，整體來說還是一個變換<math>e^{i[\alpha(x)+\alpha'(x)]}</math>。對於任意{{math|''α''(''x'')}}，<math>e^{i\alpha(x)}</math>都屬於[[U(1)|{{math|U(1)}}]]群，因此可以說量子電動力學具有{{math|U(1)}}規範對稱性，其中光子場{{math|''A<sub>μ</sub>''}}可稱為{{math|U(1)}}[[規範玻色子]]。
 
-{{math|U(1)}}屬於[[阿貝爾群]]，即任意兩個元素的作用先後次序並不重要。除此之外，還有建立在[[非阿貝爾群]]上的[[非阿貝爾規範場論]]（又稱楊-米爾斯理論）。以[[量子色動力學]]的[[特殊幺正群|{{math|SU(3)}}]]為例，理論包含三個代表[[夸克]]場的狄拉克場{{math|''ψ<sup>i</sup>'', ''i'' {{=}} 1,2,3}}，以及八個代表[[膠子]]場的矢量場{{math|''A<sup>a,μ</sup>'', ''a'' {{=}} 1,…,8}}。拉格朗日量密度為：
+{{math|U(1)}}屬於[[阿貝爾群]]，即任意兩個元素的作用先後次序並不重要。除此之外，還有建立在[[非阿貝爾群]]上的[[非阿貝爾規範場論]]（又稱楊-米爾斯理論）。以[[量子色動力學]]的[[特殊幺正群|{{math|SU(3)}}]]為例，理論包含三個代表[[夸克]]場的狄拉克場{{math|''ψ<sup>i</sup>'', ''i'' {{=}} 1,2,3}}，以及八個代表[[膠子]]場的矢量場{{math|''A<sup>a,μ</sup>'', ''a'' {{=}} 1,…,8}}（膠子場是{{math|SU(3)}}規範玻色子）。拉格朗日量密度為：
 :<math>\mathcal{L} = i\bar\psi^i \gamma^\mu (D_\mu)^{ij} \psi^j - \frac 14 F_{\mu\nu}^aF^{a,\mu\nu} - m\bar\psi^i \psi^i,</math>
 其中{{math|''D<sub>μ</sub>''}}為規範[[協變導數]]：
 :<math>D_\mu = \partial_\mu - igA_\mu^a t^a,</math>
@@ -256,7 +256,9 @@
 其中{{math|''U''(''x'')}}在任何時空點{{math|''x''}}上都是一個{{math|SU(3)}}元素：
 :<math>U(x) = e^{i\alpha(x)^a t^a}.</math>
 
-以上所討論的只是在拉格朗日量層面上的對稱性，可以說是經典對稱性；但在量子化之後，某些理論可能會喪失它的經典對稱性，這種現象稱為[[反常]]。比如，在路徑積分表述中，儘管拉格朗日量密度<math>\mathcal{L}[\phi,\partial_\mu\phi]</math>在場的某種規範變換下不變，但路徑積分的[[測度]]<math>\int\mathcal D\phi</math>卻有可能改變，從而導致整個路徑積分乃至物理預測都會在變換下改變。描述現實的理論不能含有任何規範對稱性上的反常。基本粒子標準模型擁有{{math|SU(3) × SU(2) × U(1)}}規範群，理論中所有可能出現的反常都恰好完全抵消。
+以上所討論的只是在拉格朗日量層面上的對稱性，可以說是經典對稱性；但在量子化之後，某些理論可能會喪失它的經典對稱性，這種現象稱為[[反常]]。比如，在路徑積分表述中，儘管拉格朗日量密度<math>\mathcal{L}[\phi,\partial_\mu\phi]</math>在場的某種規範變換下不變，但路徑積分的[[測度]]<math>\int\mathcal D\phi</math>卻有可能改變，從而導致整個路徑積分乃至物理預測都會在變換下改變。描述現實的理論不能含有任何規範對稱性上的反常，否則它就是不一致的。基本粒子標準模型屬於規範場論，其規範群為{{math|SU(3) × SU(2) × U(1)}}，理論中所有可能出現的反常都恰好完全抵消。
+
+[[等效原理]]是[[廣義相對論]]的理論基礎，它也可以視為一種規範對稱性，所以廣義相對論是基於[[勞侖茲群]]的規範場論。<ref>Veltman, M. J. G. (1976). "Methods in Field Theory, Proceedings of the Les Houches Summer School, Les Houches, France, 1975".</ref>
 
 根據[[諾特定理]]，每一個連續對稱性（即對稱變換中的參數是連續而不是離散的），都有一個相對應的[[守恆定律]]。例如，量子電動力學的{{math|U(1)}}對稱性意味著[[電荷守恆]]。
 
@@ -294,7 +296,13 @@
 
 標準模型具有全局[[龐加萊群|龐加萊對稱性]]，生成子有：平移生成子{{math|''P<sup>μ</sup>''}}和[[勞侖茲變換]]生成子{{math|''M<sub>μν</sup>''}}。超對稱在此對稱群的基礎上，再加上遵守[[外爾費米子]]轉換法則的超對稱生成子{{math|''Q<sub>α</sub>''}}。由以上所有生成子所生成的對稱群稱為{{le|超龐加萊群|Super-Poincaré algebra}}。廣義地說，超對稱生成子可以不止一個：{{math|''Q<sub>α</sub><sup>I</sup>'', ''I'' {{=}} 1,…,''N''}}，這樣的對稱性稱為{{math|''N'' {{=}} 1}}超對稱、{{math|''N'' {{=}} 2}}超對稱，如此類推。
 
-如果一個理論具有超對稱性，那麼其拉格朗日量就必須在超對稱群的轉換作用下不變，例子有：{{le|N {{=}} 4超對稱楊-米爾斯理論|N {{=}} 4 supersymmetric Yang–Mills theory|{{math|''N'' {{=}} 4}}超對稱楊-米爾斯理論}}、[[超弦理論]]等等。
+如果一個理論具有超對稱性，那麼其拉格朗日量就必須在超對稱群的轉換作用下不變，例子有：{{le|N {{=}} 4超對稱楊-米爾斯理論|N {{=}} 4 supersymmetric Yang–Mills theory|{{math|''N'' {{=}} 4}}超對稱楊-米爾斯理論}}、[[超弦理論]]等等。在這樣的理論中，每一個費米子都有一個對應的玻色子[[超對稱粒子]]，反之亦然。
+
+如果把超對稱性提升為局域對稱性，所形成的規範場論是廣義相對論的推廣──[[超引力理論]]。
+
+如果超對稱性在自然界中真實存在，將解決物理學上的若干難題。把[[希格斯場]]和它的超對稱場{{le|超希格斯粒子|Higgsino|超希格斯場}}互相聯繫，可能可以解決標準模型中的{{le|級列問題|hierarchy problem}}：為甚麼希格斯玻色子的質量不會因為輻射修正而上升到更高的尺度，如[[大統一理論]]尺度或[[普朗克尺度]]。原理是，在費曼圖中產生輻射修正項的希格斯玻色子迴圈，會被相應的超希格斯費米子迴圈所抵消。其他有可能經超對稱性解決的問題還有規範耦合常數的高能大統一問題，以及[[暗物質]]的本質。
+
+然而，實驗物理學家並沒有觀測到任何超對稱粒子的存在。如果超對稱性真的存在，它必定是一個破缺的對稱性，而且破缺所發生的能量尺度一定比現今實驗探索的尺度更高。<!--Zee VIII.4-->
 
 ==== 其他時空 ====
 
@@ -339,33 +347,8 @@
 
 [[引力]]是唯一一個尚未通過量子場論完全描述的[[基本相互作用]]。不少以量子場論為框架的[[量子引力]]理論都假設存在一種傳遞引力相互作用的粒子──[[引力子]]。如果確實有一個描述引力的正確量子場論，那麼它的低能極限就應該是愛因斯坦的[[廣義相對論]]。理論學家猜想，描述基本相互作用的量子場論，都是某個更根本的理論（如[[超弦理論]]）的[[有效場論]]。
 
-=== Renormalization ===
 
-=== Gauge freedom ===
-A [[gauge theory]] is a theory that admits a [[Symmetry in physics|symmetry]] with a local parameter. For example, in every [[quantum mechanics|quantum]] theory, the global [[Phase (waves)|phase]] of the [[wave function]] is arbitrary and does not represent something physical. Consequently, the theory is invariant under a global change of phases (adding a constant to the phase of all wave functions, everywhere); this is a [[global symmetry]]. In [[quantum electrodynamics]], the theory is also invariant under a ''local'' change of phase, that is – one may shift the phase of all [[wave function]]s so that the shift may be different at every point in space-time. This is a ''local'' symmetry. However, in order for a well-defined [[derivative]] operator to exist, one must introduce a new [[field (physics)|field]], the [[gauge field]], which also transforms in order for the local change of variables (the phase in our example) not to affect the derivative. In quantum electrodynamics, this gauge field is the [[electromagnetic field]]. The change of local gauge of variables is termed [[gauge transformation]].
-
-By [[Noether's theorem]], for every such symmetry there exists an associated [[conserved current]]. The aforementioned symmetry of the wavefunction under global phase changes implies the [[Charge conservation|conservation of electric charge]]. Since  the excitations of fields represent [[Elementary particle|particles]], the particle associated with excitations of the [[gauge field]] is the [[gauge boson]], e.g., the [[photon]] in the case of quantum electrodynamics.
-
-The [[Degrees of freedom (physics and chemistry)|degrees of freedom]] in quantum field theory are local fluctuations of the fields. The existence of a gauge symmetry reduces the number of degrees of freedom, simply because some fluctuations of the fields can be transformed to zero by gauge transformations, so they are equivalent to having no fluctuations at all, and they, therefore, have no physical meaning. Such fluctuations are usually called "non-physical degrees of freedom" or ''gauge artifacts''; usually, some of them have a negative [[norm (mathematics)|norm]], making them inadequate for a consistent theory. Therefore, if a classical field theory has a gauge symmetry, then its quantized version (the corresponding quantum field theory) will have this symmetry as well. In other words, a gauge symmetry cannot have a quantum [[Anomaly (physics)|anomaly]].<ref>
-If a gauge symmetry is [[Gauge anomaly|anomalous]] (i.e. not kept in the quantum theory) then the theory is inconsistent: for example, in quantum electrodynamics, had there been a [[gauge anomaly]], this would require the appearance of [[photon]]s with [[Longitudinal wave|longitudinal]] [[photon polarization|polarization]] and polarization in the time direction, the latter having a negative [[norm (mathematics)|norm]], rendering the theory inconsistent; another possibility would be for these photons to appear only in intermediate processes but not in the final products of any interaction, making the theory non-[[unitarity|unitary]] and again inconsistent (see [[optical theorem]]).</ref>
-
-In general, the gauge transformations of a theory consist of several different transformations, which may not be [[commutative]]. These transformations are combine into the framework of a [[gauge group]]; [[infinitesimal]] [[gauge transformation]]s are the [[gauge group]] [[generator (mathematics)|generator]]s. Thus, the number of gauge bosons is the group [[Dimension (vector space)|dimension]] (i.e., the number of generators forming the  [[Basis (linear algebra)|basis]] of the corresponding Lie algebra).
-
-All the known [[fundamental interaction]]s in nature are described by gauge theories (possibly barring the Higgs multiplet couplings, if considered in isolation). These are:
-* [[Quantum chromodynamics]], whose [[gauge group]] is [[SU(3)|''SU''(3)]]. The [[gauge boson]]s are eight [[gluon]]s.
-* The [[Electroweak interaction|electroweak theory]], whose [[gauge group]] is ''U''(1) &times; ''SU''(2), (a [[direct product of groups|direct product]] of ''U''(1) and [[SU(2)|''SU''(2)]]). The gauge bosons are the photon and the massive ''W<sup>±</sup>'' and ''Z⁰'' bosons.
-* [[Gravity]], whose classical theory is [[general relativity]],  relies on the [[equivalence principle]], which is essentially a form of gauge symmetry. Its action may also be written as a gauge theory of the [[Lorentz group]] on [[Spin connection|tangent space]].<ref>However, it is  non-renormalizable. Veltman, M. J. G. (1976). "Methods in Field Theory, Proceedings of the Les Houches Summer School, Les Houches, France, 1975".</ref>
-
-=== Supersymmetry ===
-{{Main|Supersymmetry}}
-
-[[Supersymmetry]] assumes that every fundamental [[fermion]] has a superpartner that is a [[boson]] and vice versa. Its gauge theory, [[Supergravity]], is an extension of general relativity. Supersymmetry is a key ingredient for the consistency of [[string theory]].
-
-It was utilized  in order to solve the so-called [[Hierarchy problem|Hierarchy Problem]] of the standard model, that is, to explain why particles not protected by any symmetry (like the [[Higgs boson]]) do not receive radiative corrections to their mass, driving it to the larger scales such as that of GUTs, or the Planck mass of gravity. The way supersymmetry protects  scale hierarchies is the following: since for every particle there is a superpartner with the same mass but different statistics,  any loop in a radiative correction is cancelled by the loop corresponding to its superpartner, rendering the theory more UV finite.
-
-Since, however,  no super partners have been observed, if supersymmetry existed it should be  broken severely (through a so-called soft term, which breaks supersymmetry without ruining its helpful features). The simplest models of this breaking require that the energy of the superpartners not be too high; in these cases, supersymmetry could be observed by experiments at the [[Large Hadron Collider]]. However, to date, after the observation of the Higgs boson there, no such superparticles have been discovered.
-
-== Axiomatic approaches ==
+== 公理化表述 ==
 The preceding description of quantum field theory follows the spirit in which most [[physicist]]s approach the subject. However, it is not [[rigour|mathematically rigorous]]. Over the past several decades, there have been many attempts to put quantum field theory on a firm mathematical footing by formulating a set of [[axiom]]s for it. Finding proper axioms for quantum field theory is still an open and difficult problem in mathematics.  One of the [[Millennium Prize Problems]]&mdash;proving the existence of a [[Yang–Mills existence and mass gap|mass gap in Yang–Mills theory]]&mdash;is linked to this issue. These attempts fall into two broad classes.
 
 ===Wightman axioms===
