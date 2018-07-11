@@ -96,17 +96,17 @@
 
 以最簡易的經典場為例，假設在空間上每一個點都有一個可以隨時間變動的[[實數]]，記作{{math|''ϕ''('''x''', ''t'')}}，其中{{math|'''x'''}}是位置矢量，{{math|''t''}}是時間。這就是實[[純量場]]。又假設這個場的[[拉格朗日量]]為
 :<math>L = \int d^3x\,\mathcal{L} = \int d^3x\,\left[\frac 12 \dot\phi^2 - \frac 12 (\nabla\phi)^2 - \frac 12 m^2\phi^2\right],</math>
-其中<math>\dot\phi</math>是場的時間導數，{{math|∇}}是[[散度]]算符，{{math|''m''}}是一個參數（可視為場的「質量」）。在此拉格朗日量上應用適用於場論的[[歐拉-拉格朗日方程]]{{r|peskin|16}}
+其中<math>\dot\phi</math>是場的時間導數，{{math|∇}}是[[散度]]算符，{{math|''m''}}是一個參數（可視為場的「質量」）。在此拉格朗日量上應用適用於場論的[[歐拉-拉格朗日方程]]{{r|peskin|p=16}}
 :<math>\frac{\partial}{\partial t} \left[\frac{\partial\mathcal{L}}{\partial(\partial\phi/\partial t)}\right] + \sum_{i=1}^3 \frac{\partial}{\partial x^i} \left[\frac{\partial\mathcal{L}}{\partial(\partial\phi/\partial x^i)}\right] - \frac{\partial\mathcal{L}}{\partial\phi} = 0,</math>
 可得出場的[[運動方程]]，描述其在時間和空間上的變動：
 :<math>\left(\frac{\partial^2}{\partial t^2} - \nabla^2 + m^2\right)\phi = 0.</math>
-這就是[[克萊恩-戈登方程式]]。{{r|peskin|17}}
+這就是[[克萊恩-戈登方程式]]。{{r|peskin|p=17}}
 
 克萊恩-戈登方程式是一條[[波動方程]]，因此它的解可以表示為[[簡正模]]之和（可用[[傅里葉變換]]所得）：
 :<math>\phi(\mathbf{x}, t) = \int \frac{d^3p}{(2\pi)^3} \left(a_{\mathbf{p}} e^{-i\omega_{\mathbf{p}}t + i\mathbf{p}\cdot\mathbf{x}} + a_{\mathbf{p}}^* e^{i\omega_{\mathbf{p}}t - i\mathbf{p}\cdot\mathbf{x}}\right),</math>
 其中{{math|''a''}}為複數，星號{{math|*}}代表[[複共軛]]，{{math|''ω''<sub>'''p'''</sub>}}則是簡正模的頻率：
 :<math>\omega_{\mathbf{p}} = \sqrt{|\mathbf{p}|^2 + m^2}.</math>
-故此，對應於每個{{math|'''p'''}}簡正模都可以視為頻率為{{math|''ω''<sub>'''p'''</sub>}}的經典[[諧振子]]。{{r|peskin|21,26}}
+故此，對應於每個{{math|'''p'''}}簡正模都可以視為頻率為{{math|''ω''<sub>'''p'''</sub>}}的經典[[諧振子]]。{{r|peskin|p=21,26}}
 
 === 正則量子化 ===
 {{Main|正則量子化}}
@@ -122,16 +122,16 @@
 單個諧振子的所有量子態都可以從[[真空態]]<math>|0\rang</math>開始，通過創生算符<math>\hat a^\dagger</math>的重複作用，逐一產生：
 :<math>|n\rang = (\hat a^\dagger)^n|0\rang.</math>
 
-同樣，上文的實純量場{{math|''ϕ''}}（對應於單個諧振子的{{math|''x''}}）提升為算符<math>\hat\phi</math>，而{{math|''a''<sub>'''p'''</sub>}}和{{math|''a''<sub>'''p'''</sub><sup>*</sup>}}則提升為對應於{{math|'''p'''}}的消滅算符<math>\hat a_{\mathbf{p}}</math>和創生算符<math>\hat a_{\mathbf{p}}^\dagger</math>。創生和消滅算符的對易關係為：{{r|peskin|21}}
+同樣，上文的實純量場{{math|''ϕ''}}（對應於單個諧振子的{{math|''x''}}）提升為算符<math>\hat\phi</math>，而{{math|''a''<sub>'''p'''</sub>}}和{{math|''a''<sub>'''p'''</sub><sup>*</sup>}}則提升為對應於{{math|'''p'''}}的消滅算符<math>\hat a_{\mathbf{p}}</math>和創生算符<math>\hat a_{\mathbf{p}}^\dagger</math>。創生和消滅算符的對易關係為：{{r|peskin|p=21}}
 :<math>[\hat a_{\mathbf p},\hat a_{\mathbf q}^\dagger] = (2\pi)^3\delta(\mathbf{p} - \mathbf{q}),\quad [\hat a_{\mathbf p},\hat a_{\mathbf q}] = [\hat a_{\mathbf p}^\dagger,\hat a_{\mathbf q}^\dagger] = 0,</math>
-其中{{math|''δ''}}是[[狄拉克δ函數]]。場的所有量子態都可以從真空態<math>|0\rang</math>開始，通過各個創生算符<math>\hat a_{\mathbf{p}}^\dagger</math>的重複作用，逐一產生，如：{{r|peskin|22}}
+其中{{math|''δ''}}是[[狄拉克δ函數]]。場的所有量子態都可以從真空態<math>|0\rang</math>開始，通過各個創生算符<math>\hat a_{\mathbf{p}}^\dagger</math>的重複作用，逐一產生，如：{{r|peskin|p=22}}
 :<math>(\hat a_{\mathbf{p}_3}^\dagger)^3 \hat a_{\mathbf{p}_2}^\dagger (\hat a_{\mathbf{p}_1}^\dagger)^2 |0\rang.</math>
 
-雖然寫在拉格朗日量中的場在空間上具有連續性，但在量子化之後，態空間卻是離散的。單個諧振子的態空間包含一個粒子的所有離散能級，而與之不同的是，量子場的態空間包含任意粒子數目的所有離散能級。這樣的態空間稱為{{le|福克空間|Fock space}}，它能夠描述相對論性量子系統中粒子數目不固定的現象。<!--http://www.fuw.edu.pl/~kostecki/daniel_ranard_essay.pdf-->從單粒子提升為任意粒子數的量子化過程，有時也稱為第二量子化。{{r|peskin|19}}
+雖然寫在拉格朗日量中的場在空間上具有連續性，但在量子化之後，態空間卻是離散的。單個諧振子的態空間包含一個粒子的所有離散能級，而與之不同的是，量子場的態空間包含任意粒子數目的所有離散能級。這樣的態空間稱為{{le|福克空間|Fock space}}，它能夠描述相對論性量子系統中粒子數目不固定的現象。<!--http://www.fuw.edu.pl/~kostecki/daniel_ranard_essay.pdf-->從單粒子提升為任意粒子數的量子化過程，有時也稱為第二量子化。{{r|peskin|p=19}}
 
-以上將場量子化的過程直接應用了非相對論性量子力學的表述，可以用於對純量場、[[狄拉克場]]{{r|peskin|52}}[[矢量場]]（如電磁場）甚至是[[弦理論|弦]]<!--Becker Becker Schwarz P36-->進行量子化。不過，只有在不含相互作用的最簡單理論（所謂的「自由理論」）中，創生和消滅算符才有良好的定義。在實純量場的例子中，這些算符的存在純粹是因為其經典運動方程的解可以分解成簡正模之和。要對具有相互作用的理論進行任何計算，必須在自由理論的基礎上應用[[微擾理論]]。
+以上將場量子化的過程直接應用了非相對論性量子力學的表述，可以用於對純量場、[[狄拉克場]]{{r|peskin|p=52}}[[矢量場]]（如電磁場）甚至是[[弦理論|弦]]<!--Becker Becker Schwarz P36-->進行量子化。不過，只有在不含相互作用的最簡單理論（所謂的「自由理論」）中，創生和消滅算符才有良好的定義。在實純量場的例子中，這些算符的存在純粹是因為其經典運動方程的解可以分解成簡正模之和。要對具有相互作用的理論進行任何計算，必須在自由理論的基礎上應用[[微擾理論]]。
 
-在自然界中，量子場的拉格朗日量都含有相互作用項。例如，可以在實純量場的拉格朗日量密度上另加一個四次方項：{{r|peskin|77}}
+在自然界中，量子場的拉格朗日量都含有相互作用項。例如，可以在實純量場的拉格朗日量密度上另加一個四次方項：{{r|peskin|p=77}}
 :<math>\mathcal{L} = \frac 12 (\partial_\mu\phi)(\partial^\mu\phi) - \frac 12 m^2\phi^2 - \frac{\lambda}{4!}\phi^4,</math>
 其中{{math|''μ''}}是時空標號：<math>\partial_0 = \partial/\partial t,\ \partial_1 = \partial/\partial x^1</math>等等；此處根據[[愛因斯坦標記法]]省去了對標號{{math|''μ''}}求和的記號。如果參數{{math|''λ''}}足夠小，四次方相互作用項就可算作微擾。
 
