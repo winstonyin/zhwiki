@@ -7,7 +7,7 @@
 
 <!--When combined with the [[Cluster decomposition theorem|cluster decomposition principle]],<ref>It is related with, but not identical to the notion of [[causality]]. It says in effect, distant experiments yield uncorrelated results.</ref> it may be the ''only'' way to do so,<ref>{{harvnb|Weinberg|1995|loc=Preface.}}</ref> while retaining the ideas of [[Point particle|quantum point particle]]s and [[Principle of locality|locality]].-->科學家曾經認為量子場論是描述宇宙的真正根本的理論，但一直以來，把[[廣義相對論]]量子化的嘗試困難重重，所以人們現在相信量子場論只是某個更基礎的未知理論的[[有效場論]]。
 
-==歷史==
+==歷史==<!--Check out Introduction in Advanced Topics in Quantum Field Theory-->
 <!--{{Main|History of quantum field theory}}-->
 儘管量子場論是[[量子力學]]和[[狹義相對論]]相結合的必然結果（{{harvtxt|Weinberg|1995}}），其歷史卻源自1920年代對[[電磁場]]的量子化。[[愛德華·維騰]]認為量子場論是當今物理學最難理解的理論，<ref>{{Cite web|title=Beautiful Minds, Vol. 20: Ed Witten|url=http://temi.repubblica.it/iniziative-beautifulminds/|publisher=[[la Repubblica]]|year=2010|accessdate=22 June 2012}} See [https://www.youtube.com/watch?v=NsYRCLYH954&t=2m22s here].</ref>「它如此難理解，在整整25年內都沒有人完全相信它。」<ref>{{Cite news |last= Cole |first= K. C. |date= 18 October 1987 |title= A Theory of Everything |url= https://www.nytimes.com/1987/10/18/magazine/a-theory-of-everything.html?pagewanted=all |journal= [[The New York Times Magazine]] |accessdate= 15 September 2016 }}</ref>
 
@@ -323,10 +323,11 @@
 ==== 拓撲量子場論 ====
 {{Main|拓撲量子場論}}
 
-一般來說，對於不同的時空度規{{math|''g<sub>μν</sub>''}}，量子場論的相關函數乃至物理預測也會不同。有一類量子場論的所有相關函數都獨立於時空度規的值，此類理論稱為[[拓撲量子場論]]。一般的彎曲時空量子場論會隨時空的幾何改變而改變，而拓撲量子場論則在一切[[微分同胚]]對時空的作用下不變，但對時空的[[拓樸學|拓撲]]敏感。這意味著，拓撲量子場論的所有計算結果，都是其底下時空的[[拓撲不變量]]。{{le|陳-西蒙斯理論|Chern-Simons theory}}就是拓撲量子場論的一例。
+一般來說，對於不同的時空度規{{math|''g<sub>μν</sub>''}}，量子場論的相關函數乃至物理預測也會不同。有一類量子場論的所有相關函數都不隨時空度規的值改變，此類理論稱為[[拓撲量子場論]]。<ref>{{cite arXiv |last1=Ivancevic |first1=Vladimir G. |last2=Ivancevic |first2=Tijana T. |eprint=0810.0344v5 |title=Undergraduate Lecture Notes in
+Topological Quantum Field Theory |class=math-th |date=2008-12-11 |page=36 }}</ref>一般的彎曲時空量子場論會隨時空的幾何改變而改變，而拓撲量子場論則在一切[[微分同胚]]對時空的作用下不變，但對時空的[[拓樸學|拓撲]]敏感。這意味著，拓撲量子場論的所有計算結果，都是其底下時空的[[拓撲不變量]]。{{le|陳-西蒙斯理論|Chern-Simons theory}}就是拓撲量子場論的一例。拓撲量子場論可以應用在[[分數量子霍爾效應]]和{{le|拓撲量子計算機|topological quantum computer}}上。<ref>{{cite arXiv |last1=Carqueville |first1=Nils |last2=Runkel |first2=Ingo |eprint=1705.05734 |title=Physics of Renormalization Group Equation in QED |class=math.QA |date=2017-05-16 |page=1-5 }}</ref>
 
 === 微擾與非微擾方法 ===
-通過量子場論的[[微擾理論 (量子力學)|微擾]]方法，可以用一個以參與相互作用的粒子總數所展開的級數，一階一階地近似相互作用項的整個效應。展開中的每一項都可以理解為粒子間通過其他[[虛粒子]]傳遞相互作用的一種可能途徑，可以用非常形象的[[費曼圖]]來表達。兩個電子間的[[電磁力]]在量子電動力學中（在第一階微擾）是以[[光子]]的傳遞來表達的。同樣，[[W和Z玻色子]]傳遞弱相互作用，[[膠子]]傳遞強相互作用。這種把相互作用的中間態視為各種粒子交換過程的總和的看法，只有在微擾理論的框架下才有意義；非微擾方法則把相互作用項視為一個整體來對待，不進行級數展開，因此也沒有虛粒子傳遞相互作用一說。取而代之描述相互作用的，是{{le|束縛態|bound state}}、[[瞬子]]等概念。
+通過量子場論的[[微擾理論 (量子力學)|微擾]]方法，可以用一個以參與相互作用的粒子總數所展開的級數，一階一階地近似相互作用項的整個效應。展開中的每一項都可以理解為粒子間通過其他[[虛粒子]]傳遞相互作用的一種可能途徑，可以用非常形象的[[費曼圖]]來表達。兩個電子間的[[電磁力]]在量子電動力學中（在第一階微擾）是以[[光子]]的傳遞來表達的。同樣，[[W和Z玻色子]]傳遞弱相互作用，[[膠子]]傳遞強相互作用。這種把相互作用的中間態視為各種粒子交換過程的總和的看法，只有在微擾理論的框架下才有意義；非微擾方法則把相互作用項視為一個整體來對待，不進行級數展開，因此也沒有虛粒子傳遞相互作用一說。取而代之描述相互作用的，是{{le|特·胡夫特-泊里雅科夫單極子|'t Hooft–Polyakov monopole}}、{{le|疇壁|domain wall}}、[[流量管]]、[[瞬子]]等概念。<ref>{{cite book |last=Shifman |first=M. |date=2012 |title=Advanced Topics in Quantum Field Theory |publisher=Cambridge University Press |isbn=978-0-521-19084-8 }}</ref>
 
 == 公理化表述 ==
 The preceding description of quantum field theory follows the spirit in which most [[physicist]]s approach the subject. However, it is not [[rigour|mathematically rigorous]]. Over the past several decades, there have been many attempts to put quantum field theory on a firm mathematical footing by formulating a set of [[axiom]]s for it. Finding proper axioms for quantum field theory is still an open and difficult problem in mathematics.  One of the [[Millennium Prize Problems]]&mdash;proving the existence of a [[Yang–Mills existence and mass gap|mass gap in Yang–Mills theory]]&mdash;is linked to this issue. These attempts fall into two broad classes.
