@@ -86,7 +86,7 @@
 
 === 凝聚態物理學 ===
 
-量子場論最早源於對基本粒子相互作用的研究，但其中的各種方法還可以推廣至其他的物理系統，在[[凝聚態物理學]]範疇的應用成果尤其豐盛。
+量子場論最早源於對基本粒子相互作用的研究，但其中的各種方法還可以推廣至其他的物理系統，在[[凝聚態物理學]]等研究[[多體問題|多體系統]]的範疇上應用成果尤其豐盛。
 
 從歷史的角度，[[南部陽一郎]]將[[超導體]]理論應用於基本粒子，最終發展出希格斯自發對稱破缺機制；重整化群概念也出自對物質第二階[[相變]]的研究。<!--https://science.energy.gov/~/media/hep/pdf/Reports/HEP-BES_Roundtable_Report.pdf-->
 
@@ -346,7 +346,7 @@ Topological Quantum Field Theory |class=math-th |date=2008-12-11 |page=36 }}</re
 
 雖然量子場論在粒子物理學和凝聚態物理學上的應用成果豐盛，其理論預測和實驗之間的吻合程度極高，物理學家們也大膽地在量子場論框架下作出新的量化預測，但是量子場論本身卻仍然缺乏嚴格的數學基礎。比如，根據{{le|哈格定理|Haag's theorem}}，並不存在一個良好定義的量子場論[[交互作用繪景]]，意味著[[費曼圖]]方法的基石──[[微擾理論 (量子力學)|微擾理論]]──在量子場論上的應用是並不嚴格的。<!--http://cdsweb.cern.ch/record/212242/files/p1.pdf-->
 
-有理論物理學家和數學家嘗試把量子場論總結為一組[[公理]]，並從數學嚴格的角度證明相對論性量子力學模型的確切存在。這種研究稱為{{le|構造量子場論|constructive quantum field theory}}，屬於[[數學物理]]的範疇。
+從1950年代開始，<!--https://arxiv.org/pdf/hep-th/9811233.pdf-->有理論物理學家和數學家嘗試把量子場論總結為一組[[公理]]，並從數學嚴格的角度證明相對論性量子力學模型的確切存在。這種研究稱為{{le|構造量子場論|constructive quantum field theory}}，屬於[[數學物理]]的範疇。<!--https://arxiv.org/pdf/1203.3991.pdf-->其成果包括：[[CPT對稱|CPT定理]]、[[自旋統計定理]]、[[戈爾斯通定理]]等等。<!--https://arxiv.org/pdf/hep-th/9811233.pdf-->
 
 對量子場論數學基礎的研究有幾條思路。首先，在[[經典場論]]的量子化過程上，有[[奧斯特瓦德-施拉德爾公理]]（Osterwalder–Schrader axioms）。這組公理試圖把[[費曼路徑積分]]嚴格化，為由場在時空中所有組態所組成的空間建立一個有物理意義的[[測度]]。
 
@@ -354,34 +354,38 @@ Topological Quantum Field Theory |class=math-th |date=2008-12-11 |page=36 }}</re
 
 另一條公理化方法稱為[[代數量子場論]]，它以局域算符之間的代數關係為理論的根本結構。在這方面的公理系統有：{{le|懷特曼公理|Wightman axioms}}和{{le|哈格-卡斯特勒公理|Haag-Kastler axioms}}。
 
+一旦證實現實的物理模型符合以上的公理，在物理學和數學上將有重要意義。例如，[[楊-米爾斯存在性與質量間隙]]<!--http://www.claymath.org/sites/default/files/yangmills.pdf-->是[[千禧年大獎難題]]之一，其表述如下：
+{{Cquote|
+證明：對於任何[[緊空間|緊]][[單群|單]][[規範對稱|規範群]]，在<math>\mathbb{R}^4</math>上存在[[平凡 (數學)|非凡]]量子[[楊-米爾斯理論]]，且有{{le|質量間隙|mass gap}}{{math|Δ > 0}}。存在證明須包括確立公理化屬性，公理須至少比{{Harvtxt|Streater|Wightman|1964}}、{{Harvtxt|Osterwalder|Schrader|1973}}及{{Harvtxt|Osterwalder|Schrader|1975}}所引用的強。
+}}
+
 == 參見 ==
-{{Portal|Mathematics|Physics}}
+{{Portal|數學|物理學}}
 {{columns-list|colwidth=30em|
-* [[Abraham–Lorentz force]]
-* [[AdS/CFT correspondence]]
-* [[Introduction to quantum mechanics]]
-* [[Common integrals in quantum field theory]]
-* [[Einstein–Maxwell–Dirac equations]]
-* [[Form factor (quantum field theory)]]
-* [[Green–Kubo relations]]
-* [[Green's function (many-body theory)]]
-* [[List of quantum field theories]]
-* [[Quantization (physics)|Quantization]] of a [[Field (physics)|field]]
-* [[Quantum electrodynamics]]
-* [[Quantum field theory in curved spacetime]]
-* [[Quantum flavordynamics]]
-* [[Quantum hydrodynamics]]
-* [[Quantum triviality]]
-* [[Relation between Schrödinger's equation and the path integral formulation of quantum mechanics]]
-* [[Relationship between string theory and quantum field theory]]
-* [[Schwinger–Dyson equation]]
-* [[Static forces and virtual-particle exchange]]
-* [[Symmetry in quantum mechanics]]
-* [[Theoretical and experimental justification for the Schrödinger equation]]
-* [[Ward–Takahashi identity]]
-* [[Wheeler–Feynman absorber theory]]
-* [[Wigner's classification]]
-* [[Wigner's theorem]]
+* [[阿布拉罕-勞侖茲力]]
+* [[AdS/CFT對偶]]
+* [[場 (物理學)|場]]
+* [[量子力學入門]]
+<!--* [[Common integrals in quantum field theory]]-->
+<!--* [[Form factor (quantum field theory)]]-->
+<!--* [[Green–Kubo relations]]-->
+<!--* [[Green's function (many-body theory)]]-->
+* [[量子化]]
+* [[量子電動力學]]
+* [[彎曲時空中的量子場論]]
+* [[量子味動力學]]
+<!--* [[Quantum hydrodynamics]]-->
+<!--* [[Quantum triviality]]-->
+<!--* [[Relation between Schrödinger's equation and the path integral formulation of quantum mechanics]]-->
+<!--* [[Relationship between string theory and quantum field theory]]-->
+<!--* [[Schwinger–Dyson equation]]-->
+<!--* [[Static forces and virtual-particle exchange]]-->
+<!--* [[Symmetry in quantum mechanics]]-->
+<!--* [[Theoretical and experimental justification for the Schrödinger equation]]-->
+<!--* [[Ward–Takahashi identity]]-->
+<!--* [[Wheeler–Feynman absorber theory]]-->
+<!--* [[Wigner's classification]]-->
+* [[維格納定理]]
 }}
 
 ==Notes==
