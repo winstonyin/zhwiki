@@ -5,66 +5,64 @@
 }}
 '''量子場論'''（{{lang-en|'''Quantum field theory'''}}，簡稱'''QFT'''）是結合了[[場 (物理)|經典場論]]、[[狹義相對論]]和[[量子力學]]的一套[[理論物理學]]概念和數學工具。{{r|peskin|page1=xi}}在[[粒子物理學]]和[[凝聚態物理學]]中，量子場論可以分別為[[亞原子粒子]]和[[準粒子]]建立[[量子力學]]模型。量子場論將粒子視為更基礎的[[場 (物理)|場]]上的[[激發態]]，即所謂的[[量子]]，而粒子之間的交互作用則是以相應的場之間的交互項來描述。每個交互作用都可以用[[費曼圖]]來表示，這些圖不但是一種直觀視化的方法，而且還是相對論性協變[[微擾理論 (量子力學)|微擾理論]]中用於計算粒子交互過程的一個重要的數學工具。
 
-<!--簡述理論和實驗成果-->
-
 ==歷史==
-量子場論的發展並非一蹴而就，而是在整個二十世紀期間，經多代理論物理學家的逐步推進，一波三折，才成為今天完整的理論框架。
+量子場論的發展並非一蹴而就，而是在整個二十世紀期間，經多代理論物理學家的逐步推進，一波三折，才成為今天完整的理論框架。最早的量子場論是描述[[光]]和[[電子]]之間相互作用的[[量子電動力學]]，在1920年代逐步建成。之後，由於在計算中有各種無限大的出現，量子場論進入了第一個低谷；1950年左右，[[重整化]]程序的發明使它走出低谷。由於無法用來解釋[[弱相互作用]]和[[強相互作用]]，量子場論又進入了第二個低谷，直至1970年代[[規範場論]]的完善和基本粒子[[標準模型]]的建成，它才變成被廣泛接受的成熟理論框架。
 
 === 理論背景 ===
 今天的量子場論是幾條重要理論線索──[[經典場論]]、[[量子力學]]、[[狹義相對論]]等等──結合的成果，所以它的歷史起源，必須從這幾條線索說起。
 
-1862年，[[詹姆斯·克拉克·馬克士威]]以完整的[[麥克斯韋方程組]]建成[[電磁學]]理論，確立了[[場 (物理)|場]]（[[電場]]和[[磁場]]）的存在。（「場」一詞，{{lang-en|field}}，則是由[[米高·法拉第]]在1849年最早使用。）兩年後，他又提出，[[光]]就是電磁場在空間中傳播的[[波]]，由運動的帶電粒子所產生。然而，此理論尚未納入任何量子力學現象。
+1862年，[[詹姆斯·克拉克·馬克士威]]以完整的[[麥克斯韋方程組]]建成[[電磁學]]理論，確立了[[場 (物理)|場]]（[[電場]]和[[磁場]]）的存在。<!--Weisskopf-->（「場」一詞，{{lang-en|field}}，則是由[[米高·法拉第]]在1849年最早使用。）<!--Weinberg PDF 19-->他又提出，[[光]]就是電磁場在空間中傳播的[[波]]，由運動的帶電粒子所產生。<!--Weisskopf-->然而，此理論尚未納入任何量子力學現象。
 
-量子力學之始，可追溯至1900年[[馬克斯·普朗克]]對[[黑體輻射]]的解釋以及1905年[[阿爾伯特·愛因斯坦]]對[[光電效應]]的解釋。分別為了解決[[紫外災變]]和[[電光效應]]，他們提出光是由一個個分開的能量團所組成，是為光的量子──[[光子]]。這確立了光輻射以粒子形式存在的概念。
+量子力學之始，可追溯至1900年[[馬克斯·普朗克]]對[[黑體輻射]]的解釋以及1905年[[阿爾伯特·愛因斯坦]]對[[光電效應]]的解釋。分別為了解決[[紫外災變]]和[[電光效應]]，他們提出光是由一個個分開的能量團所組成，是為光的量子──[[光子]]。這確立了光輻射以粒子形式存在的概念。<!--Weisskopf-->
 
-1913年，[[尼爾斯·玻爾]]提出描述原子結構的[[波爾模型]]，其中[[電子]]在[[原子]]中所具有的能量並不是一個連續的值，而是限制在一系列離散的特殊能量值上。這是量子化現象的又一例。1924年，[[路易·德布羅意]]提出[[波粒二象性]]假說，即微觀粒子在不同情況下會分別呈現波和粒子的性質。1925年，[[維爾納·海森堡]]、[[埃爾溫·薛定諤]]、[[保羅·狄拉克]]、[[華夫岡·鮑利]]和玻爾所建成的量子力學，終於為能量量子化的概念提供了理論解釋。這種量子力學仍以粒子為基礎，尚未對場進行量子化，也稱為[[舊量子論]]。
+1913年，[[尼爾斯·玻爾]]提出描述原子結構的[[波爾模型]]，其中[[電子]]在[[原子]]中所具有的能量並不是一個連續的值，而是限制在一系列離散的特殊能量值上。這是量子化現象的又一例。1924年，[[路易·德布羅意]]提出[[波粒二象性]]假說，即微觀粒子在不同情況下會分別呈現波和粒子的性質。1925年，[[維爾納·海森堡]]、[[埃爾溫·薛定諤]]、[[保羅·狄拉克]]、[[華夫岡·鮑利]]和玻爾所建成的量子力學，終於為能量量子化的概念提供了理論解釋。<!--Weisskopf-->這種量子力學仍以粒子為基礎，尚未對場進行量子化，也稱為[[舊量子論]]。<ref>{{cite book |title=Subtle is the Lord: The Science and the Life of Albert Einstein |edition=illustrated |first1=Abraham |last1=Pais |publisher=OUP Oxford |year=2005 |isbn=978-0-19-280672-7 |page=28 |url=https://books.google.com/books?id=0QYTDAAAQBAJ}}</ref>
 
-就在發表光電效應論文的同年，愛因斯坦又在麥克斯韋電磁學的基礎上建成[[狹義相對論]]，摒棄了時間和空間之間劃清界限的觀點，並提出所有物理定律必須在[[勞侖茲變換]]下相同。
+就在發表光電效應論文的同年，愛因斯坦又在麥克斯韋電磁學的基礎上建成[[狹義相對論]]，摒棄了時間和空間之間劃清界限的觀點，並提出所有物理定律必須在[[勞侖茲變換]]下相同。<!--Weinberg PDF 19-->
 
-這時的難題至少有兩處。在觀測驗證方面，舊量子論的[[薛定諤方程]]可以解釋[[受激發射]]，即原子中的電子在外在電磁場作用下釋放一個新光子，但無法解釋[[自發發射]]，即電子在完全沒有外在電磁場作用之下，仍然自發性地降低能級並釋放光子。在理論方面，薛定諤方程無法描述光子；而且，舊量子論並不符合相對論，因為它把時間視為一個普通數值，卻把粒子在空間上的位置提升為一個線性[[算符]]。
+這時的難題至少有兩處。在觀測驗證方面，舊量子論的[[薛定諤方程]]可以解釋[[受激發射]]，即原子中的電子在外在電磁場作用下釋放一個新光子，但無法解釋[[自發發射]]，即電子在完全沒有外在電磁場作用之下，仍然自發性地降低能級並釋放光子。在理論方面，薛定諤方程無法描述光子；而且，舊量子論並不符合相對論，因為它把時間視為一個普通數值，卻把粒子在空間上的位置提升為一個線性[[算符]]。<!--Weisskopf-->
 
 === 量子電動力學 ===
-1920年代，電磁場是唯一已知的場，量子場論也自然從電磁相互作用的量子化開始。
+1920年代，電磁場是唯一已知的場，量子場論也自然從電磁相互作用的量子化開始。<!--Shifman 1-->
 
-1925至1926年，[[馬克斯·玻恩]]、海森堡和[[帕斯庫爾·約當]]利用[[正則量子化]]程序，將電磁場視為一組[[量子諧振子]]，建立了自由電磁場（即不與物質相互作用）的量子理論。由於此理論不含任何相互作用，因此無法做出有用的量化預測。
+1925至1926年，[[馬克斯·玻恩]]、海森堡和[[帕斯庫爾·約當]]利用[[正則量子化]]程序，將電磁場視為一組[[量子諧振子]]，建立了自由電磁場（即不與物質相互作用）的量子理論。<!--Shifman 1-->由於此理論不含任何相互作用，因此無法做出有用的量化預測。<!--Weinberg 22-->
 
-在[[保羅·埃倫費斯特]]（1906年）和[[彼得·德拜]]（1910年）的概念基礎上，狄拉克在1927年提出了帶電粒子電流密度與電磁[[矢量勢]]之間的相互作用項。在《描述輻射的發射和吸收的量子理論》中，他首用「量子電動力學」一詞（{{lang-en|Quantum electrodynamics}}，簡稱QED），<ref>{{harvnb|Dirac|1927}}</ref>可謂是量子場論之始。
+在[[保羅·埃倫費斯特]]（1906年）和[[彼得·德拜]]（1910年）的概念基礎上，狄拉克在1927年提出了帶電粒子電流密度與電磁[[矢量勢]]之間的相互作用項。<!--Weisskopf-->在《描述輻射的發射和吸收的量子理論》中，他首用「量子電動力學」一詞（{{lang-en|Quantum electrodynamics}}，簡稱QED），<ref>{{harvnb|Dirac|1927}}</ref>可謂是量子場論之始。
 
-利用第一階[[微擾理論 (量子力學)|微擾理論]]，狄拉克的模型成功解釋自發發射現象。原理是，就算沒有任何光子存在，真空中的電磁場也並非完全空無，而是必須含有量子諧振子的[[零點能量]]，即一個量子系統所允許有的最低能量。自發發射其實是電磁場在真空中的[[量子漲落]]對電子所引起的受激發射。對狄拉克的理論應用第二階微擾理論，還可以解釋光子散射、{{le|共振熒光|resonance fluorescence}}、非相對論性[[康普頓散射]]等現象。然而，更高階的微擾理論計算卻遇到了無限大值的難題。
+利用第一階[[微擾理論 (量子力學)|微擾理論]]，狄拉克的模型成功解釋自發發射現象。原理是，就算沒有任何光子存在，真空中的電磁場也並非完全空無，而是必須含有量子諧振子的[[零點能量]]，即一個量子系統所允許有的最低能量。自發發射其實是電磁場在真空中的[[量子漲落]]對電子所引起的受激發射。<!--Weinberg QFT 28-->對狄拉克的理論應用第二階微擾理論，還可以解釋光子散射、{{le|共振熒光|resonance fluorescence}}、非相對論性[[康普頓散射]]等現象。然而，更高階的微擾理論計算卻遇到了無限大值的難題。<!--Weisskopf-->
 
-1928年，狄拉克寫下描述相對論性電子的[[波動方程]]──[[狄拉克方程]]，成功解釋光子和相對論性電子之間的相互作用。成果之一，是描述相對論性康普頓散射的{{le|克萊因-仁科公式|Klein-Nishina formula}}。雖然碩果累累，但這一理論卻有著諸多問題。例如，它似乎需要負質量態的存在，意味著所有原子都理應是不穩定的。
+1928年，狄拉克寫下描述相對論性電子的[[波動方程]]──[[狄拉克方程]]，成功解釋光子和相對論性電子之間的相互作用。成果之一，是描述相對論性康普頓散射的{{le|克萊因-仁科公式|Klein-Nishina formula}}。雖然碩果累累，但這一理論卻有著諸多問題。例如，它似乎需要負質量態的存在，意味著所有原子都理應是不穩定的。<!--Weisskopf-->
 
-當時的普遍觀點，仍然是把物質粒子（如電子）和場的激發態（如光子）看作是截然不同的概念。直到1928至1930年，約當、[[尤金·維格納]]、海森堡、鮑利和費米發現物質粒子也同樣可以視為量子場上的激發態，就如光子是電磁場的激發態，且每一種粒子都有其對應的量子場：電子有電子場，質子有質子場等等。
+當時的普遍觀點，仍然是把物質粒子（如電子）和場的激發態（如光子）看作是截然不同的概念。直到1928至1930年，約當、[[尤金·維格納]]、海森堡、鮑利和費米發現物質粒子也同樣可以視為量子場上的激發態，就如光子是電磁場的激發態，且每一種粒子都有其對應的量子場：電子有電子場，質子有質子場等等。<!--Weinberg PDF 22-23-->
 
-在此基礎上，[[恩里科·費米]]在1932年提出解釋[[β衰變]]的{{le|費米相互作用|Fermi's interaction}}：[[原子核]]本身雖不含電子，但在衰變的過程中，會在其周邊的電子場中激發出一個電子，就像光子可以在電磁場中被激發出來一樣。
+在此基礎上，[[恩里科·費米]]在1932年提出解釋[[β衰變]]的{{le|費米相互作用|Fermi's interaction}}：[[原子核]]本身雖不含電子，但在衰變的過程中，會在其周邊的電子場中激發出一個電子，就像光子可以在電磁場中被激發出來一樣。<!--Weinberg PDF 23-->
 
-1929年，狄拉克等人發現，要解決狄拉克方程解中有負質量態的問題，必須假設某種[[電荷]]和電子相反但質量相同的粒子──[[正子]]。這不但在理論上確保了原子的穩定性，而且首次提出了[[反物質]]的存在。1932年，[[卡爾·戴維·安德森]]在[[宇宙射線]]中發現了正子存在的證據。只要有足夠能量（例如吸收光子），就可以產生一對電子和正子；電子和正子還可以互相殲滅，產生光子。這點證明，粒子數目在相互作用中並不一定是固定的。（正子在最初並不被視為一種新粒子，而是在無限電子海中的空穴，因此這一理論也稱為狄拉克空穴理論。）量子場論很自然地描述了這一現象。
+1929年，狄拉克等人發現，要解決狄拉克方程解中有負質量態的問題，必須假設某種[[電荷]]和電子相反但質量相同的粒子──[[正子]]。這不但在理論上確保了原子的穩定性，而且首次提出了[[反物質]]的存在。1932年，[[卡爾·戴維·安德森]]在[[宇宙射線]]中發現了正子存在的證據。只要有足夠能量（例如吸收光子），就可以產生一對電子和正子；電子和正子還可以互相殲滅，產生光子。這點證明，粒子數目在相互作用中並不一定是固定的。（正子在最初並不被視為一種新粒子，而是在無限電子海中的空穴，因此這一理論也稱為狄拉克空穴理論。）<!--Weisskopf--><!--Weinberg PDF 23-->量子場論很自然地描述了這一現象。<!--Weinberg PDF 24-->
 
 === 無限大與重整化 ===
-[[羅伯特·歐本海默]]在1930年證明量子電動力學的高階微擾計算必定會得出無限大值，如電子{{le|自能|self-energy}}以及電子和光子的真空零點能量，意味著當時的理論方法無法正確處理極高動量光子的相互作用。從意識到無限大值的理論難題，至發展出系統性的解決方法，花了整整二十年的時間。
+[[羅伯特·歐本海默]]在1930年證明量子電動力學的高階微擾計算必定會得出無限大值，如電子{{le|自能|self-energy}}以及電子和光子的真空零點能量，<!--Weisskopf-->意味著當時的理論方法無法正確處理極高動量光子的相互作用。<!--Weinberg PDF 25-->從意識到無限大值的理論難題，至發展出系統性的解決方法，花了整整二十年的時間。
 
-1934至1938年間，[[厄恩斯特·斯蒂克爾堡]]發表了幾篇重要的論文，建立了相對論性不變的量子場論表述。1947年，他還獨立發展出一套完整的重整化程序。不幸的是，其他理論學家並沒有明白斯蒂克爾堡的概念。
+1934至1938年間，[[厄恩斯特·斯蒂克爾堡]]發表了幾篇重要的論文，建立了相對論性不變的量子場論表述。1947年，他還獨立發展出一套完整的重整化程序。不幸的是，其他理論學家並沒有明白斯蒂克爾堡的概念。<!--Weisskopf-->
 
-[[約翰·阿奇博爾德·惠勒]]和海森堡分別在1937年和1943年提出，以所謂的{{le|S矩陣理論|S-matrix theory}}取代困難重重的量子場論。前者的大意是，既然現實中無法觀察到微觀相互作用的具體細節，那麼理論就應該只描述相互作用中少數可觀察量（如原子的能量等）之間的關係，而不在乎微觀細節。
+[[約翰·阿奇博爾德·惠勒]]和海森堡分別在1937年和1943年提出，以所謂的{{le|S矩陣理論|S-matrix theory}}取代困難重重的量子場論。前者的大意是，既然現實中無法觀察到微觀相互作用的具體細節，那麼理論就應該只描述相互作用中少數可觀察量（如原子的能量等）之間的關係，而不在乎微觀細節。1945年，[[理查德·費曼]]和惠勒甚至提出完全拋棄量子場論，以粒子間的[[超距作用]]作為相互作用的原理。<!-- Weinberg PDF 26-->
 
-1947年，[[威利斯·蘭姆]]和{{le|羅伯特·雷瑟福|Robert Retherford}}測量出[[氫原子]]<sup>2</sup>''S''<sub>1/2</sub>和<sup>2</sup>''P''<sub>1/2</sub>能級之間的細微差異，即[[蘭姆位移]]。[[漢斯·貝特]]利用量子場論，通過忽視所有能量高於電子質量的光子的作用，成功估算出這一能級差異的數值。之後，{{le|諾曼·邁爾斯·克羅爾|Norman Myles Kroll}}、蘭姆、[[詹姆斯·布魯斯·弗倫奇]]（James Bruce French）和[[維克托·魏斯科普夫]]利用一種無限大和無限大相互抵消的方法，再次證實了蘭姆位移的值。不過，這種方法並不可靠，也不可推廣至其他計算。
+1947年，[[威利斯·蘭姆]]和{{le|羅伯特·雷瑟福|Robert Retherford}}測量出[[氫原子]]<sup>2</sup>''S''<sub>1/2</sub>和<sup>2</sup>''P''<sub>1/2</sub>能級之間的細微差異，即[[蘭姆位移]]。[[漢斯·貝特]]利用量子場論，通過忽視所有能量高於電子質量的光子的作用，成功估算出這一能級差異的數值。<!--Weisskopf--><!--Weinberg PDF 28-->之後，{{le|諾曼·邁爾斯·克羅爾|Norman Myles Kroll}}、蘭姆、[[詹姆斯·布魯斯·弗倫奇]]（James Bruce French）和[[維克托·魏斯科普夫]]利用一種無限大和無限大相互抵消的方法，再次證實了蘭姆位移的值。不過，這種方法並不可靠，也不可推廣至其他計算。<!--Weisskopf-->
 
-在1950年前後，[[朱利安·施溫格]]、[[理查德·費曼]]、[[弗里曼·戴森]]和[[朝永振一郎]]終於建立起去除無限大值的更可靠方法。大意是，理論中的最初參數（所謂的「裸值」：質量、電荷等）並沒有實際物理意義；在計算中，須做重新定義，用測量所得的有限數值取代這些裸值。為了抵消表面上無限大的參數，須要加入無限大的「抵消項」。這種系統性的計算程序稱為[[重整化]]，可以應用於微擾理論的任何一階。
+在1950年前後，[[朱利安·施溫格]]、費曼、[[弗里曼·戴森]]和[[朝永振一郎]]終於建立起去除無限大值的更可靠方法。大意是，理論中的最初參數（所謂的「裸值」：質量、電荷等）並沒有實際物理意義；在計算中，須做重新定義，用測量所得的有限數值取代這些裸值。為了抵消表面上無限大的參數，須要加入無限大的「抵消項」。這種系統性的計算程序稱為[[重整化]]，可以應用於微擾理論的任何一階。<!--Weisskopf-->
 
-重整化程序能夠解釋電子[[異常磁矩]]、電子[[g因子|''g''因子]]和[[真空極化]]，計算結果和高精度實驗之間的吻合程度在當時是空前的。重整化成功攻破了無限大的難題。
+重整化程序能夠解釋電子[[異常磁矩]]、電子[[g因子|''g''因子]]和[[真空極化]]，計算結果和高精度實驗之間的吻合程度在當時是空前的。重整化成功攻破了量子電動力學中無限大的難題。<!--Weisskopf-->
 
-與此同時，費曼發明了[[費曼圖]]和[[路徑積分表述]]。費曼圖可以用於很直觀地整理和計算微擾級數的各個項：每個圖可以視為相互作用過程中粒子路徑的示意圖，其中每個節點和每條線都有相對應的數學表達式，結合後可得出圖所表達的相互作用的{{le|散射振幅|scattering amplitude|振幅}}。
+與此同時，費曼發明了[[費曼圖]]和[[路徑積分表述]]。<!--Shifman 2-->費曼圖可以用於很直觀地整理和計算微擾級數的各個項：每個圖可以視為相互作用過程中粒子路徑的示意圖，其中每個節點和每條線都有相對應的數學表達式，結合後可得出圖所表達的相互作用的{{le|散射振幅|scattering amplitude|振幅}}。<!--Peskin 5-->
 
-在重整化程序和費曼圖方法出現之後，量子場論終於成為了一個完整的、成熟的理論框架。
+在重整化程序和費曼圖方法出現之後，量子場論終於成為了一個完整的、成熟的理論框架。<!--Shifman 2-->
 
 === 第二次低潮 ===
-1950年代初，在量子電動力學成功的基礎上，許多理論學家都相信量子場論最終可以描述和解釋所有微觀物理現象，並不僅限於電子、正子和光子間的相互作用。然而，這時量子場論進入了又一個低谷，足足持續近二十年。
+1950年代初，在量子電動力學成功的基礎上，許多理論學家都相信量子場論最終可以描述和解釋所有微觀物理現象，並不僅限於電子、正子和光子間的相互作用。然而，這時量子場論進入了又一個低谷，足足持續近二十年。<!--Weinberg PDF 30-->
 
-難題之一，是重整化程序無法放諸四海通用。量子電動力學微擾計算中的所有無限大值，都可以通過重新定義少數幾個物理量（電子的質量和電荷）來去除。戴森在1949年證明，具有這樣良好屬性的理論（即所謂的可重整化理論）只佔少數，大多數理論反而是不可重整化的。其中一例，就是描述[[弱相互作用]]的費米相互作用。此理論在量子場論框架下，任何高於第一階的微擾計算都會產生無限大值，而且僅僅重新定義物理量是無法移除這些無限大值的。
+難題之一，是重整化程序無法放諸四海通用。量子電動力學微擾計算中的所有無限大值，都可以通過重新定義少數幾個物理量（電子的質量和電荷）來去除。戴森在1949年證明，具有這樣良好屬性的理論（即所謂的可重整化理論）只佔少數，大多數理論反而是不可重整化的。其中一例，就是描述[[弱相互作用]]的費米相互作用。此理論在量子場論框架下，任何高於第一階的微擾計算都會產生無限大值，而且僅僅重新定義物理量是無法移除這些無限大值的。<!--Weinberg PDF 30-->
 
-第二個難題在於費曼圖方法的適用範圍。由於費曼圖建立在微擾理論級數展開的基礎上，所以理論中描述相互作用強度的[[耦合常數]]必須是一個很小的數值。費曼圖之所以適用於量子電動力學，是因為其耦合常數為[[精細結構常數]]{{math|''α'' ≈ 1/137}}。這使得在實際計算中，只須要考慮最簡單的（低階）費曼圖。不過，[[強相互作用]]，顧名思義，有著較大的耦合常數（約等於1），因此極為複雜的（高階）費曼圖與最簡單的費曼圖重要性相近，計算中不能夠再忽略複雜的圖。
+第二個難題在於費曼圖方法的適用範圍。由於費曼圖建立在微擾理論級數展開的基礎上，所以理論中描述相互作用強度的[[耦合常數]]必須是一個很小的數值。費曼圖之所以適用於量子電動力學，是因為其耦合常數為[[精細結構常數]]{{math|''α'' ≈ 1/137}}。這使得在實際計算中，只須要考慮最簡單的（低階）費曼圖。不過，[[強相互作用]]，顧名思義，有著較大的耦合常數（約等於1），因此極為複雜的（高階）費曼圖與最簡單的費曼圖重要性相近，計算中不能夠再忽略複雜的圖。<!--Weinberg PDF 31-->
 
-在這些理論難題的困擾下，不少理論學家開始對量子場論失去信心。有的以[[對稱性 (物理學)|對稱性]]原則和[[守恆定律]]為理論重點，有的則重拾惠勒和海森堡的S矩陣理論。雖然量子場論概念在這些探索方向中起到了啟發性的作用，但它並沒有被用到確切的計算當中。
+在這些理論難題的困擾下，不少理論學家開始對量子場論失去信心。有的以[[對稱性 (物理學)|對稱性]]原則和[[守恆定律]]為理論重點，有的則重拾惠勒和海森堡的S矩陣理論。雖然量子場論概念在這些探索方向中起到了啟發性的作用，但它並沒有被用到確切的計算當中。<!--Weinberg PDF 31-->
 
 === 標準模型 ===
 1954年，[[楊振寧]]和[[羅伯特·米爾斯]]對量子電動力學的[[規範場論|局域對稱性]]進行推廣，從純粹理論的角度建立了基於更複雜的對稱性的理論──[[非阿貝爾規範場論]]（又稱楊-米爾斯理論）。在量子電動力學中，帶電荷粒子之間的相互作用是由光子傳遞的；同樣，在非阿貝爾規範場論中，帶某種新的「[[荷 (物理)|荷]]」的粒子之間的相互作用則是由無質量的[[規範玻色子]]傳遞的。與光子不同的是，這些規範玻色子自身也帶荷。
@@ -80,21 +78,21 @@
 這些理論成果使量子場論擺脫了前二十年的陰霾並進入了又一次復興。量子電動力學、電弱相互作用理論和量子色動力學形成的整體，稱為基本粒子[[標準模型]]。標準模型非常成功地解釋了除引力以外的所有[[基本相互作用]]，其理論預測也相繼得到實驗的證實：電弱相互作用中自發對稱破缺機制所需的希格斯玻色子也在2012年於[[歐洲核子研究組織]]發現，這是最後證實存在的標準模型組成粒子。
 
 === 其他發展 ===
-1970年代見證了非阿貝爾規範場論非微擾方法的發展：特·胡夫特和[[亞歷山大·泊里雅科夫]]發現{{le|特·胡夫特-泊里雅科夫單極子|'t Hooft–Polyakov monopole|單極子}}，{{le|霍爾格·貝克·尼爾森|Holger Bech Nielsen}}和[[波爾·奧勒森]]（Poul Olesen）發現[[流量管]]，泊里雅科夫等人發現[[瞬子]]。這些概念都是無法用微擾理論方法來描述的。
+1970年代見證了非阿貝爾規範場論非微擾方法的發展：特·胡夫特和[[亞歷山大·泊里雅科夫]]發現{{le|特·胡夫特-泊里雅科夫單極子|'t Hooft–Polyakov monopole|單極子}}，{{le|霍爾格·貝克·尼爾森|Holger Bech Nielsen}}和[[波爾·奧勒森]]（Poul Olesen）發現[[流量管]]，泊里雅科夫等人發現[[瞬子]]。這些概念都是無法用微擾理論方法來描述的。<!--Shifman P4-->
 
-[[超對稱]]概念也在同一段時期出現。1970年，[[尤里·阿布拉莫維奇·高爾方]]和[[葉夫根尼·利希特曼]]（Evgeny Likhtman）建成首個具有超對稱性的四維量子場論。但由於[[鐵幕]]的隔閡，這項研究並沒有得到廣泛的重視。要到1973年，[[朱利斯·外斯]]和[[布魯諾·朱米諾]]建立一類四維超對稱量子場論，才把超對稱概念推向理論界。
+[[超對稱]]概念也在同一段時期出現。1970年，[[尤里·阿布拉莫維奇·高爾方]]和[[葉夫根尼·利希特曼]]（Evgeny Likhtman）建成首個具有超對稱性的四維量子場論。但由於[[鐵幕]]的隔閡，這項研究並沒有得到廣泛的重視。要到1973年，[[朱利斯·外斯]]和[[布魯諾·朱米諾]]建立一類四維超對稱量子場論，才把超對稱概念推向理論界。<!--Shifman 7-->
 
-然而，剩下的那一個基本相互作用──引力──卻仍然無法一致地用量子場論來描述。理論學家在[[量子引力]]方面的各種嘗試，促使了1970年代[[弦理論]]的發展。（弦理論本身是一種具有{{le|共形對稱性|conformal symmetry}}的二維量子場論。）{{le|若埃爾·舍克|Joël Scherk}}和[[約翰·施瓦茨]]在1974年首次提出，弦理論有望成為解釋引力的量子理論。
+然而，剩下的那一個基本相互作用──引力──卻仍然無法一致地用量子場論來描述。理論學家在[[量子引力]]方面的各種嘗試，促使了1970年代[[弦理論]]的發展。<!--Shifman 6-->（弦理論本身是一種具有{{le|共形對稱性|conformal symmetry}}的二維量子場論。）<!--Polyakov Vol1-->{{le|若埃爾·舍克|Joël Scherk}}和[[約翰·施瓦茨]]在1974年首次提出，弦理論有望成為解釋引力的量子理論。<!--https://arxiv.org/pdf/1201.0981.pdf-->
 
 === 凝聚態物理學 ===
 
 量子場論最早源於對基本粒子相互作用的研究，但其中的各種方法還可以推廣至其他的物理系統，在[[凝聚態物理學]]範疇的應用成果尤其豐盛。
 
-從歷史的角度，[[南部陽一郎]]將[[超導體]]理論應用於基本粒子，最終發展出希格斯自發對稱破缺機制；重整化群概念也出自對物質第二階[[相變]]的研究。
+從歷史的角度，[[南部陽一郎]]將[[超導體]]理論應用於基本粒子，最終發展出希格斯自發對稱破缺機制；重整化群概念也出自對物質第二階[[相變]]的研究。<!--https://science.energy.gov/~/media/hep/pdf/Reports/HEP-BES_Roundtable_Report.pdf-->
 
-在提出光子概念後不久，愛因斯坦提出對晶體中的振動進行量子化，這最終發展成第一個[[準粒子]]概念──[[聲子]]。[[列夫·朗道]]主張，各種各樣凝聚態系統的低能量激發態都可以用一組準粒子之間的相互作用來描述。理論學家發現，量子場論中的費曼圖方法能夠很自然地描述凝聚態系統的各種現象。
+在提出光子概念後不久，愛因斯坦提出對晶體中的振動進行量子化，這最終發展成第一個[[準粒子]]概念──[[聲子]]。[[列夫·朗道]]主張，各種各樣凝聚態系統的低能量激發態都可以用一組準粒子之間的相互作用來描述。理論學家發現，量子場論中的費曼圖方法能夠很自然地描述凝聚態系統的各種現象。<!--https://arxiv.org/pdf/1604.05669.pdf-->
 
-規範場論可以描述超導體的[[磁通量]]量子化、[[量子霍爾效應]]中的[[電阻率]]以及交流電[[約瑟夫森效應]]中頻率和電壓之間的關係。
+規範場論可以描述超導體的[[磁通量]]量子化、[[量子霍爾效應]]中的[[電阻率]]以及交流電[[約瑟夫森效應]]中頻率和電壓之間的關係。<!--https://arxiv.org/pdf/1604.05669.pdf-->
 
 == 原理 ==
 為簡化公式，本節採用[[自然單位制]]，設[[約化普朗克常數]]{{math|''ħ''}}和[[光速]]{{math|''c''}}為1。
@@ -344,23 +342,19 @@ Topological Quantum Field Theory |class=math-th |date=2008-12-11 |page=36 }}</re
 
 通過量子場論的[[微擾理論 (量子力學)|微擾]]方法，可以用一個以參與相互作用的粒子總數所展開的級數，一階一階地近似相互作用項的整個效應。展開中的每一項都可以理解為粒子間通過其他[[虛粒子]]傳遞相互作用的一種可能途徑，可以用非常形象的[[費曼圖]]來表達。兩個電子間的[[電磁力]]在量子電動力學中（在第一階微擾）是以[[光子]]的傳遞來表達的。同樣，[[W和Z玻色子]]傳遞弱相互作用，[[膠子]]傳遞強相互作用。這種把相互作用的中間態視為各種粒子交換過程的總和的看法，只有在微擾理論的框架下才有意義；非微擾方法則把相互作用項視為一個整體來對待，不進行級數展開，因此也沒有虛粒子傳遞相互作用一說。取而代之描述相互作用的，是{{le|特·胡夫特-泊里雅科夫單極子|'t Hooft–Polyakov monopole}}、{{le|疇壁|domain wall}}、[[流量管]]、[[瞬子]]等概念。<ref name="shifman">{{cite book |last=Shifman |first=M. |date=2012 |title=Advanced Topics in Quantum Field Theory |publisher=Cambridge University Press |isbn=978-0-521-19084-8 }}</ref>
 
-== 公理化表述 ==
-The preceding description of quantum field theory follows the spirit in which most [[physicist]]s approach the subject. However, it is not [[rigour|mathematically rigorous]]. Over the past several decades, there have been many attempts to put quantum field theory on a firm mathematical footing by formulating a set of [[axiom]]s for it. Finding proper axioms for quantum field theory is still an open and difficult problem in mathematics.  One of the [[Millennium Prize Problems]]&mdash;proving the existence of a [[Yang–Mills existence and mass gap|mass gap in Yang–Mills theory]]&mdash;is linked to this issue. These attempts fall into two broad classes.
+== 數學嚴格性 ==
 
-===Wightman axioms===
-{{main article|Wightman axioms}}
-The first class of axioms, first proposed during the 1950s, include the [[Wightman axioms|Wightman]], [[Osterwalder–Schrader theorem|Osterwalder–Schrader]], and [[Haag–Kastler]] systems. They attempted to formalize the physicists' notion of an "operator-valued field" within the context of [[functional analysis]] and enjoyed limited success.  It was possible to prove that any quantum field theory satisfying these axioms satisfied certain general theorems, such as the [[spin-statistics theorem]] and the [[CPT symmetry|CPT theorem]].  Unfortunately, it proved extraordinarily difficult to show that any realistic field theory, including the [[Standard Model]], satisfied these axioms.  Most of the theories that could be treated with these analytic axioms were physically trivial, being restricted to low-dimensions and lacking interesting dynamics. The construction of theories satisfying one of these sets of axioms falls in the field of [[constructive quantum field theory]]. Important work was done in this area in the 1970s by Segal, Glimm, Jaffe and others.
+雖然量子場論在粒子物理學和凝聚態物理學上的應用成果豐盛，其理論預測和實驗之間的吻合程度極高，物理學家們也大膽地在量子場論框架下作出新的量化預測，但是量子場論本身卻仍然缺乏嚴格的數學基礎。比如，根據{{le|哈格定理|Haag's theorem}}，並不存在一個良好定義的量子場論[[交互作用繪景]]，意味著[[費曼圖]]方法的基石──[[微擾理論 (量子力學)|微擾理論]]──在量子場論上的應用是並不嚴格的。<!--http://cdsweb.cern.ch/record/212242/files/p1.pdf-->
 
-===Topological quantum field theory===
-{{main article|Topological quantum field theory}}
-During the 1980s, the second set of axioms based on [[topological]] ideas was proposed. Before 1980 all states of matter could be classified by [[geometry]] and the principle of [[broken symmetry]]. For example [[Albert Einstein|Einstein's]] theory of [[general relativity]] is based on the geometrical curvature of space and time, while crystals, magnets and superconductors can all be classified by the symmetries they break. In 1980 the [[quantum Hall effect]] provided the first example of a state of matter that has no spontaneous broken symmetry; its characterization is dependant on its [[topology]] and not on its [[geometry]] (See [[Geometry and topology|geometry v. topology]]). The quantum Hall effect can be described by extending quantum field theory into an [[Effective field theory|effective]] [[topological quantum field theory]] based on the [[Chern–Simons theory]].<ref name = "Qi 2010"/> This line of investigation, which extends quantum field theories to [[topological quantum field theory|topological quantum field theories]], is associated most closely with [[Michael Atiyah]] and [[Graeme Segal]], and was notably expanded upon by [[Edward Witten]], [[Richard Borcherds]], and [[Maxim Kontsevich]]. The main impact of topological quantum field theory has been in [[condensed matter physics]] where physicists have observed exotic quasiparticles such as [[magnetic monopoles]]<ref>{{cite journal|last1=Ray|first1=M. W.|last2=Ruokokoski|first2=E.|last3=Tiurev|first3=K.|last4=Mottonen|first4=M.|last5=Hall|first5=D. S.|title=Observation of isolated monopoles in a quantum field|journal=Science|volume=348|issue=6234|year=2015|pages=544–47|issn=0036-8075|doi=10.1126/science.1258289|bibcode=2015Sci...348..544R|url=https://aaltodoc.aalto.fi/bitstream/handle/123456789/16541/article5.pdf?sequence=8 }}</ref> and [[Majorana fermions]].<ref>{{cite journal|last1=Nadj-Perge|first1=S.|last2=Drozdov|first2=I. K.|last3=Li|first3=J.|last4=Chen|first4=H.|last5=Jeon|first5=S.|last6=Seo|first6=J.|last7=MacDonald|first7=A. H.|last8=Bernevig|first8=B. A.|last9=Yazdani|first9=A.|title=Observation of Majorana fermions in ferromagnetic atomic chains on a superconductor|journal=Science|volume=346|issue=6209|year=2014|pages=602–07|issn=0036-8075|doi=10.1126/science.1259327|arxiv=1410.0682v1|url=https://arxiv.org/pdf/1410.0682v1.pdf|bibcode=2014Sci...346..602N||pmid=25278507}}</ref><ref>{{cite web|last1=Moskowitz|first1=Clara|title=New Particle Is Both Matter and Antimatter|url=https://www.scientificamerican.com/article/majorana-particle-matter-and-antimatter/|website=scientificamerican.com|publisher=Scientific American|archiveurl=https://archive.today/20141009014336/http://www.scientificamerican.com/article/majorana-particle-matter-and-antimatter/|archivedate=2014-10-09|date=2 October 2014|deadurl=yes|df=}}</ref>
-Topological field considerations could have radical applications in a new form of electronics called [[spintronics]] and [[topological quantum computer]]s.<ref name = "Qi 2010">{{cite journal|last1=Qi|first1=Xiao-Liang|last2=Zhang|first2=Shou-Cheng|title=The quantum spin Hall effect and topological insulators|journal=Physics Today|volume=63|issue=1|year=2010|pages=33–38|issn=0031-9228|doi=10.1063/1.3293411|url=http://web.physics.ucsb.edu/~phys123B/w2015/QiZhangReview-1.pdf|arxiv=1001.1602|bibcode=2010PhT....63a..33Q}}</ref> The [[Standard Model]] allows for topological terms but is generally not formulated as a topological quantum field theory.<ref name = "Qi 2010"/> Topological quantum field theory has also had broad impact in mathematics, with important applications in [[representation theory]], [[algebraic topology]], and [[differential geometry]].
+有理論物理學家和數學家嘗試把量子場論總結為一組[[公理]]，並從數學嚴格的角度證明相對論性量子力學模型的確切存在。這種研究稱為{{le|構造量子場論|constructive quantum field theory}}，屬於[[數學物理]]的範疇。
 
-=== Haag's theorem ===
-{{main|Haag's theorem}}
-From a mathematically rigorous perspective, there exists no [[interaction picture]] in a Lorentz-covariant quantum field theory. This implies that the perturbative approach of [[Feynman diagram]]s in  QFT is not strictly justified, despite producing vastly precise predictions validated by experiment. This is called  [[Haag's theorem]], but most particle physicists relying on QFT largely shrug it off, as it is not really limiting the power of the theory.
+對量子場論數學基礎的研究有幾條思路。首先，在[[經典場論]]的量子化過程上，有[[奧斯特瓦德-施拉德爾公理]]（Osterwalder–Schrader axioms）。這組公理試圖把[[費曼路徑積分]]嚴格化，為由場在時空中所有組態所組成的空間建立一個有物理意義的[[測度]]。
 
-== See also ==
+[[拓撲量子場論]]和[[共形場論]]則有更穩固的數學基礎：兩者都可以在對{{le|陪邊|cobordism}}的{{le|表示|representation (mathematics)}}框架中進行分類。
+
+另一條公理化方法稱為[[代數量子場論]]，它以局域算符之間的代數關係為理論的根本結構。在這方面的公理系統有：{{le|懷特曼公理|Wightman axioms}}和{{le|哈格-卡斯特勒公理|Haag-Kastler axioms}}。
+
+== 參見 ==
 {{Portal|Mathematics|Physics}}
 {{columns-list|colwidth=30em|
 * [[Abraham–Lorentz force]]
