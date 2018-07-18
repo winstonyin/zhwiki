@@ -623,7 +623,7 @@ last1=Pais|first1=A.|authorlink1=亞伯拉罕·派斯
 * [http://www.nat.vu.nl/~mulders/QFT-0.pdf Quantum Field Theory] by P. J. Mulders
 
 {{量子場論}}
-{{Quantum field theories}}
+<!--{{Quantum field theories}}-->
 {{Quantum mechanics topics}}
 {{quantum gravity}}
 {{Physics-footer}}
