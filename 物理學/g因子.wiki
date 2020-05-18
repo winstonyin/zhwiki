@@ -1,0 +1,152 @@
+{{DISPLAYTITLE:''g''因子}}
+{{For|描述加速度的力學概念|G力}}
+
+'''''g''因子'''，亦稱'''''g''值'''、'''無量綱磁矩'''，是用於描述某[[粒子]]的[[磁矩]]和[[旋磁比]]的[[無量綱量]]。它表達了觀測到的粒子磁矩與其[[角動量]][[量子數]]和某單位磁矩（一般為[[玻爾磁子]]或[[核磁子]]）之間的關係。
+
+== 定義 ==
+
+=== 狄拉克粒子 ===
+對於一個帶[[電荷]]，[[自旋]]為1/2，不含內部結構的粒子（[[狄拉克費米子|狄拉克粒子]]），其自旋磁矩為<ref>{{cite book|url=https://books.google.com/books?id=HC_qCAAAQBAJ&pg=PA74#v=onepage&q&f=false|title=Particles and Nuclei|isbn=978-3-662-05023-1|author1=Povh|first1=Bogdan|last2=Rith|first2=Klaus|last3=Scholz|first3=Christoph|last4=Zetsche|first4=Frank|date=2013-04-17}}</ref>
+
+:<math>\boldsymbol \mu = g {e \over 2m} \boldsymbol S ,</math>
+
+其中'''''μ'''''是該粒子的自旋磁矩，''g''是粒子的''g''因子，''e''是[[基本電荷]]，''m''是粒子的質量，'''''S'''''是粒子的自旋角動量（對於狄拉克粒子的值為''ħ''/2）。
+
+=== 重子和原子核 ===
+[[質子]]、[[中子]]、[[原子核]]等複合[[重子]]的磁矩由自旋產生（在自旋和磁矩均為零的情況下，無法定義''g''因子）。循慣例，對於此類粒子使用[[核磁子]]來定義''g''因子，因此從間接上利用了質子的質量，而不是該粒子本身的質量：
+
+:<math>\boldsymbol \mu = g {\mu_\text{N} \over \hbar} {\boldsymbol{I}} = g {e \over 2 m_\text{p}} \boldsymbol{I} ,</math>
+
+其中'''''μ'''''是該粒子的自旋磁矩，''g''是粒子的有效''g''因子，'''''I'''''是粒子的自旋角動量，''μ''<sub>N</sub>是核磁子，''e''是基本電荷，''m''<sub>p</sub>是質子的靜質量。
+
+== 計算 ==
+
+=== 電子的''g''因子 ===
+電子共有三個磁矩，分別來自它的自旋角動量、[[軌域角動量]]以及總角動量（前兩者在[[量子力學]]下之和）。它們各有一個相應的''g''因子。
+
+==== 自旋''g''因子 ====
+電子自旋''g''因子（往往簡稱為電子''g''因子）''g''<sub>e</sub>定義為：
+
+:<math> \boldsymbol{\mu}_{\text{s}} = g_\text{e} {\mu_\text{B} \over \hbar} \boldsymbol{S},</math>
+
+其中'''''μ'''''<sub>s</sub>是電子自旋所產生的磁矩，'''''S'''''是自旋角動量，<math>\mu_B=e\hbar/2m_e</math>是[[玻爾磁子]]。在[[原子物理學]]裏，電子自旋''g''因子往往定義為''g''<sub>e</sub>的絕對值：
+
+:<math>g_\text{s} = |g_\text{e}| = -g_\text{e} .</math>
+
+磁矩的''z''分量可寫作
+
+:<math> \mu_\text{z} =-g_\text{s} \mu_\text{B} m_\text{s}.</math>
+
+''g''<sub>s</sub>的值約等於2.002319。截至2006年，電子''g''<sub>s</sub>值得實驗誤差值在1兆（萬億）分之一以下，是物理學中測量精度最高的物理量之一。<ref>{{cite journal|url=http://gabrielse.physics.harvard.edu/gabrielse/papers/2006/CernCourier.pdf |title=Precision pins down the electron's magnetism|journal=CERN Courier|volume=46|issue=8|date=October 2006|pages=35–37|first1=Gerald|last1= Gabrielse |first2= David|last2= Hanneke}}</ref><ref>{{cite journal
+ | title = New measurement of the electron magnetic moment using a one-electron quantum cyclotron
+ | year = 2006
+ | journal = [[Physical Review Letters]]
+ | volume = 97
+ | issue = 3
+ | page = 030801
+ | doi = 10.1103/PhysRevLett.97.030801
+ | pmid=16907490
+ | bibcode=2006PhRvL..97c0801O
+ | last1 = Odom
+ | first1 = B.
+ | last2 = Hanneke
+ | first2 = D.
+ | last3 = d’Urso
+ | first3 = B.
+ | last4 = Gabrielse
+ | first4 = G.
+}}</ref>它之所以不完全等於2，是[[量子電動力學]]中的[[異常磁矩]]所致。<ref>{{cite journal
+ | title = A nonperturbative calculation of the electron's magnetic moment
+ | year = 2004
+ | journal = Nuclear Physics B
+ | volume = 703
+ | issue = 1–2
+ | pages = 333–362
+ | doi = 10.1016/j.nuclphysb.2004.10.027
+|arxiv = hep-ph/0406325 |bibcode = 2004NuPhB.703..333B
+ | last1 = Brodsky
+ | first1 = S
+ | last2 = Franke
+ | first2 = V
+ | last3 = Hiller
+ | first3 = J
+ | last4 = McCartor
+ | first4 = G
+ | last5 = Paston
+ | first5 = S
+ | last6 = Prokhvatilov
+ | first6 = E }}</ref>
+
+==== 軌域''g''因子 ====
+電子軌域''g''因子''g''<sub>L</sub>定義為
+
+:<math> \boldsymbol{\mu}_\text{L} = -g_\text{L} {\mu_\mathrm{B} \over \hbar} \boldsymbol{L} ,</math>
+
+其中'''''μ'''''<sub>L</sub>是電子軌域角動量所產生的的磁矩，'''''L'''''是軌域角動量，''μ''<sub>B</sub>是玻爾磁子。如果假設原子核質量無限大，則''g''<sub>L</sub>等於1，推導方法和[[旋磁比|經典旋磁比]]雷同。設''m''<sub>l</sub>為電子軌域的[[磁量子數]]，則軌域角動量的''z''分量為
+
+:<math>\mu_\text{z} = g_\text{L} \mu_\text{B} m_\text{l}.</math>
+
+由於''g''<sub>L</sub> = 1，因此上式亦等於''μ''<sub>B</sub>''m''<sub>l</sub>。
+
+實際原子核的質量是有限的，這時可得出有效軌域''g''因子<ref>{{Cite journal|last=Lamb|first=Willis E.|date=1952-01-15|title=Fine Structure of the Hydrogen Atom. III|url=http://link.aps.org/doi/10.1103/PhysRev.85.259|journal=Physical Review|volume=85|issue=2|pages=259–276|doi=10.1103/PhysRev.85.259|bibcode=1952PhRv...85..259L}}</ref>
+
+<math>g_L=1-\frac{1}{M},</math>
+
+其中''M''是原子核質量與電子質量之比。
+
+==== 總角動量''g''因子 ====
+最後，總角動量''g''因子（又稱[[朗德g因子|朗德''g''因子]]）''g<sub>J</sub>''定義為
+:<math> \boldsymbol{\mu} = -g_\text{J} {\mu_\text{B} \over \hbar} \boldsymbol{J},</math>
+
+其中'''''μ'''''是電子的總磁矩，{{nowrap|1='''''J''''' = '''''L''''' + '''''S'''''}}是總角動量，''μ''<sub>B</sub>是玻爾磁子。利用量子力學，可從''g''<sub>L</sub>和''g''<sub>s</sub>的值得出''g''<sub>J</sub>的值，詳見[[朗德g因子|朗德''g''因子]]。
+
+=== μ子的''g''因子 ===
+[[File:The muon g-2.svg|frame|如果自然界的確存在[[超對稱]]，那麼包含新粒子的[[費曼圖|圈圖]]就會影響μ子的''g''−2的值。領頭項包括圖中兩個圈圖：[[超中性子]]和[[超費米子|超μ子]]迴圈，以及{{le|超荷子|Chargino}}和[[超費米子|超中微子]]迴圈。這屬於[[超越標準模型的物理學]]。]]
+μ子的自旋''g''因子由下式給出：
+
+:<math>\boldsymbol \mu = g {e \over 2m_\mu} \boldsymbol{S} ,</math>
+
+其中'''''μ'''''是μ子自旋所產生的的磁矩，'''''S'''''是自旋角動量，''m''<sub>μ</sub>是μ子的質量。
+
+μ子的自旋''g''值約為2.002331，與電子的自旋''g''值有細微的差異。差異的絕大部分（99.96%）可以用量子電動力學中異常磁矩的計算方法來解釋：在描述μ子產生磁偶極子場的[[費曼圖]]中，有包含大質量粒子的圈圖，在描述電子的圖中則沒有。這完全是兩種粒子質量不同的結果。
+
+但是，μ子和電子''g''因子之間的差別從理論上可以受[[超越標準模型的物理學]]所影響，所以μ子''g''因子的精確實驗測量對物理學有著重要意義。美國[[布魯克黑文國家實驗室]]在2006年公佈的實驗值為{{val|2.0023318416|(13)}}，其中括號表示最後位數的不確定性；相比之下，理論值為{{val|2.0023318361|(10)}}。<ref>{{cite journal
+  | last1 = Hagiwara
+  | first1 = K. |last2= Martin|first2= A. D. |last3= Nomura|first3= Daisuke |last4= Teubner|first4= T.
+  | title = Improved predictions for ''g''−2 of the muon and ''α''<sub>QED</sub>(''M''{{sup sub|2|''Z''}})
+  | date = 2006-11-08
+  | doi = 10.1016/j.physletb.2007.04.012
+  | journal = Physics Letters B
+  | volume = 649
+  | issue = 2–3
+  | pages = 173–179
+  | arxiv = hep-ph/0611102 | bibcode=2007PhLB..649..173H
+}}</ref>實驗和理論值的差距在3.4個[[標準差]]，意味著可能存在來自超越標準模型的物理效應。布魯克黑文的μ子儲藏環已轉移至[[費米實驗室]]，以進行精確度更高的{{le|μ子g−2|Muon g−2|μ子''g''−2測量實驗}}。<ref>{{cite web|url=http://muon-g-2.fnal.gov/ |title=Muon ''g''-2 |publisher=Muon-g-2.fnal.gov |date= |accessdate=2015-05-08}}</ref>
+
+== ''g''因子測量值 ==
+{| class="wikitable"
+|-
+! 粒子 !! 符號 !! ''g''值 !! 不確定性
+|-
+| 電子 || ''g''<sub>e</sub> || {{val|−2.00231930436182}} || {{val|0.00000000000052}}
+|-
+| μ子 || ''g''<sub>μ</sub> || {{val|−2.0023318418}} || {{val|0.0000000013}}
+|-
+| [[中子]] || ''g''<sub>n</sub> || {{val|−3.82608545}} || {{val|0.00000090}}
+|-
+| [[質子]] || ''g''<sub>p</sub> || {{val|+5.585694702}} || {{val|0.000000017}}
+|-
+|+ 2014年美國[[國家標準技術研究所]][[科學技術數據委員會]]所建議的''g''因子值<ref>{{cite web|work=NIST|title=CODATA values of the fundamental constants|url=http://physics.nist.gov/cgi-bin/cuu/Category?view=html&All+values.x=80&All+values.y=11|accessdate=2017-11-05}}</ref>
+|}
+
+== 參考資料 ==
+{{reflist}}
+
+== 參見 ==
+* [[異常磁矩]]
+* [[電子磁矩]]
+
+[[Category:原子物理學]]
+[[Category:原子核物理學]]
+[[Category:粒子物理學]]
+[[Category:物理常數]]
