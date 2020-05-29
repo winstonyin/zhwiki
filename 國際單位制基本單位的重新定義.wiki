@@ -1,0 +1,300 @@
+{{noteTA
+|G1=Physics
+|G2=Unit
+|1=zh-cn:千克; zh-tw:公斤; zh-hk:公斤;
+|2=zh-cn:米; zh-tw:公尺; zh-hk:米;
+|3=zh-cn:坎德拉; zh-tw:燭光; zh-hk:燭光; zh-sg:坎德拉;
+}}
+[[File:Unit relations in the new SI.svg|thumb|upright=1.35|重新定義後的[[國際單位制]]：[[國際單位制基本單位|基本單位]]的定義僅依賴於固定數值的[[物理常數]]以及其他基本單位。]]
+[[File:Unit relations in the old SI.svg|thumb|upright=1.35|1983年後、2019年前的國際單位制：基本單位的定義不但依賴其他基本單位和物理常數（例如，米是由光在若干秒期間走過的路程定義的），而且還依賴於人造物件（如[[國際公斤原器]]）]]
+
+'''[[國際單位制基本單位]]的新定義'''於2019年5月20日《[[米制公約]]》144週年紀念之日生效。<ref name=SI-statement>
+{{cite web
+ |url = https://www.bipm.org/utils/common/pdf/SI-statement.pdf
+ |title = BIPM statement: Information for users about the proposed revision of the SI
+ |access-date = 2018-05-05
+ |archive-url = https://web.archive.org/web/20180121160000/https://www.bipm.org/utils/common/pdf/SI-statement.pdf
+ |archive-date = 2018-01-21
+ }}
+</ref><ref>
+{{cite web
+ |url = http://www.bipm.org/en/committees/cipm/meeting/105.html
+ |title = Decision CIPM/105-13 (October 2016)
+ |access-date = 2017-08-31
+ |archive-url = https://web.archive.org/web/20170824095943/http://www.bipm.org/en/committees/cipm/meeting/105.html
+ |archive-date = 2017-08-24
+ }}</ref>根據新定義，[[公斤]]、[[安培]]、[[開爾文]]及[[摩爾 (單位)|摩爾]]四個基本單位改為以固定[[物理常數]]的精確值的方式定義，這些常數分別為[[普朗克常數]]（''{{Math|h}}''）、[[基本電荷]]（''{{Math|e}}''）、[[波茲曼常數]]（{{math|''k''<sub>B</sub>}}）及[[阿伏伽德羅常數]]（{{Math|''N''<sub>A</sub>}}）；[[秒]]、[[米 (單位)|米]]和[[坎德拉]]此前已經以固定物理常數值的方式定義，它們的新定義在舊定義的基礎上作了修正。這些定義上的改變都以不變動基本單位的數值為前提，如此確保之前的各種測量數值可以繼續使用，不受影響。<ref name=Kuehne>
+{{cite web
+ |first = Michael |last = Kühne
+ |title = Redefinition of the SI
+ |url = http://www.its9.org/symposium_program.html#SI_Redefinition_Keynote_Abstract
+ |work = Keynote address, ITS<sup>9</sup> (Ninth International Temperature Symposium)
+ |location = Los Angeles
+ |access-date = 2012-03-01
+ |date = 2012-03-22
+ |publisher = NIST
+ |archive-url = https://web.archive.org/web/20130618064512/http://www.its9.org/symposium_program.html
+ |archive-date = 2013-06-18
+}}</ref><ref name=Brochure9_2019>
+{{cite web
+ |title = 9th edition of the SI Brochure
+ |publisher = BIPM
+ |url = https://www.bipm.org/en/publications/si-brochure/
+ |date = 2019
+ |access-date = 2019-05-20
+}}
+</ref>在過去幾十年內，科學家致力於研發精確測量物理常數的實驗方法，直到2018年，[[國際計量委員會]]（CIPM）終於認為實驗條件成熟，向國際計量大會提交了修改國際單位制定義的提案。{{r|cipm_106|p=23}}提案在2018年11月第26屆[[國際計量大會]]（CGPM）上一致通過。<ref>
+{{cite web
+ |url = https://www.nist.gov/news-events/news/2018/11/historic-vote-ties-kilogram-and-other-units-natural-constants
+ |title = Historic Vote Ties Kilogram and Other Units to Natural Constants
+ |publisher = NIST
+ |date = 2018-11-16
+ |access-date = 2018-11-16
+ |archive-url = https://web.archive.org/web/20181118014932/https://www.nist.gov/news-events/news/2018/11/historic-vote-ties-kilogram-and-other-units-natural-constants
+ |archive-date = 2018-11-18
+ }}
+</ref><ref name=Milton16>{{cite conference
+ |conference = SIM XXII General Assembly
+ |location = Montevideo, Uruguay
+ |url = http://www.sim-metrologia.org.br/docs/2016Presentations/BIPM%202016.pdf#page=10
+ |conference-url = http://www.sim-metrologia.org.br/docs/2016Presentations/
+ |page = 10
+ |title = Highlights in the work of the BIPM in 2016
+ |first = Martin
+ |last = Milton
+ |date = 2016-11-14
+ |access-date = 2017-01-13
+ |archive-url = https://web.archive.org/web/20170901031605/http://www.sim-metrologia.org.br/docs/2016Presentations/BIPM%202016.pdf#page=10
+ |archive-date = 2017-09-01
+ }}大會在11月13至16日舉行，各代表在最後一天投票決議。哈薩克斯坦代表缺席。</ref>
+
+在此之前，公制曾在1960年有過一次大幅改動，[[國際單位制]]（SI）正式面世。米的定義有了根本性的改變：其原先定義為[[國際米原器]]的長度，後改為[[氪的同位素|氪-86]]某一條特定譜線的[[波長]]的倍數。<ref group="註">1983年，米的定義又一次改變，這次是基於[[光速]]。2019年的提案保留了這一定義。</ref>從此以後，米的定義可以從測量自然現象而得，而不再依賴於某個人造物件。然而，公斤仍然定義為[[國際公斤原器]]的質量，是當時的國際單位制中唯一一個仍依賴人造物件的單位。國際單位制在當時是以七個[[國際單位制基本單位|基本單位]]為基礎，它們的十進制[[冪]]則用於定義其他所有單位。2019年的新單位制則以七個物理常數為基礎，所有單位都能從這些物理常數直接定義。「基本單位」不再是一個必需的概念，但在新單位制中仍予以保留。<ref name=Brochure9_2019 />
+
+[[公制]]是國際單位制的前身，其設計初衷是，所有單位都應能從不變的自然現象中推導而得，<ref>{{cite book|last = Crease |first=Robert P. |title = World in the Balance |date = 2011 |publisher = W. W. Norton & Company, Inc. |location = New York |isbn = 978-0-393-07298-3 |pages = 83–84 |chapter = France: "Realities of Life and Labor"}}</ref>但由於現實測量技術上的局限性，單位的實際定義只能依賴於人造物件。1799年公制在法國面世時，科學家分別製造了國際米原器和國際公斤原器作定義之用。儘管這兩件原器的設計均以長期穩定不變為原則，這些原器及其複製品之間還是隨時間出現了細微的質量差異。科學進步必將超越這些原器所能提供的準確度，因此尋找新的定義取代它們成為了當務之急。另外，雖然一些單位是以自然現象定義，但這些現象不容易準確測量（如水的[[三相點]]曾用於定義開爾文）。2019年的新定義對這類單位做了改動，並淘汰了人造原器，自此所有單位都以可以準確測量的物理常數來定義。
+
+==背景==
+<!--{{Main|History of the metric system}}-->
+在1791年至1960年間，國際單位制的基本結構經歷了約170年的發展。1960年以後，隨著科技的日益進步，國際單位制的諸多缺陷也得到了一步步解決。
+
+===國際單位制的發展===
+[[法國革命]]早期，[[國民制憲議會]]的幾位領頭人物決定設立一套以邏輯和自然現象為基礎的新計量系統。米被定義為從[[北極]]至[[赤道]]距離的一千萬分之一，公斤則被定義為一立方米純水質量的千分之一。雖然這些定義意味著這些單位不再受強權一手掌握，但它們測量不易，使用不便。在現實使用上，分別以米原器（{{lang-fr|mètre des Archives}}）和公斤原器（{{lang-fr|kilogramme des Archives}}）作為這些單位的定義標準。<ref>{{cite book |title=The Measure of all Things – The Seven-Year-Odyssey that Transformed the World |author= Alder, Ken |year=2002 |publisher=Abacus |location=London |page=1|isbn = 978-0-349-11507-8}}</ref>
+
+到了1875年，公制在歐洲和拉丁美洲已有廣泛的使用。那一年，共二十個工業發達國家簽署《[[米制公約]]》，設立了三個國際組織，負責保管國際米原器和國際公斤原器，並監督各國原器的比對校準工作。<ref>{{cite journal |url=http://lamar.colostate.edu/~hillger/laws/metric-convention.html |title=Metric Convention of 1875 [English translation] |publisher=Office of the President of the United States |location=Washington, D.C. |year=1876 |archive-url=https://web.archive.org/web/20050301093830/http://lamar.colostate.edu/~hillger/laws/metric-convention.html |archive-date=2005-03-01 }}</ref><ref>
+{{cite web |url=http://www.bipm.org/en/convention/ |title=The Metre Convention |location=Sèvres, France |publisher=[[國際計量局|International Bureau of Weights and Measures]] |access-date=2013-06-21 |archive-url=https://web.archive.org/web/20120926202046/http://www.bipm.org/en/convention/ |archive-date=2012-09-26}}</ref>這三個國際組織分別為：
+* [[國際計量大會]]（{{lang-fr|Conférence générale des poids et mesures}}）：每四至六年舉辦一次，由各成員國代表組成，目的是討論與國際單位制推廣和改進有關的各項安排，以及對新的[[計量學]]測量數值進行審核。
+* [[國際計量委員會]]（{{lang-fr|Comité international des poids et mesures}}）：由十八名國際計量大會選出、來自不同國家的科學家組成，每年在國際度量衡局召開會議，並對國際度量衡大會提出行政上和技術上的建議。國際計量委員會以下有若干附屬委員會，其中的單位顧問委員會負責向國際計量委員會提供和計量單位有關的建議。<ref>{{cite web |url=http://www.bipm.org/en/committees/cipm/ |title=CIPM: International Committee for Weights and Measures |publisher=[[BIPM]] |location =Sèvres, France |access-date=2010-10-03 |archive-url=https://web.archive.org/web/20120924192125/http://www.bipm.org/en/committees/cipm/ |archive-date=2012-09-24 }}</ref>
+* [[國際計量局]]（{{lang-fr|Bureau international des poids et mesures}}）：負責保管國際公斤原器，並定期將各國的米和公斤原器與國際公斤原器進行比較。國際計量局是國際計量大會和國際計量委員會的秘書處。
+
+1889年的第1屆國際計量大會正式採用了40個米原器和40個公斤原器，作為《米制公約》所規定的定義基準。原器均由英國[[莊信萬豐]]公司製造。<ref>{{cite web |url=http://www.bipm.org/en/CGPM/db/1/1/ |title=Resolution of the 1st meeting of the CGPM (1889) |location=Sèvres, France|access-date=2013-06-21 |publisher=[[國際計量局|International Bureau of Weights and Measures]] |archive-url=https://web.archive.org/web/20130521210811/http://www1.bipm.org/en/CGPM/db/1/1/ |archive-date=2013-05-21}}</ref>國際計量大會隨機選出各一個作為國際原器，再保留幾個作為複製品，其餘的則分配到各個成員國作為國家原器。每隔40年左右，各國的國家原器須與國際原器進行比較。<ref>{{cite journal |last1 = Jabbour |first1 = Z.J. |last2 = Yaniv |first2 = S.L. |year = 2001 |title = The Kilogram and Measurements of Mass and Force |journal = Journal of Research of the National Institute of Standards and Technology |volume = 106 |issue = 1 |pages = 25–46 |url = http://nvl.nist.gov/pub/nistpubs/jres/106/1/j61jab.pdf |access-date = 2011-03-28 |doi = 10.6028/jres.106.003 |pmid = 27500016 |pmc = 4865288 |archive-url = https://web.archive.org/web/20110604144310/http://nvl.nist.gov/pub/nistpubs/jres/106/1/j61jab.pdf |archive-date = 2011-06-04}}</ref>
+
+《米制公約》在1921年經過修訂，規定國際計量大會須對所有計量單位設立定義標準，而不僅限於[[質量]]和[[長度]]。國際計量大會分別在1946年、1946年、1948年、1956年和1971年設立了[[電流]]、[[光度]]、[[溫度]]、[[時間]]和[[摩爾質量]]的定義標準。<ref>{{citation |author=International Bureau of Weights and Measures |author-link=International Bureau of Weights and Measures |date=2006 |url=http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf |archive-url=https://web.archive.org/web/20170814094625/http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf |archive-date=2017-08-14 |title=The International System of Units (SI) |edition=8th |isbn=92-822-2213-6 |pages=95, 97, 138–140 }}</ref>1948年第9屆國際計量大會委派國際計量委員會為一種單一整合、能供遵守《米制公約》的世界各國使用的單位制提出建議。<ref>{{cite web |url = http://www.bipm.org/en/CGPM/db/9/6/ |title=Resolution 6 of the 9th meeting of the CGPM (1948): Proposal for establishing a practical system of units of measurement |access-date=2011-03-23 |archive-url=https://web.archive.org/web/20130514081152/http://www.bipm.org/en/CGPM/db/9/6/ |archive-date=2013-05-14 }}</ref>國際計量委員會在1960年第11屆大會上提交了這份建議書，大會正式通過議案，並將新的統一計量系統稱為國際單位制（{{lang-fr|Système International d'Unités}}，簡稱SI）。<ref>{{cite web |url=http://www.bipm.org/en/CGPM/db/11/12/ |location=Sèvres, France |title=Resolution 12 of the 11th meeting of the CGPM (1960): Système International d'Unités |access-date=2011-03-23 |archive-url=https://www.webcitation.org/6FsRVQEjh?url=http://www.bipm.org/en/CGPM/db/11/12/ |archive-date=2013-04-14 }}</ref>
+
+===重新定義的必要性===
+在2019年之前，國際單位制曾經經歷過多次重新定義。1960年第11屆國際計量大會將米重新定義為[[氪的同位素|氪-86]]某一特定譜線波長的倍數，並淘汰先前的米原器。1967年第13屆大會將秒重新定義為[[銫的同位素|銫-133]]原子在[[基態]]下的兩個[[超精細結構|超精細能級]]之間躍遷所對應的輻射波動週期的倍數，取代原先基於[[地球自轉]]週期的定義。<ref>
+{{cite journal |first1 = F. R. |last1 = Stephenson |first2 = L. V. |last2 = Morrison |first3 = C. Y. |last3 = Hohenkerk |title = Measurement of the Earth's rotation: 720 BC to AD 2015 |journal = Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences |date = 2016-12 |volume = 472 |issue = 2196 |at = §4(a) |doi = 10.1098/rspa.2016.0404 |pmid = 28119545|pmc = 5247521|bibcode = 2016RSPSA.47260404S }}</ref>1983年第17屆國際計量大會又再次重新定義米：先固定[[光速]]在[[米每秒]]單位下的準確數值，然後利用秒來定義米。<ref name=BaseDefs>{{citation |author=International Bureau of Weights and Measures |author-link=International Bureau of Weights and Measures |date=2006 |url=http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf |archive-url=https://web.archive.org/web/20170814094625/http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf |archive-date=2017-08-14 |title=The International System of Units (SI) |edition=8th |isbn=92-822-2213-6 |pages=112–116 }}</ref>
+
+[[File:Prototype mass drifts.jpg|thumb|right|upright=1.9|K21至K40國家原器以及國際公斤原器兩個複製品K32和K8(41)的質量變化。<ref group="註">8(41)號公斤原器被誤標為41號，但它所攜帶的所有配件皆正確標為8號，因此這件原器今天的編號記作8(41)。<sub>{{nbsp}}</sub></ref>所有質量變化都是相對於國際公斤原器。<ref name="Girard">{{cite journal |title = The Third Periodic Verification of National Prototypes of the Kilogram (1988–1992) |first = G. |last = Girard |journal = Metrologia |volume = 31 |issue = 4 |year = 1994 |pages = 317–336 |doi = 10.1088/0026-1394/31/4/007 |bibcode = 1994Metro..31..317G}}</ref>]]
+
+各個公斤原器從製成至今，質量都已有所變化。以國際公斤原器為準，它們每年的質量改變幅度在{{val|2|e=-8}}公斤以下。沒有任何方法能判斷，究竟是這些複製品的質量有所提高，還是國際公斤原器本身質量有所降低。<ref>{{cite web |url=http://physics.vniim.ru/SI50/files/mohr.pdf |author=Peter, Mohr |title=Recent progress in fundamental constants and the International System of Units |work=Third Workshop on Precision Physics and Fundamental Physical Constant |date=2010-12-06 |access-date=2011-01-02 |archive-url=https://web.archive.org/web/20110824105816/http://physics.vniim.ru/SI50/files/mohr.pdf |archive-date=2011-08-24 }}</ref>質量漂移的可能原因包括，原器吸收了[[汞]]蒸汽，或受到了[[碳]]化合物的污染。<ref>{{cite news |date=2013-01-07 |url=http://www.thetimes.co.uk/tto/science/physics/article3649580.ece |newspaper= [[The Times]] |location=London |title =The dirty secret of why you are not quite as heavy as you think |first1=Tom |last1=Whipple |access-date=2011-03-23 |page=15 |archive-url=https://web.archive.org/web/20130117041048/http://www.thetimes.co.uk/tto/science/physics/article3649580.ece |archive-date=2013-01-17 }}</ref><ref>{{cite web |url=http://www.livescience.com/26017-kilogram-gained-weight.html |title=The Kilogram Has Gained Weight |first1=Tia |last1=Ghose |publisher=LiveScience |date=2013-01-06 |access-date=2011-03-23 |archive-url=https://web.archive.org/web/20130326085458/http://www.livescience.com/26017-kilogram-gained-weight.html |archive-date=2013-03-26 }}</ref>在1999年第21屆國際計量大會上，專家敦促各國研究出一種不以某件實物為基準的公斤定義方法。計量學家一共提出了多種依賴基礎物理常數的定義方法，其中的阿伏伽德羅計劃和[[基布爾秤]]（在2016年之前稱為瓦特秤）都能夠間接但精確地測重。<ref name=Crease>{{cite journal |url=http://physicsworld.com/cws/article/indepth/2011/mar/22/metrology-in-the-balance |title=Metrology in the balance |first1=Robert P. |last1=Crease |access-date=2012-06-28 |journal=Physics World |volume=24 |issue=3 |pages=39–45 |date=2011-03-22|bibcode=2011PhyW...24c..39C |doi=10.1088/2058-7058/24/03/34 }}</ref>
+
+2007年，測溫法顧問委員會向國際計量委員會提交了一份研究報告。報告指出，當時的開爾文定義並不能有效適用於{{val|20|u=K}}以下或{{val|1300|u=K}}以上的溫度。報告認為[[波茲曼常數]]比[[三相點]]更適合作為測溫的基礎，因為前者在更大的溫度範圍內仍然適用。<ref>{{cite web |url=http://www.bipm.org/wg/CCT/TG-SI/Allowed/Documents/Report_to_CIPM_2.pdf |title=Report to the CIPM on the implications of changing the definition of the base unit kelvin |last=Fischer |first=J. |date=2007-05-02 |access-date=2011-01-02 |display-authors=etal |archive-url=https://web.archive.org/web/20081123054012/http://www.bipm.org/wg/CCT/TG-SI/Allowed/Documents/Report_to_CIPM_2.pdf |archive-date=2008-11-23 }}</ref>
+
+2007年第23屆國際計量大會上，大會要求國際計量委員會研究如何利用物理常數來定義所有的計量單位，從而淘汰當時所用的人造原器。[[國際純粹與應用物理學聯合會]]（IUPAP）在翌年表示支持這一建議。<ref>{{cite web |url=http://iupap.org/wp-content/uploads/2013/08/file_50095.pdf |title=Resolution proposal submitted to the IUPAP Assembly by Commission C2 (SUNAMCO) |publisher=International Union of Pure and Applied Physics |year=2008 |access-date=2015-09-06 |archive-url=https://web.archive.org/web/20160305121825/http://iupap.org/wp-content/uploads/2013/08/file_50095.pdf |archive-date=2016-03-05}}</ref>2010年9月，單位顧問委員會在英國[[雷丁]]召開會議，原則上通過了《國際單位制手冊》的修訂草案。<ref>{{cite web |url=http://www.bipm.org/utils/en/pdf/24_CGPM_Convocation_Draft_Resolution_A.pdf |title=On the possible future revision of the International System of Units, the SI |first=Ian |last=Mills |publisher=CCU |date=2010-09-29 |access-date=2011-01-01 |archive-url=https://web.archive.org/web/20120113075832/http://www.bipm.org/utils/en/pdf/24_CGPM_Convocation_Draft_Resolution_A.pdf |archive-date=2012-01-13}}</ref><ref name="draft">{{cite web |url=http://www.bipm.org/utils/en/pdf/si_brochure_draft_ch2.pdf |title=Draft Chapter 2 for SI Brochure, following redefinitions of the base units |first=Ian |last=Mills |publisher=CCU |date=2010-09-29 |access-date=2011-01-01 |archive-url=https://www.webcitation.org/6HaOwpcm0?url=http://www.bipm.org/utils/en/pdf/si_brochure_draft_ch2.pdf |archive-date=2013-06-23 }}</ref>單位顧問委員會在同年10月向國際計量委員會提交草案，但後者認為，第23屆大會所定下的條件還沒有被滿足，{{#tag:ref|其中一項條件是，國際計量委員會必須為第23屆國際計量大會上定下的公斤、安培、開爾文和摩爾的新定義分別提供詳細的現實測量方法。<ref>{{cite web |url=http://www.bipm.org/en/CGPM/db/23/12 |title=Resolution 12 of the 23rd meeting of the CGPM (2007) |location=Sèvres, France |publisher=[[國際計量大會|General Conference on Weights and Measures]] |access-date=2013-06-21 |archive-url=https://web.archive.org/web/20130421103428/http://www.bipm.org/en/CGPM/db/23/12/ |archive-date=2013-04-21}}</ref>|group="註"}}所以暫時不建議對國際單位制-{}-做任何修訂。<ref>{{cite web |url=http://www.bipm.org/en/si/new_si/ |title=Towards the "new SI" |publisher=[[國際計量局|International Bureau of Weights and Measures]] (BIPM) |access-date=2011-02-20 |archive-url=https://web.archive.org/web/20110514140824/http://www.bipm.org/en/si/new_si/ |archive-date=2011-05-14 }}</ref>在一年後召開的第24屆大會上，國際計量委員會提出決議，從原則上同意國際單位制的新定義，但新定義仍有待具體細節落實後才可生效。<ref>{{cite web |url=http://www.bipm.org/utils/common/pdf/24_CGPM_Convocation_Draft_Resolution_A.pdf |title=On the possible future revision of the International System of Units, the SI – Draft Resolution A |publisher=[[國際計量委員會|International Committee for Weights and Measures]] (CIPM) |access-date=2011-07-14 |archive-url=https://web.archive.org/web/20110806053509/http://www.bipm.org/utils/common/pdf/24_CGPM_Convocation_Draft_Resolution_A.pdf |archive-date=2011-08-06 }}</ref>大會通過了此項決議，<ref name=Resolution>{{Citation |title=24th meeting of the General Conference on Weights and Measures |contribution=Resolution 1: On the possible future revision of the International System of Units, the SI |contribution-url=http://www.bipm.org/utils/en/pdf/24_CGPM_Resolution_1.pdf |publisher=International Bureau for Weights and Measures |location=Sèvres, France |date=2011-10-21 |mode=cs1}}新定義至少在2014年之前不會生效，參見：{{cite journal |title=Possible changes to the international system of units |journal=IUPAC Wire |volume=34 |issue=1 |date=2012-02}}</ref>第25屆大會也從2015年提早至2014年召開。<ref>{{cite press release |url=http://www.bipm.org/utils/en/pdf/Press_release_resolution_1_CGPM.pdf |title=General Conference on Weights and Measures approves possible changes to the International System of Units, including redefinition of the kilogram. |publisher=[[國際計量大會|General Conference on Weights and Measures]] |location=Sèvres, France |date=2011-10-23 |access-date=2011-10-25 |archive-url=https://web.archive.org/web/20120209175127/http://www.bipm.org/utils/en/pdf/Press_release_resolution_1_CGPM.pdf |archive-date=2012-02-09 }}</ref><ref name=Mohr>{{cite web |title=Redefining the SI base units |author=Mohr, Peter |date=2011-11-02 |work=NIST Newsletter |url=https://www.nist.gov/pml/newsletter/siredef.cfm |publisher=NIST |access-date=2012-03-01 |archive-url=https://web.archive.org/web/20160812012223/http://nist.gov/pml/newsletter/siredef.cfm |archive-date=2016-08-12 }}</ref>2014年11月20日第25屆大會上，專家承認在必要條件上有所進展，但條件並未完全達到，因此這屆會議不會通過國際單位制的修訂議案。<ref>{{cite web |title=Resolutions adopted by the CGPM at its 25th meeting (18–20 November 2014) |url=http://www.bipm.org/utils/common/pdf/CGPM-2014/25th-CGPM-Resolutions.pdf |publisher=International Bureau for Weights and Measures |location=Sèvres, France |date=2014-11-21 |access-date=2014-12-01 |archive-url=https://web.archive.org/web/20150325103457/http://www.bipm.org/utils/common/pdf/CGPM-2014/25th-CGPM-Resolutions.pdf |archive-date=2015-03-25 }}</ref>直到2017年，各常數測量方法的精確度終於能夠滿足大會定下的條件，<ref name=draft-resolution-A/>國際單位制的修訂議案因此在2018年11月13至16日的第26屆國際計量大會上成功通過。
+
+==新定義==
+{{hatnote|這些被國際計量大會所接受的數值<ref name=draft-resolution-A>{{cite web |title=Draft Resolution A "On the revision of the International System of units (SI)" to be submitted to the CGPM at its 26th meeting (2018) |url=https://www.bipm.org/utils/en/pdf/CGPM/Draft-Resolution-A-EN.pdf |access-date=2018-05-05 |archive-url=https://web.archive.org/web/20180429025229/https://www.bipm.org/utils/en/pdf/CGPM/Draft-Resolution-A-EN.pdf |archive-date=2018-04-29}}</ref>與[[科學技術數據委員會|CODATA 2017]]中所公示的數值相同。<ref name=codata_2017>{{cite journal |title=The CODATA 2017 Values of ''h'', ''e'', ''k'', and ''N''<sub>A</sub> for the Revision of the SI |author1=Newell, David B. |author2=Cabiati, F. |author3=Fischer, J. |author4= Fujii, K. |author5=Karshenboim, S.G. |author6=Margolis, H.S. |author7=de Mirandés, E. |author8=Mohr, P.J. |author9=Nez, F. | author10=Pachucki, K. |author11=Quinn, T.J. |author12=Taylor, B.N. |author13=Wang, M. |author14=Wood, B.M. |author15=Zhang, Z. |doi=10.1088/1681-7575/aa950a |journal=Metrologia |volume=55 |issue=1 |pages=L13 |date=2017-10-20 |bibcode=2018Metro..55L..13N }}</ref>}}1983年，米的定義改為以固定光速的準確數值為基礎推算而得。建立在這一原則上，單位顧問委員會和國際計量局提倡固定以下四個常數的準確數值，從而得出基本單位的定義：
+* [[普朗克常數]]（{{Mvar|h}}）固定為{{val|6.62607015|e=-34}}焦耳·秒（J⋅s）；
+* [[基本電荷]]（{{Mvar|e}}）固定為{{val|1.602176634|e=-19}}庫侖（C）；
+* [[波茲曼常數]]（{{Mvar|k}}）固定為{{val|1.380649|e=-23}}焦耳每開爾文（J⋅K<sup>−1</sup>）；
+* [[阿伏伽德羅常數]]（{{Math|''N''<sub>A</sub>}}）固定為{{val|6.02214076|e=23}}個每摩爾（mol<sup>−1</sup>）。
+2006年版《國際單位制手冊》就已有描述這幾個常數，但在此版本中後三個常數被定義為「由實驗所得的常數」，而不是「定義所用的常數」。
+
+以下常數的數值則應繼續保持不變：
+* [[光速]]（{{Math|''c''}}）固定為{{val|299792458|u=米每秒（m⋅s<sup>−1</sup>）}}；
+* [[銫的同位素|銫-133]]原子在[[基態]]下的兩個[[超精細結構|超精細能級]]之間躍遷所對應的輻射頻率（{{math|Δ''ν''<sub>Cs</sub>}}）固定為{{val|9192631770|u=赫茲（Hz）}}；
+* 頻率為{{val|540|e=12|u=Hz}}的單色輻射的[[發光效率]]（{{Math|''K''<sub>cd</sub>}}）固定為{{val|683|u=流明每瓦特（lm⋅W<sup>−1</sup>）}}。
+
+根據第9版《國際單位制手冊》，將以上七項定義中的[[國際單位制導出單位|導出單位]]（[[焦耳]]、[[庫侖]]、[[赫茲]]、[[流明]]及[[瓦特]]）以基本單位（秒、米、公斤、安培、開爾文、摩爾、坎德拉）重新表示，如下。{{r|Brochure9_2019}}以下sr表示[[球面度]]，是一個[[無因次量|無因次單位]]。
+
+* {{math|Δ''ν''<sub>Cs</sub>}} = {{math|Δ''ν''(<sup>133</sup>Cs)<sub>hfs</sub>}} = {{val|9192631770|u=s<sup>−1</sup>}}
+* {{math|''c''}} = {{val|299792458|u=m⋅s<sup>−1</sup>}}
+* {{math|''h''}} = {{val|6.62607015|e=-34|u=kg⋅m<sup>2</sup>⋅s<sup>−1</sup>}}
+* {{math|''e''}} = {{val|1.602176634|e=-19|u=A⋅s}}
+* {{math|''k''}} = {{val|1.380649|e=-23|u=kg⋅m<sup>2</sup>⋅K<sup>−1</sup>⋅s<sup>−2</sup>}}
+* {{math|''N''<sub>A</sub>}} = {{val|6.02214076|e=23|u=mol<sup>−1</sup>}}
+* {{math|''K''<sub>cd</sub>}} = {{val|683|u=cd⋅sr⋅s<sup>3</sup>⋅kg<sup>−1</sup>⋅m<sup>−2</sup>}}
+
+在新定義下，國際公斤原器被正式淘汰。公斤、安培和開爾文的定義完全改變，摩爾的定義也有所修訂。這些改變會影響到基本單位的定義，但不會影響導出單位的表達形式。
+
+==對基本單位定義的影響==
+根據單位顧問委員會的提案，所有基本單位的定義都有所修改或重寫，定義的主要對象從基本單位轉移到物理常數的值。<ref name=Explicit>{{cite journal |url=http://www.iupac.org/publications/ci/2011/3305/4_mills.html |journal=Chemistry International |volume=33 |number=5 |date=2011-10 |title=Part II – Explicit-Constant Definitions for the Kilogram and for the Mole |author=Mills, Ian |issn=0193-6484 |pages=12–15 |access-date=2013-06-28 |archive-url=https://web.archive.org/web/20170709120014/https://www.iupac.org/publications/ci/2011/3305/4_mills.html |archive-date=2017-07-09 }}</ref>以基本單位為定義對象，也就是取該單位的某個現實範例作為其定義標準，例如英格蘭國王[[愛德華二世 (英格蘭)|愛德華二世]]在1324年把三顆[[大麥|大麥粒]]之長定義為一[[英吋]]，<ref name=Smoot>{{cite book |title=Smoot's Ear – The Measure of Humanity |author=Travenor, Robert |year=2007 |isbn=978-0-300-14334-8 |pages=[https://archive.org/details/smootsearmeasure0000tave/page/35 35–36] |publisher=[[Yale University Press]] |url=https://archive.org/details/smootsearmeasure0000tave/page/35 }}</ref>以及自1889年起以國際公斤原器的質量作為一公斤的定義。相對之下，以物理常數的值作為定義對象，也就是先把一些自然界物理常數固定成某個特定的數值，再指定基本單位與這些常數之間的關係，例如在1983年，光速被固定為{{val|299792458}}米每秒，由於已經有了秒的定義，所以一米的確切長度就可以推算得出。下文為每個基本單位分別列出2019年以前的定義{{r|BaseDefs}}及2019年生效的新定義{{r|Brochure9_2019|codata_2017}}。
+
+===秒===
+[[秒]]的定義沒有重大改變，只是其重點從單位本身轉移至物理常數的固定值。
+*'''舊定義：'''一秒等於[[銫的同位素|銫-133]]原子在[[基態]]下的兩個[[超精細結構|超精細能級]]之間躍遷所對應的輻射的{{val|9192631770}}個週期的時間。
+*'''2019年定義：'''秒，符號為s，國際單位制時間單位。其定義是，將銫-133原子不受擾動的基態超精細能級躍遷頻率{{math|Δ''&nu;''<sub>Cs</sub>}}的值固定為{{val|9192631770}}[[赫茲]]，赫茲等於s<sup>−1</sup>。
+秒和定義所用常數之關係如下：
+: 1&nbsp;s = {{math|{{sfrac|{{val|9192631770}}|Δ''&nu;''<sub>Cs</sub>}}}}
+
+===米===
+[[米]]的定義沒有重大改變，只是表達的語言更為嚴謹。
+*'''舊定義：'''光在{{sfrac|{{val|299792458}}}}秒內在[[真空]]中行進的距離。
+*'''2019年定義：'''米，符號為m，國際單位制長度單位。其定義是，將真空中的光速{{mvar|c}}的值固定為{{val|299792458}}米每秒，秒是以銫頻率{{math|Δ''&nu;''<sub>Cs</sub>}}來定義的。
+米和定義所用常數之關係如下：
+: 1&nbsp;m = {{math|{{sfrac|{{val|9192631770}}|{{val|299792458}}}}{{sfrac|''c''|Δ''&nu;''<sub>Cs</sub>}}}}
+
+===公斤===
+[[File:Watt balance, large view.jpg|thumb|用國際公斤原器來測量[[普朗克常數]]的[[基布爾秤]]<ref name=BIPMwatt>{{cite web |url=http://www.bipm.org/en/scientific/elec/watt_balance/ |title=The BIPM watt balance |publisher=International Bureau of Weights and Measures |access-date=2013-03-28 |year=2012 |archive-url=https://web.archive.org/web/20130421095804/http://www.bipm.org/en/scientific/elec/watt_balance/ |archive-date=2013-04-21 }}</ref>]]
+
+[[公斤]]的定義有根本性的重大改變。舊定義依賴於人造[[國際公斤原器]]，<ref name=Barry>{{cite journal |title=The Current SI Seen From the Perspective of the Proposed New SI |first1=Barry N |last1=Taylor |journal=Journal of Research of the National Institute of Standards and Technology |number=6 |volume=116 |date=2011-12 |pages=797–80 |doi=10.6028/jres.116.022|pmid=26989600 |pmc=4551220 }}</ref>新定義則是用普朗克常數得出某特定頻率的單個[[光子]]的能量，再用[[質能等價]]原理得出該光子能量所等同的質量。
+*'''舊定義：'''公斤是質量單位。一公斤等於國際公斤原器的質量。
+*'''2019年定義：'''公斤，符號為kg，國際單位制質量單位。其定義是，將[[普朗克常數]]{{mvar|h}}的值固定為{{val|6.62607015|e=-34|u=J.s}}，J·s等於kg⋅m<sup>2</sup>⋅s<sup>−1</sup>，其中的米和秒是以{{mvar|c}}和{{math|Δ''ν''<sub>Cs</sub>}}來定義的。
+
+以上的新定義還可以這樣等價地表達：一公斤等於和頻率總和為{{val|1.356392489652|e=50}}赫茲的一組光子具有相同能量的物體的[[靜止質量]]。<ref>{{cite journal |title=On the redefinition of the kilogram |first1=Barry N |last1=Taylor |first2=Peter J |last2=Mohr |journal=Metrologia |number=1 |volume=36 |date=1999-11 |pages=63–64 |doi=10.1088/0026-1394/36/1/11 |bibcode=1999Metro..36...63T }}</ref>
+
+公斤和定義所用常數之關係如下：
+: 1&nbsp;kg = {{math|{{sfrac|({{val|299792458}}){{sup|2}}|({{val|6.62607015|e=-34}})({{val|9192631770}})}}{{sfrac|{{gaps|''h''|Δ''ν''<sub>Cs</sub>}}|''c''{{sup|2}}}}}}
+
+一些推導單位和各常數之間的關係如下：
+: 1&nbsp;J⋅s = {{math|{{sfrac|''h''|{{val|6.62607015|e=-34}}}}}}
+
+: 1&nbsp;J = {{math|{{sfrac|{{gaps|''h''|Δ''ν''<sub>Cs</sub>}}|({{val|6.62607015|e=-34}})({{val|9192631770}})}}}}
+
+: 1&nbsp;W = {{math|{{sfrac|{{gaps|''h''|(Δ''ν''<sub>Cs</sub>)<sup>2</sup>}}|({{val|6.62607015|e=-34}})({{val|9192631770}})<sup>2</sup>}}}}
+
+: 1&nbsp;N = {{math|{{gaps|{{sfrac|{{val|299792458}}|({{val|6.62607015|e=-34}})({{val|9192631770}})<sup>2</sup>}}|{{sfrac|{{gaps|''h''|(Δ''ν''<sub>Cs</sub>)<sup>2</sup>}}|''c''}}}}}}
+
+===安培===
+[[安培]]的定義有根本性的重大改變。舊定義在現實中不容易應用，新定義則易明易用。
+*'''舊定義：'''在真空中相距一米的兩根橫截面為圓形、粗度可忽略不計的無限長平行直導線，各通上相等的恆定電流，當兩根導線之間每米長度所受[[力]]為{{val|2|e=-7}}[[牛頓 (單位)|牛頓]]時，各導線上的電流定義為一安培。
+*'''2019年定義：'''安培，符號為A，國際單位制電流單位。其定義是，將[[基本電荷]]{{mvar|e}}的值定義為{{val|1.602176634|e=-19}}[[庫侖]]，庫侖等於A⋅s，其中的秒是以{{math|Δ''&nu;''<sub>Cs</sub>}}定義的。
+
+安培和定義所用常數之關係如下：
+: 1&nbsp;A = {{math|{{sfrac|{{gaps|''e''|Δ''&nu;''<sub>Cs</sub>}}|({{val|1.602176634|e=-19}})({{val|9192631770}})}}}}.
+
+以上的新定義等同於把一庫侖定義為基本電荷的倍數：
+: 1&nbsp;C = {{math|{{sfrac|''e''|{{val|1.602176634|e=-19}}}}}}
+
+舊定義提到了力的單位，而力的[[因次分析|因次]]是MLT<sup>−2</sup>，因此必須先定義公斤、米和秒之後，才能定義安培。在舊定義下，[[真空磁導率]]（{{math|''μ''<sub>0</sub>}}）的準確值固定為{{val|4|end=''π''|e=-7|u=H.m-1}}。<ref>{{cite web |url=http://physics.nist.gov/cuu/Units/ampere.html |title=Unit of electric current (ampere) |access-date=2015-09-07 |work=Historical context of the SI |publisher=[[NIST]] |archive-url=https://www.webcitation.org/6HgM4Sa5s?url=http://physics.nist.gov/cuu/Units/ampere.html |archive-date=2013-06-27 }}</ref>由於光速（{{math|''c''}}）的準確值也是固定的，所以根據以下公式
+:<math>c^2=\frac{1}{\mu_0\varepsilon_0} </math>，
+:<math>Z_0=\sqrt{\frac{\mu_0}{\varepsilon_0}}</math>
+[[真空電容率]]（{{math|''ε''<sub>0</sub>}}）和[[自由空間阻抗]]（{{math|''Z''<sub>0</sub>}}）都有固定的準確值。<ref>
+{{cite book |url=http://www.ece.rutgers.edu/~orfanidi/ewa/ch01.pdf |at=1.3 Constitutive Relations |title=Electromagnetic Waves and Antennas |first=Sophocles J. |last=Orfanidis |publisher=ECE Department, [[羅格斯大學|Rutgers University]] |access-date=2013-06-24 |date=2010-08-31 |archive-url=https://web.archive.org/web/20130915211750/http://www.ece.rutgers.edu/~orfanidi/ewa/ch01.pdf |archive-date=2013-09-15 }}</ref>
+
+在新定義下，安培的定義不再提到公斤和米，但仍然依賴於秒的定義。另外，真空磁導率、真空電容率和自由空間阻抗的數值不再是固定的，而是會隨實驗改變，並帶有[[測量不確定度|不確定度]]。<ref name=Chyla/>例如，真空磁導率的相對不確定度與[[精細結構常數]]{{math|''α''}}相同。<ref name="Davis-AJP">{{cite journal |last=Davis |first=Richard S. |title=Determining the value of the fine-structure constant from a current balance: getting acquainted with some upcoming changes to the SI |journal=American Journal of Physics |volume=85 |number=5 |pages=364–368 |year=2017 |doi=10.1119/1.4976701 |arxiv=1610.02910|bibcode=2017AmJPh..85..364D }}</ref>根據[[科學技術數據委員會|CODATA 2018]]，{{math|''α''}}的標準相對不確定度為{{val|1.5|e=-10}}。
+
+一些推導單位和各常數之間的關係如下：
+:1&nbsp;V = {{math|{{gaps|{{sfrac|{{val|1.602176634|e=-19}}|({{val|6.62607015|e=-34}})({{val|9192631770}})}}|{{sfrac|{{gaps|''h''|Δ''ν''<sub>Cs</sub>}}|''e''}}}}}}
+:1&nbsp;Wb = {{math|{{gaps|{{sfrac|{{val|1.602176634|e=-19}}|{{val|6.62607015|e=-34}}}}|{{sfrac|''h''|''e''}}}}}}
+:1&nbsp;&Omega; = {{math|{{gaps|{{sfrac|({{val|1.602176634|e=-19}})<sup>2</sup>|{{val|6.62607015|e=-34}}}}|{{sfrac|''h''|''e''<sup>2</sup>}}}}}}
+
+===開爾文===
+[[開爾文]]的定義有根本性的重大改變，不再用水的[[三相點]]，而是固定[[波茲曼常數]]的準確值。
+*'''舊定義：'''開爾文，[[熱力學溫度]]單位，等於水的三相點熱力學溫度的{{sfrac|273.16}}。
+*'''2019年定義：'''開爾文，符號為K，國際單位制熱力學溫度單位。其定義是，將[[波茲曼常數]]的值{{mvar|k}}固定為{{val|1.380649|e=-23|u=J.K-1}}，J·K<sup>−1</sup>等於kg⋅m<sup>2</sup>⋅s<sup>−2</sup>⋅K<sup>−1</sup>，其中的公斤、米和秒是以{{mvar|h}}、{{mvar|c}}和{{math|Δ''ν''<sub>Cs</sub>}}定義的。
+
+開爾文和定義所用常數之關係如下：
+: 1&nbsp;K = {{math|{{sfrac|{{val|1.380649|e=-23}}|({{val|6.62607015|e=-34}})({{val|9192631770}})}}{{sfrac|{{gaps|''h''|Δ''ν''<sub>Cs</sub>}}|''k''}}}}
+
+===摩爾===
+[[File:Silicon sphere for Avogadro project.jpg|thumb|upright|一個由超純[[矽]]製成的近乎完美球體，由阿伏伽德羅計劃製造，旨在準確測量[[阿伏伽德羅常數]]的值<ref name=BIPMwatt/>]]
+
+[[摩爾 (單位)|摩爾]]的舊定義依賴於公斤的定義，新定義則不再提到公斤，而是直接固定一摩爾物質所含的粒子數目。
+*'''舊定義：'''一摩爾物質所含的基礎單元數量相等於0.012公斤[[碳-12]]所含的原子數量。當使用摩爾時，必須指定基礎單元是原子、[[分子]]、[[離子]]、[[電子]]還是其他粒子或粒子集體。
+*'''2019年新定義：'''{{r|cipm_106|p=22}}摩爾，符號為mol，國際單位制[[物質的量|物質量]]單位。一摩爾所含的基礎單元數量等於{{val|6.02214076|e=23}}個。此數字稱為阿伏伽德羅數，是[[阿伏伽德羅常數]]{{math|''N''<sub>A</sub>}}以mol<sup>−1</sup>單位表達時的固定值。<ref name=cipm_106/><ref>{{cite web |title=Redefining the Mole |url=https://www.nist.gov/si-redefinition/redefining-mole |website=NIST |publisher=NIST |access-date=2018-10-24 |date=2018-10-23 |archive-url=https://web.archive.org/web/20181024074533/https://www.nist.gov/si-redefinition/redefining-mole |archive-date=2018-10-24 }}</ref>
+
+摩爾和定義所用常數之關係如下：
+: 1&nbsp;mol = {{math|{{sfrac|{{val|6.02214076|e=23}}|''N''{{sub|A}}}}}}.
+
+新定義意味著，<sup>12</sup>C原子質量、[[原子質量單位]]（又稱道爾頓）、公斤及阿伏伽德羅數之間的關係不再成立。以下兩句陳述之中，有一句必須改變：
+* 一顆<sup>12</sup>C原子的質量等於12道爾頓；
+* 與一道爾頓質量相同的克數等於阿伏伽德羅數，即{{nowrap|1=1 g/Da = 1 mol ⋅ {{math|''N''<sub>A</sub>}}}}。
+
+根據第9版《國際單位制手冊》，第一句仍然成立，也就是第二句不再成立。{{r|Brochure9_2019}}<ref group="註">有關非國際單位制單位的表格8的一項腳註寫道：「道爾頓（Da）和統一原子質量單位（u）指的是同一個單位，相等於一顆自由碳-12原子靜止且處於基態時的質量。」</ref>[[摩爾質量]]和{{le|相對原子質量|relative atomic mass}}之比（又稱摩爾質量常數）曾經是1&nbsp;g/mol，但在新定義下不再是這個數值，但仍然極為相近。《國際單位制手冊》附錄2寫道：「碳-12的摩爾質量''M''(<sup>12</sup>C)等於{{val|0.012|u=kg.mol-1}}，其相對不確定度與{{math|''N''<sub>A</sub>''h''}}的相對不確定度相同，在此決議通過時為{{val|4.5|e=-10}}。數值在未來將通過實驗測量而得。」<ref>{{Cite web|url=https://www.bipm.org/utils/common/pdf/CGPM-2018/26th-CGPM-Resolutions.pdf|title=Resolutions adopted|last=|first=|date=2018-11|website=Bureau international des poids et mesures|archive-url=https://web.archive.org/web/20200204124652/https://www.bipm.org/utils/common/pdf/CGPM-2018/26th-CGPM-Resolutions.pdf|archive-date=2020-02-04|access-date=2020-02-04}}</ref><ref>{{Cite book|url=https://books.google.ca/books?id=yOmaDwAAQBAJ&pg=PA54&q&f=false|title=Introduction to Quantum Metrology: The Revised SI System and Quantum Standards|last=Nawrocki|first=Waldemar|date=2019-05-30|publisher=Springer|isbn=978-3-030-19677-6|location=|pages=54|language=en}}</ref>這句話沒有提到道爾頓，而且和以上兩句陳述都不矛盾。
+
+===坎德拉===
+[[坎德拉]]的定義沒有重大改變，只是它所依賴的公斤、米和秒有所改變。
+*'''舊定義：'''頻率為{{val|5.4|e=14|u=Hz}}的單色光源在特定方向輻射強度為{{sfrac|1|683}} [[瓦特|W]]/[[球面度|sr]]時的[[發光強度]]。
+*'''2019年定義：'''坎德拉，符號為cd，國際單位制中某特定方向發光強度的單位。其定義是，將頻率為{{val|540|e=12|u=Hz}}的單色輻射的[[發光效能]]{{math|''K''<sub>cd</sub>}}固定為{{val|683|u=lm.W-1}}，lm⋅W<sup>−1</sup>等於cd⋅sr⋅W<sup>−1</sup>，即cd⋅sr⋅kg<sup>−1</sup>⋅m<sup>−2</sup>⋅s<sup>3</sup>，其中的公斤、米和秒是以{{mvar|h}}、{{mvar|c}}和{{math|Δ''ν''<sub>Cs</sub>}}定義的。
+
+坎德拉和定義所用常數之關係如下：
+:1&nbsp;cd =&nbsp;{{math|{{gaps|{{sfrac|1|683({{val|6.62607015|e=-34}})({{val|9192631770}})<sup>2</sup>}}|{{sfrac|{{gaps|''K''<sub>cd</sub>|''h''|(Δ''ν''<sub>Cs</sub>)<sup>2</sup>}}|sr}}}}}}
+
+==可重現度==
+國際單位制的七個基本單位均以固定數值的常數定義，其中六個為自然界物理常數，一個為表達個數的常數。<ref group="註" name="CandelaNote">坎德拉比較特殊，要將發光效能的單位轉換為坎德拉，還需要一個描述人眼對不同波長的感測強度的模型。模型由[[光度函數]]表達，記作''V''(''λ'')，由[[國際照明委員會]]所判斷和頒布。</ref><ref>{{cite book |url= http://www.bipm.org/utils/en/pdf/Monographie1983-1.pdf |title=Principles covering Photometry |publisher=Conférence général des poids et mesures (CGPM) |location=Sevres |author1=Wyszecki, G. |author2=Blevin, W.R. |author3=Kessler, K.G. |author4=Mielenz, K.D. |year=1983 |access-date=2012-04-23 |archive-url=https://web.archive.org/web/20081011204957/http://www.bipm.org/utils/en/pdf/Monographie1983-1.pdf |archive-date=2008-10-11 }}</ref>定義所用到的常數共有七個，但除了秒和摩爾以外，其他基本單位與常數之間並沒有一對一的關係，而是需要多個常數相互結合而得。
+
+科學家在設計新國際單位制的時候，可選擇做定義標準的物理常數不止六個。例如，只要長度和時間單位確定後，[[萬有引力常數]]''G''從因次分析的角度來說也可以用做質量單位的定義標準。不過事實上''G''的測量不確定度約為10<sup>−5</sup>，<ref group="註" name="VIM">
+此處所用術語的詳細定義請見：[http://www.bipm.org/utils/common/documents/jcgm/JCGM_200_2012.pdf ''International vocabulary of metrology – Basic and general concepts and associated terms''] {{Webarchive|url=https://web.archive.org/web/20170317223139/http://www.bipm.org/utils/common/documents/jcgm/JCGM_200_2012.pdf |date=2017-03-17 }}
+*測量可重現度（measurement reproducibility），定義2.25
+*標準測量不確定度（standard measurement uncertainty），定義2.30
+*相對標準測量不確定度（relative standard measurement uncertainty），定義2.32
+</ref>意味著公斤定義的最高可重現度約為10<sup>−5</sup>。相比之下，國際公斤原器質量的測量可重現度為1.2&nbsp;×&nbsp;10<sup>−8</sup>。<ref name=Chyla>
+{{cite journal |title=Evolution of the International Metric System of Units SI |author=Chyla, W.T. |date=2011-12 |journal=Acta Physica Polonica A |number=6 |volume=120 |pages=998–1011  |doi=10.12693/APhysPolA.120.998 }}</ref>新定義選用物理常數的條件是，常數的測量不確定度必須很低，而且測量方法必須盡可能獨立於其他所用常數。在正式定義以外，國際計量局還研發了一套可供實現定義的實用方法，<ref>
+{{cite web |url=http://www.bipm.org/en/measurement-units/new-si/mise-en-pratique.html |title=What is a ''mise en pratique''? |publisher=[[BIPM]] |year=2011 |quote=is a set of instructions that allows the definition to be realised in practice at the highest level. |access-date=2015-09-06 |archive-url=https://web.archive.org/web/20150922051552/http://www.bipm.org/en/measurement-units/new-si/mise-en-pratique.html |archive-date=2015-09-22 }}</ref>但這些實用測量方法並不屬於正式定義的一部分。
+
+==採納過程==
+國際計量委員會的不少工作，都是由附屬其下的不同顧問委員會所負責。其中，單位顧問委員會負責提出單位重新定義的方案，其他顧問委員會則對方案提出建議。在接受單位顧問委員會的方案之前，必須先滿足以下條件：
+* 在公斤的重新定義方面，須進行三個測量普朗克常數的不同實驗，每個實驗的95%相對不確定度均在{{val|5|e=-8}}以內，其中一個實驗須比{{val|2|e=-8}}更加準確。這些實驗須包括[[基布爾秤]]和阿伏伽德羅計劃，兩者結果必須一致。<ref>{{cite web |url=http://www.bipm.org/utils/common/pdf/CCM12.pdf#page=23 |title=Recommendations of the Consultative Committee for Mass and Related Quantities to the International Committee for Weights and Measures. |work=12th Meeting of the CCM |date=2010-03-26 |publisher=Bureau International des Poids et Mesures |location=Sèvres |access-date=2012-06-27 |archive-url=https://web.archive.org/web/20130514081750/http://www.bipm.org/utils/common/pdf/CCM12.pdf#page=23 |archive-date=2013-05-14 }}</ref><ref>{{cite web |url=http://www.bipm.org/utils/common/pdf/CCQM16.pdf#page=40 |title=Recommendations of the Consultative Committee for Amount of Substance: Metrology in Chemistry to the International Committee for Weights and Measures. |work=16th Meeting of the CCQM |date=2010-04-16 |publisher=Bureau International des Poids et Mesures |location=Sèvres |access-date=2012-06-27 |archive-url=https://web.archive.org/web/20130514072057/http://www.bipm.org/utils/common/pdf/CCQM16.pdf#page=40 |archive-date=2013-05-14 }}</ref>
+* 在開爾文的重新定義方面，分別用聲氣測溫法和介電常數氣體測溫法測量波茲曼常數，相對不確定度均在10<sup>−6</sup>以內，實驗結果須經其他實驗證實。<ref>{{cite web |url=http://www.bipm.org/utils/common/pdf/CCT25.pdf#page=53 |title=Recommendations of the Consultative Committee for Thermometry to the International Committee for Weights and Measures. |work=25th Meeting of the Consultative Committee for Thermometry |date=2010-05-07 |publisher=Bureau International des Poids et Mesures |location=Sèvres |access-date=2012-06-27 |archive-url=https://web.archive.org/web/20130514064646/http://www.bipm.org/utils/common/pdf/CCT25.pdf#page=53 |archive-date=2013-05-14 }}</ref>
+
+2011年3月，國際阿伏伽德羅協調小組達到了{{val|3.0|e=-8}}的不確定度，而美國[[國家標準技術研究所]]則達到了{{val|3.6|e=-8}}的不確定度。<ref name=Crease/>2012年9月1日，{{le|歐洲國家計量學研究所聯會|European Association of National Metrology Institutes}}正式啟動項目，目的是把基布爾秤和阿伏伽德羅計劃之間的相對差從{{val|17|5|e=-8}}降低至{{val|2|e=-8}}以內。<ref>{{cite web |url=http://www.inrim.it/luc/know/index.htm |title=kilogram NOW – Realization of the awaited definition of the kilogram |publisher=[[歐洲國家計量學研究所聯會|European Association of National Metrology Institutes]] |access-date=2012-10-08 |archive-url=https://web.archive.org/web/20160304084349/http://www.inrim.it/luc/know/index.htm |archive-date=2016-03-04 }}</ref>2013年3月，重新定義後的國際單位制被稱為「新SI」，<ref name=Kuehne/>但有科學家認為，由於新制用到了原子尺度上的量子現象，因此應更準確地稱為「量子SI」。<ref>
+{{cite book |journal=Advances in Quantum Chemistry |url=https://books.google.com/?id=Wsk36wNstDEC&pg=PA34&lpg=PA34&dq=si+definitions+boltzmann+planck#v=onepage&q=si%20definitions%20boltzmann%20planck&f=false |year=2008 |title=The Quantum SI: A Possible New International System of Units |author=Mohr, Peter J. |volume=53 |page=34 |isbn=978-0-12-373925-4 |publisher=Academic Press |access-date=2012-04-02 |doi=10.1016/s0065-3276(07)53003-0 |bibcode=2008AdQC...53...27M}}</ref>
+
+[[科學技術數據委員會|CODATA]]於2016年發佈了直至2014年底所測得的基本物理常數之建議值。所有測量皆符合國際計量大會的條件，重新定義的時機終於成熟，只待2018年末的下一屆國際計量大會。<ref name=NIST16>{{cite press release |title=Universe's Constants Now Known with Sufficient Certainty to Completely Redefine the International System of Units |url=https://www.nist.gov/news-events/news/2016/11/universes-constants-now-known-sufficient-certainty-completely-redefine |access-date=2016-12-31 |publisher=[[NIST]] |date=2016-11-22 |archive-url=https://web.archive.org/web/20170101003042/https://www.nist.gov/news-events/news/2016/11/universes-constants-now-known-sufficient-certainty-completely-redefine |archive-date=2017-01-01}}</ref><ref name=CODATA2014>{{cite journal |title=CODATA recommended values of the fundamental physical constants: 2014 |journal=[[Reviews of Modern Physics]] |volume=88 |issue=3 |pages=035009–1–73 |date=2016-09-26 |author=Mohr, Peter J. |author2= Newell, David B. |author3=Taylor, Barry N. |doi=10.1103/RevModPhys.88.035009 |quote=This is a truly major development, because these uncertainties are now sufficiently small that the adoption of the new SI by the 26th CGPM is expected. |arxiv=1507.07956 |bibcode=2016RvMP...88c5009M }}</ref>2017年10月20日，國際計量委員會第106次會議正式採納了國際單位制修正草案，並呈交至第26屆國際計量大會投票決議。<ref name=cipm_106>{{cite conference |title=Proceedings of the 106th meeting |conference=International Committee for Weights and Measures |date=2017-10-20 |url=https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf?page=23 |conference-url=https://www.bipm.org/en/committees/cipm/meeting/106.html |location=Sèvres |access-date=2018-01-27 |archive-url=https://web.archive.org/web/20180127202612/https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf?page=23 |archive-date=2018-01-27 }}</ref>{{Rp|17–23}}同日，{{r|cipm_106|p=22}}CODATA基礎常數任務組發表了2017版常數測量值，不但列出了四個即將用於定義國際單位制的常數的不確定度，還列出了新制下他們所建議的固定精確值。{{r|codata_2017}}2018年11月16日，國際計量大會一致通過提案，國際單位制新定義於2019年5月20日正式生效。<ref>{{cite web |url=https://www.sciencenews.org/article/official-redefining-kilogram-units-measurement |title=It's official: We're redefining the kilogram |first=Emily |last=Conover |date=2018-11-16 |access-date=2018-11-16 |work=Science News |archive-url=https://web.archive.org/web/20181116171854/https://www.sciencenews.org/article/official-redefining-kilogram-units-measurement |archive-date=2018-11-16 }}</ref>
+
+==顧慮==
+2010年，澳洲[[聯邦科學與工業研究組織]]科學家馬庫斯·福斯特（Marcus Foster）發表了一篇評判國際單位制的論文。論文提到了國際單位制的一些基本問題，如[[Ω]]等符號輸入不便，單位制所用的計量學概念缺乏嚴謹的數學表述，等等。他還認為，新制所保留的坎德拉和摩爾並非真正的基本單位。<ref name=Foster/>
+
+===以單位還是常數為定義對象===
+有科學家對以常數為對象的單位定義方法提出質疑，認為如果不以某個實例來直接定義單位，會有不理想的後果。<ref>{{cite journal |title=A sceptic's review of the New SI |author=Price, Gary |year=2011 |journal=Accreditation and Quality Assurance |volume=16 |issue=3 |pages=121–132 |doi=10.1007/s00769-010-0738-x}}</ref>在新定義下，要得出一公斤質量，無法再直接測量國際公斤原器，而是必須先測量普朗克常數{{math|''h''}}，然後運用[[狹義相對論]]和[[量子力學]]原理進行換算。<ref>{{cite journal |url=http://www.iupac.org/publications/ci/2011/3305/4_mills.html |journal=Chemistry International |volume=33 |number=5 |date=2011-10 |title=Part I – From the Current "Kilogram Problem" to a Proposed Definition |author=Censullo, Albert C. |issn=0193-6484 |pages=9–12 |access-date=2013-06-28 |archive-url=https://web.archive.org/web/20170709120014/https://www.iupac.org/publications/ci/2011/3305/4_mills.html |archive-date=2017-07-09 }}</ref>相反，安培的新定義卻比舊定義更接近於「某個實例」。<ref>{{cite journal |url=http://www.apajournal.org.uk/2013_0028-0044.pdf |journal=Journal of the Association of Public Analysts (Online) |year=2013 |number=41 2 |pages=28–44 |title=The Background and Implications of the "New SI" for Analytical Chemists |first1=D Thorburn |last1=Burns |first2=EH |last2=Korte |access-date=2013-06-25 |archive-url=https://web.archive.org/web/20160306125346/http://www.apajournal.org.uk/2013_0028-0044.pdf |archive-date=2016-03-06 }}</ref>先前的定義提到帶電流的平行直導線之間的力，但[[量子電動力學|量子尺度]]和[[經典電磁學|經典宏觀尺度]]下的[[電磁相互作用]]並不相同，所以有科學家認為，用宏觀現象來定義在量子尺度上所用的計量單位，有失妥當。<ref name=Chyla/>
+
+===質量與阿伏伽德羅常數===
+自從科學家在2005年發現國際公斤原器和各個國家公斤原器之間出現了質量偏差，科學界就開始討論公斤應該如何定義的問題。脫穎而出的定義方法共有兩個。第一，通過固定阿伏伽德羅數，經阿伏伽德羅計劃測量單個[[矽的同位素|矽-28]]原子的質量，從而直接定義公斤。第二，利用基布爾秤精確地測量普朗克常數，通過推算定義公斤。<ref>{{cite journal |url=http://kcdb.bipm.org/NL/16/OIML_Davis_2011.pdf |journal=OIML Bulletin|volume=LII |number=4 |date=2011-10 |title=Proposed change to the definition of the kilogram: Consequences for legal metrology |first1=Richard |last1=Davis |access-date=2013-06-28 |archive-url=https://web.archive.org/web/20150327081726/http://kcdb.bipm.org/NL/16/OIML_Davis_2011.pdf |archive-date=2015-03-27 }}</ref>有科學家批評，新單位制選擇了第二種定義方法，斷開了原先摩爾、公斤、道爾頓和阿伏伽德羅常數（{{math|''N''<sub>A</sub>}}）之間的緊密關係。<ref group="註">阿伏伽德羅常數{{math|''N''<sub>A</sub>}}和阿伏伽德羅數{{math|''N''<sub>N</sub>}}儘管數值相同，但前者的單位是mol<sup>−1</sup>，後者則不帶任何單位。</ref>另外有不少學者認為，摩爾並不是一個真正的計量單位，而只不過是個比例因子。<ref name=Foster/><ref>{{cite journal |title=The Mole is Not an Ordinary Measurement Unit |first1=Ingvar |last1=Johansson |journal=Accreditation and Quality Assurance |volume=16 |year=2011 |number=16 |pages=467–470 |doi=10.1007/s00769-011-0804-z}}</ref>
+
+第8版《國際單位制手冊》把道爾頓定義為單個<sup>12</sup>C原子的質量，<ref>http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf SI Brochure (8th edition)</ref>並以道爾頓和公斤來定義阿伏伽德羅常數。沿用新定義的第9版《手冊》{{r|Brochure9_2019}}則固定阿伏伽德羅常數的值，並保留道爾頓的定義，但道爾頓和公斤之間的關係就必須斷開。<ref>{{cite journal |title=Comments on recent proposals for redefining the mole and kilogram |first=B.P. |last=Leonard |year=2010 |volume=47 |issue=3 |pages=L5–L8 |journal=Metrologia |doi=10.1088/0026-1394/47/3/L01 |bibcode=2010Metro..47L...5L }}</ref><ref>{{cite journal |title=Some reflections on the proposed redefinition of the unit for the amount of substance and of other SI units |last1=Pavese |first1= Franco |year=2011 |journal=Accreditation and Quality Assurance |volume=16 |issue=3 |pages=161–165 |doi=10.1007/s00769-010-0700-y }}</ref>
+
+1993年，[[國際純化學和應用化學聯合會]]（IUPAC）認可道爾頓為等同於[[原子質量單位]]的單位，<ref>{{cite book |title=Quantities, Units and Symbols in Physical Chemistry International Union of Pure and Applied Chemistry; Physical Chemistry Division |publisher=[[IUPAC|International Union of Pure and Applied Chemistry]], Blackwell Science Ltd |edition=2nd |year=1993 |author1=Mills, Ian |author2=Cvitaš, Tomislav |author3=Homann, Klaus |author4=Kallay, Nikola |author5=Kuchitsu, Kozo |isbn=978-0-632-03583-0 |url=https://archive.org/details/quantitiesunitss0000unse }}</ref>國際計量大會也接著在《國際單位制手冊》中收錄了道爾頓。<ref>{{citation |author=International Bureau of Weights and Measures |author-link=International Bureau of Weights and Measures |date=2006 |url=http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf |archive-url=https://web.archive.org/web/20170814094625/http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf |archive-date=2017-08-14 |title=The International System of Units (SI) |edition=8th |isbn=92-822-2213-6 |pages=114, 115 }}</ref>公斤和摩爾的新定義生效後，第9版《手冊》仍然將道爾頓視為和原子質量單位相等的單位，兩者皆等於單個碳-12原子質量的{{sfrac|1|12}}，此定義完全獨立於公斤的定義。{{r|Brochure9_2019}}美國[[艾克朗大學]]科學家布萊恩·倫納德（Brian Leonard）曾在2012年提出，道爾頓（Da）應該用以下公式定義：{{nowrap|1={{math|''N''<sub>A</sub>}} = (g/Da)&nbsp;mol{{sup|−1}}}}，而原子質量單位（{{math|''m''<sub>u</sub>}}）則應繼續等於碳-12原子質量，也就是道爾頓不再等同於原子質量單位，兩者的相對差約為10<sup>−10</sup>。<ref>{{cite journal |url=https://www.researchgate.net/publication/231073122 |title=Why the dalton should be redefined exactly in terms of the kilogram |author=Leonard, Brian Phillip |date=2012-05 |journal=Metrologia |volume=49 |issue=4 |pages=487–491 |doi=10.1088/0026-1394/49/4/487 |bibcode=2012Metro..49..487L }}</ref>
+
+===溫度===
+不同溫度範圍須用到不同的測溫方法：[[室溫]]附近的溫度可以用溫度計中液體的熱脹冷縮測得，更高的溫度則往往通過[[黑體輻射]]的[[色溫|顏色]]推算。沃伊切赫·T·黑拉（Wojciech T. Chyla）在《波蘭物理學會期刊》上發表論文，從哲學的角度審視國際單位制的結構，認為溫度並不是一個真正的基本單位，而只是一組粒子的平均[[熱能]]。<ref name=Chyla/>論文指出，不少理論物理論文都將溫度（或其倒數）寫作{{math|Θ}}或{{math|''β''}}：
+:<math>\Theta=k T; \ \ \ \beta={1 \over k T}</math>，
+其中{{math|''k''}}是波茲曼常數。不過黑拉也承認，溫度在宏觀世界裡還是起到了基本單位的作用，是[[熱力學]]中不可或缺的概念。<ref name=Chyla/>
+
+在測溫法顧問委員會於1990年所公佈的實用測溫方法中，要測出極低和極高的溫度，都須先測量其對應的能量，然後用波茲曼常數進行換算。<ref>{{cite web |title=''Mise en pratique'' for the definition of the kelvin |year=2011 |url=http://www.bipm.org/utils/en/pdf/MeP_K.pdf |publisher=Consultative Committee for Thermometry (CCT), [[國際計量委員會|International Committee for Weights and Measures]] (CIPM) |location=Sèvres, France |access-date=2013-06-25 |archive-url=https://web.archive.org/web/20130508191638/http://www1.bipm.org/utils/en/pdf/MeP_K.pdf |archive-date=2013-05-08 }}</ref><ref>{{cite journal |journal=Procès-verbaux du Comité International des Poids et Mesures, 78th Meeting |url=http://www.bipm.org/utils/en/pdf/ITS-90.pdf |title=The International Temperature Scale of 1990 (ITS-90) |year=1989 |author=Consultative Committee for Thermometry (CCT) |access-date=2013-06-25 |archive-url=https://web.archive.org/web/20130623020049/http://www.bipm.org/utils/en/pdf/ITS-90.pdf |archive-date=2013-06-23 }}</ref>
+
+===發光強度===
+福斯特認為，以坎德拉為單位的發光強度並不是一個[[物理量]]，而是{{le|光生物學|Photobiology}}中和人類視覺有關的量，因此坎德拉不應該被視為基本單位。<ref name=Foster>{{cite journal |url = http://publications.csiro.au/rpr/download?pid=csiro:EP11794&dsid=DS4 |author = Foster, Marcus P |journal = Metrologia |volume = 47 |pages = R41–R51 |number = 6 |date = 2010-10-05 |access-date = 2013-06-24 |doi = 10.1088/0026-1394/47/6/R01 |title = The next 50 years of the SI: a review of the opportunities for the e-Science age |bibcode = 2010Metro..47R..41F |archive-url = https://web.archive.org/web/20160306004745/https://publications.csiro.au/rpr/download?pid=csiro:EP11794&dsid=DS4 |archive-date = 2016-03-06 }}</ref>1979年，科學界轉為用[[光通量]]來定義各種光度學單位，取代了先前使用的發光強度。但在此之前，就有不少科學家質疑光度學是否真的需要一個特別的基本單位。此外，科學界已經公認，[[流明]]是比坎德拉更為基礎的單位。然而為了國際單位制的連貫性，新制仍保留了坎德拉這一基本單位。<ref>{{cite journal |journal=Procès-verbaux du Comité International des Poids et Mesures, 66th Meeting |url=http://www.bipm.org/utils/common/pdf/CIPM-PV-OCR/CIPM1977.pdf |title=The International Temperature Scale of 1990 (ITS-90) |year=1977|access-date=2019-09-01 |pages=14, 143 |language=fr }}</ref>
+
+==參見==
+* [[國際單位制]]
+* [[物理常數]]
+* [[國際單位制基本單位]]
+* [[可並用單位|國際單位制可並用單位]]
+
+==備註==
+{{Reflist|60em|group="註"}}
+
+==參考資料==
+{{Reflist}}
+
+==延伸閱讀==
+* {{citation |title=SI Brochure: The International System of Units (SI) |author=International Bureau of Weights and Measures |author-link=國際單位制基本單位的重新定義 |date=2019-05-20  |edition=9th |isbn=978-92-822-2272-0 |url=https://www.bipm.org/utils/common/pdf/si-brochure/SI-Brochure-9.pdf }}
+* {{cite web
+ |work=Metrologia
+ |author=[[國際計量局|International Bureau of Weights and Measures]] (BIPM)
+ |title=Input data for the special CODATA-2017 adjustment
+ |edition=Updated
+ |date=2017-08-10
+ |url=http://iopscience.iop.org/journal/0026-1394/page/CODATA-2017_adjustment
+ |access-date = 2017-08-14
+}}
+
+==外部連結==
+* [http://www.bipm.org/en/si/new_si/ 國際計量局有關國際單位制新定義的網頁]、[http://www.bipm.org/en/si/new_si/faqs.html 常見問題網頁]
+
+{{SI單位導航框}}
+
+[[Category:國際單位制]]
+[[Category:2018年科學]]
+[[Category:2019年科學]]
+[[Category:定义]]
