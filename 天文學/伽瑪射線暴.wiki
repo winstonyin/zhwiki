@@ -1,0 +1,1187 @@
+{{NoteTA
+|G1=Physics
+|G2=Astronomy
+}}
+{{short description|來自遙遠星系的伽瑪射線突然閃亮現象}}
+[[File:Gamma ray burst.jpg|thumb|300px|[[恒星#大質量恆星|大質量恆星]]生命歷程藝術示意圖。恆星內部的輕元素[[核聚變]]成為重元素，當這一過程無法再抵抗重力時，恆星會驟然坍縮，形成[[黑洞]]，並沿著旋轉軸噴發大量能量，是為伽瑪射線暴。]]
+
+'''伽瑪射線暴'''（{{lang-en|'''Gamma-ray burst'''}}，縮寫'''GRB'''），又稱'''伽瑪暴'''，是來自遙遠[[星系]]、能量極高的爆炸的光芒。伽瑪射線暴是[[宇宙]]中自[[大爆炸]]以來能量和光度都最高的[[電磁脈衝]]事件。<ref>{{cite web|title=Gamma Rays|url=http://missionscience.nasa.gov/ems/12_gammarays.html|work=NASA|url-status=dead|archive-url=https://web.archive.org/web/20120502232209/http://missionscience.nasa.gov/ems/12_gammarays.html|archive-date=2012-05-02}}</ref>爆發可持續十毫秒至數小時。<ref>{{Cite web|last=Atkinson|first=Nancy|date=2013-04-16|title=New Kind of Gamma Ray Burst is Ultra Long-Lasting|url=https://www.universetoday.com/101486/new-kind-of-gamma-ray-burst-is-ultra-long-lasting/|access-date=2022-01-03|website=Universe Today|language=en-US}}</ref><ref>{{cite journal |arxiv=1212.2392 |doi=10.1088/0004-637X/766/1/30 |title=The Ultra-Long Gamma-Ray Burst 111209A: The Collapse of a Blue Supergiant? |journal=The Astrophysical Journal |volume=766 |issue=1 |pages=30 |year=2013 |last1=Gendre |first1=B. |last2=Stratta |first2=G. |last3=Atteia |first3=J. L. |last4=Basa |first4=S. |last5=Boër |first5=M. |last6=Coward |first6=D. M. |last7=Cutini |first7=S. |last8=d'Elia |first8=V. |last9=Howell |first9=E. J |last10=Klotz |first10=A. |last11=Piro |first11=L. |s2cid=118618287 |bibcode=2013ApJ...766...30G}}</ref><ref>{{cite journal |arxiv=1211.7068 |title=The Metal Aversion of LGRBs |journal=The Astrophysical Journal |volume=774 |issue=2 |pages=119 |bibcode = 2013ApJ...774..119G |doi = 10.1088/0004-637X/774/2/119 |year=2013 |last1=Graham |first1=J. F. |last2=Fruchter |first2=A. S.|s2cid=125987555 }}</ref>最初的[[伽瑪射線]]閃光過後，還會留下時間更長、波長更長的「餘輝」（[[X光]]、[[紫外光]]、[[可見光]]、[[紅外光]]、[[微波]]乃至[[無線電波]]）。<ref>[[#VedrenneAtteia|Vedrenne & Atteia 2009]]</ref>
+
+當一顆[[恒星#大質量恆星|大質量恆星]]到達生命晚期時，會內爆形成[[中子星]]或[[黑洞]]，這一爆炸過程稱為[[超新星]]或{{le|超高光度超新星|superluminous supernova}}。科學家相信，絕大部分伽瑪射線暴都來自於此類爆炸事件。有一部分時間較短的伽瑪射線暴很有可能源自於兩顆[[中子星碰撞]]的事件。<ref name="PhysRev" />
+
+伽瑪射線暴的來源星系都在數十億[[光年]]之遙，意味著此類爆炸事件的能量極高（爆炸在幾秒鐘內所釋放的能量就足以超過[[太陽]]在其百億年生命中所釋放的能量總和），<ref>{{cite web |title=Massive star's dying blast caught by rapid-response telescopes |url=https://phys.org/news/2017-07-massive-star-dying-blast-caught.html |date=26 July 2017 |work=PhysOrg |author=Arizona State University |access-date=27 July 2017 }}</ref>也極為罕見（每個星系在一百萬年內只會出現幾次）。<ref name="rates">[[#Podsiadlowski|Podsiadlowski 2004]]</ref>人類在歷史上所觀測到的伽瑪射線暴都源於[[銀河系]]以外，不過有一種類似的稱為[[軟伽瑪射線重複爆發源]]的爆發現象，則是來自於銀河系內的[[磁星]]。科學家推測，假如在銀河系內發生伽瑪射線暴，而且爆發的輻射對向地球，這將造成[[生物集群灭绝]]。<ref name="Melott2004">[[#Melott|Melott 2004]]</ref>
+
+1967年，原本設計用於探測[[部分禁止核試驗條約|秘密核武器試驗]]的{{le|帆船號衛星|Vela (satellite)}}首次探測到伽瑪射線暴。科學家在仔細分析之後，終於在1973年發表此發現。<ref name="KSO" />這隨即引發了天文學界的轟動，學者們紛紛提出各種理論模型，試圖解釋這種爆發現象，如[[彗星]]互相碰撞或[[中子星]]互相碰撞等等。<ref>[[#HurleyBib|Hurley 2003]]</ref>在其後的二十多年間，由於觀測數據的匱乏，林林總總的模型，無一脫穎而出。直到1997年，天文學家在探測到伽瑪射線暴的同時，也觀測到了緊隨的X光和可見光餘輝。利用[[光譜學]]分析可見光餘輝的[[紅移]]，就可推算爆發來源的距離和總能量。再結合對星系和[[超新星]]的研究後，科學家終於能準確測量伽瑪射線暴的確切距離和[[光度]]，並且斷定此類事件的確源於遙遠的星系。
+
+== 歷史 ==
+[[File:BATSE 2704.jpg|thumb|[[康普頓伽瑪射線天文台|BATSE]]實驗所探測到的所有伽瑪射線暴來源方向。爆發源的分佈具有[[各向同性]]，並不集中於銀河系平面（圖的中間橫線）。]]
+1963年，包括美國和蘇聯在內的多國簽署《部分禁止核試驗條約》，但美國懷疑蘇聯仍然在秘密進行核試驗。因此，美國發射了一系列名為{{le|帆船號衛星|Vela (satellite)}}的太空伽瑪射線探測器，目的是監測在太空進行的核試驗所發出的伽瑪射線。<ref>{{cite journal | title = A brief history of the discovery of cosmic gamma-ray bursts | last1 = Bonnell | first1 = JT | last2 = Klebesadel | first2 = RW | date = 1996 | journal = AIP Conference Proceedings | volume = 384 | issue = 1 | pages = 977–980 | doi = 10.1063/1.51630| bibcode = 1996AIPC..384..977B }}</ref>[[世界協調時]]1967年7月2日14時19分，帆船3號和4號衛星探測到了一次伽瑪射線閃光，但它卻和所有已知的核爆特徵截然不同。<ref name="FlashVela" />[[洛斯阿拉莫斯國家實驗室]]由{{le|雷·克勒貝薩德爾|Ray Klebesadel}}為首的負責團隊對此並沒有合理的解釋，但也並不認為這是一次緊急事件，因此把數據暫時放在一邊，有待進一步調查。接下來美國又接連發射了更多的帆船號衛星，器材也有所改進，但克勒貝薩德爾的團隊仍然探測到一次又一次的神秘伽瑪射線暴。團隊在多個衛星的數據中比較探測到閃光的確切時間，以此推算出16次爆發的大約來源方向，<ref name="FlashVela">[[#Schilling|Schilling 2002]], pp. 12–16</ref>並完全排除了爆發來自於地球或太陽的可能性。探測數據並沒有被列為機密。<ref>{{cite journal |last1=Bonnell |first1=J. T. |last2=Klebesadel |first2=R. W. |title=A brief history of the discovery of cosmic gamma-ray bursts |journal=AIP Conference Proceedings |date=1996 |volume=384 |page=979 |doi=10.1063/1.51630 |bibcode=1996AIPC..384..977B }}</ref>在詳細分析之後，1973年，克勒貝薩德爾等科學家在《天文物理期刊》上發表了〈來自宇宙的伽瑪射線暴之觀測〉一文。<ref name="KSO">{{cite journal|bibcode=1973ApJ...182L..85K |title=Observations of Gamma-Ray Bursts of Cosmic Origin |author1=Klebesadel R.W. |author2=Strong I.B. |author3=Olson R.A. |date=1973 |journal=Astrophysical Journal Letters |volume=182 |page=L85 |doi=10.1086/181225}}</ref>
+
+早期針對伽瑪射線暴的猜想大多都把來源定在銀河系以內。從1991年起，[[康普頓伽瑪射線天文台]]（CGRO）所承載的爆發與暫現源探測儀（BATSE）記錄了上千次伽瑪射線暴，發現這些爆發事件來自於宇宙各個方向，而並不集中於任何一個方向，亦即爆發源的分佈具有[[各向同性]]。<ref>[[#Meegan|Meegan 1992]]</ref>假如爆發源來自於銀河系內，那麼其分佈會集中於銀河系平面附近。科學家以此推斷，伽瑪射線暴一定來自於銀河系以外。<ref name="Vedrenne p. 16–40">[[#VedrenneAtteia|Vedrenne & Atteia 2009]], pp. 16–40</ref><ref>[[#Schilling|Schilling 2002]], pp. 36–37</ref><ref>[[#Pac95|Paczyński 1999]], p. 6</ref><ref name="Piran92">[[#Piran92|Piran 1992]]</ref>然而，有些主張爆發來自於銀河系內的模型仍然可以解釋各向同性的分佈。<ref name="Vedrenne p. 16–40" /><ref name="Lamb">[[#Lamb|Lamb 1995]]</ref>
+
+2018年10月，天文學家宣佈，2017年發生的伽瑪射線暴{{le|GRB 150101B|GRB 150101B}}和[[重力波]]事件[[GW170817]]很可能都是兩顆[[中子星碰撞]]所產生的。這兩件事件在[[伽瑪射線]]、[[可見光]]和[[X光]]特徵，乃至其所在星系的特性都有十分相似之處。因此，中子星碰撞事件所引發的[[千新星]]可能比科學界最初所預計的更為常見。<ref name="EA-20181016">{{cite press release |author=University of Maryland |title=All in the family: Kin of gravitational wave source discovered – New observations suggest that kilonovae – immense cosmic explosions that produce silver, gold and platinum – may be more common than thought|url=https://www.eurekalert.org/pub_releases/2018-10/uom-ait101518.php |date=16 October 2018 |work=EurekAlert! |access-date=17 October 2018 |author-link=馬里蘭大學 }}</ref><ref name="NC-20181016">{{cite journal |author=Troja, E.|display-authors=etal |title=A luminous blue kilonova and an off-axis jet from a compact binary merger at z = 0.1341 |date=16 October 2018 |journal=[[Nature Communications]] |volume=9 |pages=4089 |number=4089 (2018) |doi=10.1038/s41467-018-06558-7 |pmid=30327476 |pmc=6191439 |arxiv=1806.10624 |bibcode=2018NatCo...9.4089T }}</ref><ref name="NASA-20181016">{{cite news |last=Mohon |first=Lee |title=GRB 150101B: A Distant Cousin to GW170817 |url=https://www.nasa.gov/mission_pages/chandra/images/grb-150101b-a-distant-cousin-to-gw170817.html |date=16 October 2018 |work=[[NASA]] |access-date=17 October 2018 }}</ref><ref name="SPC-20181017">{{cite web |last=Wall |first=Mike |title=Powerful Cosmic Flash Is Likely Another Neutron-Star Merger |url=https://www.space.com/42158-another-neutron-star-crash-detected.html |date=17 October 2018 |work=Space.com |access-date=17 October 2018 }}</ref>
+
+2019年爆發的{{le|GRB 190114C|GRB 190114C}}釋放出的伽瑪射線能量高達1&nbsp;[[電子伏特|TeV]]（[[國際單位制詞頭|一萬億]]電子伏特），是人類探測到能量最高的伽瑪射線暴。<ref name="NAT-20191120">{{cite journal |author=Veres, P |s2cid=208191199 |display-authors=et al. |title=Observation of inverse Compton emission from a long γ-ray burst |date=20 November 2019 |journal=[[自然 (期刊)|Nature]] |volume=575 |issue=7783 |pages=459–463 |doi=10.1038/s41586-019-1754-6 |pmid=31748725 |arxiv=2006.07251 |bibcode=2019Natur.575..459M }}</ref>2021年，科學家探測到來自銀河系能量為1.4&nbsp;PeV的伽瑪輻射，比最高能伽瑪射線暴再高出一千倍左右，但它並不屬於伽瑪射線暴。<ref>{{Cite web |date=2021-05-21 |title=Record-breaking light has more than a quadrillion electron volts of energy |url=https://www.sciencenews.org/article/light-energy-record-gamma-ray |access-date=2022-05-11 |website=Science News |first=Emily |last=Conover |language=en-US}}</ref>
+
+=== 可能的爆發源天體 ===
+在伽瑪射線暴發現後的幾十年間，天文學家曾試圖通過伽瑪射線以外的[[電磁波]]觀測爆發來源天體，也就是在最近期發生過爆發的方向尋找對應的天體。考慮在內的有各種天體：[[白矮星]]、[[脈衝星]]、[[超新星]]、[[球狀星團]]、[[類星體]]、[[西佛星系]]和[[蝎虎座BL型天體]]等。<ref name="spatial">[[#HurleyConf|Hurley 1986]], p. 33</ref>然而，天文學家並沒有得出明確的結論，<ref group="nb" name="790305b">例外的是1979年3月5日爆發的{{le|GRB 790305b|GRB 790305b}}。此次光度極高的閃光過後，天文學家成功地追尋到它的來源——[[大麥哲倫星系]]內的超新星遺骸[[LMC N49|N49]]。今天科學家認為此次事件是一次[[磁星]]{{le|伽瑪射線暴前體|Gamma-ray burst progenitors|大型耀發}}，其實更像[[軟伽瑪射線重複爆發源]]，而不是「真正」的伽瑪射線暴。</ref>而且有若干爆發事件的方向可以準確測量，但那個方向並沒有任何其他明亮的天體。這意味著，伽瑪射線暴的來源要不是十分暗淡的恆星，就一定是極其遙遠的星系。<ref>[[#Pedersen|Pedersen 1987]]</ref><ref>[[#Hurley92|Hurley 1992]]</ref>科學家相信，要更精準地測量伽瑪射線暴的方向，需建造更先進的衛星和傳訊科技。<ref name="CFishman" />
+
+=== 餘輝 ===
+[[File:BeppoSAX.jpg|thumb|意大利和荷蘭合建的[[BeppoSAX衛星]]在1996年4月升空，它能夠準確測量伽瑪射線暴的來源方向，有助天文學家作後續觀測並判斷來源天體。]]
+有多個解釋伽瑪射線暴原理的模型都預測，在最初伽瑪射線閃光過後，爆炸產生的噴發物與[[星際物質]]高速碰撞，會產生波長較長、逐漸減弱的「餘輝」。<ref>[[#Pac93|Paczynski 1993]]</ref>最初探測並不成功，因為在爆發被發現後，很難即刻用其他波長觀測爆發的準確方向。1997年2月，[[BeppoSAX衛星]]探測到[[GRB 970228]]事件<ref group="nb" name="grbnames">伽瑪射線暴的命名方式如下：GRB是伽瑪射線暴的縮寫，其後是各兩位數的年、月、日，再接著是以字母代表當天發現的伽瑪射線暴順序，A為當天首個，B為當天第二個，如此類推。2010年之前發生的伽瑪射線暴只有在當天探測到多於一次爆發事件時，才會附上字母順序。</ref>。它緊接著將X光相機對向爆發來源的方向，成功探測到了X光餘輝。[[威廉·赫歇耳望遠鏡]]也在原爆發的20小時之後，探測到了逐漸變暗的可見光餘輝。<ref>[[#Paradijs|van Paradijs 1997]]</ref>伽瑪射線暴完全消熄之後，天文學家對可見光餘輝的準確來源方向進行深空拍攝，發現一個暗淡而遙遠的星系。<ref name="Vedrenne p. 90">[[#VedrenneAtteia|Vedrenne & Atteia 2009]], pp. 90–93</ref><ref>[[#Schilling|Schilling 2002]], p. 102</ref>
+
+由於該星系的光度太暗，因此天文學家在接下來的幾年間都未能測量出其距離。同年，BeppoSAX衛星又測得新的事件[[GRB 970508]]。天文學家在僅僅4小時以內就算出它的方向，因而可以更早地開始進行針對性觀測。從爆發源[[吸收光譜]]所得出的[[紅移]]值為''z''&nbsp;=&nbsp;0.835，相等於距離地球60億[[光年]]。<ref>[[#Reichart|Reichart 1995]]</ref>科學家首次得出伽瑪射線暴的準確距離，並找到了爆發來源——一個極遙遠的星系。<ref name="Vedrenne p. 90" /><ref>[[#Schilling|Schilling 2002]], pp. 118–123</ref>這一發現在天文學界引發了爭論，但爭論在接下來的幾個月內逐漸溫和了下來。翌年，{{le|GRB 980425|GRB 980425}}發生後不到一天又發生了超新星[[SN 1998bw]]，而且兩者的來源位置相同。科學家從而發現，伽瑪射線暴是和大質量恆星的爆炸息息相關的。<ref name="98bw">[[#Galama|Galama 1998]]</ref>
+
+[[File:Swift spacecraft.jpg|thumb|left|[[美國太空總署]][[尼爾·格雷爾斯雨燕天文台]]，2004年11月升空]]
+雖然[[康普頓伽瑪射線天文台]]和BeppoSAX衛星分別在2000年和2002年退役，但天文學界此時對伽瑪射線暴這一新興領域興致勃勃，研發出一系列專門針對伽瑪射線暴的探測儀器，特別用於觀測緊隨著爆發所發生的後續事件。{{le|高能暫現源探測儀|High Energy Transient Explorer}}（HETE-2）在2000年升空，2006年退役，這段時間內大部分伽瑪射線暴都是由它發現的。<ref>[[#HETE|Ricker 2003]]</ref>2004年升空的[[尼爾·格雷爾斯雨燕天文台]]（Swift）截至2022年仍在服役，是最成功的太空觀測實驗之一。<ref>[[#NASA2008|McCray 2008]]</ref><ref>[[#Gehrels04|Gehrels 2004]]</ref>Swift搭載了一部敏感度極高的伽瑪射線探測器以及X光和可見光望遠鏡，這些儀器均可以自動快速轉向，充分捕捉爆發後的餘輝。2008年升空的[[費米伽瑪射線太空望遠鏡]]（簡稱費米）在一年內能夠探測到數百次爆發，其中光度和能量極高的爆發可以用它搭載的大面積望遠鏡觀測。科學家還對不少地面上的可見光望遠鏡做了升級，為它們安裝了能夠快速響應{{le|伽瑪射線暴坐標網絡|Gamma-ray Burst Coordinates Network}}訊息的機械控制軟件。在收到伽瑪射線暴發生的訊息之後，這些望遠鏡可以在幾秒鐘以內轉向爆發源的方向，甚至在伽瑪射線仍未熄滅之前就開始進行觀測。<ref>[[#ROTSE|Akerlof 2003]]</ref><ref>[[#Akerlof99|Akerlof 1999]]</ref>
+
+自從2000年代以來，天文學家對伽瑪射線暴有了更深入的了解。第一是意識到短伽瑪射線爆發現象很可能和超新星無關，而是中子星碰撞合併所致。第二是發現大部分伽瑪射線暴之後會有X光不穩定閃爍的現象，持續幾分鐘。第三是發現宇宙中最亮的天體（[[GRB 080319B]]）和當時已知最遙遠的天體（[[GRB 090423]]）。<ref name="Bloom">[[#Bloom|Bloom 2009]]</ref><ref>[[#090423|Reddy 2009]]</ref>
+
+== 分類 ==
+[[File:GRB BATSE 12lightcurves.png|thumb|伽瑪射線暴的[[光變曲線]]]]
+伽瑪射線暴的[[光變曲線]]種類繁多，<ref>[[#Katz|Katz 2002]], p. 37</ref>而且每一次爆發的光變曲線都是獨一無二的。<ref>[[#Marani|Marani 1997]]</ref>爆發時長短至數毫秒，長至數十分鐘。曲線可以有一個高峰，也可以由多個小脈衝所組成。有的脈衝形狀對稱，有的則上坡快，下坡慢。有的爆發事件之前會出現{{le|伽瑪射線暴前體|Gamma-ray burst progenitors}}，也就是先發生一次弱爆發，接著幾秒鐘至幾分鐘內毫無動靜，然後在發生真正的強烈伽瑪射線暴。<ref name="Lazzati">[[#Lazzati|Lazatti 2005]]</ref>有些光變曲線曲折複雜，似乎毫無規律可言。<ref name="CFishman">[[#CFishman|Fishman & Meegan 1995]]</ref>
+
+儘管科學家能夠利用某些簡化的模型推導出大約類似的光變曲線，<ref>[[#Simic|Simić 2005]]</ref>但在曲線為何如此複雜多變的問題上卻沒有太大的進展。科學家提出了不少分類法，但這些分類規則往往只看光變曲線的表面化特徵，而不看爆發來源天體的確切性質。不過，伽瑪射線暴的爆發時長<ref group="nb" name="T90">爆發時長一般以T90定義，即爆發源釋放[[能量]]總值的90%所需的時間。天文學家發現，有些原以為是短爆發的伽瑪射線暴，其發生後還會出現一次更長的爆發。如果把後者納入到光變曲線之內，所得的T90值就會延長至幾分鐘。</ref>分佈呈[[雙峰分佈|雙峰]]特徵，意味著存在兩大類爆發：一類為平均0.3秒長的短爆發，另一類為平均30秒長的長爆發。<ref name="Kouveliotou">[[#Kouveliotou|Kouveliotou 1994]]</ref>分佈的兩個峰很寬，中間有一大片重疊的區域，在這片區域內的爆發很難判斷屬於長或短類。更進一步的分類法還會考慮爆發時長以外的觀測或理論因素。<ref name="Horvath98">[[#Horvath98|Horvath 1998]]</ref><ref name="Hakkila">[[#Hakkila|Hakkila 2003]]</ref><ref name="Chattopadhyay">[[#Chattopadhyay|Chattopadhyay 2007]]</ref><ref name="Virgili">[[#Virgili|Virgili 2009]]</ref>
+
+=== 短伽瑪射線暴 ===
+[[File:Hubble captures infrared glow of a kilonova blast.jpg|thumb|left|[[哈勃太空望遠鏡]]拍攝的[[千新星]]爆發餘輝。<ref>{{cite web|title=Hubble captures infrared glow of a kilonova blast|url=http://www.spacetelescope.org/images/opo1329a/|work=Image Gallery|publisher=ESA/Hubble|date=5 August 2013 |access-date=14 August 2013}}</ref> ]]
+[[File:GRB211106A.gif|thumb|[[阿塔卡馬大型毫米波/次毫米波陣列|ALMA]]拍攝的GRB 211106A，這是科學家首次拍到短伽瑪射線暴的毫米波長餘輝。<ref>{{cite journal |last1=Laskar |first1=Tanmoy |last2=Escorial |first2=Alicia Rouco |last3=Schroeder |first3=Genevieve |last4=Fong |first4=Wen-fai |last5=Berger |first5=Edo |last6=Veres |first6=Péter |last7=Bhandari |first7=Shivani |last8=Rastinejad |first8=Jillian |last9=Kilpatrick |first9=Charles D. |last10=Tohuvavohu |first10=Aaron |last11=Margutti |first11=Raffaella |last12=Alexander |first12=Kate D. |last13=DeLaunay |first13=James |last14=Kennea |first14=Jamie A. |last15=Nugent |first15=Anya |date=2022-08-01 |title=The First Short GRB Millimeter Afterglow: The Wide-angled Jet of the Extremely Energetic SGRB 211106A |journal=The Astrophysical Journal Letters |volume=935 |issue=1 |pages=L11 |doi=10.3847/2041-8213/ac8421 |arxiv=2205.03419 |bibcode=2022ApJ...935L..11L |s2cid=248572470 }}</ref><ref>{{Cite web |title=Out With a Bang: Explosive Neutron Star Merger Captured for the First Time in Millimeter Light |url=https://public.nrao.edu/news/neutron-star-merger-millimeter-alma/ |access-date=2022-08-14 |website=National Radio Astronomy Observatory |language=en-US}}</ref><ref>{{Cite web |title=Explosive neutron star merger captured for first time in millimeter light |url=https://news.northwestern.edu/stories/2022/08/explosive-neutron-star-merger-captured-for-first-time-in-millimeter-light/ |access-date=2022-08-14 |website=news.northwestern.edu |language=en}}</ref>]]
+
+短伽瑪射線暴指的是持續時間不到2秒的伽瑪射線暴。此類爆發佔所有爆發的三成左右。2005年以前，科學家從未觀測到來自短爆發的餘輝，因此對此類爆發的來源所知甚少。<ref name=r1>[http://www.nasa.gov/mission_pages/swift/bursts/short_burst_oct5.html In a Flash NASA Helps Solve 35-year-old Cosmic Mystery]. NASA (2005-10-05) The 30% figure is given here, as well as afterglow discussion.</ref>自此，科學家已觀測到數十次短爆發的餘輝，並判斷出其確切方向。他們發現，有的短爆發來自於恆星形成較少或不形成恆星的區域，例如大型[[橢圓星系]]和大型[[星系團]]的中心區域，<ref>[[#Bloom06|Bloom 2006]]</ref><ref>[[#Hjorth|Hjorth 2005]]</ref><ref>[[#Berger07|Berger 2007]]</ref><ref>[[#Gehrels05|Gehrels 2005]]</ref>意味著短爆發和大質量恆星無關。另外，短爆發與超新星也沒有關聯，因此短爆發和長爆發是兩種背後原理不同的現象。<ref name="Zhang">[[#Zhang09|Zhang 2009]]</ref>
+
+科學家最初推測，短爆發是兩顆中子星相互碰撞<ref name="Nakar 2007">[[#Nakar07|Nakar 2007]]</ref>或一顆中子星與一個[[黑洞]]相撞的結果。此類碰撞所產生的爆發星體稱為[[千新星]]。<ref name=Metzger2010>{{cite journal |author=Metzger, B. D. |author2=Martínez-Pinedo, G. |author3=Darbha, S. |author4=Quataert, E. |author5=Arcones, A. |author6=Kasen, D. |author7=Thomas, R. |author8=Nugent, P. |author9=Panov, I. V. |author10=Zinner, N. T. |s2cid=118863104 |display-authors=4 |title=Electromagnetic counterparts of compact object mergers powered by the radioactive decay of r-process nuclei |journal=Monthly Notices of the Royal Astronomical Society |volume=406 |issue=4 |page=2650 |date=August 2010 |doi=10.1111/j.1365-2966.2010.16864.x |bibcode=2010MNRAS.406.2650M |arxiv=1001.5029 }}</ref>天文學家在GRB 130603B爆發期間也觀測到了一顆有所關聯千新星。<ref name=Tanvir2013>{{cite journal | doi = 10.1038/nature12505| pmid = 23912055| title = A 'kilonova' associated with the short-duration γ-ray burst GRB 130603B| journal = Nature| volume = 500| issue = 7464| pages = 547–549| year = 2013| last1 = Tanvir | first1 = N. R.| last2 = Levan | first2 = A. J.| last3 = Fruchter | first3 = A. S.| last4 = Hjorth | first4 = J.| last5 = Hounsell | first5 = R. A.| last6 = Wiersema | first6 = K.| last7 = Tunnicliffe | first7 = R. L.| s2cid = 205235329|arxiv = 1306.4971 |bibcode = 2013Natur.500..547T }}</ref><ref name=Berger2013>{{cite journal | doi = 10.1088/2041-8205/774/2/L23| title = An r-Process Kilonova Associated with the Short-Hard GRB 130603B| journal = The Astrophysical Journal| volume = 774| issue = 2| pages = L23| year = 2013| last1 = Berger | first1 = E.| last2 = Fong | first2 = W.| last3 = Chornock | first3 = R.| s2cid = 669927|arxiv = 1306.3960 |bibcode = 2013ApJ...774L..23B }}</ref><ref name=Dnews>{{cite web |url=http://news.discovery.com/space/astronomy/how-a-kilonova-solved-a-gamma-ray-burst-mystery-130807.htm |title=Kilonova Alert! Hubble Solves Gamma Ray Burst Mystery |access-date=22 January 2015 |date=7 August 2013 |website=Discovery News |first=Nicole |last=Gugliucci |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303182001/http://news.discovery.com/space/astronomy/how-a-kilonova-solved-a-gamma-ray-burst-mystery-130807.htm |url-status=dead }}</ref>由於[[狹義相對論]]訊息不可超越光速傳遞的原理，短爆發之短又意味著爆發源天體的體型必定是小的。爆發時長為0.2秒，即爆發源的直徑不超過0.2光秒（約6萬公里，地球直徑之四倍）。中子星在2秒以內落入黑洞並發出伽瑪射線之後，其環繞黑洞公轉的剩餘物質（將不再是[[0號元素|中子物質]]）將在數分鐘至數小時內逐漸墮入黑洞，並發出X光。這能夠解釋天文學家所觀測到的X光餘輝。<ref name=r1 />
+
+一部分短伽瑪射線暴可能來自鄰近星系中的[[軟伽瑪射線重複爆發源]]的大型耀斑。<ref name="Frederiks">[[#Frederiks|Frederiks 2008]]</ref><ref>[[#Hurley05|Hurley 2005]]</ref>
+
+2017年，科學家探測到重力波事件[[GW170817]]，並且在僅僅1.7秒之後有探測到短伽瑪射線暴[[GRB 170817A]]。在詳細分析後，科學家確定此次事件來自兩顆中子星碰撞所產生的千新星。<ref name="PhysRev">{{cite journal|last1=Abbott|first1=B. P.|<!--collaboration=[[LIGO Scientific Collaboration]] & [[Virgo interferometer|Virgo Collaboration]]|-->title=GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral|journal=Physical Review Letters|date=16 October 2017|volume=119|issue=16|pages=161101|doi=10.1103/PhysRevLett.119.161101|pmid=29099225|arxiv=1710.05832|bibcode=2017PhRvL.119p1101A|s2cid=217163611 }}</ref><ref name="Nakar 2007"/>
+
+=== 長伽瑪射線暴 ===
+伽瑪射線暴中有七成屬於長伽瑪射線暴，即爆發時長超過2秒者。此類爆發持續時間之長、餘輝之強，有助於詳細觀測，所以相比短爆發來說，科學家對長爆發了解得更加深入。幾乎每一個經過詳細分析的長伽瑪射線暴都源自於正在快速生成恆星的星系，甚至有的能追溯至[[核塌縮超新星]]。因此，可以斷定長爆發的來源是死亡過程中的大質量恆星。<ref name="Woosley06">[[#Woosley06|Woosley & Bloom 2006]]</ref>科學家在分析高[[紅移]]長伽瑪射線暴的餘輝之後，也發現此類爆發源自於恆星形成的區域。<ref name="Pontzen">[[#Pontzen|Pontzen et al. 2010]]</ref>
+
+=== 超長伽瑪射線暴 ===
+超長伽瑪射線暴指的是位於時長分佈最尾端的長伽瑪射線暴，其持續時間超過若干個小時。有科學家主張，此類爆發應另歸一類，是由[[藍超巨星]]的坍縮<ref>{{cite journal |bibcode=2013ApJ...766...30G |doi=10.1088/0004-637X/766/1/30 |title=The Ultra-Long Gamma-Ray Burst 111209A: The Collapse of a Blue Supergiant? |journal=The Astrophysical Journal |volume=766 |issue=1 |page=30 |date=2013 |last1=Gendre |first1=B. |last2=Stratta |first2=G. |last3=Atteia |first3=J. L. |last4=Basa |first4=S. |last5=Boër |first5=M. |last6=Coward |first6=D. M. |last7=Cutini |first7=S. |last8=d'Elia |first8=V. |last9=Howell |first9=E. J |last10=Klotz |first10=A. |last11=Piro |first11=L. |s2cid=118618287 |arxiv = 1212.2392 }}</ref>、黑洞撕裂臨近恆星引發的{{le|潮汐瓦解事件|tidal disruption event}}<ref name="Greiner Mazzali Kann Krühler pp. 189–192">{{cite journal | last1=Greiner | first1=Jochen | last2=Mazzali | first2=Paolo A. | last3=Kann | first3=D. Alexander | last4=Krühler | first4=Thomas | last5=Pian | first5=Elena | last6=Prentice | first6=Simon | last7=Olivares E. | first7=Felipe | last8=Rossi | first8=Andrea | last9=Klose | first9=Sylvio | last10=Taubenberger | first10=Stefan | last11=Knust | first11=Fabian | last12=Afonso | first12=Paulo M. J. | last13=Ashall | first13=Chris | last14=Bolmer | first14=Jan | last15=Delvaux | first15=Corentin | last16=Diehl | first16=Roland | last17=Elliott | first17=Jonathan | last18=Filgas | first18=Robert | last19=Fynbo | first19=Johan P. U. | last20=Graham | first20=John F. | last21=Guelbenzu | first21=Ana Nicuesa | last22=Kobayashi | first22=Shiho | last23=Leloudas | first23=Giorgos | last24=Savaglio | first24=Sandra | last25=Schady | first25=Patricia | last26=Schmidl | first26=Sebastian | last27=Schweyer | first27=Tassilo | last28=Sudilovsky | first28=Vladimir | last29=Tanga | first29=Mohit | last30=Updike | first30=Adria C. | last31=van Eerten | first31=Hendrik | last32=Varela | first32=Karla | s2cid=4464998 | title=A very luminous magnetar-powered supernova associated with an ultra-long γ-ray burst | journal=Nature | volume=523 | issue=7559 | date=2015-07-08  | doi=10.1038/nature14579 | pmid=26156372 | display-authors=29 | pages=189–192|arxiv = 1509.03279 |bibcode = 2015Natur.523..189G }}</ref><ref name="Levan Tanvir Starling Wiersema">{{cite journal | last1=Levan | first1=A. J. | last2=Tanvir | first2=N. R. | last3=Starling | first3=R. L. C. | last4=Wiersema | first4=K. | last5=Page | first5=K. L. | last6=Perley | first6=D. A. | last7=Schulze | first7=S. | last8=Wynn | first8=G. A. | last9=Chornock | first9=R. | last10=Hjorth | first10=J. | last11=Cenko | first11=S. B. | last12=Fruchter | first12=A. S. | last13=O'Brien | first13=P. T. | last14=Brown | first14=G. C. | last15=Tunnicliffe | first15=R. L. | last16=Malesani | first16=D. | last17=Jakobsson | first17=P. | last18=Watson | first18=D. | last19=Berger | first19=E. | last20=Bersier | first20=D. | last21=Cobb | first21=B. E. | last22=Covino | first22=S. | last23=Cucchiara | first23=A. | last24=de Ugarte Postigo | first24=A. | last25=Fox | first25=D. B. | last26=Gal-Yam | first26=A. | last27=Goldoni | first27=P. | last28=Gorosabel | first28=J. | last29=Kaper | first29=L. | last30=Krühler | first30=T. | last31=Karjalainen | first31=R. | last32=Osborne | first32=J. P. | last33=Pian | first33=E. | last34=Sánchez-Ramírez | first34=R. | last35=Schmidt | first35=B. | last36=Skillen | first36=I. | last37=Tagliaferri | first37=G. | last38=Thöne | first38=C. | last39=Vaduvescu | first39=O. | last40=Wijers | first40=R. A. M. J. | last41=Zauderer | first41=B. A. | title=A new population of ultra-long duration gamma-ray bursts | journal=The Astrophysical Journal | volume=781 | issue=1 | year=2014 |display-authors=29 | arxiv=1302.2352 | doi=10.1088/0004-637x/781/1/13 | page=13 | bibcode=2014ApJ...781...13L| s2cid=24657235 }}</ref>或新形成的[[磁星]]所致。<ref name="Greiner Mazzali Kann Krühler pp. 189–192" /><ref name="Ioka Hotokezaka Piran p=110">{{cite journal | last1=Ioka | first1=Kunihito | last2=Hotokezaka | first2=Kenta | last3=Piran | first3=Tsvi | s2cid=118629696 | title=Are Ultra-Long Gamma-Ray Bursts Caused by Blue Supergiant Collapsars, Newborn Magnetars, or White Dwarf Tidal Disruption Events? | journal=The Astrophysical Journal | volume=833 | issue=1 | date=2016-12-12  | doi=10.3847/1538-4357/833/1/110 | page=110|arxiv = 1608.02938 |bibcode = 2016ApJ...833..110I }}</ref>至今科學家只觀測到少數幾個這樣的爆發事件，其中被深入研究的有{{le|GRB 101225A|GRB 101225A}}和{{le|GRB 111209A|GRB 111209A}}等。<ref name="Levan Tanvir Starling Wiersema"/><ref>{{cite journal |arxiv=1310.4944 |last1=Boer |first1=Michel |title=Are Ultra-long Gamma-Ray Bursts different? |journal=The Astrophysical Journal |volume=800 |issue=1 |pages=16 |last2=Gendre |first2=Bruce |last3=Stratta |first3=Giulia |s2cid=118655406 |doi=10.1088/0004-637X/800/1/16 |date=2013 |bibcode = 2015ApJ...800...16B }}</ref><ref>{{cite journal |bibcode=2013ApJ...778...54V |doi=10.1088/0004-637X/778/1/54 |title=Grb 091024A and the Nature of Ultra-Long Gamma-Ray Bursts |journal=The Astrophysical Journal |volume=778 |issue=1 |page=54 |date=2013 |last1=Virgili |first1=F. J. |last2=Mundell |first2=C. G. |last3=Pal'Shin |first3=V. |last4=Guidorzi |first4=C. |last5=Margutti |first5=R. |last6=Melandri |first6=A. |last7=Harrison |first7=R. |last8=Kobayashi |first8=S. |last9=Chornock |first9=R. |last10=Henden |first10=A. |last11=Updike |first11=A. C. |last12=Cenko |first12=S. B. |last13=Tanvir |first13=N. R. |last14=Steele |first14=I. A. |last15=Cucchiara |first15=A. |last16=Gomboc |first16=A. |last17=Levan |first17=A. |last18=Cano |first18=Z. |last19=Mottram |first19=C. J. |last20=Clay |first20=N. R. |last21=Bersier |first21=D. |last22=Kopač |first22=D. |last23=Japelj |first23=J. |last24=Filippenko |first24=A. V. |last25=Li |first25=W. |last26=Svinkin |first26=D. |last27=Golenetskii |first27=S. |last28=Hartmann |first28=D. H. |last29=Milne |first29=P. A. |last30=Williams |first30=G. |s2cid=119023750 |display-authors=29 |arxiv = 1310.0313 }}</ref>人們沒有觀測到更多的超長伽瑪射線暴，可能是因為目前的探測儀器對長時間爆發事件靈敏度較低，而不是因為此類事件在宇宙中罕見。<ref name="Levan Tanvir Starling Wiersema"/>也有科學家認為，這些超長伽瑪射線暴因有其獨特爆發源而要另開一類的理據並不充足，須在多個波長段進行更多的觀測才能下結論。<ref>{{cite journal |arxiv=1310.2540 |last1=Zhang |first1=Bin-Bin |title=How Long does a Burst Burst? |journal=The Astrophysical Journal |volume=787 |issue=1 |page=66 |last2=Zhang |first2=Bing |last3=Murase |first3=Kohta |last4=Connaughton |first4=Valerie |last5= Briggs |first5=Michael S. |s2cid=56273013 |year=2014 |doi=10.1088/0004-637X/787/1/66 |bibcode = 2014ApJ...787...66Z }}</ref>
+
+== 能量和射束 ==
+[[File:GRB080319B illustration NASA.jpg|thumb|恆星生成區發生伽瑪射線暴的藝術示意圖。爆炸產生的能量形成兩條狹窄的射束，向相反方向射出。]]
+雖然伽瑪射線暴源都極其遙遠，但它從地球上觀測卻光度很高。一般長伽瑪射線暴的全波段[[絕對星等]]和銀河系內一顆較亮的恆星相當，儘管前者有數十億光年之遙，而後者（大部分肉眼可見恆星）只有幾十光年左右的距離。大部分能量以伽瑪射線的形式釋放，某些伽瑪射線暴也會伴隨著光度很高的可見光爆發。例如，[[GRB 080319B]]離地球75億光年，但伴隨它的可見光爆發視星等為5.8，<ref name="Racusin">[[#Racusin08|Racusin 2008]]</ref>相當於肉眼可見的最暗的恆星。這意味著，產生伽瑪射線暴的都是能量極高的現象。假設伽瑪射線暴源以球對稱的形式爆發，那麼GRB 080319B所釋放的能量就約等於[[太陽質量|太陽的質量]]，即通過[[質能等價]]關係把整個太陽的質量都轉化為輻射。<ref name="Bloom" />
+
+伽瑪射線暴是高度聚焦的爆炸事件，大部分爆炸能量都集中於{{le|准直光束|collimated light}}中，形成狹窄的[[相對論性噴流|噴流]]。<ref>[[#Rykoff|Rykoff 2009]]</ref><ref>[[#Abdo|Abdo 2009]]</ref>噴流的角寬可以從餘輝光變曲線的全波段「噴流驟停」時間直接估算出來，即當噴流無法再支持{{le|相對論性光束|relativistic beaming}}以致原本緩慢變暗的餘輝驟然變暗的時間。<ref name="Sari99">[[#Sari99|Sari 1999]]</ref><ref>[[#Burrows|Burrows 2006]]</ref>觀測指出，不同爆發的噴流角寬有較大的差異，從2度至20度不等。<ref name="Frail">[[#Frail|Frail 2001]]</ref>
+
+由於爆發的能量是高度聚焦的，因此絕大部分爆發事件的光束都不朝向地球，也探測不到。當爆發光束正好朝向地球時，探測到的光度會比球對稱的爆炸高得多。考慮到這一聚焦效應，一般伽瑪射線暴所釋放的能量大約為10<sup>44</sup>&nbsp;[[焦耳|J]]，約等價於太陽質量的二千分之一，<ref name="Frail" />但仍比地球的質量（5.5&nbsp;×&nbsp;10<sup>41</sup>&nbsp;J）高許多倍。這和[[Ib和Ic超新星]]所釋放的能量相近，亦符合理論模型。科學家曾觀測到幾個距離較近的伽瑪射線暴和高光度超新星同時爆發的現象。<ref name="98bw" />從近距離Ic超新星光譜中的高度不對稱性<ref>[[#Mazzali|Mazzali 2005]]</ref>，以及通過在爆發一段時間以後噴流早已減速時做射電觀測<ref>[[#Frail2000|Frail 2000]]</ref>，可得到伽瑪射線暴高度聚焦的進一步證據。
+
+相比長伽瑪射線暴來說，短伽瑪射線暴離地球較近，光度較低。<ref name="SHBhosts">[[#Prochaska|Prochaska 2006]]</ref>此類爆發的聚焦程度還沒有被準確測量過，不過有科學家認為，短爆發的准直性比長爆發低，<ref>[[#Watson|Watson 2006]]</ref>甚至是完全發散的。<ref>[[#Grupe|Grupe 2006]]</ref>
+
+== 前身天體 ==
+<!--{{Main|伽瑪射線暴前身天體}} Gamma-ray burst progenitors-->
+[[File:Wolf rayet2.jpg|thumb|[[沃爾夫–拉葉星]][[WR 124]]及其周圍的星雲，由哈勃太空望遠鏡攝。沃爾夫–拉葉星很可能是長伽瑪射線暴的前身天體。]]
+大部分伽瑪射線暴源離地球遙遠，因此很難判斷是哪一種天體發生爆發的。某些長伽瑪射線暴和超新星相關，其來源星系也是活躍的恆星生成區，這都意味著長伽瑪射線暴與大質量恆星密切相關。最廣為接受的[[極超新星|坍縮星]]模型主張，當質量極大、[[金屬量]]低、高速自轉的恆星在[[恆星演化|演化]]生命晚期，星核坍縮成為[[黑洞]]時，會發生長伽瑪射線暴。<ref>[[#Mac99|MacFadyen 1999]]</ref>星核附近的物質往中心下降，形成漩渦狀的高密度[[吸積盤]]，並沿旋轉軸噴出兩束相反的[[相對論性噴流]]，噴流衝破恆星外層，輻射出伽瑪射線。也有其他模型主張恆星坍縮形成的是[[磁星]]而不是黑洞，其餘生成過程基本不變。<ref>{{Cite journal |last1=Zhang |first1=Bing |last2=Mészáros |first2=Peter |s2cid=18660804 |date=2001-05-01 |title=Gamma-Ray Burst Afterglow with Continuous Energy Injection: Signature of a Highly Magnetized Millisecond Pulsar |bibcode=2001ApJ...552L..35Z |journal=The Astrophysical Journal Letters |volume=552 |issue=1 |pages=L35–L38 |doi=10.1086/320255 |arxiv = astro-ph/0011133 }}</ref><ref>{{Cite journal |last1=Troja |first1=E. |last2=Cusumano |first2=G. |last3=O'Brien |first3=P. T. |last4=Zhang |first4=B. |last5=Sbarufatti |first5=B. |last6=Mangano |first6=V. |last7=Willingale |first7=R. |last8=Chincarini |first8=G. |last9=Osborne |first9=J. P. |s2cid=14317593 |date=2007-08-01 |title=Swift Observations of GRB 070110: An Extraordinary X-Ray Afterglow Powered by the Central Engine |bibcode=2007ApJ...665..599T |journal=The Astrophysical Journal |volume=665 |issue=1 |pages=599–607 |doi=10.1086/519450 |arxiv = astro-ph/0702220 }}</ref>
+
+在銀河系裡，[[沃爾夫–拉葉星]]和此類恆星最為相似。沃爾夫–拉葉星溫度極高、質量極高，其氫外層幾乎已散失殆盡。從這一角度來看，[[海山二]]、[[阿佩普 (恆星系統)|阿佩普]]、[[WR 104]]都有在未來發生伽瑪射線暴的可能性。<ref>[[#Plait|Plait 2008]]</ref>不過，科學家不能確定銀河系恆星是否具備發生伽瑪射線暴的所有必要特徵。<ref name="Stanek">[[#Stanek|Stanek 2006]]</ref>
+
+大質量恆星並不能解釋所有的伽瑪射線暴事件。有證據顯示，某些短伽瑪射線暴是在非恆星生成區或不含大質量恆星的區域發生，例如橢圓星系和[[銀暈]]。<ref name="SHBhosts" />科學家認為，短伽瑪射線暴最為可能是雙中子星系統合併的結果。兩顆相互公轉的中子星因釋放[[引力波]]而喪失能量並逐漸靠近，<ref>[[#Abbott|Abbott 2007]]</ref><ref>[[#Kochanek|Kochanek 1993]]</ref>直至被[[潮汐力]]突然撕裂，兩者碰撞後形成一顆黑洞。物質向剛形成的黑洞墮落並形成吸積盤，同時釋放出巨大的能量，這一階段和坍縮星模型相似。其他還有林林總總解釋短伽瑪射線暴的模型，包括：中子星和黑洞合併，吸積盤引發中子星坍縮，[[原初黑洞]][[霍金輻射|蒸發]]，引力坍縮過程中的物質在黑洞[[事件視界]]外徹底瓦解成伽瑪射線，等等。<ref>[[#Vietri|Vietri 1998]]</ref><ref>[[#Mac2006|MacFadyen 2006]]</ref><ref>[[#Blinnikov|Blinnikov 1984]]</ref><ref name="cline">[[#Cline|Cline 1996]]</ref><ref>Winterberg, Friedwardt (2001 Aug 29). "Gamma-Ray Bursters and Lorentzian Relativity". Z. Naturforsch 56a: 889–892.</ref>
+
+=== 潮汐瓦解事件 ===
+{{Main|潮汐瓦解事件}}
+
+2011年3月28日，[[尼尔·格雷尔斯雨燕天文台]]探測到[[GRB 110328A]]，發現了新一類伽瑪射線暴。此次事件的伽瑪射線放射時長為2天，比長伽瑪射線暴都要長得多，而且它在X光波段的放射持續了許多個月。爆發來源於紅移{{nowrap|''z'' {{=}} 0.35}}（即距離約45億光年）的一個小型橢圓星系。爆發究竟是星體坍縮還是帶相對論性噴流的潮汐瓦解所致，在學界仍有爭議。
+
+此類伽瑪射線暴的原理是，恆星運行至[[超大質量黑洞]]附近，被黑洞撕裂，在某些情況下會產生有強烈伽瑪射線輻射的相對論性噴流。科學家最早提出，GRB 110328A（亦稱雨燕J1644+57）是一顆[[主序星]]和質量為太陽的數百萬倍的黑洞互動的結果；<ref>[[#Daily|Science Daily 2011]]</ref><ref name="Levan11">[[#Levan11|Levan 2011]]</ref><ref name="Bloom11">[[#Bloom11|Bloom 2011]]</ref>後來又有科學家認為，這更可能是一顆[[白矮星]]被質量為太陽數萬倍的黑洞瓦解的結果。<ref>[[#KrolikPiran|Krolick & Piran 11]]</ref>
+
+== 發射原理 ==
+<!--{{Main|Gamma-ray burst emission mechanisms}}-->
+[[File:Gamma-ray-burst-Mechanism.jpg|thumb|left|400px|伽瑪射線暴的原理示意圖]]
+伽瑪射線暴是如何把巨大的能量轉換為電磁輻射，直至2010年還沒有科學共識。<ref>[[#Stern|Stern 2007]]</ref>要成功解釋伽瑪射線暴，提出的模型必須用物理過程解釋，天文觀測到的各種光變曲線、光譜及其他特徵是如何產生的。<ref>[[#GFishman|Fishman, G. 1995]]</ref>尤其難以解釋的是，某些爆發事件似乎有著非常高的能量轉換效率，爆炸能量轉換為伽瑪射線的比率可高達一半以上。<ref>[[#FanPiran|Fan & Piran 2006]]</ref>對伴隨著[[GRB 990123]]和[[GRB 080319B]]的可見光爆發的觀測表明，<ref name="Racusin" /><ref name="Liang Crider Boettcher Smith 1999">{{cite journal | last1=Liang | first1=E. P. | last2=Crider | first2=A. | last3=Boettcher | first3=M. | last4=Smith | first4=I. A. | title=GRB990123: The Case for Saturated Comptonization | journal=The Astrophysical Journal | date=1999-03-29 | volume=519 | issue=1 | pages=L21–L24 | doi=10.1086/312100 | bibcode=1999ApJ...519L..21L | s2cid=16005521 | arxiv=astro-ph/9903438 }}</ref>某些爆發的物理過程可能以[[逆康普頓散射]]為主。這一模型主張，原先存在的低能光子被爆炸中的相對論性電子散射，突然獲得巨大的能量，成為伽瑪射線。<ref>[[#Wozniak09|Wozniak 2009]]</ref>
+
+相對來說，科學家對伽瑪射線暴後的長波長餘輝（從X光至射電波）有更好的了解。沒有即時轉化為輻射的爆炸能量，就會以高速物質的形式存在，以接近光速的速度向外噴出，並與周邊的[[星際物質]]碰撞，所產生的相對論性[[衝擊波]]繼續向星際空間進發。反彈回來的二次衝擊波有可能再次進入向外進發的物質。衝擊波內能量極高的電子在磁場的作用下加速，發出橫跨大部分[[電磁波譜]]的[[同步輻射]]。<ref>[[#Meszaros|Meszaros 1997]]</ref><ref>[[#Sari98|Sari 1998]]</ref>這一模型能夠成功解釋餘輝在長時間後（爆炸後幾個小時至幾天）的特徵，但它未能解釋伽瑪射線暴後短時間內的許多餘輝特徵。<ref>[[#Nousek|Nousek 2006]]</ref>
+{{clear|left}}
+
+== 發生頻率及對生命的影響 ==
+[[File:GROND image of the gamma-ray burst GRB 151027B.jpg|thumb|[[格林威治標準時間]]2015年10月27日22時40分，雨燕天文台累計發現了1000次伽瑪射線暴。<ref>{{cite web|title=ESO Telescopes Observe Swift Satellite's 1000th Gamma-ray Burst|url=http://www.eso.org/public/announcements/ann15085/ |date=6 November 2015 |access-date=9 November 2015}}</ref>]]
+
+伽瑪射線暴對生命有害，甚至有摧毀性的破壞力。地球位於銀河系的外圍，而在整個宇宙當中，適合生命繁衍的環境也正正是大星系外圍密度較低的區域。從各類型星系的分佈可以推算出，只有約10%的星系可以繁衍生命。而且，''z''大於0.5的高紅移星系會高頻率發生伽瑪射線暴，恆星也過於密集，因此不宜生命。<ref>{{cite journal |last1=Piran |first1=Tsvi |last2=Jimenez |first2=Raul |s2cid=43491624 |title=Possible Role of Gamma Ray Bursts on Life Extinction in the Universe |journal=Physical Review Letters |date=5 December 2014 |volume=113 |issue=23 |pages=231102 |doi=10.1103/PhysRevLett.113.231102|pmid=25526110 |arxiv=1409.2506 |bibcode=2014PhRvL.113w1102P }}</ref><ref>{{cite journal |last=Schirber |first=Michael |title=Focus: Gamma-Ray Bursts Determine Potential Locations for Life |journal=Physics |volume=7 |page=124|date=2014-12-08 |doi=10.1103/Physics.7.124 }}</ref>
+
+至今科學家觀測到的伽瑪射線暴都源自銀河系以外極其遙遠的地方，對地球沒有任何威脅。不過，假如在銀河系內離地球5千至8千光年處發生一次伽瑪射線暴，<ref>{{Cite web|url=https://www.universetoday.com/118140/are-gamma-ray-bursts-dangerous/|title=Are Gamma Ray Bursts Dangerous?|first=Fraser|last=Cain|date=January 12, 2015}}</ref>而且它所產生的高能噴流正指向地球，那麼它就會對地球上的生態造成破壞，甚至有毀滅性的作用。目前所有衛星在宇宙中所觀測到的伽瑪射線暴總和頻率為每天一次。截止2014年3月，最接近地球的伽瑪射線暴為[[GRB 980425]]，距離為4千萬秒差距（即1億3千萬光年，紅移{{nowrap|''z'' {{=}} 0.0085}}），<ref>{{cite journal |last1=Soderberg |first1= A. M. |title=The sub-energetic γ-ray burst GRB 031203 as a cosmic analogue to the nearby GRB 980425 |journal=Nature |date=2004 |volume=430 |issue=7000 |pages=648–650 |doi= 10.1038/nature02757 |pmid=15295592 |last2=Kulkarni |first2=S. R. |last3=Berger |first3=E. |last4=Fox |first4=D. W. |last5=Sako |first5=M. |last6=Frail |first6=D. A. |last7=Gal-Yam |first7=A. |last8=Moon |first8=D. S. |last9=Cenko |first9=S. B. |last10=Yost |first10=S. A. |last11=Phillips |first11=M. M. |last12=Persson |first12=S. E. |last13=Freedman |first13=W. L. |last14=Wyatt |first14=P. |last15=Jayawardhana |first15=R. |last16=Paulson |first16=D. |s2cid= 4363027 |arxiv = astro-ph/0408096 |bibcode = 2004Natur.430..648S |hdl= 2027.42/62961 }}</ref>，源於一個SBc型矮星系。<ref>{{cite journal |arxiv=1111.1234|doi=10.1088/0004-637X/746/1/7|last1= Le Floc'h|first1= E.|title= The first Infrared study of the close environment of a long Gamma-Ray Burst|journal=The Astrophysical Journal|volume=746|issue=1|pages=7|last2= Charmandaris|first2= V.|last3= Gordon|first3= K.|last4= Forrest|first4= W. J.|last5= Brandl|first5= B.|last6= Schaerer|first6= D.|last7= Dessauges-Zavadsky|first7= M.|last8= Armus|first8= L.|s2cid=51474244|date= 2011|bibcode = 2012ApJ...746....7L }}</ref>GRB 980425所釋放的能量遠遠低於平均，它和Ib型超新星[[SN 1998bw]]相關。<ref name="Kippen et al. (1998)">{{cite journal |last1=Kippen |first1=R.M. |title=On the Association of Gamma-Ray Bursts with Supernovae |journal=The Astrophysical Journal |date=October 1998 |volume=506 |issue=1 |pages=L27–L30 |doi=10.1086/311634 |last2=Briggs |first2=M. S. |last3=Kommers |first3=J. M. |last4=Kouveliotou |first4=C. |last5=Hurley |first5=K. |last6=Robinson |first6=C. R. |last7=Van Paradijs |first7=J. |last8=Hartmann |first8=D. H. |last9=Galama |first9=T. J. |last10=Vreeswijk |first10=P. M. |s2cid=2677824 |arxiv = astro-ph/9806364 |bibcode = 1998ApJ...506L..27K }}</ref>
+
+估算伽瑪射線暴的確切發生頻率並不容易。在一個[[銀河系]]大小的星系裡，長伽瑪射線暴的發生頻率估計為一萬年一次到一百萬年一次，<ref>{{cite web|url=https://www.bbc.co.uk/news/science-environment-21082617|title=Gamma-ray burst 'hit Earth in 8th Century'|work=BBC News|first=Rebecca |last=Morelle|date=2013-01-21|access-date=January 21, 2013}}</ref>其中只有很小一部分的爆發會指向地球。因為科學家還不了解此類爆發的聚焦程度，所以短伽瑪射線暴的發生頻率就更是一個未知數，但應該和長伽瑪射線暴相近。<ref>[[#Guetta|Guetta and Piran 2006]]</ref>
+
+由於伽瑪射線暴只會沿方向相反的兩束噴流發出能量，因此只有在噴流方向的天體才會受到高能伽瑪射線的放射。<ref>{{cite web | url=http://www.nbcnews.com/id/44823014 | title=Can gamma-ray bursts destroy life on Earth? | publisher=MSN | author=Welsh, Jennifer | date=2011-07-10 | access-date=October 27, 2011}}</ref>
+
+雖然在地球附近發生直指地球的摧毀性伽瑪射線暴目前只是一個理論可能，但可以肯定的是，銀河系內其它高能量現象已經對地球的大氣有所影響。<ref>{{Cite web|url=https://science.nasa.gov/science-news/science-at-nasa/1998/ast29sep98_2/|title=Cosmic energy burst disturbs Earth's atmosphere |website=NASA Science |date=September 29, 1998}}</ref>
+
+=== 對地球的影響 ===
+地球的大氣層可以有效吸收X光和伽瑪射線等高能電磁輻射，所以在爆發過程中在地表所接受的輻射量不會達到危險的程度。假如在數千[[秒差距]]距離內發生伽瑪射線暴的話，它僅僅會使地表的紫外線水平短暫上升，持續時間最短不到一秒，最長也只有幾十秒。根據爆發的特徵和距離，紫外線有機會達到危險水平，但仍然不太可能對地球生命直接構成災難性的威脅。<ref name=Threat>{{Cite journal |arxiv = 0903.4710|doi = 10.1017/S1473550409004509|title = Gamma-ray bursts as a threat to life on Earth|journal = International Journal of Astrobiology|volume = 8|issue = 3|pages = 183–186|year = 2009|last1 = Thomas|first1 = B.C.|s2cid = 118579150|bibcode = 2009IJAsB...8..183T}}</ref><ref name="Effects">{{Cite journal | doi=10.1007/s10509-009-0211-7| title=Effects of gamma ray bursts in Earth's biosphere| journal=Astrophysics and Space Science| volume=326| issue=1| pages=61–67| year=2010| last1=Martin| first1=Osmel| last2=Cardenas| first2=Rolando| last3=Guimarais| first3=Mayrene| last4=Peñate| first4=Liuba| last5=Horvath| first5=Jorge| last6=Galante| first6=Douglas| s2cid=15141366| bibcode=2010Ap&SS.326...61M| arxiv=0911.2196}}</ref>
+
+相反，伽瑪射線暴在長時間段裡的影響會危險得多。伽瑪射線會對大氣中的[[氧氣]]和[[氮氣]][[分子]]產生化學反應，先生成[[一氧化氮]]，再而生成[[二氧化氮]]，此二者有以下三個層面的危害性。第一，它們會破壞[[臭氧層]]，使全球[[臭氧]]量減少25至35%，有些地區甚至會減少75%，狀況將持續許多年，使得地表[[紫外線指數]]長期處於危險程度。第二，它們在與陽光反應後會形成[[光化學煙霧]]，阻擋部分太陽光，進而影響植物的[[光合作用]]。然而科學模型顯示，這一效應只會對太陽全光譜造成1%左右的下降，持續幾年。煙霧則有可能使全球降溫，造成和[[撞擊冬天]]原理相似的「宇宙冬天」，但只有在湊巧同時出現全球氣候不穩定的前提下才會發生。第三，大氣層裡的二氧化氮會和雨水結合形成[[酸雨]]，即含有[[硝酸]]的雨水。雖然硝酸對各種生物都是有害物質，但是有模型預測，硝酸濃度不足以造成嚴重的全球性危害。再進一步產生的[[硝酸鹽]]反而可能對某些植物有益。<ref name=Threat/><ref name="Effects"/>
+
+總結來說，在幾千[[秒差距]]內發生的伽瑪射線暴，就算其能量束正對地球，也最多只會在爆發期間以及之後幾年提高地表的紫外線水平。從模型可預計，[[DNA]]所受到的破壞將是一般情況下的16倍。然而，目前的生物學還不具備預測這一效應對地球生態的確切影響的能力。<ref name=Threat/><ref name="Effects"/>
+
+==== 在地球歷史上可能有過的影響 ====
+有科學家推測，在過去50億年曾發生過嚴重破壞地球生命的近距離伽瑪射線暴的機率非常高，而在過去5億年曾發生過爆發並造成其中一次[[生物集群滅絕]]事件的機率為50%。<ref>{{Cite journal |last=Piran |first=Tsvi |last2=Jimenez |first2=Raul |date=2014-12-05 |title=Possible Role of Gamma Ray Bursts on Life Extinction in the Universe |url=https://link.aps.org/doi/10.1103/PhysRevLett.113.231102 |journal=Physical Review Letters |volume=113 |issue=23 |pages=231102 |doi=10.1103/PhysRevLett.113.231102}}</ref>
+
+4億5千萬年前發生的[[奧陶紀－志留紀滅絕事件]]有可能就是伽瑪射線暴所致。在[[奧陶紀]]晚期的各個[[三葉蟲]]種群當中，生活在充滿[[浮遊生物]]的海洋表面的種群最受打擊，反而生活在深水、活動空間較狹窄的種群得以生存。這種滅絕特徵有別於其他的集群滅絕事件，因為分佈廣闊的物種通常會比分佈局限的生物更容易存活。因此有科學家認為，深水三葉蟲受到了水屏障的保護，免受伽瑪射線暴所帶來的紫外線摧殘。同樣支持這一觀點的證據還有：奧陶紀晚期的[[雙殼鋼]]物種當中，挖洞的比在表面生活的更容易度過此次滅絕事件。<ref name="Melott2004" />
+
+除此之外，有科學家論證，[[774年至775年間碳14飆升]]現象是一次短伽瑪射線暴所致。<ref name="pavlov">{{cite journal | last1=Pavlov | first1=A.K. | last2=Blinov | first2=A.V. | last3=Konstantinov | first3=A.N. | s2cid=118638711 | display-authors=etal | title=AD 775 pulse of cosmogenic radionuclides production as imprint of a Galactic gamma-ray burst | journal=Mon. Not. R. Astron. Soc. | date=2013 | volume=435 | issue=4 | pages=2878–2884 | doi=10.1093/mnras/stt1468 | arxiv=1308.1272 | bibcode=2013MNRAS.435.2878P}}</ref><ref name="hamb">{{cite journal | last1=Hambaryan | first1=V.V. | last2=Neuhauser | first2=R. | s2cid=765056 | date=2013 | title=A Galactic short gamma-ray burst as cause for the <sup>14</sup>C peak in AD 774/5 | journal=[[Monthly Notices of the Royal Astronomical Society]] | volume=430 | issue=1 | pages=32–36 | arxiv=1211.2584 | bibcode=2013MNRAS.430...32H | doi=10.1093/mnras/sts378}}</ref>不過，這也有可能是一次非常強大的太陽[[耀斑]]所致。<ref name="mek15">{{cite journal | date=2015 | author=Mekhaldi | display-authors=etal | journal =Nature Communications | volume=6 | pages=8611 | doi=10.1038/ncomms9611 | title=Multiradionuclide evidence for the solar origin of the cosmic-ray events of ᴀᴅ 774/5 and 993/4 |bibcode = 2015NatCo...6.8611M | pmid=26497389 | pmc=4639793}}</ref>
+
+== 銀河系內可能爆發的天體 ==
+[[File:Short_Gamma-Ray_Burst.jpg|thumb|由恆星坍縮引發的短伽瑪射線暴臆想圖。<ref>{{cite web|title=Illustration of a Short Gamma-Ray Burst Caused by a Collapsing Star|url=https://noirlab.edu/public/images/noirlab2121a/|date=July 26, 2021 |access-date=August 3, 2021}}</ref>]]
+科學家從未觀測到來自地球所處的[[銀河系]]以內的伽瑪射線暴。<ref name="set to go supernova">{{cite web|url=https://cosmosmagazine.com/space/milky-way-star-set-to-go-supernova|title=Milky Way star set to go supernova|author=Lauren Fuge|publisher=Cosmos|date=20 November 2018|access-date=7 April 2019}}</ref>銀河系內在過去是否發生過爆發，也是一個未解之謎。隨著科學界對伽瑪射線暴及其前身天體的了解不斷提升，人們也逐一記下可能在過去發生過或在將來會發生爆發的各個系內天體。如今觀測到的長伽瑪射線暴都和超高光度超新星（又稱極超新星）相關，而大部分[[高光度藍變星]]和高速自轉的[[沃爾夫–拉葉星]]都被認為會以星核坍縮超新星的形式死亡，並伴隨長伽瑪射線暴。需要謹慎的是，科學家目前對伽瑪射線暴的了解全部來自[[宇宙歷史]]長河中較早期的星系，而此類星系的[[金屬量]]很低，很難把其中恆星的演化過程直接套用於銀河系這類金屬量較高的後期星系。<ref>{{cite journal | pmid =  23630373 | doi=10.1098/rsta.2012.0237 | volume=371 | issue=1992 | title=Gamma-ray burst progenitors and the population of rotating Wolf-Rayet stars | journal=Philos Trans Royal Soc A | pages=20120237 | author=Vink JS|bibcode = 2013RSPTA.37120237V | year=2013 | doi-access=free }}</ref><ref>{{cite book|editor1=Mario Livio|editor2=Nino Panagia|editor3=Kailash Sahu|author1=Y-H. Chu|author2=C-H. Chen|author3=S-P. Lai|chapter=Superluminous supernova remnants|title=Supernovae and Gamma-Ray Bursts: The Greatest Explosions Since the Big Bang|chapter-url=https://books.google.com/books?id=VlfSviM9eIIC&pg=PA135|year=2001|publisher=Cambridge University Press|isbn=978-0-521-79141-0|page=135}}</ref><ref>{{cite journal |bibcode=2007Ap&SS.311..177V |arxiv=0704.0659 |title=Long gamma-ray burst progenitors: Boundary conditions and binary models |journal=Astrophysics and Space Science |volume=311 |issue=1–3 |pages=177–183 |last1=Van Den Heuvel |first1=E. P. J. |last2=Yoon |first2=S.-C. |s2cid=38670919 |year=2007 |doi=10.1007/s10509-007-9583-8}}</ref>
+
+== 參見 ==
+{{div col}}
+<!--* [[Fast blue optical transient]] 快速藍色可見光暫現源 -->
+* [[快速電波爆發]]
+<!--* [[Gamma-ray burst precursor]] 伽瑪射線暴預暴 -->
+<!--* [[Horizons: Exploring the Universe]] -->
+<!--* [[伽瑪射線暴列表]]
+** [[GRB 020813]]
+** [[GRB 031203]]
+** [[GRB 070714B]]
+** [[GRB 080916C]]
+** [[GRB 100621A]]
+** [[GRB 130427A]]
+** [[GRB 190114C]]-->
+* [[相對論性噴流]]
+* [[BOOTES]]（牧夫天文望遠鏡網絡）
+<!--* [[搜尋地外文明計劃#伽瑪射線暴|利用伽瑪射線暴來搜尋地外文明]] -->
+* [[軟伽瑪射線重複爆發源]]
+<!--* [[Terrestrial gamma-ray flashes]] 地球伽瑪射線閃光 -->
+{{div col end}}
+
+== 備註 ==
+<references group="nb" />
+
+== 引用 ==
+{{Reflist}}
+
+== 參考資料 ==
+{{Refbegin|30em}}
+* {{cite journal
+ | author = Abbott, B.
+ | display-authors = etal
+ | year = 2008
+ | title = Search for Gravitational Waves Associated with 39 Gamma-Ray Bursts Using Data from the Second, Third, and Fourth LIGO Runs
+ | journal = [[Physical Review D]]
+ | volume = 77 | issue = 6 | page = 062004
+ | doi = 10.1103/PhysRevD.77.062004
+ | arxiv = 0709.0766
+|bibcode = 2008PhRvD..77f2004A |ref= Abbott}}
+* {{cite journal
+ | author = Abdo, A.A.
+ | s2cid = 7821247
+ | display-authors = etal
+ | date = 2009
+ | title = Fermi Observations of High-Energy Gamma-Ray Emission from GRB 080916C
+ | journal = [[Science (journal)|Science]]
+ | volume = 323 | issue = 5922 | pages = 1688–1693
+ | doi = 10.1126/science.1169101
+ | bibcode = 2009Sci...323.1688A
+ | pmid = 19228997
+| osti = 1357451
+ |ref= Abdo| url = https://www.osti.gov/biblio/1357451
+ }}
+* {{cite journal
+ | author = Akerlof, C.
+ | s2cid = 4422084
+ | display-authors = etal
+ | date = 1999
+ | title = Observation of contemporaneous optical radiation from a gamma-ray burst
+ | journal = [[自然 (期刊)|Nature]]
+ | volume = 398 | issue = 3 | pages = 400–402
+ | doi = 10.1038/18837
+ | bibcode = 1999Natur.398..400A
+ |arxiv = astro-ph/9903271 |ref= Akerlof99 }}
+* {{cite journal
+ | author = Akerlof, C.
+ | s2cid = 10152025
+ | display-authors = etal
+ | date = 2003
+ | title = The ROTSE-III Robotic Telescope System
+ | journal = [[Publications of the Astronomical Society of the Pacific]]
+ | volume = 115 | issue = 803
+ | pages = 132–140
+ | doi = 10.1086/345490
+ | bibcode = 2003PASP..115..132A
+|arxiv = astro-ph/0210238 |ref= ROTSE }}
+* {{cite journal
+ | author = Atwood, W.B.
+ | author2 = Fermi/LAT Collaboration
+ | s2cid = 26361978
+ | author-link2 = 費米伽瑪射線太空望遠鏡
+ | date = 2009
+ | title = The Large Area Telescope on the Fermi Gamma-ray Space Telescope Mission
+ | journal = The Astrophysical Journal
+ | volume = 697
+ | issue = 2
+ | pages = 1071–1102
+ |doi =10.1088/0004-637X/697/2/1071
+ | arxiv = 0902.1089
+|ref= Atwood|bibcode = 2009ApJ...697.1071A }}
+* {{cite journal
+ | author = Ball, J.A.
+ | date = 1995
+ | title = Gamma-Ray Bursts: The ETI Hypothesis
+ | journal = [[The Astrophysical Journal]]
+ | url = ftp://web.haystack.mit.edu/dist/Haystack.info/revgrbs.ps
+|ref= Ball}}
+* {{cite journal
+ | author = Barthelmy, S.D.
+ | s2cid = 53986264
+ | display-authors = etal
+ | date = 2005
+ | title = The Burst Alert Telescope (BAT) on the SWIFT Midex Mission
+ | journal = Space Science Reviews
+ | volume = 120 | issue = 3–4 | pages = 143–164
+ | doi = 10.1007/s11214-005-5096-3
+|arxiv = astro-ph/0507410 |bibcode = 2005SSRv..120..143B |ref= Barthelmy| url = http://cds.cern.ch/record/855549
+ }}
+* {{cite journal
+ | author = Berger, E.
+ | s2cid = 118873307
+ | display-authors = etal
+ | date = 2007
+ | title = Galaxy Clusters Associated with Short GRBs. I. The Fields of GRBs 050709, 050724, 050911, and 051221a
+ | journal = [[Astrophysical Journal]]
+ | volume = 660 | issue = 1
+ | pages = 496–503
+ | doi = 10.1086/512664
+ | bibcode = 2007ApJ...660..496B
+|arxiv = astro-ph/0608498 |ref= Berger07}}
+* {{cite journal
+ | author = Blinnikov, S.
+ | display-authors = etal
+ | date = 1984
+ | title = Exploding Neutron Stars in Close Binaries
+ | journal = Soviet Astronomy Letters
+ | volume = 10 | page = 177
+ | bibcode = 1984SvAL...10..177B
+|ref= Blinnikov| arxiv = 1808.05287
+ }}
+* {{cite journal
+ | author = Bloom, J.S.
+ | s2cid = 5309369
+ | display-authors = etal
+ | date = 2006
+ | title = Closing in on a Short-Hard Burst Progenitor: Constraints from Early-Time Optical Imaging and Spectroscopy of a Possible Host Galaxy of GRB 050509b
+ | journal = [[Astrophysical Journal]]
+ | volume = 638 | issue = 1
+ | pages = 354–368
+ | doi = 10.1086/498107
+ | bibcode = 2006ApJ...638..354B
+|arxiv = astro-ph/0505480 |ref= Bloom06 }}
+* {{cite journal
+ | author = Bloom, J.S.
+ | s2cid = 16440948
+ | display-authors = etal
+ | date = 2009
+ | title = Observations of the Naked-Eye GRB 080319B: Implications of Nature's Brightest Explosion
+ | journal = [[Astrophysical Journal]]
+ | volume = 691 | issue = 1
+ | pages = 723–737
+ | doi = 10.1088/0004-637X/691/1/723
+| bibcode=2009ApJ...691..723B
+|arxiv = 0803.3215 |ref= Bloom}}
+* {{cite journal
+ | last = Bloom | first = J. S.
+ | s2cid = 31819412
+ |display-authors=etal
+ | date = 2011
+ | title = A Possible Relativistic Jetted Outburst from a Massive Black Hole Fed by a Tidally Disrupted Star
+ | journal = [[Science (journal)|Science]]
+ | volume = 333 | issue = 6039| pages = 203–206
+ | bibcode = 2011Sci...333..203B
+ | doi = 10.1126/science.1207150
+|arxiv = 1104.3257 |ref= Bloom11 | pmid=21680812}}
+* {{cite journal
+ | author = Burrows, D.N.
+ | s2cid = 28202288
+ | display-authors = etal
+ | date = 2006
+ | title = Jet Breaks in Short Gamma-Ray Bursts. II. The Collimated Afterglow of GRB 051221A
+ | journal = [[Astrophysical Journal]]
+ | volume = 653 | issue = 1
+ | pages = 468–473
+ | doi = 10.1086/508740
+| bibcode=2006ApJ...653..468B
+|arxiv = astro-ph/0604320 |ref= Burrows}}
+* {{cite journal
+ | author = Cline, D.B.
+ | date = 1996
+ | title = Primordial black-hole evaporation and the quark–gluon phase transition
+ | journal = Nuclear Physics A
+ | volume = 610 | page = 500
+ | doi = 10.1016/S0375-9474(96)00383-1
+ | bibcode = 1996NuPhA.610..500C
+|ref= Cline | url = http://cds.cern.ch/record/317628
+ }}
+* {{cite journal
+ | author = Chattopadhyay, T.
+ | s2cid = 14923248
+ | display-authors = etal
+ | date = 2007
+ | title = Statistical Evidence for Three Classes of Gamma-Ray Bursts
+ | journal = [[Astrophysical Journal]]
+ | volume = 667 | issue = 2
+ | pages = 1017–1023
+ | doi = 10.1086/520317
+| bibcode=2007ApJ...667.1017C
+|arxiv = 0705.4020 |ref= Chattopadhyay}}
+* {{cite journal
+ | author = Ejzak, L.M.
+ | s2cid = 14012911
+ | display-authors = etal
+ | date = 2007
+ | title = Terrestrial Consequences of Spectral and Temporal Variability in Ionizing Photon Events
+ | journal = [[Astrophysical Journal]]
+ | volume = 654 | issue = 1
+ | pages = 373–384
+ | doi = 10.1086/509106
+ | bibcode = 2007ApJ...654..373E
+|arxiv = astro-ph/0604556 |ref= Ejzak }}
+* {{cite journal
+ |author1=Fan, Y. |author2=Piran, T.
+ |s2cid=7950263
+ | date = 2006
+ | title = Gamma-ray burst efficiency and possible physical processes shaping the early afterglow
+ | journal = [[Monthly Notices of the Royal Astronomical Society]]
+ | volume = 369 |issue=1
+ | pages = 197–206
+ | doi = 10.1111/j.1365-2966.2006.10280.x
+ | bibcode = 2006MNRAS.369..197F
+|arxiv = astro-ph/0601054 |ref= FanPiran}}
+* {{cite journal
+ |author1=Fishman, C.J. |author2=Meegan, C.A.
+ | date = 1995
+ | title = Gamma-Ray Bursts
+ | journal = Annual Review of Astronomy and Astrophysics
+ | volume = 33 | pages = 415–458
+ | doi = 10.1146/annurev.aa.33.090195.002215
+| bibcode=1995ARA&A..33..415F
+|ref= CFishman}}
+* {{cite web
+ | author = Fishman, G.J.
+ | date = 1995
+ | title = Gamma-Ray Bursts: An Overview
+ | url = http://antwrp.gsfc.nasa.gov/diamond_jubilee/papers/fishman.html
+ | publisher = [[NASA]]
+ | access-date = 2007-10-12
+|ref= GFishman}}
+* {{cite journal
+ | author = Frail, D.A.
+ | s2cid = 1047372
+ | display-authors = etal
+ | date = 2001
+ | title = Beaming in Gamma-Ray Bursts: Evidence for a Standard Energy Reservoir
+ | journal = [[Astrophysical Journal Letters]]
+ | volume = 562 | issue = 1
+ | pages = L557–L558
+ | doi = 10.1086/338119
+ | bibcode = 2001ApJ...562L..55F
+|arxiv = astro-ph/0102282 |ref= Frail}}
+* {{cite journal
+ | author = Frail, D.A.
+ | s2cid = 15652654
+ | display-authors = etal
+ | date = 2000
+ | title = A 450 Day Light Curve of the Radio Afterglow of GRB 970508: Fireball Calorimetry
+ | journal = [[Astrophysical Journal]]
+ | volume = 537 | issue = 7 | pages = 191–204
+ | doi = 10.1086/309024
+ | bibcode = 2000ApJ...537..191F
+ | arxiv = astro-ph/9910319
+|ref= Frail2000 | citeseerx = 10.1.1.316.9937
+ }}
+* {{cite conference
+ | author = Frederiks, D.
+ | display-authors = etal
+ | date = 2008
+ | title = GRB 051103 and GRB 070201 as Giant Flares from SGRs in Nearby Galaxies
+ | editor1 = Galassi |editor2 = Palmer |editor3 = Fenimore
+ | book-title = American Institute of Physics Conference Series
+ | volume = 1000 | pages = 271–275
+ | doi = 10.1063/1.2943461
+ | bibcode = 2008AIPC.1000..271F
+|ref= Frederiks }}
+* {{cite book
+ |author1     = Frontera, F.
+ |author2     = Piro, L.
+ |date        = 1998
+ |title       = Proceedings of Gamma-Ray Bursts in the Afterglow Era
+ |series      = Astronomy and Astrophysics Supplement Series
+ |url         = http://www.edpsciences.org/articles/aas/abs/1999/15/contents/contents.html
+ |ref         = Frontera
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20060808055335/http://www.edpsciences.org/articles/aas/abs/1999/15/contents/contents.html
+ |archive-date = 2006-08-08
+}}
+* {{cite journal
+ | author = Galama, T.J.
+ | s2cid = 4421384
+ | display-authors = etal
+ | date = 1998
+ | title = An unusual supernova in the error box of the gamma-ray burst of 25 April 1998
+ | journal = [[自然 (期刊)|Nature]]
+ | volume = 395 | issue = 6703 | pages = 670–672
+ | doi = 10.1038/27150
+ | bibcode = 1998Natur.395..670G
+ |arxiv = astro-ph/9806175 |ref= Galama}}
+* {{cite news
+ | author = Garner, R.
+ | date = 2008
+ | title = NASA's Swift Catches Farthest Ever Gamma-Ray Burst
+ | url = http://www.nasa.gov/mission_pages/swift/bursts/farthest_grb.html
+ | publisher = [[NASA]]
+ | access-date = 2008-11-03
+|ref= Garner}}
+* {{cite journal
+ | author = Gehrels, N.
+ | display-authors = etal
+ | date = 2004
+ | title = The Swift Gamma-Ray Burst Mission
+ | journal = [[Astrophysical Journal]]
+ | volume = 611 | issue = 2
+ | pages = 1005–1020
+ | doi = 10.1086/422091
+ | bibcode = 2004ApJ...611.1005G
+|ref= Gehrels04| arxiv = astro-ph/0405233| s2cid = 17871491 }}
+* {{cite journal
+ | author = Gehrels, N.
+ | s2cid = 4395679
+ | display-authors = etal
+ | date = 2005
+ | title = A short gamma-ray burst apparently associated with an elliptical galaxy at redshift ''z''{{ = }}0.225
+ | journal = [[自然 (期刊)|Nature]]
+ | volume = 437 | issue = 7060 | pages = 851–854
+ | doi = 10.1038/nature04142
+ | arxiv = astro-ph/0505630
+ | pmid = 16208363
+|bibcode = 2005Natur.437..851G |ref= Gehrels05}}
+* {{cite journal
+ | author = Grupe, D.
+ | s2cid = 10918630
+ | display-authors = etal
+ | date = 2006
+ | title = Jet Breaks in Short Gamma-Ray Bursts. I: The Uncollimated Afterglow of GRB 050724
+ | journal = [[Astrophysical Journal]]
+ | volume = 653 | issue = 1
+ | pages = 462–467
+ | doi = 10.1086/508739
+ | arxiv = astro-ph/0603773
+| bibcode=2006ApJ...653..462G
+|ref= Grupe}}
+* {{cite journal
+ |author1=Guetta, D. |author2=Piran, T.
+ |s2cid=11790226
+ | date = 2006
+ | title = The BATSE-Swift luminosity and redshift distributions of short-duration GRBs
+ | journal = [[Astronomy and Astrophysics]]
+ | volume = 453 | issue = 3
+ | pages = 823–828
+ | doi = 10.1051/0004-6361:20054498
+| bibcode=2006A&A...453..823G
+|arxiv = astro-ph/0511239 |ref= Guetta}}
+* {{cite journal
+ | author = Hakkila, J.
+ | s2cid = 14606496
+ | display-authors = etal
+ | date = 2003
+ | title = How Sample Completeness Affects Gamma-Ray Burst Classification
+ | journal = [[Astrophysical Journal]]
+ | volume = 582 | issue = 1
+ | pages = 320–329
+ | doi = 10.1086/344568
+| bibcode=2003ApJ...582..320H
+|arxiv = astro-ph/0209073 |ref= Hakkila}}
+* {{cite journal
+ | author = Horvath, I.
+ | s2cid = 119395213
+ | date = 1998
+ | title = A Third Class of Gamma-Ray Bursts?
+ | journal = [[Astrophysical Journal]]
+ | volume = 508 | issue = 2
+ | page = 757
+ | doi = 10.1086/306416
+| bibcode=1998ApJ...508..757H
+|arxiv = astro-ph/9803077 |ref= Horvath98}}
+* {{cite journal
+ | author = Hjorth, J.
+ | display-authors = etal
+ | date = 2005
+ | title = GRB 050509B: Constraints on Short Gamma-Ray Burst Models
+ | journal = [[Astrophysical Journal Letters]]
+ | volume = 630 | issue = 2 | pages = L117–L120
+ | doi = 10.1086/491733
+| bibcode=2005ApJ...630L.117H
+|arxiv = astro-ph/0506123 |ref= Hjorth| hdl = 2299/1083
+ | s2cid = 17532533
+ }}
+* {{cite conference
+ | last1 = Hurley | first1 = K. |last2 = Cline |first2 = T. |last3 = Epstein |first3 = R.
+ | date = 1986
+ | title = Error Boxes and Spatial Distribution
+ | editor = Liang, E.P. |editor2=Petrosian, V.
+ | book-title = AIP Conference Proceedings
+ | volume = 141 | pages = 33–38
+ | conference = Gamma-Ray Bursts
+ | publisher = [[美國物理聯合會|American Institute of Physics]]
+ | isbn = 0-88318-340-4
+|ref= HurleyConf}}
+* {{cite journal
+ | author = Hurley, K.
+ | date = 1992
+ | title = Gamma-Ray Bursts – Receding from Our Grasp
+ | journal = [[自然 (期刊)|Nature]]
+ | volume = 357 | page = 112
+ | doi = 10.1038/357112a0
+ | bibcode = 1992Natur.357..112H
+ | issue=6374
+| s2cid = 4345987
+ |ref= Hurley92}}
+* {{cite conference
+ | author = Hurley, K.
+ | date = 2003
+ | title = A Gamma-Ray Burst Bibliography, 1973–2001
+ | url = http://www.ssl.berkeley.edu/ipn3/grbbiblio.pdf
+ | editor = Ricker, G.R. |editor2=Vanderspek, R.K.
+ | book-title = Gamma-Ray Burst and Afterglow Astronomy, 2001: A Workshop Celebrating the First Year of the HETE Mission
+ | publisher = [[美國物理聯合會|American Institute of Physics]]
+ | pages = 153–155
+ | isbn = 0-7354-0122-5
+|ref= HurleyBib}}
+* {{cite journal
+ | author = Hurley, K.
+ | s2cid = 4424508
+ | display-authors = etal
+ | date = 2005
+ | title = An exceptionally bright flare from SGR 1806–20 and the origins of short-duration gamma-ray bursts
+ | journal = [[自然 (期刊)|Nature]]
+ | volume = 434 | issue = 7037 | pages = 1098–1103
+ | doi = 10.1038/nature03519
+ | bibcode = 2005Natur.434.1098H
+ | pmid = 15858565
+|arxiv = astro-ph/0502329 |ref= Hurley05 }}
+* {{cite book
+ | author = Katz, J.I.
+ | date = 2002
+ | title = The Biggest Bangs
+ | publisher = [[Oxford University Press]]
+ | isbn = 978-0-19-514570-0
+ | ref = Katz
+ | url-access = registration
+ | url = https://archive.org/details/biggestbangsmyst00katz_0
+ }}
+* {{cite journal
+ | author = Klebesadel, R.
+ | display-authors = etal
+ | date = 1973
+ | title = Observations of Gamma-Ray Bursts of Cosmic Origin
+ | journal = [[Astrophysical Journal Letters]]
+ | volume = 182 | pages = L85
+ | doi = 10.1086/181225
+| bibcode=1973ApJ...182L..85K
+|ref= Klebesadel}}
+* {{cite journal
+ |author1=Kochanek, C.S. |author2=Piran, T.
+ |s2cid=119478615
+ | date = 1993
+ | title = Gravitational Waves and Gamma-Ray Bursts
+ | journal = [[Astrophysical Journal Letters]]
+ | volume = 417 | pages = L17–L23
+ | doi = 10.1086/187083
+ | bibcode = 1993ApJ...417L..17K
+|arxiv = astro-ph/9305015 |ref= Kochanek}}
+* {{cite journal
+ | author = Kouveliotou, C.
+ | display-authors = etal
+ | date = 1993
+ | title = Identification of two classes of gamma-ray bursts
+ | journal = [[Astrophysical Journal Letters]]
+ | volume = 413 | pages = L101
+ | doi = 10.1086/186969
+ | bibcode = 1993ApJ...413L.101K
+|ref= Kouveliotou}}
+* {{cite journal
+ | author = Lamb, D.Q.
+ | date = 1995
+ | title = The Distance Scale to Gamma-Ray Bursts
+ | journal = [[Publications of the Astronomical Society of the Pacific]]
+ | volume = 107 | page = 1152
+ | doi = 10.1086/133673
+ | bibcode = 1995PASP..107.1152L
+ | s2cid = 120690877
+|ref= Lamb}}
+* {{cite journal
+ | author = Lazzati, D.
+ | s2cid = 118886010
+ | date = 2005
+ | title = Precursor activity in bright, long BATSE gamma-ray bursts
+ | journal = [[Monthly Notices of the Royal Astronomical Society]]
+ | volume = 357 | issue = 2
+ | pages = 722–731
+ | doi = 10.1111/j.1365-2966.2005.08687.x
+ | bibcode = 2005MNRAS.357..722L
+ | arxiv = astro-ph/0411753|ref= Lazzati }}
+* {{cite journal
+ |author1=Krolik J. |author2=Piran T.
+ | date = 2011
+ | title = Swift J1644+57: A White Dwarf Tidally Disrupted by a 10^4 M_{odot} Black Hole?
+ | journal = [[The Astrophysical Journal]]
+ | volume = 743
+ | issue = 2
+ | pages = 134
+ | doi = 10.1088/0004-637x/743/2/134
+ | arxiv =1106.0923|bibcode = 2011ApJ...743..134K |s2cid=118446962
+ }}
+* {{cite journal
+ | last = Levan | first = A. J. | s2cid = 13118370 |display-authors=etal
+ | date = 2011
+ | title = An Extremely Luminous Panchromatic Outburst from the Nucleus of a Distant Galaxy
+ | journal = [[Science (journal)|Science]]
+ | volume = 333 | issue = 6039| pages = 199–202
+ | bibcode = 2011Sci...333..199L
+ | doi = 10.1126/science.1207143
+|arxiv = 1104.3356 |ref= KrolikPiran | pmid=21680811}}
+* {{cite journal
+ |author1=MacFadyen, A.I. |author2=Woosley, S.
+ |s2cid=15534333
+ | date = 1999
+ | title = Collapsars: Gamma-Ray Bursts and Explosions in "Failed Supernovae"
+ | journal = [[Astrophysical Journal]]
+ | volume = 524 |issue=1
+ | pages = 262–289
+ | doi = 10.1086/307790
+ | bibcode = 1999ApJ...524..262M
+|arxiv = astro-ph/9810274 |ref= Mac99}}
+* {{cite journal
+ | author = MacFadyen, A.I.
+ | date = 2006
+ | title = Late flares from GRBs – Clues about the Central Engine
+ | journal = AIP Conference Proceedings
+ | volume = 836 | pages = 48–53
+ | doi = 10.1063/1.2207856
+ | bibcode = 2006AIPC..836...48M
+|ref= Mac2006}}
+* {{cite journal
+ | author = Marani, G.F.
+ | display-authors = etal
+ | date = 1997
+ | title = On Similarities among GRBs
+ | journal = [[Bulletin of the American Astronomical Society]]
+ | volume = 29 | page = 839
+ | bibcode = 1997AAS...190.4311M
+|ref= Marani }}
+* {{cite journal
+ | author = Mazzali, P.A.
+ | s2cid = 14330491
+ | display-authors = etal
+ | date = 2005
+ | title = An Asymmetric Energetic Type Ic Supernova Viewed Off-Axis, and a Link to Gamma Ray Bursts
+ | journal = [[Science (journal)|Science]]
+ | volume = 308 | issue = 5726 | pages = 1284–1287
+ | doi = 10.1126/science.1111384
+ | bibcode = 2005Sci...308.1284M
+ | pmid = 15919986
+|arxiv = astro-ph/0505199 |ref= Mazzali | citeseerx = 10.1.1.336.4043
+ }}
+* {{cite news
+ | title = The Annihilating Effects of Space Travel
+ | url = http://sydney.edu.au/news/84.html?newsstoryid=8812
+ | publisher = The University of Sydney
+ | date = 2012 |ref= Levan11}}
+* {{Cite journal
+ |last1=McMonigal|first1=Brendan
+ |last2=Lewis|first2=Geraint F
+ |last3=O'Byrne|first3=Philip
+ |s2cid=3993148
+ |year=2012
+ |title=The Alcubierre Warp Drive: On the Matter of Matter
+ |journal=Physical Review D
+ |volume=85|issue=6 |page=064024
+ |arxiv=1202.5708
+ |bibcode=2012PhRvD..85f4024M
+ |doi=10.1103/PhysRevD.85.064024
+}}
+* {{cite journal
+ | author = Meegan, C.A.
+ | s2cid = 4301714
+ | display-authors = etal
+ | date = 1992
+ | title = Spatial distribution of gamma-ray bursts observed by BATSE
+ | journal = [[自然 (期刊)|Nature]]
+ | volume = 355 | page = 143
+ | doi = 10.1038/355143a0
+|bibcode = 1992Natur.355..143M
+ | issue=6356|ref= Meegan}}
+* {{cite journal
+ | author = Melott, A.L.
+ | s2cid = 13124815
+ | display-authors = etal
+ | date = 2004
+ | title = Did a gamma-ray burst initiate the late Ordovician mass extinction?
+ | journal = International Journal of Astrobiology
+ | volume = 3 | issue = 1
+ | pages = 55–61
+ | doi = 10.1017/S1473550404001910
+|arxiv = astro-ph/0309415 |bibcode = 2004IJAsB...3...55M |ref= Melott| hdl = 1808/9204
+ }}
+* {{cite journal
+ |author1=Meszaros, P. |author2=Rees, M.J.
+ |s2cid=10462685
+ | date = 1997
+ | title = Optical and Long-Wavelength Afterglow from Gamma-Ray Bursts
+ | journal = [[Astrophysical Journal]]
+ | volume = 476 |issue=1
+ |pages=232–237
+ | doi = 10.1086/303625
+ | bibcode = 1997ApJ...476..232M
+|arxiv = astro-ph/9606043 |ref= Meszaros}}
+* {{cite conference
+ | author = Metzger, B.
+ | display-authors = etal
+ | date = 2007
+ | title = Proto-Neutron Star Winds, Magnetar Birth, and Gamma-Ray Bursts
+ | book-title = AIP Conference Proceedings SUPERNOVA 1987A: 20 YEARS AFTER: Supernovae and Gamma‐Ray Bursters
+ | volume = 937 | pages = 521–525
+ | doi = 10.1063/1.2803618
+ | bibcode = 2007AIPC..937..521M
+|ref= Metzger|arxiv = 0704.0675 }}
+* {{cite journal
+ | author = Mukherjee, S.
+ | s2cid = 119356154
+ | display-authors = etal
+ | date = 1998
+ | title = Three Types of Gamma-Ray Bursts
+ | journal = [[Astrophysical Journal]]
+ | volume = 508 | issue = 1
+ | page = 314
+ | doi = 10.1086/306386
+| bibcode=1998ApJ...508..314M
+|arxiv = astro-ph/9802085 |ref= Mukherjee}}
+* {{cite journal
+ | author = Nakar, E.
+ | s2cid = 119478065
+ | date = 2007
+ | title = Short-hard gamma-ray bursts
+ | journal = [[物理報道|Physics Reports]]
+ | volume = 442 | issue = 1–6
+ | pages = 166–236
+ | doi = 10.1016/j.physrep.2007.02.005
+ | bibcode = 2007PhR...442..166N
+|arxiv = astro-ph/0701748 |ref= Nakar07| citeseerx = 10.1.1.317.1544
+ }}
+* {{cite web
+ |author=McCray, Richard
+ |display-authors=etal
+ |title=Report of the 2008 Senior Review of the Astrophysics Division Operating Missions
+ |url=http://nasascience.nasa.gov/about-us/science-strategy/senior-reviews/AstroSR08_Report.pdf
+ |ref=NASA2008
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20090512120847/http://nasascience.nasa.gov/about-us/science-strategy/senior-reviews/AstroSR08_Report.pdf
+ |archive-date=2009-05-12
+}}
+* {{cite press release
+ | date = 15 May 1997
+ | title = Very Large Array Detects Radio Emission From Gamma-Ray Burst
+ | url = http://www.nrao.edu/pr/1997/grbdetect/
+ | publisher = [[National Radio Astronomy Observatory]]
+ | access-date = 2009-04-04
+|ref= NRAO}}
+* {{cite journal
+ | author = Nousek, J.A.
+ | s2cid = 16661813
+ | display-authors = etal
+ | date = 2006
+ | title = Evidence for a Canonical Gamma-Ray Burst Afterglow Light Curve in the Swift XRT Data
+ | journal = [[Astrophysical Journal]]
+ | volume = 642 | issue = 1
+ | pages = 389–400
+ | doi = 10.1086/500724
+ | bibcode = 2006ApJ...642..389N
+|arxiv = astro-ph/0508332 |ref= Nousek}}
+* {{cite journal
+ |author1=Paczyński, B. |author2=Rhoads, J.E.
+ |s2cid=17567870
+ | date = 1993
+ | title = Radio Transients from Gamma-Ray Bursters
+ | journal = [[The Astrophysical Journal]]
+ | volume = 418 | page = 5
+ | doi = 10.1086/187102
+ | bibcode = 1993ApJ...418L...5P
+|arxiv = astro-ph/9307024 |ref= Pac93}}
+* {{cite journal
+ | author = Paczyński, B.
+ | s2cid = 15952977
+ | date = 1995
+ | title = How Far Away Are Gamma-Ray Bursters?
+ | journal = [[Publications of the Astronomical Society of the Pacific]]
+ | volume = 107 | page = 1167
+ | doi = 10.1086/133674
+ | bibcode = 1995PASP..107.1167P
+|arxiv = astro-ph/9505096 |ref= Pac95}}
+* {{cite conference
+ | author = Paczyński, B.
+ | date = 1999
+ | title = Gamma-Ray Burst–Supernova relation
+ |editor1=M. Livio |editor2=N. Panagia |editor3=K. Sahu | book-title = Supernovae and Gamma-Ray Bursts: The Greatest Explosions Since the Big Bang
+ | pages = 1–8
+ | publisher = [[太空望遠鏡科學研究所|Space Telescope Science Institute]]
+ | isbn = 0-521-79141-3
+|ref= Pac99}}
+* {{cite conference
+ | author = Pedersen, H.
+ | display-authors = etal
+ | date = 1986
+ | title = Deep Searches for Burster Counterparts
+ |editor1=Liang, Edison P. |editor2=Petrosian, Vahé | book-title = AIP Conference Proceedings
+ | conference = Gamma-Ray Bursts
+ | volume = 141 | pages = 39–46
+ | publisher = [[美國物理聯合會|American Institute of Physics]]
+ | isbn = 0-88318-340-4
+|ref= Pedersen}}
+* {{cite web
+ | author = Plait, Phil
+ | date = 2 March 2008
+ | title = WR 104: A nearby gamma-ray burst?
+ | url = http://blogs.discovermagazine.com/badastronomy/2008/03/03/wr-104-a-nearby-gamma-ray-burst/
+ | work = Bad Astronomy
+ | access-date = 2009-01-07
+|ref= Plait}}
+* {{cite journal
+ | author = Piran, T.
+ | date = 1992
+ | title = The implications of the Compton (GRO) observations for cosmological gamma-ray bursts
+ | journal = [[Astrophysical Journal Letters]]
+ | volume = 389 | pages = L45
+ | doi = 10.1086/186345
+| bibcode=1992ApJ...389L..45P
+|ref= Piran92}}
+* {{cite conference
+ | author = Piran, T.
+ | date = 1997
+ | title = Toward understanding gamma-ray bursts
+ | editor = Bahcall, J.N. |editor2=Ostriker, J.
+ | book-title = Unsolved Problems in Astrophysics
+ | pages = 343
+ | bibcode = 1997upa..conf..343P
+|ref= Piran97}}
+* {{cite journal
+ | author = Podsiadlowski, Ph.
+ | s2cid = 119407415
+ | display-authors = etal
+ | date = 2004
+ | title = The Rates of Hypernovae and Gamma-Ray Bursts: Implications for Their Progenitors
+ | journal = [[Astrophysical Journal Letters]]
+ | volume = 607 | issue = 1
+ | pages = L17–L20
+ | doi = 10.1086/421347
+ | bibcode = 2004ApJ...607L..17P
+|arxiv = astro-ph/0403399 |ref= Podsiadlowski}}
+* {{cite journal
+| author = Pontzen, A.
+| s2cid = 3176299
+| display-authors = etal
+| date =2010
+| title = The nature of HI absorbers in GRB afterglows: clues from hydrodynamic simulations
+| journal = [[MNRAS]]
+| volume = 402 | issue = 3
+| page=1523
+| doi = 10.1111/j.1365-2966.2009.16017.x
+| bibcode=2010MNRAS.402.1523P
+|arxiv = 0909.1321 |ref= Pontzen}}
+* {{cite journal
+ | author = Prochaska, J.X.
+ | s2cid = 54915144
+ | display-authors = etal
+ | date = 2006
+ | title = The Galaxy Hosts and Large-Scale Environments of Short-Hard Gamma-Ray Bursts
+ | journal = [[Astrophysical Journal]]
+ | volume = 641 | issue = 2
+ | pages = 989–994
+ | doi = 10.1086/501160
+ | bibcode = 2006ApJ...642..989P
+|arxiv = astro-ph/0510022 |ref= Prochaska}}
+* {{cite journal
+ | author = Racusin, J.L.
+ | s2cid = 205214609
+ | display-authors = etal
+ | date = 2008
+ | title = Broadband observations of the naked-eye gamma-ray burst GRB080319B
+ | journal = [[自然 (期刊)|Nature]]
+ | volume = 455 | issue = 7210 | pages = 183–188
+ | doi = 10.1038/nature07270
+ | pmid = 18784718
+ | bibcode = 2008Natur.455..183R
+|arxiv = 0805.1557 |ref= Racusin08}}
+* {{cite press release
+ | author = Reddy, F.
+ | date = 28 April 2009
+ | title = New Gamma-Ray Burst Smashes Cosmic Distance Record
+ | url = http://www.nasa.gov/mission_pages/swift/bursts/cosmic_record.html
+ | publisher = [[NASA]]
+ | access-date = 2009-05-16
+|ref= 090423}}
+* {{cite conference
+ |author1=Ricker, G.R. |author2=Vanderspek, R.K.
+ | date = 2003
+ | title = The High Energy Transient Explorer (HETE): Mission and Science Overview
+ | editor = Ricker, G.R. |editor2=Vanderspek, R.K.
+ | book-title = Gamma-Ray Burst and Afterglow Astronomy 2001: A Workshop Celebrating the First Year of the HETE Mission
+ | series = American Institute of Physics Conference Series
+ | volume = 662 | pages = 3–16
+ | doi = 10.1063/1.1579291
+ | bibcode = 2003AIPC..662....3R
+|ref= HETE}}
+* {{cite journal
+ | author = Reichart, Daniel E.
+ | s2cid = 119394440
+ | date = 1998
+ | title = The Redshift of GRB 970508
+ | journal = [[Astrophysical Journal Letters]]
+ | volume = 495 | issue = 2
+ | pages = L99–L101
+ | doi = 10.1086/311222
+| bibcode=1998ApJ...495L..99R
+|arxiv = astro-ph/9712100 |ref= Reichart}}
+* {{cite journal
+ | author = Rykoff, E.
+ | s2cid = 14593280
+ | display-authors = etal
+ | date = 2009
+ | title = Looking into the Fireball: ROTSE-III and Swift Observations of Early GRB Afterglows
+ | journal = [[Astrophysical Journal]]
+ | volume = 702 | issue = 1
+ | pages = 489–505
+ | doi = 10.1088/0004-637X/702/1/489
+ | bibcode = 2009ApJ...702..489R
+| arxiv=0904.0261
+|ref= Rykoff}}
+* {{cite journal
+ | author1 = Sari, R
+ | author2 = Piran, T
+ | author3 = Narayan, R
+ | s2cid = 16691949
+ | date = 1998
+ | title = Spectra and Light Curves of Gamma-Ray Burst Afterglows
+ | journal = [[Astrophysical Journal Letters]]
+ | volume = 497 | issue = 5 | pages = L17
+ | doi = 10.1086/311269
+ | bibcode = 1998ApJ...497L..17S
+|arxiv = astro-ph/9712005 |ref= Sari98}}
+* {{cite journal
+ | author1 = Sari, R | author2 = Piran, T | author3 = Halpern, JP
+ | date = 1999
+ | title = Jets in Gamma-Ray Bursts
+ | journal = [[Astrophysical Journal Letters]]
+ | volume = 519 | issue = 1 | pages = L17–L20
+ | doi = 10.1086/312109
+ | bibcode = 1999ApJ...519L..17S
+|arxiv = astro-ph/9903339 | s2cid = 120591941 |ref= Sari99}}
+* {{cite book
+ | author = Schilling, Govert
+ | date = 2002
+ | title = Flash! The hunt for the biggest explosions in the universe
+ | publisher = [[Cambridge University Press]]
+ | isbn = 978-0-521-80053-2
+|ref= Schilling}}
+* {{cite web
+ | title = Gamma-Ray Flash Came from Star Being Eaten by Massive Black Hole
+ | work = Science Daily
+ | publisher = ScienceDaily LLC
+ | date = 2011-06-16
+ | url = https://www.sciencedaily.com/releases/2011/06/110616142709.htm
+ | access-date = 2011-06-19|ref= Daily}}
+* {{cite conference
+ | author = Simić, S.
+ | display-authors = etal
+ | date = 2005
+ | title = A model for temporal variability of the GRB light curve
+ | editor = Bulik, T. |editor2=Rudak, B. |editor3=Madejski, G.
+ | book-title = Astrophysical Sources of High Energy Particles and Radiation
+ | series = American Institute of Physics Conference Series
+ | volume = 801 | pages = 139–140
+ | doi = 10.1063/1.2141849
+ | bibcode = 2005AIPC..801..139S
+|ref= Simic }}
+* {{cite journal
+ | author = Stanek, K.Z.
+ | display-authors = etal
+ | date = 2006
+ | title = Protecting Life in the Milky Way: Metals Keep the GRBs Away
+ | url = http://acta.astrouw.edu.pl/Vol56/n4/pap_56_4_3.pdf
+ | journal = Acta Astronomica
+ | volume = 56
+ | pages = 333
+ | arxiv = astro-ph/0604113
+|bibcode = 2006AcA....56..333S |ref= Stanek}}
+* {{cite journal
+ |author1=Stern, Boris E. |author2=Poutanen, Juri
+ |s2cid=14540608
+ | date = 2004
+ | title = Gamma-ray bursts from synchrotron self-Compton emission
+ | journal = [[Monthly Notices of the Royal Astronomical Society]]
+ | volume = 352 | issue = 3 | pages = L35–L39
+ | doi = 10.1111/j.1365-2966.2004.08163.x
+| bibcode=2004MNRAS.352L..35S
+|arxiv = astro-ph/0405488 |ref= Stern}}
+* {{cite journal
+ | author = Thorsett, S.E.
+ | s2cid = 15117551
+ | date = 1995
+ | title = Terrestrial implications of cosmological gamma-ray burst models
+ | journal = [[Astrophysical Journal Letters]]
+ | volume = 444 | pages = L53
+ | bibcode = 1995ApJ...444L..53T
+ | doi = 10.1086/187858
+|arxiv = astro-ph/9501019 |ref= Thorsett}}
+* {{cite web
+ |date        = 24 April 2009
+ |title       = TNG caught the farthest GRB observed ever
+ |url         = http://www.tng.iac.es/news/2009/04/24/grb/
+ |publisher   = Fundación Galileo Galilei
+ |access-date  = 2009-04-25
+ |ref         = TNG
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20120508005921/http://www.tng.iac.es/news/2009/04/24/grb/
+ |archive-date = 8 May 2012
+}}
+* {{cite journal
+ | author = van Paradijs, J.
+ | s2cid = 4248753
+ | display-authors = etal
+ | date = 1997
+ | title = Transient optical emission from the error box of the gamma-ray burst of 28 February 1997
+ | journal = [[自然 (期刊)|Nature]]
+ | volume = 386 | page = 686
+ | doi = 10.1038/386686a0
+| bibcode=1997Natur.386..686V
+ | issue=6626
+|ref= Paradijs| url = http://dare.uva.nl/personal/pure/en/publications/discovery-of-transient-optical-emission-from-the-error-box-of-the-gammaray-burst-of-february-28-1997(a0c1edf8-68d1-4ae5-888f-accb2b5a6386).html
+ }}
+* {{cite book
+ |author1=Vedrenne, G. |author2=Atteia, J.-L.
+ |date=2009
+ |title=Gamma-Ray Bursts: The brightest explosions in the Universe
+ |url=https://books.google.com/books?id=jZHSdrvzz0gC
+ |publisher=[[施普林格科學+商業媒體|Springer]]
+ |isbn=978-3-540-39085-5
+}}
+* <cite id = Vietri>{{cite journal
+ |author1=Vietri, M. |author2=Stella, L.
+ |s2cid=119357420
+ | date = 1998
+ | title = A Gamma-Ray Burst Model with Small Baryon Contamination
+ | journal = [[Astrophysical Journal Letters]]
+ | volume = 507 |issue=1
+ | pages = L45–L48
+ | doi = 10.1086/311674
+ | bibcode = 1998ApJ...507L..45V
+|arxiv = astro-ph/9808355 |ref= VedrenneAtteia}}</cite>
+* {{cite journal
+ | last1 = Virgili |first1 = F.J. |last2 = Liang |first2 = E.-W. |last3= Zhang |first3= B.
+ |s2cid = 18119432 | date = 2009
+ | title = Low-luminosity gamma-ray bursts as a distinct GRB population: a firmer case from multiple criteria constraints
+ | journal = [[Monthly Notices of the Royal Astronomical Society]]
+ | volume = 392 |issue = 1 | pages = 91–103
+ | doi = 10.1111/j.1365-2966.2008.14063.x
+ | bibcode = 2009MNRAS.392...91V
+|arxiv = 0801.4751 |ref= Virgili}}
+* {{cite web
+ | author = Wanjek, Christopher
+ | date = 4 June 2005
+ | title = Explosions in Space May Have Initiated Ancient Extinction on Earth
+ | url = http://www.nasa.gov/vision/universe/starsgalaxies/gammaray_extinction.html
+ | publisher = [[NASA]]
+ | access-date = 2007-09-15
+|ref= Wanjek}}
+* {{cite journal
+ | author = Watson, D.
+ | s2cid = 15043502
+ | display-authors = etal
+ | date = 2006
+ | title = Are short γ-ray bursts collimated? GRB 050709, a flare but no break
+ | journal = [[Astronomy and Astrophysics]]
+ | volume = 454 | issue = 3
+ | pages = L123–L126
+ | doi = 10.1051/0004-6361:20065380
+ | bibcode = 2006A&A...454L.123W
+|arxiv = astro-ph/0604153 |ref= Watson}}
+* {{cite journal
+ |author1=Woosley, S.E. |author2=Bloom, J.S.
+ |s2cid=119338140
+ | date = 2006
+ | title = The Supernova Gamma-Ray Burst Connection
+ | journal = Annual Review of Astronomy and Astrophysics
+ | volume = 44 |issue=1
+ | pages = 507–556
+ | doi = 10.1146/annurev.astro.43.072103.150558
+ | bibcode = 2006ARA&A..44..507W
+|arxiv = astro-ph/0609142 |ref= Woosley06 |citeseerx=10.1.1.254.373
+ }}
+* {{cite journal
+ | author = Wozniak, P.R.
+ | s2cid = 118441505
+ | display-authors = etal
+ | date = 2009
+ | title = Gamma-Ray Burst at the Extreme: The Naked-Eye Burst GRB 080319B
+ | journal = [[Astrophysical Journal]]
+ | volume = 691 | issue = 1
+ | pages = 495–502
+ | doi = 10.1088/0004-637X/691/1/495
+ | bibcode = 2009ApJ...691..495W
+|arxiv = 0810.2481 |ref= Wozniak09 }}
+* {{cite journal
+ | last = Zhang | first = B. | s2cid = 14280828 |display-authors=etal
+ | date = 2009
+ | title = Discerning the physical origins of cosmological gamma-ray bursts based on multiple observational criteria: the cases of z = 6.7 GRB 080913, z = 8.2 GRB 090423, and some short/hard GRBs
+ | journal = [[Astrophysical Journal]]
+ | volume = 703 | issue = 2 | pages = 1696–1724
+ | doi = 10.1088/0004-637X/703/2/1696
+ | bibcode=2009ApJ...703.1696Z
+|arxiv = 0902.2419 |ref= Zhang09}}
+{{Refend}}
+
+== 延伸閱讀 ==
+* {{cite book
+ |author1=Vedrenne, G. |author2=Atteia, J.-L.
+ |date=2009
+ |title=Gamma-Ray Bursts: The brightest explosions in the Universe
+ |url=https://books.google.com/books?id=jZHSdrvzz0gC
+ |publisher=[[施普林格科學+商業媒體|Springer]]
+ |isbn=978-3-540-39085-5
+}}
+* {{cite book|title=Gamma-ray bursts|date=2012|publisher=Cambridge University Press|location=Cambridge|isbn=978-0-521-66209-3|editor1=Chryssa Kouveliotou |editor2=Stanford E. Woosley |editor3=Ralph A. M. J. }}
+* {{cite book|title=The Physics of Gamma-Ray Bursts|date=2018|publisher=Cambridge University Press|location=Cambridge|isbn=9781139226530|author1= Bing Zhang}}
+
+== 外部連結 ==
+{{Commons category|Gamma ray bursts}}
+
+;伽瑪射線暴探測任務
+* [[尼爾·格雷爾斯雨燕天文台]]:
+** [https://web.archive.org/web/20041014213023/http://swift.gsfc.nasa.gov/docs/swift/swiftsc.html 美國太空總署雨燕天文台官網首頁]
+** [http://www.swift.ac.uk/ 英國雨燕科學數據中心]
+** [http://www.swift.psu.edu/ 賓夕法尼亞州立大學雨燕任務操作中心]
+* [http://space.mit.edu/HETE/ 高能暫現源探測儀HETE-2]<!--（[[高能暫現源探測儀|維基百科條目]]）-->
+* [http://www.esa.int/science/integral 國際伽瑪射線天體物理實驗室INTEGRAL]（[[國際伽瑪射線天體物理實驗室|維基百科條目]]）
+* [https://web.archive.org/web/20060715224642/http://www.batse.msfc.nasa.gov/batse/ 爆發與暫現源探測儀BATSE]
+* [http://fermi.gsfc.nasa.gov/ 費米伽瑪射線太空望遠鏡]（[[費米伽瑪射線太空望遠鏡|維基百科條目]]）
+* [http://agile.rm.iasf.cnr.it/ 伽瑪射線輕型探測器AGILE]（[[伽瑪射線輕型探測器|維基百科條目]]）
+* [http://exist.gsfc.nasa.gov/ 高能X光巡天望遠鏡EXIST]
+* [https://heasarc.gsfc.nasa.gov/grbcat/ 美國太空總署的伽瑪射線暴目錄]
+
+;伽瑪射線暴事後追蹤任務
+* [http://gcn.gsfc.nasa.gov/ 伽瑪射線暴座標網絡GCN]<!--（[[伽瑪射線暴座標網絡|維基百科條目]]）-->
+* [http://bootes.iaa.es/ 爆發觀測與可見光暫現源探測系統BOOTES]（[[BOOTES|維基百科條目]])
+* [http://www.mpe.mpg.de/~jcg/GROND/ 伽瑪射線暴可見光及近紅外線探測器GROND]<!--（[[伽瑪射線暴可見光及近紅外線探測器|維基百科條目]])-->
+* [https://web.archive.org/web/20080917153503/http://astro.berkeley.edu/~bait/kait.html 卡茨曼自動成像望遠鏡KAIT]（[[卡茨曼自動成像望遠鏡|維基百科條目]])
+* [http://observ.pereplet.ru/ 可移動望遠鏡機械人系統MASTER]
+* [http://www.umich.edu/~rotse/ 機械人可見光暫現源搜尋實驗ROTSE]<!--（[[機械人可見光暫現源搜尋實驗|維基百科條目]]）-->
+
+{{黑洞}}
+{{中子星}}
+{{全球災難危機}}
+{{Portal bar|天文學|物理學|恆星|航天|太空|太陽系}}
+{{Authority control}}
+
+[[Category:天文现象]]
+[[Category:伽瑪射線暴| ]]
+[[Category:伽玛射线天文卫星| ]]
+[[Category:恆星現象]]

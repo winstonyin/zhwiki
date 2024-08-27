@@ -1,0 +1,139 @@
+{{noteTA
+|G1 = IT
+}}
+{{Infobox programming language
+| name = Lean
+| logo = Lean logo2.svg
+| logo size = 220
+| paradigm = [[函數式編程|函數式]]、[[指令式編程|指令式]]
+| developer = [https://lean-fro.org/ Lean FRO]
+| released = {{Start date and age|2013}}
+| latest release version = [https://github.com/leanprover/lean4/releases/latest 4.8.0]
+| latest release date = {{Start date and age|2024|06|05|df=yes}}
+| latest preview version = [https://github.com/leanprover/lean4/releases/tag/v4.9.0-rc2 4.9.0-rc2]
+| latest preview date = {{Start date and age|2024|06|14|df=yes}}
+| repo = {{URL|https://github.com/leanprover/lean4}}
+| programming language = Lean
+, [[C++]]
+| typing = 靜態、[[強弱型別|強型]]、[[型別推論|推論]]
+| platform = 
+| operating system = [[跨平台]]
+| language = 英文
+| genre = {{le|證明助手|Proof assistant}}
+| license = [[Apache License 2.0]]
+| website = {{URL|https://lean-lang.org/}}
+| influenced = 
+| influenced_by = [[ML語言|ML]]<br>[[Coq]]<br>[[Haskell]]
+}}
+'''Lean'''是一款在含[[類型論#歸納類型|歸納類型]]的[[構造演算]]基礎上所開發的{{le|證明助手|Proof assistant|電腦證明助手}}和[[函數式編程語言]]。<ref name="Springer">{{Cite journal |last=Moura |first=Leonardo de |last2=Ullrich |first2=Sebastian |date=2021 |editor-last=Platzer |editor-first=André |editor2-last=Sutcliffe |editor2-first=Geoff |title=The Lean 4 Theorem Prover and Programming Language |url=https://link.springer.com/chapter/10.1007/978-3-030-79876-5_37 |journal=Automated Deduction – CADE 28 |language=en |location=Cham |publisher=Springer International Publishing |pages=625–635 |doi=10.1007/978-3-030-79876-5_37 |isbn=978-3-030-79876-5}}</ref>Lean最初由{{le|萊昂納多·德·莫拉|Leonardo de Moura}}在[[微軟研究院]]下研發，目前以[[開源]]合作計劃的形式刊登在[[GitHub]]上。2023年成立的[[非營利組織|非盈利]]Lean集中研究組織（{{lang-en|Lean Focused Research Organization}}，縮寫Lean FRO）支持Lean的持續開發。
+
+== 歷史 ==
+2013年，當時在[[微軟研究院]]工作的萊昂納多·德·莫拉發佈函數式編程語言Lean。<ref>{{Cite web |title=About |url=https://lean-lang.org/about/ |access-date=2024-03-13 |website=Lean Language}}</ref>早期版本（後來被稱為Lean 1和2）純粹為實驗版本，當時支援的[[同倫類型論]]數學基礎在後來的版本中不再支援。
+
+2017年1月20日發佈的Lean 3是Lean的首個穩定版本。Lean 3主要是以[[C++]]實現，某些功能則是以Lean語言本身實現。3.4.2版之後，Lean 3正式退役，Lean 4版開發工作開始。Lean 4開發期間，由於青黃不接，Lean社群因此自行開發了非正式版本，直到3.51.1版。
+
+2021年，Lean 4正式發佈。該版本將整個Lean語言以Lean本身重新實現，增加了更強大高效的[[元編程]]功能。用Lean寫的元程式能夠編譯成[[C語言]]代碼，再反過來以插件的形式載入到Lean當中，程式速度從而得以提高。<ref name="Springer" />Lean 4的[[宏]]系統、[[類型類]]合成系統和[[記憶體管理]]系統都比前一版本大幅改善。
+
+Lean 4的代碼語法有所改變，因此與Lean 3不[[向下兼容]]。<ref>{{cite web |title=Significant changes from Lean 3 |url=https://leanprover.github.io/lean4/doc/lean3changes.html |website=Lean Manual |access-date=24 March 2023}}</ref>
+
+2023年，Lean集中研究組織成立，目的是改善Lean語言的可擴展性和用戶體驗，以及實現[[自動化定理證明]]。<ref>{{Cite web |date=2023-07-25 |title=Mission |url=https://lean-fro.org/about/ |access-date=2024-03-14 |website=Lean FRO}}</ref>
+
+== 概論 ==
+=== 函式庫 ===
+
+Lean的官方軟件包包含一個名為{{code|std4}}的[[標準庫]]，內含數學證明及普通軟件開發中一些常用的[[數據結構]]。<ref>{{Cite web |title=std4 |url=https://github.com/leanprover/std4 |access-date=2024-03-13 |website=[[GitHub]]}}</ref>
+
+2017年，Lean社群創立{{code|mathlib}}函式庫，目的是將盡可能多的[[純數學]]概念以Lean語言數碼化地寫下來，以龐大的單一函式庫的形式來維護，一直攀登至當今數學研究的前沿。<ref>{{Cite web |title=Building the Mathematical Library of the Future |url=https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/ |archive-url=https://archive.today/20201002043743/https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/ |archive-date=2 Oct 2020 |website=[[量子雜誌|Quanta Magazine]]}}</ref><ref>{{Cite web |title=Lean community |url=https://leanprover-community.github.io/lean3/ |access-date=2023-10-24 |website=leanprover-community.github.io}}</ref>{{截至|2024|6|21}}，{{code|mathlib}}已形式化超過15萬項[[定理]]、近8萬項定義。<ref>{{Cite web |title=Mathlib statistics |url=https://leanprover-community.github.io/mathlib_stats.html |access-date=2024-06-21 |website=leanprover-community.github.io}}</ref>
+
+=== 編輯器整合 ===
+
+Lean支援與以下編輯器整合使用：<ref>{{Cite web |title=Installing Lean 4 on Linux |url=https://leanprover-community.github.io/install/linux.html |access-date=2024-06-21 |website=leanprover-community.github.io}}</ref> 
+
+* [[Visual Studio Code]]，通過{{code|lean4}}附加項
+* [[Neovim]]，通過{{code|lean.nvim}}附加項
+* [[Emacs]]，通過{{code|lean-mode}}模式
+
+Lean是利用客戶端附加項和[[語言伺服器協定]]來和編輯器對接的。
+
+Lean原生支援代碼中含有[[Unicode]]字符，以便輸入各種數學符號。當利用支援的編輯器時，可用類似於[[LaTeX]]的代號輸入特殊符號，例如{{code|\times}}會自動轉換為乘號{{code|×}}。Lean也可以編譯成[[JavaScript]]，通過瀏覽器即可實時編程。
+
+== Lean 4代碼范例 ==
+
+[[自然數]]可以在[[皮亞諾公理]]的基礎上以[[類型論#歸納類型|歸納類型]]定義。任何一個自然數要麼是零，要麼就是某另一個自然數的[[後繼函數|後繼]]：
+<syntaxhighlight lang="lean">
+inductive Nat : Type
+| zero : Nat
+| succ : Nat → Nat
+</syntaxhighlight>
+
+要定義自然數之間的加法，須用[[模式匹配]][[遞歸定義]]：
+<syntaxhighlight lang="lean">
+def Nat.add : Nat → Nat → Nat
+| n, Nat.zero   => n                      -- n + 0 = n  
+| n, Nat.succ m => Nat.succ (Nat.add n m) -- n + succ(m) = succ(n + m)
+</syntaxhighlight>
+
+Lean支援兩種定理證明模式。一是「項模式」（{{lang-en|term mode}}），以普通的[[函數複合]]語法表達定理。二是「策略模式」（{{lang-en|tactic mode}}），以一行行指令的方式調用自動化證明工具，互動證明定理。以下範例使用策略模式證明「[[邏輯和]]是個[[對稱關係]]」這一命題：
+<syntaxhighlight lang="lean">
+theorem and_swap (p q : Prop) : p ∧ q → q ∧ p := by
+  intro h            -- 假設 p ∧ q 成立，設 h 為其證明，此時目標是 q ∧ p
+  apply And.intro    -- 將目標拆成 q 和 p 兩個目標
+  · exact h.right    -- 第一個子目標可以用 h : p ∧ q 的右半部滿足
+  · exact h.left     -- 第二個子目標可以用 h : p ∧ q 的左半部滿足
+</syntaxhighlight>
+
+同一命題用項模式（連同模式匹配功能）可如下證明：
+<syntaxhighlight lang="lean">
+theorem and_swap (p q : Prop) : p ∧ q → q ∧ p :=
+    fun ⟨hp, hq⟩ => ⟨hq, hp⟩
+</syntaxhighlight>
+
+== 應用 ==
+
+=== 數學 ===
+
+Lean受到了[[托馬斯·黑爾斯]]<ref>{{Cite web |last=Hales |first=Thomas |date=September 18, 2018 |title=A Review of the Lean Theorem Prover |url=https://jiggerwit.wordpress.com/2018/09/18/a-review-of-the-lean-theorem-prover/ |archive-url=https://archive.today/20201121125544/https://jiggerwit.wordpress.com/2018/09/18/a-review-of-the-lean-theorem-prover/ |archive-date=21 Nov 2020 |website=Jigger Wit}}</ref>和{{le|凱文·巴扎德|Kevin Buzzard}}<ref name="Buzzard" />等數學家的重視。黑爾斯在他的「形式抽象」（{{lang-en|Formal Abstracts}}）計劃中用到Lean語言。<ref>{{cite web |title=Formal Abstracts |url=https://formalabstracts.github.io/ |website=Github}}</ref>巴扎德則通過他的「齊娜計劃」（{{lang-en|Xena Project}}），希望用Lean寫下[[倫敦帝國學院]]本科數學課程內容中的每一項定理。<ref>{{cite web |title=What is the Xena project? |url=https://xenaproject.wordpress.com/what-is-the-xena-project/ |website=Xena |language=en |date=8 May 2019}}</ref>
+
+2021年，在[[菲爾茲獎]]得主[[皮特·舒爾策]]的慫恿下，一組數學家利用Lean形式化舒爾策在{{le|凝聚態數學|condensed mathematics}}範疇的一篇證明，證實了它的正確性。這項計劃成功形式化位於研究最前沿的數學成果，受到了廣泛關注。<ref name="Quanta21">{{cite news |last=Hartnett |first=Kevin |date=July 28, 2021 |title=Proof Assistant Makes Jump to Big-League Math |work=[[量子雜誌|Quanta Magazine]] |url=https://www.quantamagazine.org/lean-computer-program-confirms-peter-scholze-proof-20210728/ |archive-url=https://archive.today/20220102145317/https://www.quantamagazine.org/lean-computer-program-confirms-peter-scholze-proof-20210728/ |archive-date=2 Jan 2022}}</ref>2023年，菲爾茲獎得主[[陶哲軒]]利用Lean形式化{{le|弗賴曼定理|Freiman's theorem|多項式弗賴曼-魯饒猜想}}（{{lang-en|Polynomial Freiman-Ruzsa conjecture}}）的一項證明，該項證明同年發表在陶哲軒等人的一篇論文當中。<ref>{{Cite web |last=Sloman |first=Leila |date=2023-12-06 |title='A-Team' of Math Proves a Critical Link Between Addition and Sets |url=https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/ |access-date=2023-12-07 |website=Quanta Magazine |language=en}}</ref>
+
+=== 人工智能 ===
+2022年，人工智能公司[[OpenAI]]開發出一個可以利用Lean證明定理的[[人工神經網絡|神經網絡]]，利用[[大型語言模型]]撰寫高中級別數學奧林匹克競賽題的證明。<ref>{{Cite web |date=February 2, 2022 |title=Solving (some) formal math olympiad problems |url=https://openai.com/research/formal-math |access-date=March 13, 2024 |website=[[OpenAI]]}}</ref>
+
+同年，[[Meta Platforms|Meta]]旗下的[[Meta AI]]也開發出一款人工智能模型，能夠自動解答十道[[國際數學奧林匹克]]競賽題，供公眾在Lean環境下免費使用。<ref>{{Cite web |date=November 3, 2022 |title=Teaching AI advanced mathematical reasoning |url=https://ai.meta.com/blog/ai-math-theorem-proving/ |access-date=2024-03-13 |website=[[Meta AI]]}}</ref>
+
+== 參見 ==
+{{Portal|數學|自由軟體}}
+* [[類型論]]
+* [[依賴類型]]
+<!-- * [[List of proof assistants]]
+* [[mimalloc]] -->
+
+== 參考資料 ==
+{{reflist|refs=
+<!-- <ref name="Hales">{{cite web |last1=Hales |first1=Thomas |title=A Review of the Lean Theorem Prover |date=18 September 2018 |url=https://jiggerwit.wordpress.com/2018/09/18/a-review-of-the-lean-theorem-prover/ |access-date=6 October 2020}}</ref>-->
+<ref name="Buzzard">{{cite web |last1=Buzzard |first1=Kevin |title=The Future of Mathematics? |url=https://wwwf.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf |access-date=2020-10-06}}</ref> 
+}}
+
+== 外部連結 ==
+* [https://leanprover.github.io/ Lean官方網站]
+* [https://leanprover-community.github.io/ Lean社群網站]
+* [https://lean-fro.org Lean FRO]
+* [https://adam.math.hhu.de/#/g/leanprover-community/nng4 自然數遊戲：Lean互動教程]
+
+<!-- {{Microsoft FOSS}} -->
+{{Microsoft development tools}}
+<!-- {{Microsoft Research}} -->
+
+[[Category:2013年建立的程式語言]]
+<!-- [[Category:Proof assistants]] -->
+<!-- [[Category:Dependently typed languages]] -->
+<!-- [[Category:Educational math software]] -->
+[[Category:函数式编程语言]]
+<!-- [[Category:Free and open-source software]] -->
+[[Category:用C++編程的自由軟體]]
+[[Category:微软自由软件]]
+<!-- [[Category:Microsoft programming languages]] -->
+[[Category:微软研究院]]
+[[Category:使用Apache许可证的软件]]
+[[Category:自由數學軟件]]
+<!-- [[Category:Theorem proving software systems]] -->
